@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Trending Repositories</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
+        h1 { color: #333; }
+        table { border-collapse: collapse; width: 100%; background: #fff; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background: #f0f0f0; }
+        tr:nth-child(even) { background: #f6f6f6; }
+        .lang { font-size: 0.9em; color: #666; }
+        .streak { font-weight: bold; color: #0070f3; }
+        .repo-name { font-weight: bold; }
+        .rank-cell { text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>GitHub Trending Repositories</h1>
+    <p>Data from {{ dates|length }} days: {{ dates[0] }} to {{ dates[-1] }}</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Repository</th>
+                <th>Description</th>
+                <th>Language</th>
+                <th>Streak (days)</th>
+                <th>Daily Ranks</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for repo in repos %}
+            <tr>
+                <td class="repo-name"><a href="{{ repo.link }}" target="_blank">{{ repo.name }}</a></td>
+                <td>{{ repo.description }}</td>
+                <td class="lang">{{ repo.language }}</td>
+                <td class="streak">{{ repo.streak }}</td>
+                <td class="rank-cell">
+                    {% for date, rank in repo.history %}
+                        <span title="{{ date }}">{{ rank }}</span>{% if not loop.last %}, {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    <footer style="margin-top:2em; color:#888; font-size:0.9em;">Generated on {{ dates[-1] }}</footer>
+</body>
+</html> 
