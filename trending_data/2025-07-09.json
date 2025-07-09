@@ -1,0 +1,100 @@
+[
+  {
+    "name": "humanlayer/12-factor-agents",
+    "link": "https://github.com/humanlayer/12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "language": "TypeScript",
+    "rank": 1
+  },
+  {
+    "name": "Alibaba-NLP/WebAgent",
+    "link": "https://github.com/Alibaba-NLP/WebAgent",
+    "description": "🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+    "language": "Python",
+    "rank": 2
+  },
+  {
+    "name": "th-ch/youtube-music",
+    "link": "https://github.com/th-ch/youtube-music",
+    "description": "YouTube Music Desktop App bundled with custom plugins",
+    "language": "TypeScript",
+    "rank": 3
+  },
+  {
+    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "link": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+    "language": "Jupyter Notebook",
+    "rank": 4
+  },
+  {
+    "name": "gusmanb/logicanalyzer",
+    "link": "https://github.com/gusmanb/logicanalyzer",
+    "description": "24 channel, 100Msps logic analyzer hardware and software",
+    "language": "Python",
+    "rank": 5
+  },
+  {
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "language": "Jupyter Notebook",
+    "rank": 6
+  },
+  {
+    "name": "rustfs/rustfs",
+    "link": "https://github.com/rustfs/rustfs",
+    "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+    "language": "Rust",
+    "rank": 7
+  },
+  {
+    "name": "commaai/openpilot",
+    "link": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "language": "Python",
+    "rank": 8
+  },
+  {
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "description": "Automate the process of making money online.",
+    "language": "Python",
+    "rank": 9
+  },
+  {
+    "name": "jbhuang0604/awesome-computer-vision",
+    "link": "https://github.com/jbhuang0604/awesome-computer-vision",
+    "description": "A curated list of awesome computer vision resources",
+    "language": "",
+    "rank": 10
+  },
+  {
+    "name": "dockur/macos",
+    "link": "https://github.com/dockur/macos",
+    "description": "macOS inside a Docker container.",
+    "language": "Shell",
+    "rank": 11
+  },
+  {
+    "name": "florinpop17/app-ideas",
+    "link": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "",
+    "rank": 12
+  },
+  {
+    "name": "NirDiamant/GenAI_Agents",
+    "link": "https://github.com/NirDiamant/GenAI_Agents",
+    "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+    "language": "Jupyter Notebook",
+    "rank": 13
+  },
+  {
+    "name": "forthespada/CS-Books",
+    "link": "https://github.com/forthespada/CS-Books",
+    "description": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~",
+    "language": "",
+    "rank": 14
+  }
+]
