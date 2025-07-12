@@ -49,11 +49,19 @@ def process_subscription_issues():
     
     # Initialize GitHub API
     g = Github(github_token)
+    # Debug: Test API connection
+    try:
+        user = g.get_user()
+        print(f"🔗 Connected to GitHub as: {user.login}")
+    except Exception as e:
+        print(f"❌ Failed to connect to GitHub API: {e}")
+        return
     
     # Get repository
     repo_name = "rand0m42195/github-trending-repositories-history"
     try:
         repo = g.get_repo(repo_name)
+        print(f"📦 Repository access confirmed: {repo.full_name}")
     except Exception as e:
         print(f"❌ Failed to access repository {repo_name}: {e}")
         return
@@ -94,10 +102,21 @@ def process_subscription_issues():
                 print(f"     Repositories: {subscription_data['repositories']}")
                 
                 # Close the issue
-                issue.create_comment("✅ Subscription processed successfully! You will receive a confirmation email shortly.")
-                issue.edit(state='closed')
-                print(f"  ✅ Issue #{issue.number} closed")
-                processed_count += 1
+                try:
+                    print(f"  🔧 Attempting to close issue #{issue.number}...")
+                    comment_result = issue.create_comment("✅ Subscription processed successfully! You will receive a confirmation email shortly.")
+                    print(f"  📝 Comment created: {comment_result.id}")
+                    
+                    close_result = issue.edit(state='closed')
+                    print(f"  🔒 Issue closed: {close_result.state}")
+                    processed_count += 1
+                except Exception as close_error:
+                    print(f"  ❌ Failed to close issue #{issue.number}: {close_error}")
+                    # Try to add a comment about the failure
+                    try:
+                        issue.create_comment(f"⚠️ Subscription was processed but failed to close issue: {str(close_error)}")
+                    except:
+                        pass
             else:
                 print(f"  ❌ Failed to add subscription for {subscription_data['email']}")
                 issue.create_comment("❌ Failed to process subscription. Please check the email format and try again.")
@@ -123,11 +142,19 @@ def process_unsubscribe_issues():
     
     # Initialize GitHub API
     g = Github(github_token)
+    # Debug: Test API connection
+    try:
+        user = g.get_user()
+        print(f"🔗 Connected to GitHub as: {user.login}")
+    except Exception as e:
+        print(f"❌ Failed to connect to GitHub API: {e}")
+        return
     
     # Get repository
     repo_name = "rand0m42195/github-trending-repositories-history"
     try:
         repo = g.get_repo(repo_name)
+        print(f"📦 Repository access confirmed: {repo.full_name}")
     except Exception as e:
         print(f"❌ Failed to access repository {repo_name}: {e}")
         return
@@ -164,10 +191,21 @@ def process_unsubscribe_issues():
                 print(f"  ✅ Successfully removed subscription for {email}")
                 
                 # Close the issue
-                issue.create_comment("✅ Unsubscription processed successfully!")
-                issue.edit(state='closed')
-                print(f"  ✅ Issue #{issue.number} closed")
-                processed_count += 1
+                try:
+                    print(f"  🔧 Attempting to close unsubscribe issue #{issue.number}...")
+                    comment_result = issue.create_comment("✅ Unsubscription processed successfully!")
+                    print(f"  📝 Comment created: {comment_result.id}")
+                    
+                    close_result = issue.edit(state='closed')
+                    print(f"  🔒 Issue closed: {close_result.state}")
+                    processed_count += 1
+                except Exception as close_error:
+                    print(f"  ❌ Failed to close unsubscribe issue #{issue.number}: {close_error}")
+                    # Try to add a comment about the failure
+                    try:
+                        issue.create_comment(f"⚠️ Unsubscription was processed but failed to close issue: {str(close_error)}")
+                    except:
+                        pass
             else:
                 print(f"  ❌ Failed to remove subscription for {email}")
                 issue.create_comment("❌ Failed to process unsubscription. Email may not be in our subscription list.")
