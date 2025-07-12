@@ -30,6 +30,15 @@ jobs:
       - name: Analyze and Generate Webpage
         run: python analyze_and_generate.py
 
+      - name: Send Subscription Emails
+        env:
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+        run: python send_subscriptions.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'

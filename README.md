@@ -41,7 +41,9 @@ A comprehensive tool that automatically tracks and analyzes GitHub trending repo
 - **Category Subscriptions**: Subscribe to daily updates for specific technology categories
 - **Repository Tracking**: Get notified when specific repositories appear on trending
 - **HTML Email Templates**: Beautiful, responsive email notifications with repository details
-- **Easy Unsubscribe**: Simple unsubscribe process via email reply
+- **Welcome Emails**: Automatic welcome emails sent immediately after subscription
+- **Easy Unsubscribe**: One-click unsubscribe links in all emails
+- **Automatic Daily Sending**: GitHub Actions automatically sends subscription emails daily
 
 ## How It Works
 
@@ -110,7 +112,9 @@ The tool is designed to run automatically via GitHub Actions. Simply:
 4. Email subscriptions are sent automatically to subscribers
 
 ### Email Subscription Setup
-To enable email subscriptions, set the following environment variables in your GitHub repository:
+To enable email subscriptions, set the following environment variables in your GitHub repository secrets:
+
+**Required GitHub Secrets:**
 - `SMTP_SERVER`: Your SMTP server (e.g., smtp.gmail.com)
 - `SMTP_PORT`: SMTP port (usually 587 for TLS)
 - `SMTP_USERNAME`: Your email username
@@ -129,7 +133,14 @@ python test_subscription.py
 **Manual Setup:**
 1. Copy `subscriptions_example.json` to `subscriptions.json`
 2. Add your email configuration to GitHub repository secrets
-3. Follow the `GITHUB_SECRETS_GUIDE.md` for detailed instructions
+3. Follow the `docs/EMAIL_SETUP.md` for detailed instructions
+
+**Automatic Daily Sending:**
+Once configured, GitHub Actions will automatically:
+- Fetch trending data daily at 2:00 UTC
+- Send subscription emails to all subscribers
+- Update the webpage with new data
+- Commit and push all changes
 
 ## Data Storage
 
