@@ -153,7 +153,7 @@ export SENDER_EMAIL=your-email@gmail.com
 
 The project includes automated workflows:
 - **Daily Updates**: Fetches trending data and generates webpage (daily at 2:00 UTC)
-- **Subscription Processing**: Processes subscription requests from GitHub Issues (every 30 minutes)
+- **Subscription Processing**: Processes subscription requests from GitHub Issues (every 5 minutes)
 
 ## 📊 Data Storage
 

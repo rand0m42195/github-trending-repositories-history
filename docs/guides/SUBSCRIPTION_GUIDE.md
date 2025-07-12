@@ -22,7 +22,7 @@ This guide explains how to set up and use the email subscription feature for Git
 
 ## Automated Processing
 
-GitHub Actions automatically processes subscription requests every 30 minutes:
+GitHub Actions automatically processes subscription requests every 5 minutes:
 - Checks for new subscription issues
 - Processes subscription requests
 - Updates subscription data
