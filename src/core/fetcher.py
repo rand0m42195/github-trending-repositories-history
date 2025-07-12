@@ -1,84 +1,111 @@
-import os
+"""
+Data fetching functionality for Github Trending History.
+"""
+
 import requests
-from bs4 import BeautifulSoup
-from datetime import datetime
 import json
-import re
+import os
+from datetime import datetime
+from bs4 import BeautifulSoup
 
-# Get today's date string
-DATE_STR = datetime.now().strftime('%Y-%m-%d')
-YEAR = datetime.now().strftime('%Y')
-MONTH = datetime.now().strftime('%m')
-DAY = datetime.now().strftime('%d')
+DATA_DIR = 'data/trending_data'
 
-DATA_DIR = 'trending_data'
-YEAR_DIR = os.path.join(DATA_DIR, YEAR)
-MONTH_DIR = os.path.join(YEAR_DIR, MONTH)
-DATA_PATH = os.path.join(MONTH_DIR, f'{DAY}.json')
-
-# Ensure data directory exists
-os.makedirs(MONTH_DIR, exist_ok=True)
-
-# Fetch GitHub Trending page
-url = 'https://github.com/trending'
-headers = {'User-Agent': 'Mozilla/5.0'}
-resp = requests.get(url, headers=headers)
-resp.raise_for_status()
-soup = BeautifulSoup(resp.text, 'html.parser')
-
-def parse_stars(stars_text):
-    """Parse star count from text like '1.2k stars' or '123 stars'"""
-    if not stars_text:
-        return 0
+def fetch_trending_repos():
+    """
+    Fetch trending repositories from GitHub and save to data directory.
     
-    # Remove 'stars' and whitespace
-    stars_text = stars_text.strip().lower().replace('stars', '').strip()
+    Returns:
+        list: List of trending repositories
+    """
+    url = 'https://github.com/trending'
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
     
-    if not stars_text:
-        return 0
-    
-    # Handle 'k' suffix (thousands)
-    if 'k' in stars_text:
-        try:
-            return int(float(stars_text.replace('k', '')) * 1000)
-        except ValueError:
-            return 0
-    
-    # Handle regular numbers
     try:
-        return int(stars_text)
-    except ValueError:
-        return 0
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.text, 'html.parser')
+        repos = []
+        
+        # Find all repository articles
+        repo_articles = soup.find_all('article', class_='Box-row')
+        
+        for i, article in enumerate(repo_articles, 1):
+            try:
+                # Extract repository name and owner
+                repo_link = article.find('h2', class_='h3 lh-condensed').find('a')
+                repo_name = repo_link.get('href').strip('/')
+                
+                # Extract description
+                description_elem = article.find('p', class_='col-9 color-fg-muted my-1 pr-4')
+                description = description_elem.get_text(strip=True) if description_elem else ''
+                
+                # Extract language
+                language_elem = article.find('span', {'itemprop': 'programmingLanguage'})
+                language = language_elem.get_text(strip=True) if language_elem else ''
+                
+                # Extract stars
+                stars_elem = article.find('a', href=lambda x: x and 'stargazers' in x)
+                stars = stars_elem.get_text(strip=True) if stars_elem else '0'
+                
+                # Extract forks
+                forks_elem = article.find('a', href=lambda x: x and 'forks' in x)
+                forks = forks_elem.get_text(strip=True) if forks_elem else '0'
+                
+                repo_data = {
+                    'rank': i,
+                    'name': repo_name,
+                    'description': description,
+                    'language': language,
+                    'stars': stars,
+                    'forks': forks,
+                    'link': f'https://github.com/{repo_name}'
+                }
+                
+                repos.append(repo_data)
+                
+            except Exception as e:
+                print(f"Error parsing repository {i}: {e}")
+                continue
+        
+        # Save to file
+        save_trending_data(repos)
+        
+        print(f"Successfully fetched {len(repos)} trending repositories")
+        return repos
+        
+    except Exception as e:
+        print(f"Error fetching trending repositories: {e}")
+        return []
 
-repos = []
-for idx, repo_item in enumerate(soup.select('article.Box-row'), 1):
-    # Repository name (e.g. 'owner/repo')
-    repo_name = repo_item.h2.a.get('href').strip('/')
-    # Repository link
-    repo_link = f'https://github.com/{repo_name}'
-    # Description
-    desc_tag = repo_item.find('p')
-    repo_desc = desc_tag.text.strip() if desc_tag else ''
-    # Language
-    lang_tag = repo_item.find('span', itemprop='programmingLanguage')
-    repo_lang = lang_tag.text.strip() if lang_tag else ''
-    # Stars
-    stars_tag = repo_item.find('a', href=lambda x: x and 'stargazers' in x)
-    stars_text = stars_tag.text.strip() if stars_tag else ''
-    stars_count = parse_stars(stars_text)
-    # Rank
-    rank = idx
-    repos.append({
-        'name': repo_name,
-        'link': repo_link,
-        'description': repo_desc,
-        'language': repo_lang,
-        'stars': stars_count,
-        'rank': rank
-    })
+def save_trending_data(repos):
+    """
+    Save trending data to organized directory structure.
+    
+    Args:
+        repos (list): List of repository data to save
+    """
+    today = datetime.now()
+    year = str(today.year)
+    month = f"{today.month:02d}"
+    day = f"{today.day:02d}"
+    
+    # Create directory structure
+    year_dir = os.path.join(DATA_DIR, year)
+    month_dir = os.path.join(year_dir, month)
+    
+    os.makedirs(month_dir, exist_ok=True)
+    
+    # Save to file
+    filename = f"{day}.json"
+    filepath = os.path.join(month_dir, filename)
+    
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(repos, f, ensure_ascii=False, indent=2)
+    
+    print(f"Data saved to {filepath}")
 
-# Save to JSON
-with open(DATA_PATH, 'w', encoding='utf-8') as f:
-    json.dump(repos, f, ensure_ascii=False, indent=2)
-
-print(f'Saved trending data to {DATA_PATH}') 
+if __name__ == "__main__":
+    fetch_trending_repos() 

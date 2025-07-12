@@ -1,4 +1,4 @@
-# GitHub Trending Assistant
+# Github Trending History
 
 A comprehensive tool to track and analyze GitHub trending repositories over time, with historical data visualization and email subscription features.
 

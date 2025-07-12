@@ -1,5 +1,5 @@
 """
-Utility functions for GitHub Trending Assistant.
+Utility functions for Github Trending History.
 """
 
 from .helpers import *

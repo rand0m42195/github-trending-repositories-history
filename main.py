@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Main entry point for GitHub Trending Assistant.
+Main entry point for Github Trending History.
 
 This script provides a command-line interface to run different operations:
 - fetch: Fetch today's trending repositories
@@ -16,7 +16,7 @@ from src.core.analyzer import analyze_and_generate
 def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(
-        description='GitHub Trending Assistant - Track and analyze trending repositories',
+        description='Github Trending History - Track and analyze trending repositories',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:

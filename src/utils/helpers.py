@@ -1,5 +1,5 @@
 """
-Common utility functions for GitHub Trending Assistant.
+Common utility functions for Github Trending History.
 """
 
 import os

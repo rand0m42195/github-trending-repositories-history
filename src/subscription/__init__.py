@@ -1,5 +1,5 @@
 """
-Subscription functionality for GitHub Trending Assistant.
+Subscription functionality for Github Trending History.
 """
 
 from .manager import SubscriptionManager

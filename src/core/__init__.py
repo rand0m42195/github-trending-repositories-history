@@ -1,5 +1,5 @@
 """
-Core functionality for GitHub Trending Assistant.
+Core functionality for Github Trending History.
 """
 
 from .fetcher import fetch_trending_repos
