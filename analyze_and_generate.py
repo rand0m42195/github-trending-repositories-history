@@ -1,5 +1,6 @@
 import os
 import json
+import shutil
 from collections import defaultdict, OrderedDict
 from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
@@ -178,6 +179,16 @@ def get_repos_by_date(target_date):
 
 # 8. Render webpage
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Copy static files to output directory
+static_dir = 'static'
+if os.path.exists(static_dir):
+    static_output_dir = os.path.join(OUTPUT_DIR, 'static')
+    if os.path.exists(static_output_dir):
+        shutil.rmtree(static_output_dir)
+    shutil.copytree(static_dir, static_output_dir)
+    print(f'Copied static files to {static_output_dir}')
+
 env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
 
 # Generate main page

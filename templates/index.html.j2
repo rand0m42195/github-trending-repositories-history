@@ -3,12 +3,81 @@
 <head>
     <meta charset="UTF-8">
     <title>GitHub Trending Repositories History</title>
+    <link rel="icon" href="static/logo.svg">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
         h1, h2, h3 { color: #333; }
         .container { max-width: 1400px; margin: 0 auto; }
         .section { background: #fff; margin: 20px 0; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        
+        /* Header and Logo Styles */
+        .header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: linear-gradient(135deg, #24292e 0%, #0366d6 100%);
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .logo-container {
+            flex-shrink: 0;
+        }
+        
+        .logo {
+            width: 80px;
+            height: 80px;
+            filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+            transition: transform 0.3s ease;
+        }
+        
+        .logo:hover {
+            transform: scale(1.05);
+        }
+        
+        .header-content {
+            flex: 1;
+        }
+        
+        .header h1 {
+            color: #fff;
+            margin: 0;
+            font-size: 2.2em;
+            font-weight: 700;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header-subtitle {
+            color: #f6f8fa;
+            margin: 5px 0 0 0;
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        /* Responsive design for header */
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                text-align: center;
+                gap: 15px;
+            }
+            
+            .logo {
+                width: 60px;
+                height: 60px;
+            }
+            
+            .header h1 {
+                font-size: 1.8em;
+            }
+            
+            .header-subtitle {
+                font-size: 1em;
+            }
+        }
         table { border-collapse: collapse; width: 100%; background: #fff; }
         th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
         th { background: #f0f0f0; }
@@ -71,7 +140,16 @@
 </head>
 <body>
     <div class="container">
-        <h1>GitHub Trending Repositories History</h1>
+        <!-- Header with Logo -->
+        <div class="header">
+            <div class="logo-container">
+                <img src="static/logo.svg" alt="GitHub Trending History Logo" class="logo">
+            </div>
+            <div class="header-content">
+                <h1>GitHub Trending Repositories History</h1>
+                <p class="header-subtitle">Track trending repositories over time with historical data and trend analysis</p>
+            </div>
+        </div>
         
         <!-- Statistics -->
         <div class="stats">
