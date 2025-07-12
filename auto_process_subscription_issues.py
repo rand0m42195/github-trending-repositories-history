@@ -41,7 +41,7 @@ def main():
                 categories=data['categories'],
                 repositories=data['repositories']
             )
-            # 关闭 issue 并留言
+            # Close issue and add comment
             issue.create_comment("✅ Subscription processed and added. Thank you!")
             issue.edit(state="closed")
 

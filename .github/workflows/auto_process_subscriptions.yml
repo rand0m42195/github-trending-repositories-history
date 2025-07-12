@@ -2,7 +2,7 @@ name: Auto Process Subscription Issues
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时运行一次
+    - cron: '0 * * * *'  # Run every hour
   workflow_dispatch:
 
 jobs:
