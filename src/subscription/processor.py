@@ -7,8 +7,13 @@ This script reads GitHub Issues with 'subscription' label and adds them to subsc
 import os
 import json
 import re
+import sys
 from datetime import datetime
-from subscription_manager import SubscriptionManager
+from github import Github
+
+# Add the src directory to the path so we can import from sibling modules
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+from subscription.manager import SubscriptionManager
 
 def parse_issue_body(body):
     """Parse subscription details from GitHub Issue body"""
@@ -36,63 +41,147 @@ def process_subscription_issues():
     """Process subscription issues and update subscriptions.json"""
     print("Processing subscription issues...")
     
-    # Load existing subscriptions
-    subscription_manager = SubscriptionManager()
+    # Get GitHub token from environment
+    github_token = os.getenv('GITHUB_TOKEN')
+    if not github_token:
+        print("❌ GITHUB_TOKEN environment variable not set")
+        return
     
-    # For now, we'll manually process issues
-    # In a real implementation, you would use GitHub API to fetch issues
-    print("""
-To process subscription issues:
-
-1. Go to your GitHub repository: https://github.com/rand0m42195/github-trending-repositories-history/issues
-2. Look for issues with 'subscription' label
-3. For each subscription issue:
-   - Copy the issue body content
-   - Run this script with the issue data
-   - Close the issue after processing
-
-Example usage:
-python process_subscription_issues.py --issue-body "**Email:** user@example.com\n**Categories:** AI/ML, Web Development\n**Repositories:** openai/gpt-4"
-    """)
-
-def add_subscription_from_issue(issue_body):
-    """Add subscription from issue body content"""
+    # Initialize GitHub API
+    g = Github(github_token)
+    
+    # Get repository
+    repo_name = "rand0m42195/github-trending-repositories-history"
     try:
-        subscription_data = parse_issue_body(issue_body)
-        
-        if not subscription_data['email']:
-            print("❌ No email found in issue body")
-            return False
-        
-        # Add subscription
-        manager = SubscriptionManager()
-        success = manager.add_email_subscription(
-            email=subscription_data['email'],
-            categories=subscription_data['categories'],
-            repositories=subscription_data['repositories']
-        )
-        
-        if success:
-            print(f"✅ Successfully added subscription for {subscription_data['email']}")
-            print(f"   Categories: {subscription_data['categories']}")
-            print(f"   Repositories: {subscription_data['repositories']}")
-            return True
-        else:
-            print(f"❌ Failed to add subscription for {subscription_data['email']}")
-            return False
-            
+        repo = g.get_repo(repo_name)
     except Exception as e:
-        print(f"❌ Error processing subscription: {e}")
-        return False
+        print(f"❌ Failed to access repository {repo_name}: {e}")
+        return
+    
+    # Get subscription issues
+    try:
+        issues = repo.get_issues(state='open', labels=['subscription'])
+        print(f"Found {issues.totalCount} open subscription issues")
+    except Exception as e:
+        print(f"❌ Failed to fetch issues: {e}")
+        return
+    
+    # Load subscription manager
+    subscription_manager = SubscriptionManager()
+    processed_count = 0
+    
+    for issue in issues:
+        try:
+            print(f"Processing issue #{issue.number}: {issue.title}")
+            
+            # Parse issue body
+            subscription_data = parse_issue_body(issue.body or '')
+            
+            if not subscription_data['email']:
+                print(f"  ❌ No email found in issue #{issue.number}")
+                continue
+            
+            # Add subscription
+            success = subscription_manager.add_email_subscription(
+                email=subscription_data['email'],
+                categories=subscription_data['categories'],
+                repositories=subscription_data['repositories']
+            )
+            
+            if success:
+                print(f"  ✅ Successfully added subscription for {subscription_data['email']}")
+                print(f"     Categories: {subscription_data['categories']}")
+                print(f"     Repositories: {subscription_data['repositories']}")
+                
+                # Close the issue
+                issue.create_comment("✅ Subscription processed successfully! You will receive a confirmation email shortly.")
+                issue.edit(state='closed')
+                print(f"  ✅ Issue #{issue.number} closed")
+                processed_count += 1
+            else:
+                print(f"  ❌ Failed to add subscription for {subscription_data['email']}")
+                issue.create_comment("❌ Failed to process subscription. Please check the email format and try again.")
+                
+        except Exception as e:
+            print(f"  ❌ Error processing issue #{issue.number}: {e}")
+            try:
+                issue.create_comment(f"❌ Error processing subscription: {str(e)}")
+            except:
+                pass
+    
+    print(f"\n✅ Processing complete. Processed {processed_count} subscription(s)")
+
+def process_unsubscribe_issues():
+    """Process unsubscribe issues"""
+    print("Processing unsubscribe issues...")
+    
+    # Get GitHub token from environment
+    github_token = os.getenv('GITHUB_TOKEN')
+    if not github_token:
+        print("❌ GITHUB_TOKEN environment variable not set")
+        return
+    
+    # Initialize GitHub API
+    g = Github(github_token)
+    
+    # Get repository
+    repo_name = "rand0m42195/github-trending-repositories-history"
+    try:
+        repo = g.get_repo(repo_name)
+    except Exception as e:
+        print(f"❌ Failed to access repository {repo_name}: {e}")
+        return
+    
+    # Get unsubscribe issues
+    try:
+        issues = repo.get_issues(state='open', labels=['unsubscribe'])
+        print(f"Found {issues.totalCount} open unsubscribe issues")
+    except Exception as e:
+        print(f"❌ Failed to fetch issues: {e}")
+        return
+    
+    # Load subscription manager
+    subscription_manager = SubscriptionManager()
+    processed_count = 0
+    
+    for issue in issues:
+        try:
+            print(f"Processing unsubscribe issue #{issue.number}: {issue.title}")
+            
+            # Extract email from issue title or body
+            email_match = re.search(r'([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})', issue.title or issue.body or '')
+            
+            if not email_match:
+                print(f"  ❌ No valid email found in issue #{issue.number}")
+                continue
+            
+            email = email_match.group(1)
+            
+            # Remove subscription
+            success = subscription_manager.remove_email_subscription(email)
+            
+            if success:
+                print(f"  ✅ Successfully removed subscription for {email}")
+                
+                # Close the issue
+                issue.create_comment("✅ Unsubscription processed successfully!")
+                issue.edit(state='closed')
+                print(f"  ✅ Issue #{issue.number} closed")
+                processed_count += 1
+            else:
+                print(f"  ❌ Failed to remove subscription for {email}")
+                issue.create_comment("❌ Failed to process unsubscription. Email may not be in our subscription list.")
+                
+        except Exception as e:
+            print(f"  ❌ Error processing unsubscribe issue #{issue.number}: {e}")
+            try:
+                issue.create_comment(f"❌ Error processing unsubscription: {str(e)}")
+            except:
+                pass
+    
+    print(f"\n✅ Unsubscribe processing complete. Processed {processed_count} unsubscription(s)")
 
 if __name__ == "__main__":
-    import sys
-    
-    if len(sys.argv) > 1 and sys.argv[1] == '--issue-body':
-        if len(sys.argv) > 2:
-            issue_body = sys.argv[2]
-            add_subscription_from_issue(issue_body)
-        else:
-            print("❌ Please provide issue body content")
-    else:
-        process_subscription_issues() 
+    # Process both subscription and unsubscribe issues
+    process_subscription_issues()
+    process_unsubscribe_issues() 

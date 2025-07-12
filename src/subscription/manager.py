@@ -7,7 +7,7 @@ from datetime import datetime
 from collections import defaultdict
 
 # Subscription data file
-SUBSCRIPTION_FILE = 'subscriptions.json'
+SUBSCRIPTION_FILE = 'data/subscriptions.json'
 
 # Email configuration (to be set via environment variables)
 SMTP_SERVER = os.getenv('SMTP_SERVER', 'smtp.gmail.com')
