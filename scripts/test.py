@@ -6,7 +6,11 @@ Run this script to test the email subscription system
 
 import os
 import json
-from subscription_manager import SubscriptionManager, EmailSender
+import sys
+
+# Add src directory to path for imports
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
+from subscription.manager import SubscriptionManager, EmailSender
 from datetime import datetime
 
 def test_subscription_manager():
@@ -100,7 +104,7 @@ def test_email_templates():
     test_repos = [test_repo]
     
     # Test category email template
-    from subscription_manager import generate_category_email_content
+    from subscription.manager import generate_category_email_content
     category_html = generate_category_email_content("AI/ML", test_repos, "2024-01-15")
     
     if "AI/ML" in category_html and "openai/gpt-4" in category_html:
@@ -110,7 +114,7 @@ def test_email_templates():
         return False
     
     # Test repository email template
-    from subscription_manager import generate_repository_email_content
+    from subscription.manager import generate_repository_email_content
     repo_html = generate_repository_email_content(test_repo, "2024-01-15")
     
     if "openai/gpt-4" in repo_html and "GPT-4" in repo_html:

@@ -6,7 +6,11 @@ A command-line tool to view and manage email subscriptions
 
 import json
 import sys
-from subscription_manager import SubscriptionManager
+import os
+
+# Add src directory to path for imports
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
+from subscription.manager import SubscriptionManager
 
 def print_banner():
     """Print management tool banner"""

@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from subscription_manager import SubscriptionManager
+from .manager import SubscriptionManager
 import os
 
 app = Flask(__name__)
