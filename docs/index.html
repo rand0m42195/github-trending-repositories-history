@@ -450,13 +450,13 @@
                     <label>Choose a date:</label>
                     <div class="date-picker">
                         <select id="yearSelect" onchange="updateMonthSelect()">
-                            <option value="">Select Year</option>
+                            <option value="" disabled selected>Select Year</option>
                         </select>
                         <select id="monthSelect" onchange="updateDaySelect()" disabled>
-                            <option value="">Select Month</option>
+                            <option value="" disabled selected>Select Month</option>
                         </select>
                         <select id="daySelect" onchange="loadDateData()" disabled>
-                            <option value="">Select Day</option>
+                            <option value="" disabled selected>Select Day</option>
                         </select>
                     </div>
                     <button onclick="loadDateData()" id="loadDataBtn" disabled>Load Data</button>
@@ -691,8 +691,8 @@
             const selectedYear = yearSelect.value;
             
             // Clear and disable month and day selects
-            monthSelect.innerHTML = '<option value="">Select Month</option>';
-            daySelect.innerHTML = '<option value="">Select Day</option>';
+            monthSelect.innerHTML = '<option value="" disabled selected>Select Month</option>';
+            daySelect.innerHTML = '<option value="" disabled selected>Select Day</option>';
             monthSelect.disabled = true;
             daySelect.disabled = true;
             loadBtn.disabled = true;
@@ -727,7 +727,7 @@
             const selectedMonth = monthSelect.value;
             
             // Clear and disable day select
-            daySelect.innerHTML = '<option value="">Select Day</option>';
+            daySelect.innerHTML = '<option value="" disabled selected>Select Day</option>';
             daySelect.disabled = true;
             loadBtn.disabled = true;
             
@@ -769,6 +769,7 @@
             const selectedMonth = monthSelect.value;
             const selectedDay = daySelect.value;
             
+            // Don't load data if any selection is empty (placeholder selected)
             if (!selectedYear || !selectedMonth || !selectedDay) {
                 return;
             }
