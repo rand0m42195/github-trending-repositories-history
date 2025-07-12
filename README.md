@@ -1,184 +1,194 @@
-# GitHub Trending Repositories History
+# Github Trending History
 
-A comprehensive tool that automatically tracks and analyzes GitHub trending repositories over time, providing historical insights and trend analysis through an interactive web interface.
+A comprehensive tool to track and analyze GitHub trending repositories over time, with historical data visualization and email subscription features.
 
-🌐 **Live Demo**: [View GitHub Trending History](https://rand0m42195.github.io/github-trending-repositories-history)
+## 🚀 Features
 
-## Features
+- **Daily Trending Data Collection**: Automatically fetches GitHub trending repositories
+- **Historical Analysis**: Tracks repositories over time with streak calculations
+- **Interactive Web Interface**: Beautiful, responsive web page with filtering and search
+- **Email Subscriptions**: Daily email updates for specific categories or repositories
+- **Trend Visualization**: Charts showing category distribution and trending patterns
+- **Multi-level Date Navigation**: Browse historical data by year/month/day
 
-### 🔄 **Automated Data Collection**
-- **Daily Scraping**: Automatically fetches GitHub trending repositories every day
-- **Structured Storage**: Organizes data in year/month/day folder structure for efficient access
-- **GitHub Actions Integration**: Fully automated workflow that runs daily at 2:00 UTC
-
-### 📊 **Trend Analysis & Insights**
-- **Continuous Days Tracking**: Shows how many consecutive days each repository has been trending
-- **Historical Rankings**: Displays daily ranking positions for each repository
-- **Technology Categorization**: Automatically categorizes repositories into 8 technology categories:
-  - AI/ML (Machine Learning, AI, Neural Networks, etc.)
-  - Web Development (Frontend, Backend, Frameworks, etc.)
-  - Mobile (iOS, Android, React Native, etc.)
-  - DevOps (Docker, Kubernetes, CI/CD, etc.)
-  - Data Science (Analytics, Pandas, Jupyter, etc.)
-  - System/OS (Operating Systems, Kernels, Low-level programming)
-  - Security (Cryptography, Authentication, etc.)
-  - Learning (Tutorials, Documentation, Educational content)
-
-### 🌐 **Interactive Web Interface**
-- **Today's Trending**: View current trending repositories with continuous days and categories
-- **Historical Data**: Browse trending data for any specific date with date selector
-- **Search & Filter**: Search repositories by name and filter by technology category
-- **Trend Visualization**: Interactive charts showing trending patterns over time
-- **Category Statistics**: Overview of trending repositories by technology category
-- **Responsive Design**: Mobile-friendly interface that works on all devices
-
-### 📈 **Data Visualization**
-- **Trend Charts**: Visual representation of repository ranking trends
-- **Category Distribution**: Charts showing the distribution of trending repositories across technology categories
-- **Streak Analysis**: Highlight repositories with the longest continuous trending periods
-
-### 📧 **Email Subscription System**
-- **Category Subscriptions**: Subscribe to daily updates for specific technology categories
-- **Repository Tracking**: Get notified when specific repositories appear on trending
-- **HTML Email Templates**: Beautiful, responsive email notifications with repository details
-- **Welcome Emails**: Automatic welcome emails sent immediately after subscription
-- **Easy Unsubscribe**: One-click unsubscribe links in all emails
-- **Automatic Daily Sending**: GitHub Actions automatically sends subscription emails daily
-- **GitHub Issues Integration**: Subscription requests are created as GitHub Issues for easy management
-
-## How It Works
-
-1. **Data Collection**: The `fetch_trending.py` script scrapes GitHub's trending page daily
-2. **Data Processing**: The `analyze_and_generate.py` script analyzes historical data and calculates trends
-3. **Web Generation**: Creates an interactive HTML webpage using Jinja2 templates
-4. **Automation**: GitHub Actions workflow handles the entire process automatically
-5. **Deployment**: Results are automatically deployed to GitHub Pages
-
-## Technology Stack
-
-- **Python**: Core data processing and web scraping
-- **BeautifulSoup4**: HTML parsing for GitHub trending page
-- **Jinja2**: Template engine for webpage generation
-- **Chart.js**: Interactive data visualization
-- **Flask**: REST API for subscription management
-- **SMTP**: Email delivery system
-- **GitHub Actions**: Automated workflow orchestration
-- **GitHub Pages**: Static website hosting
-
-## Project Structure
+## 📁 Project Structure
 
 ```
-├── fetch_trending.py          # Daily trending data scraper
-├── analyze_and_generate.py    # Data analysis and webpage generation
-├── subscription_manager.py    # Email subscription management
-├── subscription_api.py        # REST API for subscriptions
-├── migrate_data.py           # Data migration utilities
-├── requirements.txt          # Python dependencies
-├── subscriptions.json        # Subscription data storage
-├── trending_data/           # Historical data storage (year/month/day structure)
-├── templates/               # Jinja2 HTML templates
-├── docs/                   # Generated webpage (GitHub Pages)
-└── .github/workflows/      # GitHub Actions automation
+github-trending-assistant/
+├── src/                          # Source code
+│   ├── core/                     # Core functionality
+│   │   ├── fetcher.py           # Data fetching from GitHub
+│   │   ├── analyzer.py          # Data analysis and webpage generation
+│   │   └── categorizer.py       # Repository categorization logic
+│   ├── subscription/             # Subscription system
+│   │   ├── manager.py           # Subscription management
+│   │   ├── api.py               # REST API for subscriptions
+│   │   └── processor.py         # GitHub Issues processing
+│   ├── web/                     # Web assets
+│   │   ├── templates/           # Jinja2 templates
+│   │   └── static/              # Static files (CSS, JS, images)
+│   └── utils/                   # Utility functions
+│       └── helpers.py           # Common helper functions
+├── data/                        # Data storage
+│   ├── trending_data/           # Historical trending data
+│   └── subscriptions.json       # Subscription data
+├── scripts/                     # Management scripts
+│   ├── setup.py                 # Setup and configuration
+│   ├── test.py                  # Testing utilities
+│   └── manage.py                # Subscription management CLI
+├── docs/                        # Generated documentation
+│   ├── guides/                  # User guides
+│   └── features/                # Feature documentation
+├── .github/                     # GitHub configuration
+│   └── workflows/               # GitHub Actions
+├── main.py                      # Main entry point
+├── requirements.txt             # Python dependencies
+└── README.md                    # This file
 ```
 
-## Getting Started
+## 🛠️ Installation
 
-### Prerequisites
-- Python 3.11+
-- Git
-
-### Installation
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yourusername/github-trending-assistant.git
    cd github-trending-assistant
    ```
 
-2. Install dependencies:
+2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the scraper manually (optional):
+3. **Set up environment** (optional, for email subscriptions):
    ```bash
-   python fetch_trending.py
-   python analyze_and_generate.py
+   python scripts/setup.py
    ```
 
-### Automated Operation
-The tool is designed to run automatically via GitHub Actions. Simply:
-1. Enable GitHub Actions in your repository
-2. The workflow will run daily at 2:00 UTC
-3. Results are automatically deployed to GitHub Pages
-4. Email subscriptions are sent automatically to subscribers
+## 🚀 Usage
 
-### Email Subscription Setup
-To enable email subscriptions, set the following environment variables in your GitHub repository secrets:
+### Command Line Interface
 
-**Required GitHub Secrets:**
-- `SMTP_SERVER`: Your SMTP server (e.g., smtp.gmail.com)
-- `SMTP_PORT`: SMTP port (usually 587 for TLS)
-- `SMTP_USERNAME`: Your email username
-- `SMTP_PASSWORD`: Your email password or app password
-- `SENDER_EMAIL`: The email address to send from
+The project provides a unified CLI through `main.py`:
 
-**Quick Setup:**
 ```bash
-# Run the interactive setup script
-python setup_subscription.py
+# Fetch today's trending repositories
+python main.py fetch
 
-# Test the subscription system
-python test_subscription.py
+# Analyze existing data and generate webpage
+python main.py analyze
+
+# Run complete pipeline (fetch + analyze)
+python main.py full
+
+# Enable verbose output
+python main.py fetch --verbose
 ```
 
-**Manual Setup:**
-1. Copy `subscriptions_example.json` to `subscriptions.json`
-2. Add your email configuration to GitHub repository secrets
-3. Follow the `docs/EMAIL_SETUP.md` for detailed instructions
+### Individual Scripts
 
-**Automatic Daily Sending:**
-Once configured, GitHub Actions will automatically:
-- Fetch trending data daily at 2:00 UTC
-- Send subscription emails to all subscribers
-- Update the webpage with new data
-- Commit and push all changes
+You can also run individual components:
 
-## Data Storage
+```bash
+# Fetch trending data
+python src/core/fetcher.py
 
-Historical data is stored in JSON format with the following structure:
-```
-trending_data/
-├── 2024/
-│   ├── 01/
-│   │   ├── 01.json
-│   │   ├── 02.json
-│   │   └── ...
-│   └── 02/
-│       ├── 01.json
-│       └── ...
-└── 2025/
-    └── ...
+# Generate webpage
+python src/core/analyzer.py
+
+# Manage subscriptions
+python scripts/manage.py
+
+# Test subscription system
+python scripts/test.py
 ```
 
-Each JSON file contains an array of trending repositories with:
-- Repository name and link
-- Description and programming language
-- Daily ranking position
-- Star count (when available)
+### Web Interface
 
-## Contributing
+After running the analysis, open `docs/index.html` in your browser to view:
+- Today's trending repositories
+- Historical data with date navigation
+- Category-based filtering and search
+- Trend analysis charts
+- Subscription management
 
-This project is open to contributions! Areas for improvement include:
-- Additional technology categories
-- Enhanced visualization features
-- Performance optimizations
-- Mobile app development
-- API development for external integrations
+## 📧 Email Subscriptions
 
-## License
+### For Users
 
-This project is open source and available under the MIT License.
+1. Visit the web interface and go to the "Subscribe" tab
+2. Enter your email and select categories of interest
+3. Optionally specify individual repositories to track
+4. Submit the form to create a subscription request
+
+### For Administrators
+
+Manage subscriptions using the CLI:
+
+```bash
+# View all subscriptions
+python scripts/manage.py list
+
+# Export subscriptions to CSV
+python scripts/manage.py export --format csv
+
+# Send test emails
+python scripts/test.py
+```
+
+## 🔧 Configuration
+
+### Email Settings
+
+For email functionality, set these environment variables:
+
+```bash
+export SMTP_SERVER=smtp.gmail.com
+export SMTP_PORT=587
+export SMTP_USERNAME=your-email@gmail.com
+export SMTP_PASSWORD=your-app-password
+export SENDER_EMAIL=your-email@gmail.com
+```
+
+### GitHub Actions
+
+The project includes automated workflows:
+- **Daily Updates**: Fetches trending data and generates webpage
+- **Subscription Processing**: Processes subscription requests from GitHub Issues
+
+## 📊 Data Storage
+
+- **Trending Data**: Stored in `data/trending_data/` organized by year/month/day
+- **Subscriptions**: Stored in `data/subscriptions.json`
+- **Generated Webpage**: Output to `docs/index.html`
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature-name`
+3. Make your changes
+4. Test thoroughly: `python scripts/test.py`
+5. Commit your changes: `git commit -m 'Add feature'`
+6. Push to the branch: `git push origin feature-name`
+7. Submit a pull request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+
+- GitHub for providing the trending data
+- BeautifulSoup for web scraping capabilities
+- Jinja2 for template rendering
+- Chart.js for data visualization
+
+## 📞 Support
+
+If you encounter any issues or have questions:
+1. Check the documentation in `docs/`
+2. Review existing issues on GitHub
+3. Create a new issue with detailed information
 
 ---
 
-**Note**: This project was developed with the assistance of AI tools to automate the creation of a comprehensive GitHub trending analysis system. The AI helped with code generation, feature implementation, and documentation, but the core concept and functionality were designed to provide valuable insights into GitHub's trending ecosystem. 
+**Happy trending! 🚀** 
