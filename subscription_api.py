@@ -36,26 +36,38 @@ def subscribe():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
-@app.route('/unsubscribe', methods=['POST'])
+@app.route('/unsubscribe', methods=['GET', 'POST'])
 def unsubscribe():
-    """Unsubscribe from GitHub trending updates"""
-    try:
-        data = request.get_json()
-        email = data.get('email')
-        
+    """Unsubscribe from GitHub trending updates (GET for one-click, POST for API)"""
+    if request.method == 'POST':
+        try:
+            data = request.get_json()
+            email = data.get('email')
+            if not email:
+                return jsonify({'error': 'Email is required'}), 400
+            subscription_manager.remove_email_subscription(email)
+            return jsonify({
+                'success': True,
+                'message': f'Successfully unsubscribed {email}'
+            })
+        except Exception as e:
+            return jsonify({'error': str(e)}), 500
+    else:
+        # GET method for one-click unsubscribe
+        email = request.args.get('email')
         if not email:
-            return jsonify({'error': 'Email is required'}), 400
-        
-        # Remove subscription
+            return "<h2>Email is required to unsubscribe.</h2>", 400
         subscription_manager.remove_email_subscription(email)
-        
-        return jsonify({
-            'success': True,
-            'message': f'Successfully unsubscribed {email}'
-        })
-    
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return f"""
+        <html>
+        <head><title>Unsubscribed</title></head>
+        <body style='font-family: Arial, sans-serif; text-align: center; margin-top: 60px;'>
+            <h2>Unsubscribed Successfully</h2>
+            <p>{email} has been removed from all GitHub Trending notifications.</p>
+            <a href='https://rand0m42195.github.io/github-trending-repositories-history' style='display:inline-block;margin-top:20px;padding:10px 20px;background:#0070f3;color:white;text-decoration:none;border-radius:5px;'>Return to GitHub Trending History</a>
+        </body>
+        </html>
+        """
 
 @app.route('/subscriptions', methods=['GET'])
 def get_subscriptions():

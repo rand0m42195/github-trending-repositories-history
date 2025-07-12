@@ -57,6 +57,8 @@ class SubscriptionManager:
                     self.subscriptions['repositories'][repo].append(email)
         
         self.save_subscriptions()
+        # Send welcome email
+        EmailSender().send_welcome_email(email)
         return True
     
     def remove_email_subscription(self, email):
@@ -123,6 +125,22 @@ class EmailSender:
             print(f"Failed to send email to {to_email}: {e}")
             return False
 
+    def send_welcome_email(self, to_email):
+        """Send welcome/confirmation email with unsubscribe button"""
+        unsubscribe_url = f"https://your-domain.com/unsubscribe?email={to_email}"
+        html_content = f"""
+        <html>
+        <body style='font-family: Arial, sans-serif;'>
+            <h2>Welcome to GitHub Trending Updates!</h2>
+            <p>You have successfully subscribed to daily trending repository updates.</p>
+            <p>You will receive emails based on your selected categories and repositories.</p>
+            <p>If you wish to unsubscribe at any time, simply click the button below:</p>
+            <a href='{unsubscribe_url}' style='display:inline-block;padding:10px 20px;background:#dc3545;color:white;text-decoration:none;border-radius:5px;font-weight:bold;'>Unsubscribe</a>
+        </body>
+        </html>
+        """
+        self.send_email(to_email, "Subscription Confirmed: GitHub Trending Updates", html_content)
+
 def generate_category_email_content(category, repos, date):
     """Generate HTML email content for category subscription"""
     html = f"""
@@ -163,15 +181,15 @@ def generate_category_email_content(category, repos, date):
         </div>
         """
     
-    html += """
-        <div style="margin-top: 30px; padding: 15px; background-color: #f6f8fa; border-radius: 6px;">
-            <p>View all trending repositories: <a href="https://rand0m42195.github.io/github-trending-repositories-history">GitHub Trending History</a></p>
-            <p>To unsubscribe, reply to this email with "unsubscribe" in the subject.</p>
+    html += f"""
+        <div style=\"margin-top: 30px; padding: 15px; background-color: #f6f8fa; border-radius: 6px;\">
+            <p>View all trending repositories: <a href=\"https://rand0m42195.github.io/github-trending-repositories-history\">GitHub Trending History</a></p>
+            <a href=\"https://your-domain.com/unsubscribe?email={repos[0].get('subscriber_email', '')}\" style=\"display:inline-block;padding:10px 20px;background:#dc3545;color:white;text-decoration:none;border-radius:5px;font-weight:bold;\">Unsubscribe</a>
         </div>
     </body>
     </html>
     """
-    return html
+    return html.replace("{{email}}", repos[0].get('subscriber_email', '')) if repos else html
 
 def generate_repository_email_content(repo, date):
     """Generate HTML email content for repository subscription"""
@@ -211,7 +229,7 @@ def generate_repository_email_content(repo, date):
         
         <div style="margin-top: 30px; padding: 15px; background-color: #f6f8fa; border-radius: 6px;">
             <p>View all trending repositories: <a href="https://rand0m42195.github.io/github-trending-repositories-history">GitHub Trending History</a></p>
-            <p>To unsubscribe, reply to this email with "unsubscribe" in the subject.</p>
+            <a href="https://your-domain.com/unsubscribe?email={repo.get('subscriber_email', '')}" style="display:inline-block;padding:10px 20px;background:#dc3545;color:white;text-decoration:none;border-radius:5px;font-weight:bold;">Unsubscribe</a>
         </div>
     </body>
     </html>
@@ -228,13 +246,13 @@ def send_daily_subscriptions(today_repos, category_stats):
     for category, subscribers in subscription_manager.subscriptions['categories'].items():
         if subscribers:
             # Filter repos for this category
-            category_repos = [repo for repo in today_repos if repo.get('category') == category]
+            category_repos = [dict(repo, subscriber_email=email) for repo in today_repos if repo.get('category') == category for email in subscribers]
             if category_repos:
                 html_content = generate_category_email_content(category, category_repos, today)
                 subject = f"GitHub Trending - {category} ({today})"
                 
                 for email in subscribers:
-                    email_sender.send_email(email, subject, html_content)
+                    email_sender.send_email(email, subject, html_content.replace("{{email}}", email))
     
     # Send repository-based subscriptions
     for repo_name, subscribers in subscription_manager.subscriptions['repositories'].items():
@@ -242,10 +260,11 @@ def send_daily_subscriptions(today_repos, category_stats):
             # Find the repository in today's trending
             repo_data = next((repo for repo in today_repos if repo['name'] == repo_name), None)
             if repo_data:
-                html_content = generate_repository_email_content(repo_data, today)
-                subject = f"Repository Trending - {repo_name} ({today})"
-                
                 for email in subscribers:
+                    repo_with_email = dict(repo_data, subscriber_email=email)
+                    html_content = generate_repository_email_content(repo_with_email, today)
+                    subject = f"Repository Trending - {repo_name} ({today})"
+                    
                     email_sender.send_email(email, subject, html_content)
 
 if __name__ == "__main__":
