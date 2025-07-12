@@ -54,10 +54,13 @@
         .filter-group select, .filter-group input { padding: 6px; border: 1px solid #ddd; border-radius: 3px; }
         .search-box { width: 300px; }
         .date-selector { margin: 20px 0; padding: 15px; background: #f8f9fa; border-radius: 5px; }
-        .date-selector label { font-weight: bold; margin-right: 10px; }
-        .date-selector select { padding: 8px; border: 1px solid #ddd; border-radius: 3px; margin-right: 10px; }
+        .date-selector label { font-weight: bold; margin-right: 10px; display: block; margin-bottom: 10px; }
+        .date-picker { display: flex; gap: 10px; margin-bottom: 15px; align-items: center; }
+        .date-selector select { padding: 8px; border: 1px solid #ddd; border-radius: 3px; min-width: 120px; }
+        .date-selector select:disabled { background-color: #f5f5f5; color: #999; cursor: not-allowed; }
         .date-selector button { padding: 8px 16px; background: #0070f3; color: white; border: none; border-radius: 3px; cursor: pointer; }
-        .date-selector button:hover { background: #0056b3; }
+        .date-selector button:hover:not(:disabled) { background: #0056b3; }
+        .date-selector button:disabled { background: #ccc; cursor: not-allowed; }
         .no-data { text-align: center; color: #666; font-style: italic; padding: 40px; }
         .chart-container { margin: 20px 0; height: 400px; }
         .category-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0; }
@@ -176,13 +179,19 @@
             <div class="section">
                 <h2>Historical Data</h2>
                 <div class="date-selector">
-                    <label for="dateSelect">Choose a date:</label>
-                    <select id="dateSelect">
-                        {% for date in dates %}
-                            <option value="{{ date }}" {% if date == today %}selected{% endif %}>{{ date }}</option>
-                        {% endfor %}
-                    </select>
-                    <button onclick="loadDateData()">Load Data</button>
+                    <label>Choose a date:</label>
+                    <div class="date-picker">
+                        <select id="yearSelect" onchange="updateMonthSelect()">
+                            <option value="">Select Year</option>
+                        </select>
+                        <select id="monthSelect" onchange="updateDaySelect()" disabled>
+                            <option value="">Select Month</option>
+                        </select>
+                        <select id="daySelect" onchange="loadDateData()" disabled>
+                            <option value="">Select Day</option>
+                        </select>
+                    </div>
+                    <button onclick="loadDateData()" id="loadDataBtn" disabled>Load Data</button>
                 </div>
                 <div id="selectedDateContent">
                     <div class="no-data">Select a date above to view trending data</div>
@@ -285,6 +294,13 @@
             {% endfor %}
         };
 
+        // Available dates organized by year/month/day
+        const availableDates = {
+            {% for date in dates %}
+                '{{ date }}': true,
+            {% endfor %}
+        };
+
         // Category data for charts
         const categoryData = {{ category_stats | tojson }};
         const categories = {{ categories | tojson }};
@@ -351,8 +367,129 @@
             }
         }
 
+        // Initialize date picker
+        function initializeDatePicker() {
+            const yearSelect = document.getElementById('yearSelect');
+            const monthSelect = document.getElementById('monthSelect');
+            const daySelect = document.getElementById('daySelect');
+            const loadBtn = document.getElementById('loadDataBtn');
+
+            // Get unique years from available dates
+            const years = [...new Set(Object.keys(availableDates).map(date => date.split('-')[0]))].sort();
+            
+            // Populate year select
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearSelect.appendChild(option);
+            });
+
+            // Set today's date as default if available
+            const today = '{{ today }}';
+            if (availableDates[today]) {
+                const [year, month, day] = today.split('-');
+                yearSelect.value = year;
+                updateMonthSelect();
+                monthSelect.value = month;
+                updateDaySelect();
+                daySelect.value = day;
+                loadBtn.disabled = false;
+            }
+        }
+
+        function updateMonthSelect() {
+            const yearSelect = document.getElementById('yearSelect');
+            const monthSelect = document.getElementById('monthSelect');
+            const daySelect = document.getElementById('daySelect');
+            const loadBtn = document.getElementById('loadDataBtn');
+            
+            const selectedYear = yearSelect.value;
+            
+            // Clear and disable month and day selects
+            monthSelect.innerHTML = '<option value="">Select Month</option>';
+            daySelect.innerHTML = '<option value="">Select Day</option>';
+            monthSelect.disabled = true;
+            daySelect.disabled = true;
+            loadBtn.disabled = true;
+            
+            if (!selectedYear) return;
+            
+            // Get available months for selected year
+            const months = [...new Set(
+                Object.keys(availableDates)
+                    .filter(date => date.startsWith(selectedYear + '-'))
+                    .map(date => date.split('-')[1])
+            )].sort();
+            
+            // Populate month select
+            months.forEach(month => {
+                const option = document.createElement('option');
+                option.value = month;
+                option.textContent = getMonthName(month);
+                monthSelect.appendChild(option);
+            });
+            
+            monthSelect.disabled = false;
+        }
+
+        function updateDaySelect() {
+            const yearSelect = document.getElementById('yearSelect');
+            const monthSelect = document.getElementById('monthSelect');
+            const daySelect = document.getElementById('daySelect');
+            const loadBtn = document.getElementById('loadDataBtn');
+            
+            const selectedYear = yearSelect.value;
+            const selectedMonth = monthSelect.value;
+            
+            // Clear and disable day select
+            daySelect.innerHTML = '<option value="">Select Day</option>';
+            daySelect.disabled = true;
+            loadBtn.disabled = true;
+            
+            if (!selectedYear || !selectedMonth) return;
+            
+            // Get available days for selected year/month
+            const days = Object.keys(availableDates)
+                .filter(date => date.startsWith(`${selectedYear}-${selectedMonth}-`))
+                .map(date => date.split('-')[2])
+                .sort();
+            
+            // Populate day select
+            days.forEach(day => {
+                const option = document.createElement('option');
+                option.value = day;
+                option.textContent = day;
+                daySelect.appendChild(option);
+            });
+            
+            daySelect.disabled = false;
+            loadBtn.disabled = false;
+        }
+
+        function getMonthName(month) {
+            const monthNames = {
+                '01': 'January', '02': 'February', '03': 'March', '04': 'April',
+                '05': 'May', '06': 'June', '07': 'July', '08': 'August',
+                '09': 'September', '10': 'October', '11': 'November', '12': 'December'
+            };
+            return monthNames[month] || month;
+        }
+
         function loadDateData() {
-            const selectedDate = document.getElementById('dateSelect').value;
+            const yearSelect = document.getElementById('yearSelect');
+            const monthSelect = document.getElementById('monthSelect');
+            const daySelect = document.getElementById('daySelect');
+            
+            const selectedYear = yearSelect.value;
+            const selectedMonth = monthSelect.value;
+            const selectedDay = daySelect.value;
+            
+            if (!selectedYear || !selectedMonth || !selectedDay) {
+                return;
+            }
+            
+            const selectedDate = `${selectedYear}-${selectedMonth}-${selectedDay}`;
             const repos = dateData[selectedDate] || [];
             const contentDiv = document.getElementById('selectedDateContent');
             
@@ -466,10 +603,8 @@
 
         // Auto-load today's data on page load if today is selected
         window.onload = function() {
-            const dateSelect = document.getElementById('dateSelect');
-            if (dateSelect.value === '{{ today }}') {
-                loadDateData();
-            }
+            // Initialize date picker
+            initializeDatePicker();
             
             // Initialize subscription form
             initializeSubscriptionForm();
