@@ -100,7 +100,11 @@ def process_subscription_issues():
                 print(f"  ✅ Successfully added subscription for {subscription_data['email']}")
                 print(f"     Categories: {subscription_data['categories']}")
                 print(f"     Repositories: {subscription_data['repositories']}")
-                
+                try:
+                    print(f"  🏷️ Adding labels: processed, subscribed to issue #{issue.number}")
+                    issue.add_to_labels('processed', 'subscribed')
+                except Exception as label_error:
+                    print(f"  ⚠️ Failed to add labels to issue #{issue.number}: {label_error}")
                 # Close the issue
                 try:
                     print(f"  🔧 Attempting to close issue #{issue.number}...")
@@ -112,13 +116,16 @@ def process_subscription_issues():
                     processed_count += 1
                 except Exception as close_error:
                     print(f"  ❌ Failed to close issue #{issue.number}: {close_error}")
-                    # Try to add a comment about the failure
                     try:
                         issue.create_comment(f"⚠️ Subscription was processed but failed to close issue: {str(close_error)}")
                     except:
                         pass
             else:
                 print(f"  ❌ Failed to add subscription for {subscription_data['email']}")
+                try:
+                    issue.add_to_labels('failed')
+                except Exception as label_error:
+                    print(f"  ⚠️ Failed to add failed label to issue #{issue.number}: {label_error}")
                 issue.create_comment("❌ Failed to process subscription. Please check the email format and try again.")
                 
         except Exception as e:
@@ -189,7 +196,11 @@ def process_unsubscribe_issues():
             
             if success:
                 print(f"  ✅ Successfully removed subscription for {email}")
-                
+                try:
+                    print(f"  🏷️ Adding labels: processed, unsubscribed to issue #{issue.number}")
+                    issue.add_to_labels('processed', 'unsubscribed')
+                except Exception as label_error:
+                    print(f"  ⚠️ Failed to add labels to issue #{issue.number}: {label_error}")
                 # Close the issue
                 try:
                     print(f"  🔧 Attempting to close unsubscribe issue #{issue.number}...")
@@ -201,13 +212,16 @@ def process_unsubscribe_issues():
                     processed_count += 1
                 except Exception as close_error:
                     print(f"  ❌ Failed to close unsubscribe issue #{issue.number}: {close_error}")
-                    # Try to add a comment about the failure
                     try:
                         issue.create_comment(f"⚠️ Unsubscription was processed but failed to close issue: {str(close_error)}")
                     except:
                         pass
             else:
                 print(f"  ❌ Failed to remove subscription for {email}")
+                try:
+                    issue.add_to_labels('failed')
+                except Exception as label_error:
+                    print(f"  ⚠️ Failed to add failed label to issue #{issue.number}: {label_error}")
                 issue.create_comment("❌ Failed to process unsubscription. Email may not be in our subscription list.")
                 
         except Exception as e:
