@@ -65,7 +65,8 @@ def add_subscription_from_issue(issue_body):
             return False
         
         # Add subscription
-        success = subscription_manager.add_email_subscription(
+        manager = SubscriptionManager()
+        success = manager.add_email_subscription(
             email=subscription_data['email'],
             categories=subscription_data['categories'],
             repositories=subscription_data['repositories']
