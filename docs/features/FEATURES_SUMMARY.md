@@ -45,6 +45,7 @@ A comprehensive tool that automatically tracks and analyzes GitHub trending repo
 - **SMTP Integration**: Support for Gmail, Outlook, Yahoo, and custom SMTP servers
 - **REST API**: Programmatic subscription management via HTTP endpoints
 - **Web Form**: User-friendly subscription form with category selection
+- **Automated Processing**: GitHub Actions processes subscription requests every 30 minutes
 
 ### 🔧 **Developer Tools**
 - **REST API**: `/subscribe`, `/unsubscribe`, `/subscriptions`, `/health` endpoints
@@ -137,6 +138,12 @@ github-trending-assistant/
 - **Data Retention**: Unlimited historical data storage
 - **Processing Time**: ~30 seconds for daily data collection
 - **Storage Efficiency**: ~1KB per day of trending data
+
+### **Subscription Processing**
+- **Processing Frequency**: Every 30 minutes
+- **Response Time**: <5 minutes for new subscription requests
+- **Issue Management**: Automatic GitHub Issues processing
+- **Email Delivery**: Immediate confirmation emails
 
 ### **Email System**
 - **Delivery Rate**: 99%+ with proper SMTP configuration

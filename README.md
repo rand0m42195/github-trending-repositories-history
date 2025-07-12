@@ -152,8 +152,8 @@ export SENDER_EMAIL=your-email@gmail.com
 ### GitHub Actions
 
 The project includes automated workflows:
-- **Daily Updates**: Fetches trending data and generates webpage
-- **Subscription Processing**: Processes subscription requests from GitHub Issues
+- **Daily Updates**: Fetches trending data and generates webpage (daily at 2:00 UTC)
+- **Subscription Processing**: Processes subscription requests from GitHub Issues (every 30 minutes)
 
 ## 📊 Data Storage
 

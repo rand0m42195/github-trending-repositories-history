@@ -20,6 +20,14 @@ This guide explains how to set up and use the email subscription feature for Git
    - Get notified when a specific repository appears on trending
    - Perfect for monitoring your favorite projects
 
+## Automated Processing
+
+GitHub Actions automatically processes subscription requests every 30 minutes:
+- Checks for new subscription issues
+- Processes subscription requests
+- Updates subscription data
+- Sends confirmation emails
+
 ## Setup Instructions
 
 ### 1. **Configure Email Settings**
