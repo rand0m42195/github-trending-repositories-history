@@ -127,7 +127,7 @@ class EmailSender:
 
     def send_welcome_email(self, to_email):
         """Send welcome/confirmation email with unsubscribe button"""
-        unsubscribe_url = f"https://your-domain.com/unsubscribe?email={to_email}"
+        unsubscribe_url = f"https://rand0m42195.github.io/github-trending-repositories-history/unsubscribe?email={to_email}"
         html_content = f"""
         <html>
         <body style='font-family: Arial, sans-serif;'>
@@ -184,7 +184,7 @@ def generate_category_email_content(category, repos, date):
     html += f"""
         <div style=\"margin-top: 30px; padding: 15px; background-color: #f6f8fa; border-radius: 6px;\">
             <p>View all trending repositories: <a href=\"https://rand0m42195.github.io/github-trending-repositories-history\">GitHub Trending History</a></p>
-            <a href=\"https://your-domain.com/unsubscribe?email={repos[0].get('subscriber_email', '')}\" style=\"display:inline-block;padding:10px 20px;background:#dc3545;color:white;text-decoration:none;border-radius:5px;font-weight:bold;\">Unsubscribe</a>
+            <a href=\"https://rand0m42195.github.io/github-trending-repositories-history/unsubscribe?email={repos[0].get('subscriber_email', '')}\" style=\"display:inline-block;padding:10px 20px;background:#dc3545;color:white;text-decoration:none;border-radius:5px;font-weight:bold;\">Unsubscribe</a>
         </div>
     </body>
     </html>
@@ -229,7 +229,7 @@ def generate_repository_email_content(repo, date):
         
         <div style="margin-top: 30px; padding: 15px; background-color: #f6f8fa; border-radius: 6px;">
             <p>View all trending repositories: <a href="https://rand0m42195.github.io/github-trending-repositories-history">GitHub Trending History</a></p>
-            <a href="https://your-domain.com/unsubscribe?email={repo.get('subscriber_email', '')}" style="display:inline-block;padding:10px 20px;background:#dc3545;color:white;text-decoration:none;border-radius:5px;font-weight:bold;">Unsubscribe</a>
+            <a href="https://rand0m42195.github.io/github-trending-repositories-history/unsubscribe?email={repo.get('subscriber_email', '')}" style="display:inline-block;padding:10px 20px;background:#dc3545;color:white;text-decoration:none;border-radius:5px;font-weight:bold;">Unsubscribe</a>
         </div>
     </body>
     </html>

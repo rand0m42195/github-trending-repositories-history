@@ -179,6 +179,8 @@ def get_repos_by_date(target_date):
 # 8. Render webpage
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
+
+# Generate main page
 tmpl = env.get_template('index.html.j2')
 html = tmpl.render(
     today_repos=today_repos,
@@ -192,6 +194,14 @@ html = tmpl.render(
 with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
     f.write(html)
 print(f'Generated {OUTPUT_FILE}')
+
+# Generate unsubscribe page
+unsubscribe_tmpl = env.get_template('unsubscribe.html.j2')
+unsubscribe_html = unsubscribe_tmpl.render(email='')
+unsubscribe_file = os.path.join(OUTPUT_DIR, 'unsubscribe.html')
+with open(unsubscribe_file, 'w', encoding='utf-8') as f:
+    f.write(unsubscribe_html)
+print(f'Generated {unsubscribe_file}')
 
 # 9. Send subscription emails
 if today_repos:

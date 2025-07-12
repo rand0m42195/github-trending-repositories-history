@@ -4,7 +4,8 @@ from github import Github
 from subscription_manager import SubscriptionManager
 
 REPO = "rand0m42195/github-trending-repositories-history"
-LABEL = "subscription"
+SUBSCRIPTION_LABEL = "subscription"
+UNSUBSCRIBE_LABEL = "unsubscribe"
 TOKEN = os.environ.get("GITHUB_TOKEN")
 
 def parse_issue_body(body):
@@ -24,15 +25,24 @@ def parse_issue_body(body):
         'repositories': repositories
     }
 
+def parse_unsubscribe_body(body):
+    """Parse unsubscribe details from GitHub Issue body"""
+    email_match = re.search(r'\*\*Email:\*\*\s*(.+)', body)
+    email = email_match.group(1).strip() if email_match else None
+    return {'email': email}
+
 def main():
     if not TOKEN:
         print("❌ GITHUB_TOKEN not set!")
         return
+    
     g = Github(TOKEN)
     repo = g.get_repo(REPO)
-    issues = repo.get_issues(state='open', labels=[LABEL])
     subscription_manager = SubscriptionManager()
-    for issue in issues:
+    
+    # Process subscription issues
+    subscription_issues = repo.get_issues(state='open', labels=[SUBSCRIPTION_LABEL])
+    for issue in subscription_issues:
         data = parse_issue_body(issue.body)
         if data['email']:
             print(f"Processing subscription for {data['email']}")
@@ -44,6 +54,22 @@ def main():
             # Close issue and add comment
             issue.create_comment("✅ Subscription processed and added. Thank you!")
             issue.edit(state="closed")
+    
+    # Process unsubscribe issues
+    unsubscribe_issues = repo.get_issues(state='open', labels=[UNSUBSCRIBE_LABEL])
+    for issue in unsubscribe_issues:
+        data = parse_unsubscribe_body(issue.body)
+        if data['email']:
+            print(f"Processing unsubscribe for {data['email']}")
+            success = subscription_manager.remove_email_subscription(data['email'])
+            if success:
+                # Close issue and add comment
+                issue.create_comment("✅ Successfully unsubscribed. You will no longer receive updates.")
+                issue.edit(state="closed")
+            else:
+                # Close issue and add comment
+                issue.create_comment("❌ Email not found in subscription list.")
+                issue.edit(state="closed")
 
 if __name__ == "__main__":
     main() 
