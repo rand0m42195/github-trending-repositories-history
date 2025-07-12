@@ -44,6 +44,7 @@ A comprehensive tool that automatically tracks and analyzes GitHub trending repo
 - **Welcome Emails**: Automatic welcome emails sent immediately after subscription
 - **Easy Unsubscribe**: One-click unsubscribe links in all emails
 - **Automatic Daily Sending**: GitHub Actions automatically sends subscription emails daily
+- **GitHub Issues Integration**: Subscription requests are created as GitHub Issues for easy management
 
 ## How It Works
 

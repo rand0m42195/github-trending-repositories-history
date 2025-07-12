@@ -633,61 +633,63 @@
                 .map(repo => repo.trim())
                 .filter(repo => repo && repo.includes('/'));
             
-            // Disable button and show loading
-            submitBtn.disabled = true;
-            submitBtn.textContent = 'Subscribing...';
-            messageDiv.innerHTML = '';
-            
-            // For now, show a success message (API endpoint would be configured separately)
-            setTimeout(() => {
+            // Validate email
+            if (!email || !email.includes('@')) {
                 messageDiv.innerHTML = `
-                    <div style="background: #d4edda; color: #155724; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
-                        <strong>Success!</strong> Subscription request received for ${email}<br>
-                        <small>Note: Email functionality requires server-side configuration. See README.md for setup instructions.</small>
+                    <div style="background: #f8d7da; color: #721c24; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                        <strong>Error:</strong> Please enter a valid email address.
                     </div>
                 `;
-                document.getElementById('subscriptionForm').reset();
-                submitBtn.disabled = false;
-                submitBtn.textContent = 'Subscribe to Updates';
-            }, 1000);
+                return;
+            }
             
-            // In a real implementation, you would make an API call here:
-            /*
-            fetch('/subscribe', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({
-                    email: email,
-                    categories: categories,
-                    repositories: repositories
-                })
-            })
-            .then(response => response.json())
-            .then(result => {
-                if (response.ok) {
-                    messageDiv.innerHTML = `<div style="background: #d4edda; color: #155724; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
-                        <strong>Success!</strong> ${result.message}<br>
-                        You'll start receiving daily updates about trending repositories.
-                    </div>`;
-                    document.getElementById('subscriptionForm').reset();
-                } else {
-                    messageDiv.innerHTML = `<div style="background: #f8d7da; color: #721c24; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
-                        <strong>Error:</strong> ${result.error}
-                    </div>`;
-                }
-            })
-            .catch(error => {
-                messageDiv.innerHTML = `<div style="background: #f8d7da; color: #721c24; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
-                    <strong>Error:</strong> Failed to subscribe. Please try again later.
-                </div>`;
-            })
-            .finally(() => {
-                submitBtn.disabled = false;
-                submitBtn.textContent = 'Subscribe to Updates';
-            });
-            */
+            // Validate that at least one category or repository is selected
+            if (categories.length === 0 && repositories.length === 0) {
+                messageDiv.innerHTML = `
+                    <div style="background: #f8d7da; color: #721c24; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                        <strong>Error:</strong> Please select at least one category or repository.
+                    </div>
+                `;
+                return;
+            }
+            
+            // Disable button and show loading
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Creating Subscription...';
+            messageDiv.innerHTML = '';
+            
+            // Create GitHub Issue URL
+            const issueTitle = encodeURIComponent(`Subscribe: ${email}`);
+            const issueBody = encodeURIComponent(`## Email Subscription Request
+
+**Email:** ${email}
+
+**Categories:** ${categories.length > 0 ? categories.join(', ') : 'None'}
+
+**Repositories:** ${repositories.length > 0 ? repositories.join(', ') : 'None'}
+
+**Request Date:** ${new Date().toISOString()}
+
+---
+*This subscription request was submitted via the GitHub Trending website.*`);
+            
+            const issueUrl = `https://github.com/rand0m42195/github-trending-repositories-history/issues/new?title=${issueTitle}&body=${issueBody}&labels=subscription`;
+            
+            // Show success message with link to create issue
+            messageDiv.innerHTML = `
+                <div style="background: #d4edda; color: #155724; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                    <strong>Almost Done!</strong><br>
+                    To complete your subscription, please click the button below to create a GitHub issue.<br><br>
+                    <a href="${issueUrl}" target="_blank" style="display:inline-block;padding:10px 20px;background:#0070f3;color:white;text-decoration:none;border-radius:5px;font-weight:bold;">
+                        📝 Create Subscription Issue
+                    </a><br><br>
+                    <small>After creating the issue, your subscription will be processed within 24 hours.</small>
+                </div>
+            `;
+            
+            document.getElementById('subscriptionForm').reset();
+            submitBtn.disabled = false;
+            submitBtn.textContent = 'Subscribe to Updates';
         }
     </script>
 
