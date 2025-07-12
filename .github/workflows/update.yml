@@ -25,10 +25,10 @@ jobs:
           pip install -r requirements.txt
 
       - name: Fetch GitHub Trending
-        run: python fetch_trending.py
+        run: python main.py fetch
 
       - name: Analyze and Generate Webpage
-        run: python analyze_and_generate.py
+        run: python main.py analyze
 
       - name: Send Subscription Emails
         env:
@@ -37,12 +37,12 @@ jobs:
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-        run: python send_subscriptions.py
+        run: python src/subscription/manager.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add trending_data/ docs/index.html subscriptions.json
+          git add data/trending_data/ docs/index.html data/subscriptions.json
           git commit -m 'chore: update trending data and webpage [auto]' || echo 'No changes to commit'
           git push

@@ -1,5 +1,6 @@
-requests
-beautifulsoup4
-jinja2
-flask
-waitress 
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+jinja2>=3.1.0
+flask>=3.0.0
+waitress>=3.0.0
+PyGithub>=2.0.0 

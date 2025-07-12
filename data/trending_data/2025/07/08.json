@@ -1,0 +1,72 @@
+[
+  {
+    "name": "rustfs/rustfs",
+    "link": "https://github.com/rustfs/rustfs",
+    "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+    "language": "Rust",
+    "rank": 1
+  },
+  {
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "language": "Jupyter Notebook",
+    "rank": 2
+  },
+  {
+    "name": "th-ch/youtube-music",
+    "link": "https://github.com/th-ch/youtube-music",
+    "description": "YouTube Music Desktop App bundled with custom plugins",
+    "language": "TypeScript",
+    "rank": 3
+  },
+  {
+    "name": "dockur/macos",
+    "link": "https://github.com/dockur/macos",
+    "description": "macOS inside a Docker container.",
+    "language": "Shell",
+    "rank": 4
+  },
+  {
+    "name": "pocketbase/pocketbase",
+    "link": "https://github.com/pocketbase/pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "language": "Go",
+    "rank": 5
+  },
+  {
+    "name": "commaai/openpilot",
+    "link": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "language": "Python",
+    "rank": 6
+  },
+  {
+    "name": "smallcloudai/refact",
+    "link": "https://github.com/smallcloudai/refact",
+    "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+    "language": "Rust",
+    "rank": 7
+  },
+  {
+    "name": "humanlayer/12-factor-agents",
+    "link": "https://github.com/humanlayer/12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "language": "TypeScript",
+    "rank": 8
+  },
+  {
+    "name": "ed-donner/llm_engineering",
+    "link": "https://github.com/ed-donner/llm_engineering",
+    "description": "Repo to accompany my mastering LLM engineering course",
+    "language": "Jupyter Notebook",
+    "rank": 9
+  },
+  {
+    "name": "CodeWithHarry/Sigma-Web-Dev-Course",
+    "link": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+    "description": "Source Code for Sigma Web Development Course",
+    "language": "JavaScript",
+    "rank": 10
+  }
+]

@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Trending Repositories History</title>
+    <link rel="icon" href="static/logo.svg">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
+        h1, h2, h3 { color: #333; }
+        .container { max-width: 1400px; margin: 0 auto; }
+        .section { background: #fff; margin: 20px 0; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        
+        /* Header and Logo Styles */
+        .header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: linear-gradient(135deg, #24292e 0%, #0366d6 100%);
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .logo-container {
+            flex-shrink: 0;
+        }
+        
+        .logo {
+            width: 80px;
+            height: 80px;
+            filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+            transition: transform 0.3s ease;
+        }
+        
+        .logo:hover {
+            transform: scale(1.05);
+        }
+        
+        .header-content {
+            flex: 1;
+        }
+        
+        .header h1 {
+            color: #fff;
+            margin: 0;
+            font-size: 2.2em;
+            font-weight: 700;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header-subtitle {
+            color: #f6f8fa;
+            margin: 5px 0 0 0;
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        /* Responsive design for header */
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                text-align: center;
+                gap: 15px;
+            }
+            
+            .logo {
+                width: 60px;
+                height: 60px;
+            }
+            
+            .header h1 {
+                font-size: 1.8em;
+            }
+            
+            .header-subtitle {
+                font-size: 1em;
+            }
+        }
+        table { border-collapse: collapse; width: 100%; background: #fff; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background: #f0f0f0; }
+        tr:nth-child(even) { background: #f6f6f6; }
+        .lang { font-size: 0.9em; color: #666; }
+        .streak { font-weight: bold; color: #0070f3; }
+        .repo-name { font-weight: bold; }
+        .rank-cell { text-align: center; }
+        .category-badge { 
+            padding: 2px 8px; 
+            border-radius: 12px; 
+            font-size: 0.8em; 
+            font-weight: bold; 
+            color: white; 
+            display: inline-block;
+            margin-left: 8px;
+        }
+        /* Category colors - using more specific selectors */
+        .category-badge.category-aiml { background: #ff6b6b; }
+        .category-badge.category-webdevelopment { background: #4ecdc4; }
+        .category-badge.category-mobile { background: #45b7d1; }
+        .category-badge.category-devops { background: #96ceb4; }
+        .category-badge.category-datascience { background: #feca57; }
+        .category-badge.category-systemos { background: #ff9ff3; }
+        .category-badge.category-security { background: #ff9f43; }
+        .category-badge.category-learning { background: #54a0ff; }
+        .category-badge.category-other { background: #5f27cd; }
+        /* Fallback for any unmatched categories */
+        .category-badge:not([class*="category-"]) { background: #6c757d; }
+        .today-badge { background: #28a745; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; }
+        .nav-tabs { border-bottom: 1px solid #ddd; margin-bottom: 20px; }
+        .nav-tabs a { display: inline-block; padding: 10px 20px; text-decoration: none; color: #666; border-bottom: 2px solid transparent; }
+        .nav-tabs a.active { color: #0070f3; border-bottom-color: #0070f3; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        .stats { display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap; }
+        .stat-box { background: #f8f9fa; padding: 15px; border-radius: 5px; text-align: center; flex: 1; min-width: 120px; }
+        .stat-number { font-size: 2em; font-weight: bold; color: #0070f3; }
+        .stat-label { color: #666; font-size: 0.9em; }
+        .filters { margin: 20px 0; padding: 15px; background: #f8f9fa; border-radius: 5px; }
+        .filter-group { display: inline-block; margin-right: 20px; }
+        .filter-group label { font-weight: bold; margin-right: 8px; }
+        .filter-group select, .filter-group input { padding: 6px; border: 1px solid #ddd; border-radius: 3px; }
+        .search-box { width: 300px; }
+        .date-selector { margin: 20px 0; padding: 15px; background: #f8f9fa; border-radius: 5px; }
+        .date-selector label { font-weight: bold; margin-right: 10px; display: block; margin-bottom: 10px; }
+        .date-picker { display: flex; gap: 10px; margin-bottom: 15px; align-items: center; }
+        .date-selector select { padding: 8px; border: 1px solid #ddd; border-radius: 3px; min-width: 120px; }
+        .date-selector select:disabled { background-color: #f5f5f5; color: #999; cursor: not-allowed; }
+        .date-selector button { padding: 8px 16px; background: #0070f3; color: white; border: none; border-radius: 3px; cursor: pointer; }
+        .date-selector button:hover:not(:disabled) { background: #0056b3; }
+        .date-selector button:disabled { background: #ccc; cursor: not-allowed; }
+        .no-data { text-align: center; color: #666; font-style: italic; padding: 40px; }
+        .chart-container { margin: 20px 0; height: 400px; }
+        .category-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0; }
+        .category-card { background: #fff; padding: 15px; border-radius: 8px; border-left: 4px solid #0070f3; }
+        .category-name { font-weight: bold; margin-bottom: 5px; }
+        .category-count { color: #0070f3; font-size: 1.2em; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header with Logo -->
+        <div class="header">
+            <div class="logo-container">
+                <img src="static/logo.svg" alt="GitHub Trending History Logo" class="logo">
+            </div>
+            <div class="header-content">
+                <h1>GitHub Trending Repositories History</h1>
+                <p class="header-subtitle">Track trending repositories over time with historical data and trend analysis</p>
+            </div>
+        </div>
+        
+        <!-- Statistics -->
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-number">{{ dates|length }}</div>
+                <div class="stat-label">Total Days</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number">{{ all_repos|length }}</div>
+                <div class="stat-label">Total Repositories</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number">{{ today_repos|length }}</div>
+                <div class="stat-label">Today's Trending</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number">{{ categories|length }}</div>
+                <div class="stat-label">Categories</div>
+            </div>
+        </div>
+
+        <!-- Category Statistics -->
+        <div class="section">
+            <h2>Category Distribution</h2>
+            <div class="category-stats">
+                {% for category, stats in category_stats.items() %}
+                <div class="category-card">
+                    <div class="category-name">{{ category }}</div>
+                    <div class="category-count">{{ stats.count }} repos</div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- Navigation tabs -->
+        <div class="nav-tabs">
+            <a href="#today" class="active" onclick="showTab('today')">📊 Today's Trending</a>
+            <a href="#historical" onclick="showTab('historical')">📅 Historical Data</a>
+            <a href="#trends" onclick="showTab('trends')">📈 Trends Analysis</a>
+            <a href="#subscribe" onclick="showTab('subscribe')">📧 Subscribe</a>
+        </div>
+
+        <!-- Today's Trending -->
+        <div id="today" class="tab-content active">
+            <div class="section">
+                <h2>Today's GitHub Trending ({{ today }})</h2>
+                
+                <!-- Filters -->
+                <div class="filters">
+                    <div class="filter-group">
+                        <label for="categoryFilter">Category:</label>
+                        <select id="categoryFilter" onchange="filterTable()">
+                            <option value="">All Categories</option>
+                            {% for category in categories %}
+                            <option value="{{ category }}">{{ category }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="searchBox">Search:</label>
+                        <input type="text" id="searchBox" class="search-box" placeholder="Search repositories..." onkeyup="filterTable()">
+                    </div>
+                </div>
+
+                {% if today_repos %}
+                    <table id="todayTable">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Repository</th>
+                                <th>Description</th>
+                                <th>Language</th>
+                                <th>Category</th>
+                                <th>Streak (days)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        {% for repo in today_repos %}
+                            <tr data-category="{{ repo.category }}" data-name="{{ repo.name|lower }}" data-description="{{ repo.description|lower }}">
+                                <td class="rank-cell">{{ repo.rank }}</td>
+                                <td class="repo-name">
+                                    <a href="{{ repo.link }}" target="_blank">{{ repo.name }}</a>
+                                    <span class="today-badge">TODAY</span>
+                                </td>
+                                <td>{{ repo.description }}</td>
+                                <td class="lang">{{ repo.language }}</td>
+                                <td>
+                                    <span class="category-badge category-{{ repo.category|lower|replace('/', '')|replace(' ', '')|replace('&', '') }}">
+                                        {{ repo.category }}
+                                    </span>
+                                </td>
+                                <td class="streak">{{ repo.streak }}</td>
+                            </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                {% else %}
+                    <p>No data available for today yet.</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- Historical Data -->
+        <div id="historical" class="tab-content">
+            <div class="section">
+                <h2>Historical Data</h2>
+                <div class="date-selector">
+                    <label>Choose a date:</label>
+                    <div class="date-picker">
+                        <select id="yearSelect" onchange="updateMonthSelect()">
+                            <option value="" disabled selected>Select Year</option>
+                        </select>
+                        <select id="monthSelect" onchange="updateDaySelect()" disabled>
+                            <option value="" disabled selected>Select Month</option>
+                        </select>
+                        <select id="daySelect" onchange="loadDateData()" disabled>
+                            <option value="" disabled selected>Select Day</option>
+                        </select>
+                    </div>
+                    <button onclick="loadDateData()" id="loadDataBtn" disabled>Load Data</button>
+                </div>
+                <div id="selectedDateContent">
+                    <div class="no-data">Select a date above to view trending data</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Trends Analysis -->
+        <div id="trends" class="tab-content">
+            <div class="section">
+                <h2>Trends Analysis</h2>
+                <div class="chart-container">
+                    <canvas id="categoryChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <canvas id="streakChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Subscribe -->
+        <div id="subscribe" class="tab-content">
+            <div class="section">
+                <h2>📧 Subscribe to GitHub Trending Updates</h2>
+                <p>Get daily email notifications about trending repositories in your favorite categories.</p>
+                
+                <div class="info" style="background: #d1ecf1; color: #0c5460; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                    <strong>How it works:</strong> Subscribe to receive daily email updates about GitHub trending repositories. You can choose specific technology categories or individual repositories to follow.
+                </div>
+                
+                <div id="subscriptionMessage"></div>
+                
+                <form id="subscriptionForm">
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label for="email" style="display: block; margin-bottom: 5px; font-weight: 600; color: #24292e;">Email Address *</label>
+                        <input type="email" id="email" name="email" required placeholder="your.email@example.com" style="width: 100%; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; font-size: 16px; box-sizing: border-box;">
+                    </div>
+                    
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label style="display: block; margin-bottom: 5px; font-weight: 600; color: #24292e;">Technology Categories</label>
+                        <p style="margin: 5px 0; color: #6a737d; font-size: 14px;">Select categories you're interested in (optional)</p>
+                        <div class="checkbox-group" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-top: 10px;">
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="ai-ml" name="categories" value="AI/ML" style="margin-right: 8px; width: auto;">
+                                <label for="ai-ml">🤖 AI/ML</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="web-dev" name="categories" value="Web Development" style="margin-right: 8px; width: auto;">
+                                <label for="web-dev">🌐 Web Development</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="mobile" name="categories" value="Mobile" style="margin-right: 8px; width: auto;">
+                                <label for="mobile">📱 Mobile</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="devops" name="categories" value="DevOps" style="margin-right: 8px; width: auto;">
+                                <label for="devops">⚙️ DevOps</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="data-science" name="categories" value="Data Science" style="margin-right: 8px; width: auto;">
+                                <label for="data-science">📊 Data Science</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="system-os" name="categories" value="System/OS" style="margin-right: 8px; width: auto;">
+                                <label for="system-os">💻 System/OS</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="security" name="categories" value="Security" style="margin-right: 8px; width: auto;">
+                                <label for="security">🔒 Security</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="learning" name="categories" value="Learning" style="margin-right: 8px; width: auto;">
+                                <label for="learning">📚 Learning</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label for="repositories" style="display: block; margin-bottom: 5px; font-weight: 600; color: #24292e;">Specific Repositories</label>
+                        <p style="margin: 5px 0; color: #6a737d; font-size: 14px;">Enter repository names (owner/repo) to track specific projects (optional)</p>
+                        <textarea id="repositories" name="repositories" rows="3" placeholder="e.g., openai/gpt-4&#10;microsoft/vscode&#10;facebook/react" style="width: 100%; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; font-size: 16px; box-sizing: border-box;"></textarea>
+                    </div>
+                    
+                    <button type="submit" id="submitBtn" style="background: #28a745; color: white; border: none; padding: 12px 24px; border-radius: 6px; font-size: 16px; cursor: pointer; width: 100%; margin-top: 20px;">Subscribe to Updates</button>
+                </form>
+                
+                <div style="margin-top: 30px; padding: 15px; background-color: #f6f8fa; border-radius: 6px;">
+                    <p style="margin: 5px 0;"><strong>Note:</strong> Email subscriptions are sent daily at 2:00 UTC when new trending data is available.</p>
+                    <p style="margin: 5px 0;">You can unsubscribe at any time by replying to the emails with "unsubscribe" in the subject.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Store date data
+        const dateData = {
+            {% for date in dates %}
+                '{{ date }}': {{ get_repos_by_date(date) | tojson }},
+            {% endfor %}
+        };
+
+        // Available dates organized by year/month/day
+        const availableDates = {
+            {% for date in dates %}
+                '{{ date }}': true,
+            {% endfor %}
+        };
+
+        // Category data for charts
+        const categoryData = {{ category_stats | tojson }};
+        const categories = {{ categories | tojson }};
+
+        // Function to get category CSS class
+        function getCategoryClass(category) {
+            if (!category) return 'category-other';
+            
+            const categoryMap = {
+                'AI/ML': 'category-aiml',
+                'Web Development': 'category-webdevelopment',
+                'Mobile': 'category-mobile',
+                'DevOps': 'category-devops',
+                'Data Science': 'category-datascience',
+                'System/OS': 'category-systemos',
+                'Security': 'category-security',
+                'Learning': 'category-learning',
+                'Other': 'category-other'
+            };
+            
+            return categoryMap[category] || 'category-other';
+        }
+
+        function showTab(tabName) {
+            // Hide all tab contents
+            var tabContents = document.getElementsByClassName('tab-content');
+            for (var i = 0; i < tabContents.length; i++) {
+                tabContents[i].classList.remove('active');
+            }
+            
+            // Remove active class from all tabs
+            var navTabs = document.querySelectorAll('.nav-tabs a');
+            for (var i = 0; i < navTabs.length; i++) {
+                navTabs[i].classList.remove('active');
+            }
+            
+            // Show selected tab content
+            document.getElementById(tabName).classList.add('active');
+            
+            // Add active class to selected tab
+            event.target.classList.add('active');
+
+            // Initialize charts if trends tab is selected
+            if (tabName === 'trends') {
+                initializeCharts();
+            }
+        }
+
+        function filterTable() {
+            const categoryFilter = document.getElementById('categoryFilter').value.toLowerCase();
+            const searchBox = document.getElementById('searchBox').value.toLowerCase();
+            const table = document.getElementById('todayTable');
+            const rows = table.getElementsByTagName('tbody')[0].getElementsByTagName('tr');
+
+            for (let row of rows) {
+                const category = row.getAttribute('data-category').toLowerCase();
+                const name = row.getAttribute('data-name');
+                const description = row.getAttribute('data-description');
+                
+                const categoryMatch = !categoryFilter || category.includes(categoryFilter);
+                const searchMatch = !searchBox || name.includes(searchBox) || description.includes(searchBox);
+                
+                row.style.display = categoryMatch && searchMatch ? '' : 'none';
+            }
+        }
+
+        // Initialize date picker
+        function initializeDatePicker() {
+            const yearSelect = document.getElementById('yearSelect');
+            const monthSelect = document.getElementById('monthSelect');
+            const daySelect = document.getElementById('daySelect');
+            const loadBtn = document.getElementById('loadDataBtn');
+
+            // Get unique years from available dates
+            const years = [...new Set(Object.keys(availableDates).map(date => date.split('-')[0]))].sort();
+            
+            // Populate year select
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearSelect.appendChild(option);
+            });
+
+            // Set today's date as default if available
+            const today = '{{ today }}';
+            if (availableDates[today]) {
+                const [year, month, day] = today.split('-');
+                yearSelect.value = year;
+                updateMonthSelect();
+                monthSelect.value = month;
+                updateDaySelect();
+                daySelect.value = day;
+                loadBtn.disabled = false;
+            }
+        }
+
+        function updateMonthSelect() {
+            const yearSelect = document.getElementById('yearSelect');
+            const monthSelect = document.getElementById('monthSelect');
+            const daySelect = document.getElementById('daySelect');
+            const loadBtn = document.getElementById('loadDataBtn');
+            
+            const selectedYear = yearSelect.value;
+            
+            // Clear and disable month and day selects
+            monthSelect.innerHTML = '<option value="" disabled selected>Select Month</option>';
+            daySelect.innerHTML = '<option value="" disabled selected>Select Day</option>';
+            monthSelect.disabled = true;
+            daySelect.disabled = true;
+            loadBtn.disabled = true;
+            
+            if (!selectedYear) return;
+            
+            // Get available months for selected year
+            const months = [...new Set(
+                Object.keys(availableDates)
+                    .filter(date => date.startsWith(selectedYear + '-'))
+                    .map(date => date.split('-')[1])
+            )].sort();
+            
+            // Populate month select
+            months.forEach(month => {
+                const option = document.createElement('option');
+                option.value = month;
+                option.textContent = getMonthName(month);
+                monthSelect.appendChild(option);
+            });
+            
+            monthSelect.disabled = false;
+        }
+
+        function updateDaySelect() {
+            const yearSelect = document.getElementById('yearSelect');
+            const monthSelect = document.getElementById('monthSelect');
+            const daySelect = document.getElementById('daySelect');
+            const loadBtn = document.getElementById('loadDataBtn');
+            
+            const selectedYear = yearSelect.value;
+            const selectedMonth = monthSelect.value;
+            
+            // Clear and disable day select
+            daySelect.innerHTML = '<option value="" disabled selected>Select Day</option>';
+            daySelect.disabled = true;
+            loadBtn.disabled = true;
+            
+            if (!selectedYear || !selectedMonth) return;
+            
+            // Get available days for selected year/month
+            const days = Object.keys(availableDates)
+                .filter(date => date.startsWith(`${selectedYear}-${selectedMonth}-`))
+                .map(date => date.split('-')[2])
+                .sort();
+            
+            // Populate day select
+            days.forEach(day => {
+                const option = document.createElement('option');
+                option.value = day;
+                option.textContent = day;
+                daySelect.appendChild(option);
+            });
+            
+            daySelect.disabled = false;
+            loadBtn.disabled = false;
+        }
+
+        function getMonthName(month) {
+            const monthNames = {
+                '01': 'January', '02': 'February', '03': 'March', '04': 'April',
+                '05': 'May', '06': 'June', '07': 'July', '08': 'August',
+                '09': 'September', '10': 'October', '11': 'November', '12': 'December'
+            };
+            return monthNames[month] || month;
+        }
+
+        function loadDateData() {
+            const yearSelect = document.getElementById('yearSelect');
+            const monthSelect = document.getElementById('monthSelect');
+            const daySelect = document.getElementById('daySelect');
+            
+            const selectedYear = yearSelect.value;
+            const selectedMonth = monthSelect.value;
+            const selectedDay = daySelect.value;
+            
+            // Don't load data if any selection is empty (placeholder selected)
+            if (!selectedYear || !selectedMonth || !selectedDay) {
+                return;
+            }
+            
+            const selectedDate = `${selectedYear}-${selectedMonth}-${selectedDay}`;
+            const repos = dateData[selectedDate] || [];
+            const contentDiv = document.getElementById('selectedDateContent');
+            
+            if (repos.length === 0) {
+                contentDiv.innerHTML = '<div class="no-data">No data available for this date</div>';
+                return;
+            }
+
+            let tableHTML = `
+                <h3>GitHub Trending on ${selectedDate}</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Repository</th>
+                            <th>Description</th>
+                            <th>Language</th>
+                            <th>Category</th>
+                            <th>Streak (days)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            repos.forEach(repo => {
+                const categoryClass = getCategoryClass(repo.category);
+                tableHTML += `
+                    <tr>
+                        <td class="rank-cell">${repo.rank}</td>
+                        <td class="repo-name">
+                            <a href="${repo.link}" target="_blank">${repo.name}</a>
+                            ${selectedDate === '{{ today }}' ? '<span class="today-badge">TODAY</span>' : ''}
+                        </td>
+                        <td>${repo.description}</td>
+                        <td class="lang">${repo.language}</td>
+                        <td>
+                            <span class="category-badge ${categoryClass}">
+                                ${repo.category || 'Other'}
+                            </span>
+                        </td>
+                        <td class="streak">${repo.streak}</td>
+                    </tr>
+                `;
+            });
+
+            tableHTML += `
+                    </tbody>
+                </table>
+            `;
+
+            contentDiv.innerHTML = tableHTML;
+        }
+
+        function initializeCharts() {
+            // Category distribution chart
+            const categoryCtx = document.getElementById('categoryChart').getContext('2d');
+            new Chart(categoryCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: Object.keys(categoryData),
+                    datasets: [{
+                        data: Object.values(categoryData).map(cat => cat.count),
+                        backgroundColor: [
+                            '#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4', 
+                            '#feca57', '#ff9ff3', '#ff9f43', '#54a0ff', '#5f27cd'
+                        ]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Repository Distribution by Category'
+                        }
+                    }
+                }
+            });
+
+            // Top repositories by streak
+            const topRepos = {{ all_repos | tojson }}.slice(0, 10);
+            const streakCtx = document.getElementById('streakChart').getContext('2d');
+            new Chart(streakCtx, {
+                type: 'bar',
+                data: {
+                    labels: topRepos.map(repo => repo.name.split('/')[1]),
+                    datasets: [{
+                        label: 'Consecutive Days',
+                        data: topRepos.map(repo => repo.streak),
+                        backgroundColor: '#0070f3'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Top 10 Repositories by Consecutive Days'
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        // Auto-load today's data on page load if today is selected
+        window.onload = function() {
+            // Initialize date picker
+            initializeDatePicker();
+            
+            // Initialize subscription form
+            initializeSubscriptionForm();
+        };
+
+        // Subscription form handling
+        function initializeSubscriptionForm() {
+            const form = document.getElementById('subscriptionForm');
+            if (form) {
+                form.addEventListener('submit', handleSubscriptionSubmit);
+            }
+        }
+
+        function handleSubscriptionSubmit(e) {
+            e.preventDefault();
+            
+            const submitBtn = document.getElementById('submitBtn');
+            const messageDiv = document.getElementById('subscriptionMessage');
+            
+            // Get form data
+            const email = document.getElementById('email').value;
+            const categories = Array.from(document.querySelectorAll('input[name="categories"]:checked')).map(cb => cb.value);
+            const repositories = document.getElementById('repositories').value
+                .split('\n')
+                .map(repo => repo.trim())
+                .filter(repo => repo && repo.includes('/'));
+            
+            // Validate email
+            if (!email || !email.includes('@')) {
+                messageDiv.innerHTML = `
+                    <div style="background: #f8d7da; color: #721c24; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                        <strong>Error:</strong> Please enter a valid email address.
+                    </div>
+                `;
+                return;
+            }
+            
+            // Validate that at least one category or repository is selected
+            if (categories.length === 0 && repositories.length === 0) {
+                messageDiv.innerHTML = `
+                    <div style="background: #f8d7da; color: #721c24; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                        <strong>Error:</strong> Please select at least one category or repository.
+                    </div>
+                `;
+                return;
+            }
+            
+            // Disable button and show loading
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Creating Subscription...';
+            messageDiv.innerHTML = '';
+            
+            // Create GitHub Issue URL
+            const issueTitle = encodeURIComponent(`Subscribe: ${email}`);
+            const issueBody = encodeURIComponent(`## Email Subscription Request
+
+**Email:** ${email}
+
+**Categories:** ${categories.length > 0 ? categories.join(', ') : 'None'}
+
+**Repositories:** ${repositories.length > 0 ? repositories.join(', ') : 'None'}
+
+**Request Date:** ${new Date().toISOString()}
+
+---
+*This subscription request was submitted via the GitHub Trending website.*`);
+            
+            const issueUrl = `https://github.com/rand0m42195/github-trending-repositories-history/issues/new?title=${issueTitle}&body=${issueBody}&labels=subscription`;
+            
+            // Show success message with link to create issue
+            messageDiv.innerHTML = `
+                <div style="background: #d4edda; color: #155724; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                    <strong>Almost Done!</strong><br>
+                    To complete your subscription, please click the button below to create a GitHub issue.<br><br>
+                    <a href="${issueUrl}" target="_blank" style="display:inline-block;padding:10px 20px;background:#0070f3;color:white;text-decoration:none;border-radius:5px;font-weight:bold;">
+                        📝 Create Subscription Issue
+                    </a><br><br>
+                    <small>After creating the issue, your subscription will be processed within 24 hours.</small>
+                </div>
+            `;
+            
+            document.getElementById('subscriptionForm').reset();
+            submitBtn.disabled = false;
+            submitBtn.textContent = 'Subscribe to Updates';
+        }
+    </script>
+
+    <footer style="margin-top:2em; color:#888; font-size:0.9em; text-align:center;">
+        Generated on {{ today }} | Data from {{ dates[0] }} to {{ dates[-1] }}
+    </footer>
+</body>
+</html> 
