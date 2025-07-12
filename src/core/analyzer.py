@@ -49,7 +49,20 @@ def calc_streak(history_dates):
 
 def get_repos_by_date(target_date):
     """Get trending data for specific date"""
+    # First, build repo history to calculate streaks
     data_files = get_all_data_files()
+    repo_history = defaultdict(lambda: {'info': None, 'history': []})
+    
+    for date_str, file_path in data_files:
+        with open(file_path, encoding='utf-8') as f:
+            day_repos = json.load(f)
+        for repo in day_repos:
+            name = repo['name']
+            if not repo_history[name]['info']:
+                repo_history[name]['info'] = repo
+            repo_history[name]['history'].append((date_str, repo['rank']))
+    
+    # Now get the specific date data
     for date_str, file_path in data_files:
         if date_str == target_date:
             with open(file_path, encoding='utf-8') as f:
@@ -58,6 +71,19 @@ def get_repos_by_date(target_date):
             # Add consecutive days and category for each repo
             for repo in day_repos:
                 name = repo['name']
+                
+                # Calculate streak up to target date
+                if name in repo_history:
+                    history = sorted(repo_history[name]['history'], key=lambda x: x[0])
+                    # Only calculate consecutive days up to target date
+                    target_date_obj = datetime.strptime(target_date, '%Y-%m-%d')
+                    filtered_history = [(d, r) for d, r in history if datetime.strptime(d, '%Y-%m-%d') <= target_date_obj]
+                    dates_only = [d for d, _ in filtered_history]
+                    streak = calc_streak(dates_only)
+                    repo['streak'] = streak
+                else:
+                    repo['streak'] = 1  # First time on trending
+                
                 # Add category
                 repo['category'] = categorize_repo(repo)
             
