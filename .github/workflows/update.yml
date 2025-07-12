@@ -34,6 +34,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add trending_data/ docs/index.html
+          git add trending_data/ docs/index.html subscriptions.json
           git commit -m 'chore: update trending data and webpage [auto]' || echo 'No changes to commit'
           git push

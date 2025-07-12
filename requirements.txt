@@ -1,3 +1,5 @@
 requests
 beautifulsoup4
-jinja2 
+jinja2
+flask
+waitress 

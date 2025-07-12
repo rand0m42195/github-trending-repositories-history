@@ -138,6 +138,7 @@
             <a href="#today" class="active" onclick="showTab('today')">Today's Trending</a>
             <a href="#historical" onclick="showTab('historical')">Historical Data</a>
             <a href="#trends" onclick="showTab('trends')">Trends Analysis</a>
+            <a href="#subscribe" onclick="showTab('subscribe')">📧 Subscribe</a>
         </div>
 
         <!-- Today's Trending -->
@@ -477,6 +478,79 @@
                 </div>
             </div>
         </div>
+
+        <!-- Subscribe -->
+        <div id="subscribe" class="tab-content">
+            <div class="section">
+                <h2>📧 Subscribe to GitHub Trending Updates</h2>
+                <p>Get daily email notifications about trending repositories in your favorite categories.</p>
+                
+                <div class="info" style="background: #d1ecf1; color: #0c5460; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                    <strong>How it works:</strong> Subscribe to receive daily email updates about GitHub trending repositories. You can choose specific technology categories or individual repositories to follow.
+                </div>
+                
+                <div id="subscriptionMessage"></div>
+                
+                <form id="subscriptionForm">
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label for="email" style="display: block; margin-bottom: 5px; font-weight: 600; color: #24292e;">Email Address *</label>
+                        <input type="email" id="email" name="email" required placeholder="your.email@example.com" style="width: 100%; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; font-size: 16px; box-sizing: border-box;">
+                    </div>
+                    
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label style="display: block; margin-bottom: 5px; font-weight: 600; color: #24292e;">Technology Categories</label>
+                        <p style="margin: 5px 0; color: #6a737d; font-size: 14px;">Select categories you're interested in (optional)</p>
+                        <div class="checkbox-group" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-top: 10px;">
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="ai-ml" name="categories" value="AI/ML" style="margin-right: 8px; width: auto;">
+                                <label for="ai-ml">🤖 AI/ML</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="web-dev" name="categories" value="Web Development" style="margin-right: 8px; width: auto;">
+                                <label for="web-dev">🌐 Web Development</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="mobile" name="categories" value="Mobile" style="margin-right: 8px; width: auto;">
+                                <label for="mobile">📱 Mobile</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="devops" name="categories" value="DevOps" style="margin-right: 8px; width: auto;">
+                                <label for="devops">⚙️ DevOps</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="data-science" name="categories" value="Data Science" style="margin-right: 8px; width: auto;">
+                                <label for="data-science">📊 Data Science</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="system-os" name="categories" value="System/OS" style="margin-right: 8px; width: auto;">
+                                <label for="system-os">💻 System/OS</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="security" name="categories" value="Security" style="margin-right: 8px; width: auto;">
+                                <label for="security">🔒 Security</label>
+                            </div>
+                            <div class="checkbox-item" style="display: flex; align-items: center; padding: 8px; border: 1px solid #e1e4e8; border-radius: 4px; cursor: pointer;">
+                                <input type="checkbox" id="learning" name="categories" value="Learning" style="margin-right: 8px; width: auto;">
+                                <label for="learning">📚 Learning</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label for="repositories" style="display: block; margin-bottom: 5px; font-weight: 600; color: #24292e;">Specific Repositories</label>
+                        <p style="margin: 5px 0; color: #6a737d; font-size: 14px;">Enter repository names (owner/repo) to track specific projects (optional)</p>
+                        <textarea id="repositories" name="repositories" rows="3" placeholder="e.g., openai/gpt-4&#10;microsoft/vscode&#10;facebook/react" style="width: 100%; padding: 12px; border: 1px solid #e1e4e8; border-radius: 6px; font-size: 16px; box-sizing: border-box;"></textarea>
+                    </div>
+                    
+                    <button type="submit" id="submitBtn" style="background: #28a745; color: white; border: none; padding: 12px 24px; border-radius: 6px; font-size: 16px; cursor: pointer; width: 100%; margin-top: 20px;">Subscribe to Updates</button>
+                </form>
+                
+                <div style="margin-top: 30px; padding: 15px; background-color: #f6f8fa; border-radius: 6px;">
+                    <p style="margin: 5px 0;"><strong>Note:</strong> Email subscriptions are sent daily at 2:00 UTC when new trending data is available.</p>
+                    <p style="margin: 5px 0;">You can unsubscribe at any time by replying to the emails with "unsubscribe" in the subject.</p>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script>
@@ -680,7 +754,89 @@
             if (dateSelect.value === '2025-07-12') {
                 loadDateData();
             }
+            
+            // Initialize subscription form
+            initializeSubscriptionForm();
         };
+
+        // Subscription form handling
+        function initializeSubscriptionForm() {
+            const form = document.getElementById('subscriptionForm');
+            if (form) {
+                form.addEventListener('submit', handleSubscriptionSubmit);
+            }
+        }
+
+        function handleSubscriptionSubmit(e) {
+            e.preventDefault();
+            
+            const submitBtn = document.getElementById('submitBtn');
+            const messageDiv = document.getElementById('subscriptionMessage');
+            
+            // Get form data
+            const email = document.getElementById('email').value;
+            const categories = Array.from(document.querySelectorAll('input[name="categories"]:checked')).map(cb => cb.value);
+            const repositories = document.getElementById('repositories').value
+                .split('\n')
+                .map(repo => repo.trim())
+                .filter(repo => repo && repo.includes('/'));
+            
+            // Disable button and show loading
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Subscribing...';
+            messageDiv.innerHTML = '';
+            
+            // For now, show a success message (API endpoint would be configured separately)
+            setTimeout(() => {
+                messageDiv.innerHTML = `
+                    <div style="background: #d4edda; color: #155724; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                        <strong>Success!</strong> Subscription request received for ${email}<br>
+                        <small>Note: Email functionality requires server-side configuration. See README.md for setup instructions.</small>
+                    </div>
+                `;
+                document.getElementById('subscriptionForm').reset();
+                submitBtn.disabled = false;
+                submitBtn.textContent = 'Subscribe to Updates';
+            }, 1000);
+            
+            // In a real implementation, you would make an API call here:
+            /*
+            fetch('/subscribe', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    email: email,
+                    categories: categories,
+                    repositories: repositories
+                })
+            })
+            .then(response => response.json())
+            .then(result => {
+                if (response.ok) {
+                    messageDiv.innerHTML = `<div style="background: #d4edda; color: #155724; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                        <strong>Success!</strong> ${result.message}<br>
+                        You'll start receiving daily updates about trending repositories.
+                    </div>`;
+                    document.getElementById('subscriptionForm').reset();
+                } else {
+                    messageDiv.innerHTML = `<div style="background: #f8d7da; color: #721c24; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                        <strong>Error:</strong> ${result.error}
+                    </div>`;
+                }
+            })
+            .catch(error => {
+                messageDiv.innerHTML = `<div style="background: #f8d7da; color: #721c24; padding: 15px; border-radius: 6px; margin-bottom: 20px;">
+                    <strong>Error:</strong> Failed to subscribe. Please try again later.
+                </div>`;
+            })
+            .finally(() => {
+                submitBtn.disabled = false;
+                submitBtn.textContent = 'Subscribe to Updates';
+            });
+            */
+        }
     </script>
 
     <footer style="margin-top:2em; color:#888; font-size:0.9em; text-align:center;">

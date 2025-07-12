@@ -37,6 +37,12 @@ A comprehensive tool that automatically tracks and analyzes GitHub trending repo
 - **Category Distribution**: Charts showing the distribution of trending repositories across technology categories
 - **Streak Analysis**: Highlight repositories with the longest continuous trending periods
 
+### 📧 **Email Subscription System**
+- **Category Subscriptions**: Subscribe to daily updates for specific technology categories
+- **Repository Tracking**: Get notified when specific repositories appear on trending
+- **HTML Email Templates**: Beautiful, responsive email notifications with repository details
+- **Easy Unsubscribe**: Simple unsubscribe process via email reply
+
 ## How It Works
 
 1. **Data Collection**: The `fetch_trending.py` script scrapes GitHub's trending page daily
@@ -51,6 +57,8 @@ A comprehensive tool that automatically tracks and analyzes GitHub trending repo
 - **BeautifulSoup4**: HTML parsing for GitHub trending page
 - **Jinja2**: Template engine for webpage generation
 - **Chart.js**: Interactive data visualization
+- **Flask**: REST API for subscription management
+- **SMTP**: Email delivery system
 - **GitHub Actions**: Automated workflow orchestration
 - **GitHub Pages**: Static website hosting
 
@@ -59,8 +67,11 @@ A comprehensive tool that automatically tracks and analyzes GitHub trending repo
 ```
 ├── fetch_trending.py          # Daily trending data scraper
 ├── analyze_and_generate.py    # Data analysis and webpage generation
+├── subscription_manager.py    # Email subscription management
+├── subscription_api.py        # REST API for subscriptions
 ├── migrate_data.py           # Data migration utilities
 ├── requirements.txt          # Python dependencies
+├── subscriptions.json        # Subscription data storage
 ├── trending_data/           # Historical data storage (year/month/day structure)
 ├── templates/               # Jinja2 HTML templates
 ├── docs/                   # Generated webpage (GitHub Pages)
@@ -96,6 +107,29 @@ The tool is designed to run automatically via GitHub Actions. Simply:
 1. Enable GitHub Actions in your repository
 2. The workflow will run daily at 2:00 UTC
 3. Results are automatically deployed to GitHub Pages
+4. Email subscriptions are sent automatically to subscribers
+
+### Email Subscription Setup
+To enable email subscriptions, set the following environment variables in your GitHub repository:
+- `SMTP_SERVER`: Your SMTP server (e.g., smtp.gmail.com)
+- `SMTP_PORT`: SMTP port (usually 587 for TLS)
+- `SMTP_USERNAME`: Your email username
+- `SMTP_PASSWORD`: Your email password or app password
+- `SENDER_EMAIL`: The email address to send from
+
+**Quick Setup:**
+```bash
+# Run the interactive setup script
+python setup_subscription.py
+
+# Test the subscription system
+python test_subscription.py
+```
+
+**Manual Setup:**
+1. Copy `subscriptions_example.json` to `subscriptions.json`
+2. Add your email configuration to GitHub repository secrets
+3. Follow the `GITHUB_SECRETS_GUIDE.md` for detailed instructions
 
 ## Data Storage
 

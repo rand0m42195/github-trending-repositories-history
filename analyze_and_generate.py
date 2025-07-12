@@ -3,6 +3,7 @@ import json
 from collections import defaultdict, OrderedDict
 from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
+from subscription_manager import send_daily_subscriptions
 
 DATA_DIR = 'trending_data'
 OUTPUT_DIR = 'docs'
@@ -190,4 +191,9 @@ html = tmpl.render(
 )
 with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
     f.write(html)
-print(f'Generated {OUTPUT_FILE}') 
+print(f'Generated {OUTPUT_FILE}')
+
+# 9. Send subscription emails
+if today_repos:
+    send_daily_subscriptions(today_repos, dict(category_stats))
+    print('Subscription emails sent') 
