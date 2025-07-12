@@ -1,0 +1,73 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#24292e" stroke="#f6f8fa" stroke-width="4"/>
+  
+  <!-- GitHub cat head base shape -->
+  <circle cx="100" cy="85" r="45" fill="#f6f8fa"/>
+  
+  <!-- Cat ears (enlarged for better visibility) -->
+  <ellipse cx="75" cy="55" rx="16" ry="25" fill="#f6f8fa" transform="rotate(-20 75 55)"/>
+  <ellipse cx="125" cy="55" rx="16" ry="25" fill="#f6f8fa" transform="rotate(20 125 55)"/>
+  
+  <!-- Eyes -->
+  <circle cx="88" cy="78" r="4" fill="#24292e"/>
+  <circle cx="112" cy="78" r="4" fill="#24292e"/>
+  
+  <!-- Nose -->
+  <ellipse cx="100" cy="88" rx="2" ry="3" fill="#24292e"/>
+  
+  <!-- Mouth -->
+  <path d="M 95 95 Q 100 100 105 95" stroke="#24292e" stroke-width="2" fill="none"/>
+  
+  <!-- Trending chart -->
+  <g transform="translate(0, 20)">
+    <!-- Chart background -->
+    <rect x="30" y="110" width="140" height="60" fill="#0366d6" fill-opacity="0.1" rx="8"/>
+    
+    <!-- Grid lines -->
+    <g stroke="#0366d6" stroke-width="0.5" opacity="0.3">
+      <line x1="40" y1="120" x2="160" y2="120"/>
+      <line x1="40" y1="135" x2="160" y2="135"/>
+      <line x1="40" y1="150" x2="160" y2="150"/>
+      <line x1="50" y1="115" x2="50" y2="165"/>
+      <line x1="80" y1="115" x2="80" y2="165"/>
+      <line x1="110" y1="115" x2="110" y2="165"/>
+      <line x1="140" y1="115" x2="140" y2="165"/>
+    </g>
+    
+    <!-- Trend line -->
+    <path d="M 40 150 L 60 145 L 80 135 L 100 125 L 120 130 L 140 120 L 160 115" 
+          stroke="#28a745" stroke-width="3" fill="none"/>
+    
+    <!-- Data points -->
+    <circle cx="40" cy="150" r="3" fill="#28a745"/>
+    <circle cx="60" cy="145" r="3" fill="#28a745"/>
+    <circle cx="80" cy="135" r="3" fill="#28a745"/>
+    <circle cx="100" cy="125" r="3" fill="#28a745"/>
+    <circle cx="120" cy="130" r="3" fill="#28a745"/>
+    <circle cx="140" cy="120" r="3" fill="#28a745"/>
+    <circle cx="160" cy="115" r="3" fill="#28a745"/>
+  </g>
+  
+  <!-- History clock element -->
+  <g transform="translate(160, 50)">
+    <circle cx="0" cy="0" r="15" fill="#fd7e14" fill-opacity="0.9"/>
+    <circle cx="0" cy="0" r="12" fill="#fff"/>
+    <!-- Hour hand -->
+    <line x1="0" y1="0" x2="0" y2="-8" stroke="#fd7e14" stroke-width="2" stroke-linecap="round"/>
+    <!-- Minute hand -->
+    <line x1="0" y1="0" x2="6" y2="-4" stroke="#fd7e14" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Center dot -->
+    <circle cx="0" cy="0" r="1.5" fill="#fd7e14"/>
+  </g>
+  
+  <!-- Decorative stars -->
+  <g fill="#ffd700" opacity="0.8">
+    <polygon points="45,45 47,50 52,50 48,54 50,59 45,56 40,59 42,54 38,50 43,50" transform="scale(0.6)"/>
+    <polygon points="155,45 157,50 162,50 158,54 160,59 155,56 150,59 152,54 148,50 153,50" transform="scale(0.4)"/>
+    <polygon points="170,120 172,125 177,125 173,129 175,134 170,131 165,134 167,129 163,125 168,125" transform="scale(0.3)"/>
+  </g>
+  
+  <!-- Bottom text -->
+  <text x="100" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#24292e">TRENDING HISTORY</text>
+</svg> 
