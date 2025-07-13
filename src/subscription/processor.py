@@ -49,13 +49,7 @@ def process_subscription_issues():
     
     # Initialize GitHub API
     g = Github(github_token)
-    # Debug: Test API connection
-    try:
-        user = g.get_user()
-        print(f"🔗 Connected to GitHub as: {user.login}")
-    except Exception as e:
-        print(f"❌ Failed to connect to GitHub API: {e}")
-        return
+    print(f"🔗 Initialized GitHub API with token")
     
     # Get repository
     repo_name = "rand0m42195/github-trending-repositories-history"
@@ -152,13 +146,7 @@ def process_unsubscribe_issues():
     
     # Initialize GitHub API
     g = Github(github_token)
-    # Debug: Test API connection
-    try:
-        user = g.get_user()
-        print(f"🔗 Connected to GitHub as: {user.login}")
-    except Exception as e:
-        print(f"❌ Failed to connect to GitHub API: {e}")
-        return
+    print(f"🔗 Initialized GitHub API with token")
     
     # Get repository
     repo_name = "rand0m42195/github-trending-repositories-history"
