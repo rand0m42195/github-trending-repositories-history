@@ -109,7 +109,21 @@ def process_subscription_issues():
                     print(f"  📝 Comment created: {comment_result.id}")
                     
                     close_result = issue.edit(state='closed')
-                    print(f"  🔒 Issue closed: {close_result.state}")
+                    if close_result is not None:
+                        print(f"  🔒 Issue closed: {close_result.state}")
+                    else:
+                        print(f"  🔒 Issue close request sent (result was None)")
+                    
+                    # Verify the issue was actually closed
+                    try:
+                        refreshed_issue = repo.get_issue(issue.number)
+                        if refreshed_issue.state == 'closed':
+                            print(f"  ✅ Issue #{issue.number} confirmed closed")
+                        else:
+                            print(f"  ⚠️ Issue #{issue.number} still open after close attempt")
+                    except Exception as verify_error:
+                        print(f"  ⚠️ Could not verify issue closure: {verify_error}")
+                    
                     processed_count += 1
                 except Exception as close_error:
                     print(f"  ❌ Failed to close issue #{issue.number}: {close_error}")
@@ -199,7 +213,21 @@ def process_unsubscribe_issues():
                     print(f"  📝 Comment created: {comment_result.id}")
                     
                     close_result = issue.edit(state='closed')
-                    print(f"  🔒 Issue closed: {close_result.state}")
+                    if close_result is not None:
+                        print(f"  🔒 Issue closed: {close_result.state}")
+                    else:
+                        print(f"  🔒 Issue close request sent (result was None)")
+                    
+                    # Verify the issue was actually closed
+                    try:
+                        refreshed_issue = repo.get_issue(issue.number)
+                        if refreshed_issue.state == 'closed':
+                            print(f"  ✅ Issue #{issue.number} confirmed closed")
+                        else:
+                            print(f"  ⚠️ Issue #{issue.number} still open after close attempt")
+                    except Exception as verify_error:
+                        print(f"  ⚠️ Could not verify issue closure: {verify_error}")
+                    
                     processed_count += 1
                 except Exception as close_error:
                     print(f"  ❌ Failed to close unsubscribe issue #{issue.number}: {close_error}")
