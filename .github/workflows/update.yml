@@ -2,7 +2,7 @@ name: Update GitHub Trending
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Run daily at 2:00 UTC (adjustable)
+    - cron: '0 0 * * *'  # Run daily at 0:00 UTC (8:00 Beijing time)
   workflow_dispatch:
 
 jobs:
