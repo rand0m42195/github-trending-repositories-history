@@ -57,6 +57,28 @@
             opacity: 0.9;
         }
         
+        .github-link {
+            margin-top: 10px;
+        }
+        
+        .github-link a {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: #f6f8fa;
+            text-decoration: none;
+            padding: 8px 16px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 6px;
+            font-size: 0.9em;
+            transition: all 0.3s ease;
+        }
+        
+        .github-link a:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-1px);
+        }
+        
         /* Responsive design for header */
         @media (max-width: 768px) {
             .header {
@@ -148,6 +170,14 @@
             <div class="header-content">
                 <h1>GitHub Trending Repositories History</h1>
                 <p class="header-subtitle">Track trending repositories over time with historical data and trend analysis</p>
+                <div class="github-link">
+                    <a href="https://github.com/rand0m42195/github-trending-repositories-history" target="_blank">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        View on GitHub
+                    </a>
+                </div>
             </div>
         </div>
         
@@ -359,6 +389,22 @@
                 <div style="margin-top: 30px; padding: 15px; background-color: #f6f8fa; border-radius: 6px;">
                     <p style="margin: 5px 0;"><strong>Note:</strong> Email subscriptions are sent daily at 2:00 UTC when new trending data is available.</p>
                     <p style="margin: 5px 0;">You can unsubscribe at any time by replying to the emails with "unsubscribe" in the subject.</p>
+                </div>
+                
+                <div style="margin-top: 20px; text-align: center; padding: 15px; background-color: #e8f4fd; border-radius: 6px; border-left: 4px solid #0366d6;">
+                    <p style="margin: 5px 0; font-weight: 600; color: #24292e;">💡 Like this project?</p>
+                    <p style="margin: 5px 0; color: #586069;">
+                        <a href="https://github.com/rand0m42195/github-trending-repositories-history" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500;">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" style="vertical-align: middle; margin-right: 5px;">
+                                <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                            </svg>
+                            View Source on GitHub
+                        </a>
+                        or 
+                        <a href="https://github.com/rand0m42195/github-trending-repositories-history/stargazers" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500;">
+                            ⭐ Star the Repository
+                        </a>
+                    </p>
                 </div>
             </div>
         </div>
@@ -771,8 +817,24 @@
         }
     </script>
 
-    <footer style="margin-top:2em; color:#888; font-size:0.9em; text-align:center;">
-        Generated on {{ today }} | Data from {{ dates[0] }} to {{ dates[-1] }}
+    <footer style="margin-top:2em; color:#888; font-size:0.9em; text-align:center; padding: 20px; background: #f8f9fa; border-radius: 8px;">
+        <div style="margin-bottom: 10px;">
+            Generated on {{ today }} | Data from {{ dates[0] }} to {{ dates[-1] }}
+        </div>
+        <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+            <a href="https://github.com/rand0m42195/github-trending-repositories-history" target="_blank" style="color: #0366d6; text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                View Source
+            </a>
+            <a href="https://github.com/rand0m42195/github-trending-repositories-history/stargazers" target="_blank" style="color: #0366d6; text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                ⭐ Star on GitHub
+            </a>
+            <a href="https://github.com/rand0m42195/github-trending-repositories-history/issues" target="_blank" style="color: #0366d6; text-decoration: none; display: flex; align-items: center; gap: 5px;">
+                🐛 Report Issues
+            </a>
+        </div>
     </footer>
 </body>
 </html> 
