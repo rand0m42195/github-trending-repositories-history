@@ -1,1 +1,32 @@
-{"emails": [], "categories": {}, "repositories": {}}
+{
+  "emails": [
+    "rand0m42195@gmail.com"
+  ],
+  "categories": {
+    "AI/ML": [
+      "rand0m42195@gmail.com"
+    ],
+    "Web Development": [
+      "rand0m42195@gmail.com"
+    ],
+    "Mobile": [
+      "rand0m42195@gmail.com"
+    ],
+    "DevOps": [
+      "rand0m42195@gmail.com"
+    ],
+    "Data Science": [
+      "rand0m42195@gmail.com"
+    ],
+    "System/OS": [
+      "rand0m42195@gmail.com"
+    ],
+    "Security": [
+      "rand0m42195@gmail.com"
+    ],
+    "Learning": [
+      "rand0m42195@gmail.com"
+    ]
+  },
+  "repositories": {}
+}
