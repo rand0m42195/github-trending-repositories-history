@@ -2,7 +2,7 @@ name: Auto Process Subscription Issues
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Run every 5 minutes
+    - cron: '0 * * * *'  # Run every hour at minute 0
   workflow_dispatch:
 
 jobs:
