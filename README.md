@@ -2,6 +2,12 @@
 
 A comprehensive tool to track and analyze GitHub trending repositories over time, with historical data visualization and email subscription features.
 
+## 🌐 Live Website
+
+**📊 [View GitHub Trending History](https://rand0m42195.github.io/github-trending-repositories-history/#today)**
+
+Visit the live website to explore today's trending repositories, browse historical data, and subscribe to email updates.
+
 ## 🚀 Features
 
 - **Daily Trending Data Collection**: Automatically fetches GitHub trending repositories
@@ -104,6 +110,8 @@ python scripts/test.py
 
 ### Web Interface
 
+**🌐 [Live Website](https://rand0m42195.github.io/github-trending-repositories-history/#today)**
+
 After running the analysis, open `docs/index.html` in your browser to view:
 - Today's trending repositories
 - Historical data with date navigation
@@ -115,7 +123,7 @@ After running the analysis, open `docs/index.html` in your browser to view:
 
 ### For Users
 
-1. Visit the web interface and go to the "Subscribe" tab
+1. Visit the [web interface](https://rand0m42195.github.io/github-trending-repositories-history/#subscribe) and go to the "Subscribe" tab
 2. Enter your email and select categories of interest
 3. Optionally specify individual repositories to track
 4. Submit the form to create a subscription request
