@@ -57,8 +57,16 @@ class SubscriptionManager:
                     self.subscriptions['repositories'][repo].append(email)
         
         self.save_subscriptions()
-        # Send welcome email
-        EmailSender().send_welcome_email(email)
+        print(f"  💾 Subscription saved for {email}")
+        
+        # Send welcome email (don't fail if email sending fails)
+        try:
+            EmailSender().send_welcome_email(email)
+            print(f"  📧 Welcome email sent to {email}")
+        except Exception as e:
+            print(f"  ⚠️ Failed to send welcome email to {email}: {e}")
+            # Don't fail the subscription process if email fails
+        
         return True
     
     def remove_email_subscription(self, email):

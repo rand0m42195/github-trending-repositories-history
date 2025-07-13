@@ -81,12 +81,15 @@ def process_subscription_issues():
     for issue in issues:
         try:
             print(f"Processing issue #{issue.number}: {issue.title}")
+            print(f"  📝 Issue body: {issue.body[:200]}...")  # Show first 200 chars
             
             # Parse issue body
             subscription_data = parse_issue_body(issue.body or '')
+            print(f"  🔍 Parsed data: {subscription_data}")
             
             if not subscription_data['email']:
                 print(f"  ❌ No email found in issue #{issue.number}")
+                print(f"  🔍 Raw body: {repr(issue.body)}")
                 continue
             
             # Add subscription
