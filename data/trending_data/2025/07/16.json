@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars": "62,874",
+    "forks": "3,340",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 2,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "language": "",
+    "stars": "67,701",
+    "forks": "19,576",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 3,
+    "name": "getzep/graphiti",
+    "description": "Build Real-Time Knowledge Graphs for AI Agents",
+    "language": "Python",
+    "stars": "13,612",
+    "forks": "1,143",
+    "link": "https://github.com/getzep/graphiti"
+  },
+  {
+    "rank": 4,
+    "name": "NVIDIA/cutlass",
+    "description": "CUDA Templates for Linear Algebra Subroutines",
+    "language": "C++",
+    "stars": "8,021",
+    "forks": "1,328",
+    "link": "https://github.com/NVIDIA/cutlass"
+  },
+  {
+    "rank": 5,
+    "name": "frappe/erpnext",
+    "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "language": "Python",
+    "stars": "26,530",
+    "forks": "8,778",
+    "link": "https://github.com/frappe/erpnext"
+  },
+  {
+    "rank": 6,
+    "name": "nisargjhaveri/WirelessAndroidAutoDongle",
+    "description": "Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.",
+    "language": "C++",
+    "stars": "1,667",
+    "forks": "148",
+    "link": "https://github.com/nisargjhaveri/WirelessAndroidAutoDongle"
+  },
+  {
+    "rank": 7,
+    "name": "musistudio/claude-code-router",
+    "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+    "language": "TypeScript",
+    "stars": "4,551",
+    "forks": "346",
+    "link": "https://github.com/musistudio/claude-code-router"
+  },
+  {
+    "rank": 8,
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Investment Research for Everyone, Everywhere.",
+    "language": "Python",
+    "stars": "42,712",
+    "forks": "3,841",
+    "link": "https://github.com/OpenBB-finance/OpenBB"
+  },
+  {
+    "rank": 9,
+    "name": "mindsdb/mindsdb",
+    "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+    "language": "Python",
+    "stars": "34,356",
+    "forks": "5,560",
+    "link": "https://github.com/mindsdb/mindsdb"
+  },
+  {
+    "rank": 10,
+    "name": "bluewave-labs/Checkmate",
+    "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here:https://discord.com/invite/NAb6H3UTjK:)",
+    "language": "JavaScript",
+    "stars": "6,576",
+    "forks": "429",
+    "link": "https://github.com/bluewave-labs/Checkmate"
+  },
+  {
+    "rank": 11,
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "PowerShell",
+    "stars": "23,196",
+    "forks": "1,260",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 12,
+    "name": "OpenPipe/ART",
+    "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!",
+    "language": "Python",
+    "stars": "2,249",
+    "forks": "141",
+    "link": "https://github.com/OpenPipe/ART"
+  },
+  {
+    "rank": 13,
+    "name": "beeradmoore/dlss-swapper",
+    "description": "",
+    "language": "C#",
+    "stars": "4,488",
+    "forks": "139",
+    "link": "https://github.com/beeradmoore/dlss-swapper"
+  },
+  {
+    "rank": 14,
+    "name": "AykutSarac/jsoncrack.com",
+    "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+    "language": "TypeScript",
+    "stars": "39,918",
+    "forks": "2,672",
+    "link": "https://github.com/AykutSarac/jsoncrack.com"
+  },
+  {
+    "rank": 15,
+    "name": "browserbase/stagehand",
+    "description": "The AI Browser Automation Framework",
+    "language": "TypeScript",
+    "stars": "14,109",
+    "forks": "839",
+    "link": "https://github.com/browserbase/stagehand"
+  }
+]
