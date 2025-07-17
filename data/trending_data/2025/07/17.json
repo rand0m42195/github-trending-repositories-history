@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars": "64,970",
+    "forks": "3,457",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 2,
+    "name": "PromtEngineer/localGPT",
+    "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.",
+    "language": "Python",
+    "stars": "21,057",
+    "forks": "2,336",
+    "link": "https://github.com/PromtEngineer/localGPT"
+  },
+  {
+    "rank": 3,
+    "name": "maotoumao/MusicFree",
+    "description": "插件化、定制化、无广告的免费音乐播放器",
+    "language": "TypeScript",
+    "stars": "18,187",
+    "forks": "1,154",
+    "link": "https://github.com/maotoumao/MusicFree"
+  },
+  {
+    "rank": 4,
+    "name": "frappe/erpnext",
+    "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "language": "Python",
+    "stars": "26,811",
+    "forks": "8,803",
+    "link": "https://github.com/frappe/erpnext"
+  },
+  {
+    "rank": 5,
+    "name": "arc53/DocsGPT",
+    "description": "DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.",
+    "language": "TypeScript",
+    "stars": "16,084",
+    "forks": "1,700",
+    "link": "https://github.com/arc53/DocsGPT"
+  },
+  {
+    "rank": 6,
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "PowerShell",
+    "stars": "23,713",
+    "forks": "1,291",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 7,
+    "name": "OpenPipe/ART",
+    "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!",
+    "language": "Python",
+    "stars": "2,655",
+    "forks": "160",
+    "link": "https://github.com/OpenPipe/ART"
+  },
+  {
+    "rank": 8,
+    "name": "aws/amazon-q-developer-cli",
+    "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+    "language": "Rust",
+    "stars": "1,141",
+    "forks": "197",
+    "link": "https://github.com/aws/amazon-q-developer-cli"
+  },
+  {
+    "rank": 9,
+    "name": "vpnhood/VpnHood",
+    "description": "Undetectable Fast Portable VPN",
+    "language": "C#",
+    "stars": "1,494",
+    "forks": "188",
+    "link": "https://github.com/vpnhood/VpnHood"
+  },
+  {
+    "rank": 10,
+    "name": "lastmile-ai/mcp-agent",
+    "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+    "language": "Python",
+    "stars": "6,425",
+    "forks": "633",
+    "link": "https://github.com/lastmile-ai/mcp-agent"
+  },
+  {
+    "rank": 11,
+    "name": "rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "stars": "93,142",
+    "forks": "13,548",
+    "link": "https://github.com/rustdesk/rustdesk"
+  },
+  {
+    "rank": 12,
+    "name": "vanna-ai/vanna",
+    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+    "language": "Python",
+    "stars": "18,938",
+    "forks": "1,739",
+    "link": "https://github.com/vanna-ai/vanna"
+  },
+  {
+    "rank": 13,
+    "name": "nicklockwood/SwiftFormat",
+    "description": "A command-line tool and Xcode Extension for formatting Swift code",
+    "language": "Swift",
+    "stars": "8,394",
+    "forks": "653",
+    "link": "https://github.com/nicklockwood/SwiftFormat"
+  },
+  {
+    "rank": 14,
+    "name": "TomBursch/kitchenowl",
+    "description": "KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.",
+    "language": "Dart",
+    "stars": "2,358",
+    "forks": "135",
+    "link": "https://github.com/TomBursch/kitchenowl"
+  },
+  {
+    "rank": 15,
+    "name": "facebookresearch/segment-anything",
+    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+    "language": "Jupyter Notebook",
+    "stars": "50,930",
+    "forks": "5,984",
+    "link": "https://github.com/facebookresearch/segment-anything"
+  }
+]
