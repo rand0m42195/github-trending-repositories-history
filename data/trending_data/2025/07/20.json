@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "stars": "27,683",
+    "forks": "1,171",
+    "link": "https://github.com/hyprwm/Hyprland"
+  },
+  {
+    "rank": 2,
+    "name": "langchain-ai/open_deep_research",
+    "description": "",
+    "language": "Python",
+    "stars": "5,279",
+    "forks": "745",
+    "link": "https://github.com/langchain-ai/open_deep_research"
+  },
+  {
+    "rank": 3,
+    "name": "bluenviron/mediamtx",
+    "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "language": "Go",
+    "stars": "15,284",
+    "forks": "1,855",
+    "link": "https://github.com/bluenviron/mediamtx"
+  },
+  {
+    "rank": 4,
+    "name": "shadps4-emu/shadPS4",
+    "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "language": "C++",
+    "stars": "24,518",
+    "forks": "1,582",
+    "link": "https://github.com/shadps4-emu/shadPS4"
+  },
+  {
+    "rank": 5,
+    "name": "soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "language": "Python",
+    "stars": "16,782",
+    "forks": "1,134",
+    "link": "https://github.com/soxoj/maigret"
+  },
+  {
+    "rank": 6,
+    "name": "github/github-mcp-server",
+    "description": "GitHub's official MCP Server",
+    "language": "Go",
+    "stars": "17,971",
+    "forks": "1,423",
+    "link": "https://github.com/github/github-mcp-server"
+  },
+  {
+    "rank": 7,
+    "name": "remoteintech/remote-jobs",
+    "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+    "language": "JavaScript",
+    "stars": "32,854",
+    "forks": "3,402",
+    "link": "https://github.com/remoteintech/remote-jobs"
+  },
+  {
+    "rank": 8,
+    "name": "bknd-io/bknd",
+    "description": "Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.",
+    "language": "TypeScript",
+    "stars": "2,525",
+    "forks": "73",
+    "link": "https://github.com/bknd-io/bknd"
+  },
+  {
+    "rank": 9,
+    "name": "mrdbourke/pytorch-deep-learning",
+    "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+    "language": "Jupyter Notebook",
+    "stars": "14,630",
+    "forks": "4,060",
+    "link": "https://github.com/mrdbourke/pytorch-deep-learning"
+  },
+  {
+    "rank": 10,
+    "name": "n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stars": "121,018",
+    "forks": "36,377",
+    "link": "https://github.com/n8n-io/n8n"
+  },
+  {
+    "rank": 11,
+    "name": "gitleaks/gitleaks",
+    "description": "Find secrets with Gitleaks 🔑",
+    "language": "Go",
+    "stars": "22,170",
+    "forks": "1,707",
+    "link": "https://github.com/gitleaks/gitleaks"
+  },
+  {
+    "rank": 12,
+    "name": "Kyome22/RunCat365",
+    "description": "A cute running cat animation on your windows taskbar.",
+    "language": "C#",
+    "stars": "8,462",
+    "forks": "702",
+    "link": "https://github.com/Kyome22/RunCat365"
+  },
+  {
+    "rank": 13,
+    "name": "Lightricks/LTX-Video",
+    "description": "Official repository for LTX-Video",
+    "language": "Python",
+    "stars": "7,380",
+    "forks": "636",
+    "link": "https://github.com/Lightricks/LTX-Video"
+  },
+  {
+    "rank": 14,
+    "name": "strapi/strapi",
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+    "language": "TypeScript",
+    "stars": "68,420",
+    "forks": "8,767",
+    "link": "https://github.com/strapi/strapi"
+  },
+  {
+    "rank": 15,
+    "name": "influxdata/telegraf",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "language": "Go",
+    "stars": "15,916",
+    "forks": "5,671",
+    "link": "https://github.com/influxdata/telegraf"
+  },
+  {
+    "rank": 16,
+    "name": "actions/runner-images",
+    "description": "GitHub Actions runner images",
+    "language": "PowerShell",
+    "stars": "11,510",
+    "forks": "3,404",
+    "link": "https://github.com/actions/runner-images"
+  },
+  {
+    "rank": 17,
+    "name": "HotCakeX/Harden-Windows-Security",
+    "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationalehttps://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md",
+    "language": "C#",
+    "stars": "2,768",
+    "forks": "222",
+    "link": "https://github.com/HotCakeX/Harden-Windows-Security"
+  },
+  {
+    "rank": 18,
+    "name": "ikawrakow/ik_llama.cpp",
+    "description": "llama.cpp fork with additional SOTA quants and improved performance",
+    "language": "C++",
+    "stars": "727",
+    "forks": "70",
+    "link": "https://github.com/ikawrakow/ik_llama.cpp"
+  }
+]
