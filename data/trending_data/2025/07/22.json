@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "maybe-finance/maybe",
+    "description": "The personal finance app for everyone",
+    "language": "Ruby",
+    "stars": "49,352",
+    "forks": "3,634",
+    "link": "https://github.com/maybe-finance/maybe"
+  },
+  {
+    "rank": 2,
+    "name": "ChatGPTNextWeb/NextChat",
+    "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows",
+    "language": "TypeScript",
+    "stars": "84,514",
+    "forks": "61,064",
+    "link": "https://github.com/ChatGPTNextWeb/NextChat"
+  },
+  {
+    "rank": 3,
+    "name": "hesreallyhim/awesome-claude-code",
+    "description": "A curated list of awesome commands, files, and workflows for Claude Code",
+    "language": "Python",
+    "stars": "5,314",
+    "forks": "274",
+    "link": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "rank": 4,
+    "name": "langchain-ai/open_deep_research",
+    "description": "",
+    "language": "Python",
+    "stars": "5,842",
+    "forks": "800",
+    "link": "https://github.com/langchain-ai/open_deep_research"
+  },
+  {
+    "rank": 5,
+    "name": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "stars": "28,317",
+    "forks": "1,199",
+    "link": "https://github.com/hyprwm/Hyprland"
+  },
+  {
+    "rank": 6,
+    "name": "donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "312,087",
+    "forks": "51,311",
+    "link": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "rank": 7,
+    "name": "unclecode/crawl4ai",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+    "language": "Python",
+    "stars": "48,779",
+    "forks": "4,732",
+    "link": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+    "rank": 8,
+    "name": "Lissy93/dashy",
+    "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+    "language": "Vue",
+    "stars": "21,759",
+    "forks": "1,592",
+    "link": "https://github.com/Lissy93/dashy"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "11 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "31,512",
+    "forks": "9,153",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 10,
+    "name": "better-auth/better-auth",
+    "description": "The most comprehensive authentication framework for TypeScript",
+    "language": "TypeScript",
+    "stars": "17,146",
+    "forks": "1,238",
+    "link": "https://github.com/better-auth/better-auth"
+  },
+  {
+    "rank": 11,
+    "name": "C4illin/ConvertX",
+    "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+    "language": "TypeScript",
+    "stars": "4,553",
+    "forks": "183",
+    "link": "https://github.com/C4illin/ConvertX"
+  },
+  {
+    "rank": 12,
+    "name": "srbhr/Resume-Matcher",
+    "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+    "language": "TypeScript",
+    "stars": "12,318",
+    "forks": "3,632",
+    "link": "https://github.com/srbhr/Resume-Matcher"
+  },
+  {
+    "rank": 13,
+    "name": "bluenviron/mediamtx",
+    "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "language": "Go",
+    "stars": "15,523",
+    "forks": "1,870",
+    "link": "https://github.com/bluenviron/mediamtx"
+  },
+  {
+    "rank": 14,
+    "name": "remoteintech/remote-jobs",
+    "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+    "language": "JavaScript",
+    "stars": "34,973",
+    "forks": "3,509",
+    "link": "https://github.com/remoteintech/remote-jobs"
+  },
+  {
+    "rank": 15,
+    "name": "simstudioai/sim",
+    "description": "Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+    "language": "TypeScript",
+    "stars": "5,660",
+    "forks": "806",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 16,
+    "name": "Worklenz/worklenz",
+    "description": "All in one project management tool for efficient teams",
+    "language": "TypeScript",
+    "stars": "2,477",
+    "forks": "193",
+    "link": "https://github.com/Worklenz/worklenz"
+  },
+  {
+    "rank": 17,
+    "name": "mishushakov/llm-scraper",
+    "description": "Turn any webpage into structured data using LLMs",
+    "language": "TypeScript",
+    "stars": "5,696",
+    "forks": "332",
+    "link": "https://github.com/mishushakov/llm-scraper"
+  },
+  {
+    "rank": 18,
+    "name": "Freika/dawarich",
+    "description": "Self-hostable alternative to Google Location History (Google Maps Timeline)",
+    "language": "Ruby",
+    "stars": "5,739",
+    "forks": "165",
+    "link": "https://github.com/Freika/dawarich"
+  },
+  {
+    "rank": 19,
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "stars": "28,916",
+    "forks": "2,272",
+    "link": "https://github.com/roboflow/supervision"
+  }
+]
