@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "srbhr/Resume-Matcher",
+    "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+    "language": "TypeScript",
+    "stars": "16,528",
+    "forks": "3,883",
+    "link": "https://github.com/srbhr/Resume-Matcher"
+  },
+  {
+    "rank": 2,
+    "name": "maybe-finance/maybe",
+    "description": "The personal finance app for everyone",
+    "language": "Ruby",
+    "stars": "51,476",
+    "forks": "3,795",
+    "link": "https://github.com/maybe-finance/maybe"
+  },
+  {
+    "rank": 3,
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Investment Research for Everyone, Everywhere.",
+    "language": "Python",
+    "stars": "44,845",
+    "forks": "4,051",
+    "link": "https://github.com/OpenBB-finance/OpenBB"
+  },
+  {
+    "rank": 4,
+    "name": "moby/moby",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "language": "Go",
+    "stars": "70,184",
+    "forks": "18,781",
+    "link": "https://github.com/moby/moby"
+  },
+  {
+    "rank": 5,
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "22,392",
+    "forks": "3,885",
+    "link": "https://github.com/juspay/hyperswitch"
+  },
+  {
+    "rank": 6,
+    "name": "remoteintech/remote-jobs",
+    "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+    "language": "JavaScript",
+    "stars": "36,204",
+    "forks": "3,566",
+    "link": "https://github.com/remoteintech/remote-jobs"
+  },
+  {
+    "rank": 7,
+    "name": "donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "312,596",
+    "forks": "51,376",
+    "link": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "rank": 8,
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "stars": "29,788",
+    "forks": "2,334",
+    "link": "https://github.com/roboflow/supervision"
+  },
+  {
+    "rank": 9,
+    "name": "zephyrproject-rtos/zephyr",
+    "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "language": "C",
+    "stars": "12,575",
+    "forks": "7,681",
+    "link": "https://github.com/zephyrproject-rtos/zephyr"
+  },
+  {
+    "rank": 10,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "11 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "32,031",
+    "forks": "9,341",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 11,
+    "name": "frappe/hrms",
+    "description": "Open Source HR and Payroll Software",
+    "language": "Python",
+    "stars": "3,180",
+    "forks": "1,273",
+    "link": "https://github.com/frappe/hrms"
+  },
+  {
+    "rank": 12,
+    "name": "Sjj1024/PakePlus",
+    "description": "Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟.https://ppofficial.netlify.app",
+    "language": "Vue",
+    "stars": "4,917",
+    "forks": "3,267",
+    "link": "https://github.com/Sjj1024/PakePlus"
+  },
+  {
+    "rank": 13,
+    "name": "yeongpin/cursor-free-vip",
+    "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+    "language": "Python",
+    "stars": "32,787",
+    "forks": "4,059",
+    "link": "https://github.com/yeongpin/cursor-free-vip"
+  },
+  {
+    "rank": 14,
+    "name": "jj-vcs/jj",
+    "description": "A Git-compatible VCS that is both simple and powerful",
+    "language": "Rust",
+    "stars": "17,946",
+    "forks": "592",
+    "link": "https://github.com/jj-vcs/jj"
+  },
+  {
+    "rank": 15,
+    "name": "steven2358/awesome-generative-ai",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+    "language": "",
+    "stars": "9,068",
+    "forks": "1,022",
+    "link": "https://github.com/steven2358/awesome-generative-ai"
+  },
+  {
+    "rank": 16,
+    "name": "QwenLM/Qwen3",
+    "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+    "language": "Python",
+    "stars": "22,914",
+    "forks": "1,555",
+    "link": "https://github.com/QwenLM/Qwen3"
+  },
+  {
+    "rank": 17,
+    "name": "yuaotian/go-cursor-help",
+    "description": "解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.",
+    "language": "Shell",
+    "stars": "23,744",
+    "forks": "2,882",
+    "link": "https://github.com/yuaotian/go-cursor-help"
+  },
+  {
+    "rank": 18,
+    "name": "C4illin/ConvertX",
+    "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+    "language": "TypeScript",
+    "stars": "6,011",
+    "forks": "241",
+    "link": "https://github.com/C4illin/ConvertX"
+  }
+]
