@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "frappe/hrms",
+    "description": "Open Source HR and Payroll Software",
+    "language": "Python",
+    "stars": "4,604",
+    "forks": "1,383",
+    "link": "https://github.com/frappe/hrms"
+  },
+  {
+    "rank": 2,
+    "name": "QwenLM/Qwen3-Coder",
+    "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
+    "language": "Python",
+    "stars": "9,335",
+    "forks": "653",
+    "link": "https://github.com/QwenLM/Qwen3-Coder"
+  },
+  {
+    "rank": 3,
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "22,871",
+    "forks": "3,892",
+    "link": "https://github.com/juspay/hyperswitch"
+  },
+  {
+    "rank": 4,
+    "name": "m1k1o/neko",
+    "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "language": "Go",
+    "stars": "14,017",
+    "forks": "870",
+    "link": "https://github.com/m1k1o/neko"
+  },
+  {
+    "rank": 5,
+    "name": "aaPanel/BillionMail",
+    "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr",
+    "language": "Go",
+    "stars": "7,961",
+    "forks": "667",
+    "link": "https://github.com/aaPanel/BillionMail"
+  },
+  {
+    "rank": 6,
+    "name": "keycloak/keycloak",
+    "description": "Open Source Identity and Access Management For Modern Applications and Services",
+    "language": "Java",
+    "stars": "28,596",
+    "forks": "7,462",
+    "link": "https://github.com/keycloak/keycloak"
+  },
+  {
+    "rank": 7,
+    "name": "BerriAI/litellm",
+    "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+    "language": "Python",
+    "stars": "26,244",
+    "forks": "3,618",
+    "link": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "rank": 8,
+    "name": "Infisical/infisical",
+    "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+    "language": "TypeScript",
+    "stars": "19,138",
+    "forks": "1,273",
+    "link": "https://github.com/Infisical/infisical"
+  },
+  {
+    "rank": 9,
+    "name": "confident-ai/deepeval",
+    "description": "The LLM Evaluation Framework",
+    "language": "Python",
+    "stars": "9,524",
+    "forks": "832",
+    "link": "https://github.com/confident-ai/deepeval"
+  },
+  {
+    "rank": 10,
+    "name": "dataease/dataease",
+    "description": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.",
+    "language": "Java",
+    "stars": "20,796",
+    "forks": "3,675",
+    "link": "https://github.com/dataease/dataease"
+  },
+  {
+    "rank": 11,
+    "name": "goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (July 2024)",
+    "language": "Dockerfile",
+    "stars": "103,579",
+    "forks": "10,524",
+    "link": "https://github.com/goldbergyoni/nodebestpractices"
+  },
+  {
+    "rank": 12,
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "language": "PowerShell",
+    "stars": "23,233",
+    "forks": "960",
+    "link": "https://github.com/Raphire/Win11Debloat"
+  }
+]
