@@ -1,0 +1,65 @@
+[
+  {
+    "rank": 1,
+    "name": "Genesis-Embodied-AI/Genesis",
+    "description": "A generative world for general-purpose robotics & embodied AI learning.",
+    "language": "Python",
+    "stars": "26,299",
+    "forks": "2,397",
+    "link": "https://github.com/Genesis-Embodied-AI/Genesis"
+  },
+  {
+    "rank": 2,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "52,167",
+    "forks": "6,101",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 3,
+    "name": "frappe/hrms",
+    "description": "Open Source HR and Payroll Software",
+    "language": "Python",
+    "stars": "4,870",
+    "forks": "1,406",
+    "link": "https://github.com/frappe/hrms"
+  },
+  {
+    "rank": 4,
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "22,999",
+    "forks": "3,906",
+    "link": "https://github.com/juspay/hyperswitch"
+  },
+  {
+    "rank": 5,
+    "name": "daveebbelaar/ai-cookbook",
+    "description": "Examples and tutorials to help developers build AI systems",
+    "language": "Python",
+    "stars": "1,782",
+    "forks": "795",
+    "link": "https://github.com/daveebbelaar/ai-cookbook"
+  },
+  {
+    "rank": 6,
+    "name": "tldr-pages/tldr",
+    "description": "📚 Collaborative cheatsheets for console commands",
+    "language": "Markdown",
+    "stars": "56,797",
+    "forks": "4,584",
+    "link": "https://github.com/tldr-pages/tldr"
+  },
+  {
+    "rank": 7,
+    "name": "Infisical/infisical",
+    "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+    "language": "TypeScript",
+    "stars": "19,398",
+    "forks": "1,282",
+    "link": "https://github.com/Infisical/infisical"
+  }
+]
