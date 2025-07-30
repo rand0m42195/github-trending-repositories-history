@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "9001/copyparty",
+    "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+    "language": "Python",
+    "stars": "10,502",
+    "forks": "308",
+    "link": "https://github.com/9001/copyparty"
+  },
+  {
+    "rank": 2,
+    "name": "cloudwego/eino",
+    "description": "The ultimate LLM/AI application development framework in Golang.",
+    "language": "Go",
+    "stars": "5,658",
+    "forks": "455",
+    "link": "https://github.com/cloudwego/eino"
+  },
+  {
+    "rank": 3,
+    "name": "n0-computer/iroh",
+    "description": "peer-2-peer that just works",
+    "language": "Rust",
+    "stars": "6,263",
+    "forks": "280",
+    "link": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "rank": 4,
+    "name": "tldr-pages/tldr",
+    "description": "📚 Collaborative cheatsheets for console commands",
+    "language": "Markdown",
+    "stars": "57,581",
+    "forks": "4,626",
+    "link": "https://github.com/tldr-pages/tldr"
+  },
+  {
+    "rank": 5,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "53,548",
+    "forks": "6,222",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 6,
+    "name": "microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "stars": "121,443",
+    "forks": "7,224",
+    "link": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "rank": 7,
+    "name": "lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "stars": "36,920",
+    "forks": "1,164",
+    "link": "https://github.com/lapce/lapce"
+  },
+  {
+    "rank": 8,
+    "name": "ashishpatel26/500-AI-Agents-Projects",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "language": "",
+    "stars": "3,523",
+    "forks": "720",
+    "link": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+  },
+  {
+    "rank": 9,
+    "name": "linshenkx/prompt-optimizer",
+    "description": "一款提示词优化器，助力于编写高质量的提示词",
+    "language": "TypeScript",
+    "stars": "11,010",
+    "forks": "1,357",
+    "link": "https://github.com/linshenkx/prompt-optimizer"
+  },
+  {
+    "rank": 10,
+    "name": "outline/outline",
+    "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+    "language": "TypeScript",
+    "stars": "33,448",
+    "forks": "2,730",
+    "link": "https://github.com/outline/outline"
+  },
+  {
+    "rank": 11,
+    "name": "musistudio/claude-code-router",
+    "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+    "language": "TypeScript",
+    "stars": "8,608",
+    "forks": "628",
+    "link": "https://github.com/musistudio/claude-code-router"
+  }
+]
