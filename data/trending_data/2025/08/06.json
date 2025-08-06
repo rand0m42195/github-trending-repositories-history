@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "9,062",
+    "forks": "894",
+    "link": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "rank": 2,
+    "name": "reflex-dev/reflex",
+    "description": "🕸️ Web apps in pure Python 🐍",
+    "language": "Python",
+    "stars": "25,012",
+    "forks": "1,468",
+    "link": "https://github.com/reflex-dev/reflex"
+  },
+  {
+    "rank": 3,
+    "name": "ethereum/solidity",
+    "description": "Solidity, the Smart Contract Programming Language",
+    "language": "C++",
+    "stars": "24,762",
+    "forks": "6,141",
+    "link": "https://github.com/ethereum/solidity"
+  },
+  {
+    "rank": 4,
+    "name": "microsoft/mcp-for-beginners",
+    "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+    "language": "Python",
+    "stars": "7,022",
+    "forks": "1,910",
+    "link": "https://github.com/microsoft/mcp-for-beginners"
+  },
+  {
+    "rank": 5,
+    "name": "simstudioai/sim",
+    "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+    "language": "TypeScript",
+    "stars": "6,568",
+    "forks": "890",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 6,
+    "name": "actualbudget/actual",
+    "description": "A local-first personal finance app",
+    "language": "TypeScript",
+    "stars": "21,118",
+    "forks": "1,699",
+    "link": "https://github.com/actualbudget/actual"
+  },
+  {
+    "rank": 7,
+    "name": "pointfreeco/swift-composable-architecture",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "language": "Swift",
+    "stars": "13,765",
+    "forks": "1,569",
+    "link": "https://github.com/pointfreeco/swift-composable-architecture"
+  },
+  {
+    "rank": 8,
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "359,796",
+    "forks": "37,748",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 9,
+    "name": "hashcat/hashcat",
+    "description": "World's fastest and most advanced password recovery utility",
+    "language": "C",
+    "stars": "23,607",
+    "forks": "3,159",
+    "link": "https://github.com/hashcat/hashcat"
+  },
+  {
+    "rank": 10,
+    "name": "TideDra/zotero-arxiv-daily",
+    "description": "Recommend new arxiv papers of your interest daily according to your Zotero libarary.",
+    "language": "Python",
+    "stars": "2,953",
+    "forks": "2,459",
+    "link": "https://github.com/TideDra/zotero-arxiv-daily"
+  },
+  {
+    "rank": 11,
+    "name": "huiyadanli/RevokeMsgPatcher",
+    "description": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+    "language": "C#",
+    "stars": "33,776",
+    "forks": "3,725",
+    "link": "https://github.com/huiyadanli/RevokeMsgPatcher"
+  },
+  {
+    "rank": 12,
+    "name": "wg-easy/wg-easy",
+    "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+    "language": "TypeScript",
+    "stars": "21,800",
+    "forks": "2,038",
+    "link": "https://github.com/wg-easy/wg-easy"
+  },
+  {
+    "rank": 13,
+    "name": "thewh1teagle/vibe",
+    "description": "Transcribe on your own!",
+    "language": "TypeScript",
+    "stars": "3,372",
+    "forks": "197",
+    "link": "https://github.com/thewh1teagle/vibe"
+  }
+]
