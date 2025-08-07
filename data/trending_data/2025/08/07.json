@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Rust",
+    "stars": "11,604",
+    "forks": "1,329",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 2,
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "10,720",
+    "forks": "1,004",
+    "link": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "rank": 3,
+    "name": "simstudioai/sim",
+    "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+    "language": "TypeScript",
+    "stars": "6,798",
+    "forks": "908",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 4,
+    "name": "browserbase/stagehand",
+    "description": "The AI Browser Automation Framework",
+    "language": "TypeScript",
+    "stars": "15,298",
+    "forks": "921",
+    "link": "https://github.com/browserbase/stagehand"
+  },
+  {
+    "rank": 5,
+    "name": "python-poetry/poetry",
+    "description": "Python packaging and dependency management made easy",
+    "language": "Python",
+    "stars": "33,609",
+    "forks": "2,364",
+    "link": "https://github.com/python-poetry/poetry"
+  },
+  {
+    "rank": 6,
+    "name": "blakeblackshear/frigate",
+    "description": "NVR with realtime local object detection for IP cameras",
+    "language": "TypeScript",
+    "stars": "24,709",
+    "forks": "2,288",
+    "link": "https://github.com/blakeblackshear/frigate"
+  },
+  {
+    "rank": 7,
+    "name": "ethereum/solidity",
+    "description": "Solidity, the Smart Contract Programming Language",
+    "language": "C++",
+    "stars": "24,851",
+    "forks": "6,145",
+    "link": "https://github.com/ethereum/solidity"
+  },
+  {
+    "rank": 8,
+    "name": "openssl/openssl",
+    "description": "TLS/SSL and crypto library",
+    "language": "C",
+    "stars": "28,225",
+    "forks": "10,758",
+    "link": "https://github.com/openssl/openssl"
+  },
+  {
+    "rank": 9,
+    "name": "themactep/thingino-firmware",
+    "description": "Open-source firmware for Ingenic SoC IP cameras",
+    "language": "Shell",
+    "stars": "956",
+    "forks": "126",
+    "link": "https://github.com/themactep/thingino-firmware"
+  },
+  {
+    "rank": 10,
+    "name": "dstotijn/hetty",
+    "description": "An HTTP toolkit for security research.",
+    "language": "Go",
+    "stars": "7,775",
+    "forks": "434",
+    "link": "https://github.com/dstotijn/hetty"
+  },
+  {
+    "rank": 11,
+    "name": "MaaAssistantArknights/MaaAssistantArknights",
+    "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "language": "C++",
+    "stars": "17,389",
+    "forks": "2,252",
+    "link": "https://github.com/MaaAssistantArknights/MaaAssistantArknights"
+  },
+  {
+    "rank": 12,
+    "name": "JetBrains/intellij-community",
+    "description": "IntelliJ IDEA & IntelliJ Platform",
+    "language": "Java",
+    "stars": "18,509",
+    "forks": "5,498",
+    "link": "https://github.com/JetBrains/intellij-community"
+  },
+  {
+    "rank": 13,
+    "name": "open-edge-platform/anomalib",
+    "description": "An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.",
+    "language": "Python",
+    "stars": "4,679",
+    "forks": "783",
+    "link": "https://github.com/open-edge-platform/anomalib"
+  },
+  {
+    "rank": 14,
+    "name": "confident-ai/deepeval",
+    "description": "The LLM Evaluation Framework",
+    "language": "Python",
+    "stars": "9,916",
+    "forks": "860",
+    "link": "https://github.com/confident-ai/deepeval"
+  },
+  {
+    "rank": 15,
+    "name": "prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "language": "TypeScript",
+    "stars": "43,174",
+    "forks": "1,820",
+    "link": "https://github.com/prisma/prisma"
+  },
+  {
+    "rank": 16,
+    "name": "openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Jupyter Notebook",
+    "stars": "66,033",
+    "forks": "10,972",
+    "link": "https://github.com/openai/openai-cookbook"
+  }
+]
