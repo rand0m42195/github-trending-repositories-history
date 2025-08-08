@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Rust",
+    "stars": "12,669",
+    "forks": "1,389",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 2,
+    "name": "browserbase/stagehand",
+    "description": "The AI Browser Automation Framework",
+    "language": "TypeScript",
+    "stars": "15,664",
+    "forks": "938",
+    "link": "https://github.com/browserbase/stagehand"
+  },
+  {
+    "rank": 3,
+    "name": "lvgl/lvgl",
+    "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+    "language": "C",
+    "stars": "20,593",
+    "forks": "3,760",
+    "link": "https://github.com/lvgl/lvgl"
+  },
+  {
+    "rank": 4,
+    "name": "vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "language": "Python",
+    "stars": "54,415",
+    "forks": "9,216",
+    "link": "https://github.com/vllm-project/vllm"
+  },
+  {
+    "rank": 5,
+    "name": "ollama/ollama",
+    "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "language": "Go",
+    "stars": "149,369",
+    "forks": "12,740",
+    "link": "https://github.com/ollama/ollama"
+  },
+  {
+    "rank": 6,
+    "name": "netbirdio/netbird",
+    "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "language": "Go",
+    "stars": "17,749",
+    "forks": "827",
+    "link": "https://github.com/netbirdio/netbird"
+  },
+  {
+    "rank": 7,
+    "name": "jesseduffield/lazygit",
+    "description": "simple terminal UI for git commands",
+    "language": "Go",
+    "stars": "62,934",
+    "forks": "2,160",
+    "link": "https://github.com/jesseduffield/lazygit"
+  },
+  {
+    "rank": 8,
+    "name": "ethereum/solidity",
+    "description": "Solidity, the Smart Contract Programming Language",
+    "language": "C++",
+    "stars": "24,913",
+    "forks": "6,149",
+    "link": "https://github.com/ethereum/solidity"
+  },
+  {
+    "rank": 9,
+    "name": "simstudioai/sim",
+    "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+    "language": "TypeScript",
+    "stars": "7,032",
+    "forks": "929",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 10,
+    "name": "openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Jupyter Notebook",
+    "stars": "66,323",
+    "forks": "11,008",
+    "link": "https://github.com/openai/openai-cookbook"
+  },
+  {
+    "rank": 11,
+    "name": "prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "language": "TypeScript",
+    "stars": "43,357",
+    "forks": "1,828",
+    "link": "https://github.com/prisma/prisma"
+  },
+  {
+    "rank": 12,
+    "name": "xiaoyaocz/dart_simple_live",
+    "description": "简简单单的看直播",
+    "language": "Dart",
+    "stars": "11,843",
+    "forks": "782",
+    "link": "https://github.com/xiaoyaocz/dart_simple_live"
+  },
+  {
+    "rank": 13,
+    "name": "datawhalechina/self-llm",
+    "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+    "language": "Jupyter Notebook",
+    "stars": "22,605",
+    "forks": "2,283",
+    "link": "https://github.com/datawhalechina/self-llm"
+  },
+  {
+    "rank": 14,
+    "name": "dotnet/efcore",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+    "language": "C#",
+    "stars": "14,273",
+    "forks": "3,288",
+    "link": "https://github.com/dotnet/efcore"
+  }
+]
