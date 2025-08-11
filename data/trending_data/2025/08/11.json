@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "umami-software/umami",
+    "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+    "language": "TypeScript",
+    "stars": "28,517",
+    "forks": "5,324",
+    "link": "https://github.com/umami-software/umami"
+  },
+  {
+    "rank": 2,
+    "name": "libsdl-org/SDL",
+    "description": "Simple Directmedia Layer",
+    "language": "C",
+    "stars": "13,131",
+    "forks": "2,294",
+    "link": "https://github.com/libsdl-org/SDL"
+  },
+  {
+    "rank": 3,
+    "name": "menloresearch/jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "language": "TypeScript",
+    "stars": "35,906",
+    "forks": "2,107",
+    "link": "https://github.com/menloresearch/jan"
+  },
+  {
+    "rank": 4,
+    "name": "nomic-ai/gpt4all",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "language": "C++",
+    "stars": "74,254",
+    "forks": "8,085",
+    "link": "https://github.com/nomic-ai/gpt4all"
+  },
+  {
+    "rank": 5,
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": "33,941",
+    "forks": "3,904",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 6,
+    "name": "RSSNext/Folo",
+    "description": "🧡 Follow everything in one place",
+    "language": "TypeScript",
+    "stars": "30,942",
+    "forks": "1,401",
+    "link": "https://github.com/RSSNext/Folo"
+  },
+  {
+    "rank": 7,
+    "name": "polarsource/polar",
+    "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+    "language": "Python",
+    "stars": "6,665",
+    "forks": "406",
+    "link": "https://github.com/polarsource/polar"
+  },
+  {
+    "rank": 8,
+    "name": "fastapi/full-stack-fastapi-template",
+    "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+    "language": "TypeScript",
+    "stars": "35,534",
+    "forks": "6,814",
+    "link": "https://github.com/fastapi/full-stack-fastapi-template"
+  },
+  {
+    "rank": 9,
+    "name": "topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "Kotlin",
+    "stars": "55,108",
+    "forks": "14,701",
+    "link": "https://github.com/topjohnwu/Magisk"
+  },
+  {
+    "rank": 10,
+    "name": "idosal/git-mcp",
+    "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+    "language": "TypeScript",
+    "stars": "4,387",
+    "forks": "324",
+    "link": "https://github.com/idosal/git-mcp"
+  },
+  {
+    "rank": 11,
+    "name": "binhnguyennus/awesome-scalability",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "language": "",
+    "stars": "64,101",
+    "forks": "6,529",
+    "link": "https://github.com/binhnguyennus/awesome-scalability"
+  },
+  {
+    "rank": 12,
+    "name": "openai/openai-node",
+    "description": "Official JavaScript / TypeScript library for the OpenAI API",
+    "language": "TypeScript",
+    "stars": "9,802",
+    "forks": "1,184",
+    "link": "https://github.com/openai/openai-node"
+  },
+  {
+    "rank": 13,
+    "name": "xiaoyaocz/dart_simple_live",
+    "description": "简简单单的看直播",
+    "language": "Dart",
+    "stars": "12,123",
+    "forks": "891",
+    "link": "https://github.com/xiaoyaocz/dart_simple_live"
+  }
+]
