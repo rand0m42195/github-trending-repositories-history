@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "nomic-ai/gpt4all",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "language": "C++",
+    "stars": "75,266",
+    "forks": "8,154",
+    "link": "https://github.com/nomic-ai/gpt4all"
+  },
+  {
+    "rank": 2,
+    "name": "tadata-org/fastapi_mcp",
+    "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+    "language": "Python",
+    "stars": "7,465",
+    "forks": "608",
+    "link": "https://github.com/tadata-org/fastapi_mcp"
+  },
+  {
+    "rank": 3,
+    "name": "trailofbits/buttercup",
+    "description": "",
+    "language": "Python",
+    "stars": "529",
+    "forks": "58",
+    "link": "https://github.com/trailofbits/buttercup"
+  },
+  {
+    "rank": 4,
+    "name": "patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "language": "Jupyter Notebook",
+    "stars": "16,562",
+    "forks": "2,810",
+    "link": "https://github.com/patchy631/ai-engineering-hub"
+  },
+  {
+    "rank": 5,
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": "34,378",
+    "forks": "3,927",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 6,
+    "name": "menloresearch/jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "language": "TypeScript",
+    "stars": "36,184",
+    "forks": "2,111",
+    "link": "https://github.com/menloresearch/jan"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+    "language": "Jupyter Notebook",
+    "stars": "94,621",
+    "forks": "49,241",
+    "link": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "rank": 8,
+    "name": "midday-ai/midday",
+    "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+    "language": "TypeScript",
+    "stars": "9,843",
+    "forks": "914",
+    "link": "https://github.com/midday-ai/midday"
+  },
+  {
+    "rank": 9,
+    "name": "xiaoyaocz/dart_simple_live",
+    "description": "简简单单的看直播",
+    "language": "Dart",
+    "stars": "12,277",
+    "forks": "925",
+    "link": "https://github.com/xiaoyaocz/dart_simple_live"
+  },
+  {
+    "rank": 10,
+    "name": "fastapi/full-stack-fastapi-template",
+    "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+    "language": "TypeScript",
+    "stars": "35,878",
+    "forks": "6,846",
+    "link": "https://github.com/fastapi/full-stack-fastapi-template"
+  },
+  {
+    "rank": 11,
+    "name": "mendableai/firecrawl",
+    "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+    "language": "TypeScript",
+    "stars": "46,663",
+    "forks": "4,248",
+    "link": "https://github.com/mendableai/firecrawl"
+  },
+  {
+    "rank": 12,
+    "name": "umami-software/umami",
+    "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+    "language": "TypeScript",
+    "stars": "29,272",
+    "forks": "5,350",
+    "link": "https://github.com/umami-software/umami"
+  },
+  {
+    "rank": 13,
+    "name": "libsdl-org/SDL",
+    "description": "Simple Directmedia Layer",
+    "language": "C",
+    "stars": "13,239",
+    "forks": "2,303",
+    "link": "https://github.com/libsdl-org/SDL"
+  },
+  {
+    "rank": 14,
+    "name": "idosal/git-mcp",
+    "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+    "language": "TypeScript",
+    "stars": "4,715",
+    "forks": "337",
+    "link": "https://github.com/idosal/git-mcp"
+  }
+]
