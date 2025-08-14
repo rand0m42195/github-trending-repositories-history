@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "ubicloud/ubicloud",
+    "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+    "language": "Ruby",
+    "stars": "7,950",
+    "forks": "327",
+    "link": "https://github.com/ubicloud/ubicloud"
+  },
+  {
+    "rank": 2,
+    "name": "apple/embedding-atlas",
+    "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+    "language": "TypeScript",
+    "stars": "1,883",
+    "forks": "88",
+    "link": "https://github.com/apple/embedding-atlas"
+  },
+  {
+    "rank": 3,
+    "name": "jitsi/jitsi-meet",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+    "language": "TypeScript",
+    "stars": "26,346",
+    "forks": "7,342",
+    "link": "https://github.com/jitsi/jitsi-meet"
+  },
+  {
+    "rank": 4,
+    "name": "tadata-org/fastapi_mcp",
+    "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+    "language": "Python",
+    "stars": "8,080",
+    "forks": "646",
+    "link": "https://github.com/tadata-org/fastapi_mcp"
+  },
+  {
+    "rank": 5,
+    "name": "menloresearch/jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "language": "TypeScript",
+    "stars": "36,747",
+    "forks": "2,145",
+    "link": "https://github.com/menloresearch/jan"
+  },
+  {
+    "rank": 6,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+    "language": "TypeScript",
+    "stars": "16,044",
+    "forks": "1,430",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 7,
+    "name": "FiloSottile/mkcert",
+    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+    "language": "Go",
+    "stars": "55,715",
+    "forks": "2,913",
+    "link": "https://github.com/FiloSottile/mkcert"
+  },
+  {
+    "rank": 8,
+    "name": "filamentphp/filament",
+    "description": "A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire",
+    "language": "PHP",
+    "stars": "25,559",
+    "forks": "3,652",
+    "link": "https://github.com/filamentphp/filament"
+  },
+  {
+    "rank": 9,
+    "name": "open-telemetry/opentelemetry-collector",
+    "description": "OpenTelemetry Collector",
+    "language": "Go",
+    "stars": "5,630",
+    "forks": "1,707",
+    "link": "https://github.com/open-telemetry/opentelemetry-collector"
+  },
+  {
+    "rank": 10,
+    "name": "nomic-ai/gpt4all",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+    "language": "C++",
+    "stars": "76,257",
+    "forks": "8,217",
+    "link": "https://github.com/nomic-ai/gpt4all"
+  },
+  {
+    "rank": 11,
+    "name": "conductor-oss/conductor",
+    "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+    "language": "Java",
+    "stars": "25,323",
+    "forks": "665",
+    "link": "https://github.com/conductor-oss/conductor"
+  },
+  {
+    "rank": 12,
+    "name": "microsoft/poml",
+    "description": "Prompt Orchestration Markup Language",
+    "language": "TypeScript",
+    "stars": "1,614",
+    "forks": "51",
+    "link": "https://github.com/microsoft/poml"
+  },
+  {
+    "rank": 13,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "language": "",
+    "stars": "76,012",
+    "forks": "21,328",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 14,
+    "name": "open-telemetry/opentelemetry-collector-contrib",
+    "description": "Contrib repository for the OpenTelemetry Collector",
+    "language": "Go",
+    "stars": "3,812",
+    "forks": "2,937",
+    "link": "https://github.com/open-telemetry/opentelemetry-collector-contrib"
+  },
+  {
+    "rank": 15,
+    "name": "fastapi/full-stack-fastapi-template",
+    "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+    "language": "TypeScript",
+    "stars": "36,532",
+    "forks": "6,928",
+    "link": "https://github.com/fastapi/full-stack-fastapi-template"
+  },
+  {
+    "rank": 16,
+    "name": "unslothai/notebooks",
+    "description": "100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more.",
+    "language": "Jupyter Notebook",
+    "stars": "3,252",
+    "forks": "445",
+    "link": "https://github.com/unslothai/notebooks"
+  },
+  {
+    "rank": 17,
+    "name": "practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "",
+    "stars": "239,377",
+    "forks": "31,318",
+    "link": "https://github.com/practical-tutorials/project-based-learning"
+  }
+]
