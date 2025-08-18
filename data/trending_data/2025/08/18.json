@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "coleam00/Archon",
+    "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+    "language": "Python",
+    "stars": "7,602",
+    "forks": "1,463",
+    "link": "https://github.com/coleam00/Archon"
+  },
+  {
+    "rank": 2,
+    "name": "emcie-co/parlant",
+    "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+    "language": "Python",
+    "stars": "4,847",
+    "forks": "463",
+    "link": "https://github.com/emcie-co/parlant"
+  },
+  {
+    "rank": 3,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "58,757",
+    "forks": "7,043",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 4,
+    "name": "tsoding/nob.h",
+    "description": "Header only library for writing build recipes in C.",
+    "language": "C",
+    "stars": "1,595",
+    "forks": "95",
+    "link": "https://github.com/tsoding/nob.h"
+  },
+  {
+    "rank": 5,
+    "name": "aliasrobotics/cai",
+    "description": "Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence",
+    "language": "Python",
+    "stars": "2,656",
+    "forks": "399",
+    "link": "https://github.com/aliasrobotics/cai"
+  },
+  {
+    "rank": 6,
+    "name": "PixiEditor/PixiEditor",
+    "description": "PixiEditor is a Universal Editor for all your 2D needs",
+    "language": "C#",
+    "stars": "4,014",
+    "forks": "164",
+    "link": "https://github.com/PixiEditor/PixiEditor"
+  },
+  {
+    "rank": 7,
+    "name": "dtyq/magic",
+    "description": "Super Magic (超级麦吉). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+    "language": "PHP",
+    "stars": "2,241",
+    "forks": "242",
+    "link": "https://github.com/dtyq/magic"
+  },
+  {
+    "rank": 8,
+    "name": "LMCache/LMCache",
+    "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+    "language": "Python",
+    "stars": "4,520",
+    "forks": "503",
+    "link": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "rank": 9,
+    "name": "colmap/colmap",
+    "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+    "language": "C++",
+    "stars": "9,486",
+    "forks": "1,746",
+    "link": "https://github.com/colmap/colmap"
+  },
+  {
+    "rank": 10,
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data aggregator for humans and AI agents.",
+    "language": "Python",
+    "stars": "49,823",
+    "forks": "4,641",
+    "link": "https://github.com/OpenBB-finance/OpenBB"
+  },
+  {
+    "rank": 11,
+    "name": "DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "36,447",
+    "forks": "7,037",
+    "link": "https://github.com/DataExpert-io/data-engineer-handbook"
+  },
+  {
+    "rank": 12,
+    "name": "clash-verge-rev/clash-verge-rev",
+    "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+    "language": "TypeScript",
+    "stars": "70,538",
+    "forks": "5,330",
+    "link": "https://github.com/clash-verge-rev/clash-verge-rev"
+  },
+  {
+    "rank": 13,
+    "name": "MotiaDev/motia",
+    "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.",
+    "language": "TypeScript",
+    "stars": "6,206",
+    "forks": "489",
+    "link": "https://github.com/MotiaDev/motia"
+  }
+]
