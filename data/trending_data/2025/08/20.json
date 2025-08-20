@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "emcie-co/parlant",
+    "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+    "language": "Python",
+    "stars": "6,532",
+    "forks": "561",
+    "link": "https://github.com/emcie-co/parlant"
+  },
+  {
+    "rank": 2,
+    "name": "coleam00/Archon",
+    "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+    "language": "Python",
+    "stars": "9,713",
+    "forks": "1,682",
+    "link": "https://github.com/coleam00/Archon"
+  },
+  {
+    "rank": 3,
+    "name": "LMCache/LMCache",
+    "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+    "language": "Python",
+    "stars": "4,801",
+    "forks": "526",
+    "link": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "rank": 4,
+    "name": "aaPanel/BillionMail",
+    "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr",
+    "language": "Go",
+    "stars": "9,171",
+    "forks": "786",
+    "link": "https://github.com/aaPanel/BillionMail"
+  },
+  {
+    "rank": 5,
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "language": "Jupyter Notebook",
+    "stars": "65,753",
+    "forks": "9,249",
+    "link": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "rank": 6,
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.",
+    "language": "Python",
+    "stars": "50,523",
+    "forks": "4,718",
+    "link": "https://github.com/OpenBB-finance/OpenBB"
+  },
+  {
+    "rank": 7,
+    "name": "imsyy/SPlayer",
+    "description": "🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player",
+    "language": "Vue",
+    "stars": "4,759",
+    "forks": "838",
+    "link": "https://github.com/imsyy/SPlayer"
+  },
+  {
+    "rank": 8,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "60,229",
+    "forks": "7,231",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 9,
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "stars": "2,111",
+    "forks": "327",
+    "link": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "rank": 10,
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "stars": "73,608",
+    "forks": "3,881",
+    "link": "https://github.com/immich-app/immich"
+  },
+  {
+    "rank": 11,
+    "name": "PixiEditor/PixiEditor",
+    "description": "PixiEditor is a Universal Editor for all your 2D needs",
+    "language": "C#",
+    "stars": "4,879",
+    "forks": "194",
+    "link": "https://github.com/PixiEditor/PixiEditor"
+  },
+  {
+    "rank": 12,
+    "name": "bytedance/UI-TARS",
+    "description": "",
+    "language": "Python",
+    "stars": "7,167",
+    "forks": "498",
+    "link": "https://github.com/bytedance/UI-TARS"
+  },
+  {
+    "rank": 13,
+    "name": "HeyPuter/puter",
+    "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+    "language": "JavaScript",
+    "stars": "35,153",
+    "forks": "2,693",
+    "link": "https://github.com/HeyPuter/puter"
+  },
+  {
+    "rank": 14,
+    "name": "awslabs/mcp",
+    "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
+    "language": "Python",
+    "stars": "5,729",
+    "forks": "754",
+    "link": "https://github.com/awslabs/mcp"
+  }
+]
