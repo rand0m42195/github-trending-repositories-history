@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "simstudioai/sim",
+    "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+    "language": "TypeScript",
+    "stars": "8,613",
+    "forks": "1,106",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 2,
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "language": "Vue",
+    "stars": "3,832",
+    "forks": "264",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 3,
+    "name": "puppeteer/puppeteer",
+    "description": "JavaScript API for Chrome and Firefox",
+    "language": "TypeScript",
+    "stars": "91,855",
+    "forks": "9,271",
+    "link": "https://github.com/puppeteer/puppeteer"
+  },
+  {
+    "rank": 4,
+    "name": "bitwarden/clients",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+    "language": "TypeScript",
+    "stars": "10,741",
+    "forks": "1,452",
+    "link": "https://github.com/bitwarden/clients"
+  },
+  {
+    "rank": 5,
+    "name": "Leantime/leantime",
+    "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+    "language": "PHP",
+    "stars": "6,114",
+    "forks": "682",
+    "link": "https://github.com/Leantime/leantime"
+  },
+  {
+    "rank": 6,
+    "name": "n8n-io/self-hosted-ai-starter-kit",
+    "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+    "language": "",
+    "stars": "11,670",
+    "forks": "2,833",
+    "link": "https://github.com/n8n-io/self-hosted-ai-starter-kit"
+  },
+  {
+    "rank": 7,
+    "name": "MotiaDev/motia",
+    "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
+    "language": "TypeScript",
+    "stars": "6,871",
+    "forks": "528",
+    "link": "https://github.com/MotiaDev/motia"
+  },
+  {
+    "rank": 8,
+    "name": "DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "37,104",
+    "forks": "7,098",
+    "link": "https://github.com/DataExpert-io/data-engineer-handbook"
+  },
+  {
+    "rank": 9,
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "language": "Jupyter Notebook",
+    "stars": "66,400",
+    "forks": "9,314",
+    "link": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "rank": 10,
+    "name": "laude-institute/terminal-bench",
+    "description": "A benchmark for LLMs on complicated tasks in the terminal",
+    "language": "Python",
+    "stars": "491",
+    "forks": "137",
+    "link": "https://github.com/laude-institute/terminal-bench"
+  },
+  {
+    "rank": 11,
+    "name": "ComposersDesktop/CDP8",
+    "description": "New version of CDP software",
+    "language": "C",
+    "stars": "363",
+    "forks": "22",
+    "link": "https://github.com/ComposersDesktop/CDP8"
+  },
+  {
+    "rank": 12,
+    "name": "epicenter-so/epicenter",
+    "description": "Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️",
+    "language": "TypeScript",
+    "stars": "2,414",
+    "forks": "144",
+    "link": "https://github.com/epicenter-so/epicenter"
+  },
+  {
+    "rank": 13,
+    "name": "PixiEditor/PixiEditor",
+    "description": "PixiEditor is a Universal Editor for all your 2D needs",
+    "language": "C#",
+    "stars": "5,186",
+    "forks": "206",
+    "link": "https://github.com/PixiEditor/PixiEditor"
+  },
+  {
+    "rank": 14,
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "Python",
+    "stars": "20,869",
+    "forks": "1,578",
+    "link": "https://github.com/microsoft/BitNet"
+  }
+]
