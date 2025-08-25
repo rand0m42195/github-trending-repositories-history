@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "winapps-org/winapps",
+    "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
+    "language": "Shell",
+    "stars": "5,993",
+    "forks": "190",
+    "link": "https://github.com/winapps-org/winapps"
+  },
+  {
+    "rank": 2,
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "language": "Vue",
+    "stars": "9,208",
+    "forks": "679",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 3,
+    "name": "HKUDS/DeepCode",
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "language": "Python",
+    "stars": "2,349",
+    "forks": "286",
+    "link": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "rank": 4,
+    "name": "scottpetrovic/mesh2motion-app",
+    "description": "Import a 3D Model and automatically assign and export animations",
+    "language": "TypeScript",
+    "stars": "1,008",
+    "forks": "88",
+    "link": "https://github.com/scottpetrovic/mesh2motion-app"
+  },
+  {
+    "rank": 5,
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "Python",
+    "stars": "366,098",
+    "forks": "63,957",
+    "link": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "rank": 6,
+    "name": "plait-board/drawnix",
+    "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+    "language": "TypeScript",
+    "stars": "6,332",
+    "forks": "496",
+    "link": "https://github.com/plait-board/drawnix"
+  },
+  {
+    "rank": 7,
+    "name": "midday-ai/midday",
+    "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+    "language": "TypeScript",
+    "stars": "11,261",
+    "forks": "1,021",
+    "link": "https://github.com/midday-ai/midday"
+  },
+  {
+    "rank": 8,
+    "name": "yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stars": "123,718",
+    "forks": "9,869",
+    "link": "https://github.com/yt-dlp/yt-dlp"
+  },
+  {
+    "rank": 9,
+    "name": "django/django",
+    "description": "The Web framework for perfectionists with deadlines.",
+    "language": "Python",
+    "stars": "84,716",
+    "forks": "32,853",
+    "link": "https://github.com/django/django"
+  },
+  {
+    "rank": 10,
+    "name": "Klipper3d/klipper",
+    "description": "Klipper is a 3d-printer firmware",
+    "language": "C",
+    "stars": "10,696",
+    "forks": "5,648",
+    "link": "https://github.com/Klipper3d/klipper"
+  },
+  {
+    "rank": 11,
+    "name": "TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "stars": "62,869",
+    "forks": "20,176",
+    "link": "https://github.com/TheAlgorithms/Java"
+  },
+  {
+    "rank": 12,
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "stars": "4,102",
+    "forks": "498",
+    "link": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "rank": 13,
+    "name": "simstudioai/sim",
+    "description": "Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.",
+    "language": "TypeScript",
+    "stars": "11,876",
+    "forks": "1,381",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 14,
+    "name": "puckeditor/puck",
+    "description": "The visual editor for React",
+    "language": "TypeScript",
+    "stars": "8,558",
+    "forks": "563",
+    "link": "https://github.com/puckeditor/puck"
+  },
+  {
+    "rank": 15,
+    "name": "RSSNext/Folo",
+    "description": "🧡 Follow everything in one place",
+    "language": "TypeScript",
+    "stars": "32,142",
+    "forks": "1,484",
+    "link": "https://github.com/RSSNext/Folo"
+  },
+  {
+    "rank": 16,
+    "name": "dream-num/univer",
+    "description": "Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer spreadsheet is driven directly through natural language.",
+    "language": "TypeScript",
+    "stars": "10,530",
+    "forks": "916",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 17,
+    "name": "Leantime/leantime",
+    "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+    "language": "PHP",
+    "stars": "7,268",
+    "forks": "733",
+    "link": "https://github.com/Leantime/leantime"
+  },
+  {
+    "rank": 18,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "11 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "35,068",
+    "forks": "11,169",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 19,
+    "name": "Budibase/budibase",
+    "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+    "language": "TypeScript",
+    "stars": "26,227",
+    "forks": "1,892",
+    "link": "https://github.com/Budibase/budibase"
+  },
+  {
+    "rank": 20,
+    "name": "GitHubDaily/GitHubDaily",
+    "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+    "language": "",
+    "stars": "40,340",
+    "forks": "4,154",
+    "link": "https://github.com/GitHubDaily/GitHubDaily"
+  }
+]
