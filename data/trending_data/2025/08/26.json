@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "plait-board/drawnix",
+    "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+    "language": "TypeScript",
+    "stars": "7,451",
+    "forks": "545",
+    "link": "https://github.com/plait-board/drawnix"
+  },
+  {
+    "rank": 2,
+    "name": "HKUDS/DeepCode",
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "language": "Python",
+    "stars": "3,323",
+    "forks": "354",
+    "link": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "rank": 3,
+    "name": "winapps-org/winapps",
+    "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
+    "language": "Shell",
+    "stars": "7,258",
+    "forks": "221",
+    "link": "https://github.com/winapps-org/winapps"
+  },
+  {
+    "rank": 4,
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "language": "Vue",
+    "stars": "10,323",
+    "forks": "771",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 5,
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "stars": "4,656",
+    "forks": "554",
+    "link": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "rank": 6,
+    "name": "willccbb/verifiers",
+    "description": "Verifiers for LLM Reinforcement Learning",
+    "language": "Python",
+    "stars": "2,243",
+    "forks": "273",
+    "link": "https://github.com/willccbb/verifiers"
+  },
+  {
+    "rank": 7,
+    "name": "spotDL/spotify-downloader",
+    "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+    "language": "Python",
+    "stars": "21,474",
+    "forks": "1,892",
+    "link": "https://github.com/spotDL/spotify-downloader"
+  },
+  {
+    "rank": 8,
+    "name": "anuraghazra/github-readme-stats",
+    "description": "⚡ Dynamically generated stats for your github readmes",
+    "language": "JavaScript",
+    "stars": "75,414",
+    "forks": "25,740",
+    "link": "https://github.com/anuraghazra/github-readme-stats"
+  },
+  {
+    "rank": 9,
+    "name": "karpathy/nn-zero-to-hero",
+    "description": "Neural Networks: Zero to Hero",
+    "language": "Jupyter Notebook",
+    "stars": "15,718",
+    "forks": "2,203",
+    "link": "https://github.com/karpathy/nn-zero-to-hero"
+  },
+  {
+    "rank": 10,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "language": "JavaScript",
+    "stars": "9,565",
+    "forks": "2,037",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 11,
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "language": "Jupyter Notebook",
+    "stars": "95,940",
+    "forks": "50,132",
+    "link": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "rank": 12,
+    "name": "GitHubDaily/GitHubDaily",
+    "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+    "language": "",
+    "stars": "40,813",
+    "forks": "4,169",
+    "link": "https://github.com/GitHubDaily/GitHubDaily"
+  },
+  {
+    "rank": 13,
+    "name": "yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stars": "124,057",
+    "forks": "9,886",
+    "link": "https://github.com/yt-dlp/yt-dlp"
+  },
+  {
+    "rank": 14,
+    "name": "rothgar/awesome-tuis",
+    "description": "List of projects that provide terminal user interfaces",
+    "language": "",
+    "stars": "11,419",
+    "forks": "439",
+    "link": "https://github.com/rothgar/awesome-tuis"
+  }
+]
