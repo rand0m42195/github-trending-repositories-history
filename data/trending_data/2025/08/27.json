@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "language": "JavaScript",
+    "stars": "11,617",
+    "forks": "2,254",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 2,
+    "name": "plait-board/drawnix",
+    "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+    "language": "TypeScript",
+    "stars": "8,974",
+    "forks": "639",
+    "link": "https://github.com/plait-board/drawnix"
+  },
+  {
+    "rank": 3,
+    "name": "willccbb/verifiers",
+    "description": "Verifiers for LLM Reinforcement Learning",
+    "language": "Python",
+    "stars": "2,462",
+    "forks": "281",
+    "link": "https://github.com/willccbb/verifiers"
+  },
+  {
+    "rank": 4,
+    "name": "HKUDS/DeepCode",
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "language": "Python",
+    "stars": "4,074",
+    "forks": "414",
+    "link": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "rank": 5,
+    "name": "TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "stars": "63,023",
+    "forks": "20,195",
+    "link": "https://github.com/TheAlgorithms/Java"
+  },
+  {
+    "rank": 6,
+    "name": "MODSetter/SurfSense",
+    "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+    "language": "Python",
+    "stars": "6,833",
+    "forks": "513",
+    "link": "https://github.com/MODSetter/SurfSense"
+  },
+  {
+    "rank": 7,
+    "name": "eythaann/Seelen-UI",
+    "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+    "language": "Rust",
+    "stars": "10,953",
+    "forks": "331",
+    "link": "https://github.com/eythaann/Seelen-UI"
+  },
+  {
+    "rank": 8,
+    "name": "SimplifyJobs/Summer2026-Internships",
+    "description": "Collection of Summer 2026 tech internships!",
+    "language": "",
+    "stars": "40,393",
+    "forks": "3,014",
+    "link": "https://github.com/SimplifyJobs/Summer2026-Internships"
+  },
+  {
+    "rank": 9,
+    "name": "tw93/Pake",
+    "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "language": "JavaScript",
+    "stars": "41,456",
+    "forks": "7,723",
+    "link": "https://github.com/tw93/Pake"
+  },
+  {
+    "rank": 10,
+    "name": "GitHubDaily/GitHubDaily",
+    "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+    "language": "",
+    "stars": "41,190",
+    "forks": "4,183",
+    "link": "https://github.com/GitHubDaily/GitHubDaily"
+  },
+  {
+    "rank": 11,
+    "name": "IBM/mcp-context-forge",
+    "description": "A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).",
+    "language": "Python",
+    "stars": "1,827",
+    "forks": "221",
+    "link": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "rank": 12,
+    "name": "vanshb03/Summer2026-Internships",
+    "description": "Collection of Summer 2026 tech internships!",
+    "language": "",
+    "stars": "6,266",
+    "forks": "238",
+    "link": "https://github.com/vanshb03/Summer2026-Internships"
+  },
+  {
+    "rank": 13,
+    "name": "opf/openproject",
+    "description": "OpenProject is the leading open source project management software.",
+    "language": "Ruby",
+    "stars": "11,966",
+    "forks": "2,737",
+    "link": "https://github.com/opf/openproject"
+  },
+  {
+    "rank": 14,
+    "name": "onlook-dev/onlook",
+    "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+    "language": "TypeScript",
+    "stars": "21,795",
+    "forks": "1,506",
+    "link": "https://github.com/onlook-dev/onlook"
+  },
+  {
+    "rank": 15,
+    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+    "language": "Jupyter Notebook",
+    "stars": "14,689",
+    "forks": "3,451",
+    "link": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+  }
+]
