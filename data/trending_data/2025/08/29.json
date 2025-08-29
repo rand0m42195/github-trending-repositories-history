@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "language": "JavaScript",
+    "stars": "15,838",
+    "forks": "2,679",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 2,
+    "name": "Canner/WrenAI",
+    "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
+    "language": "TypeScript",
+    "stars": "10,304",
+    "forks": "1,055",
+    "link": "https://github.com/Canner/WrenAI"
+  },
+  {
+    "rank": 3,
+    "name": "firecracker-microvm/firecracker",
+    "description": "Secure and fast microVMs for serverless computing.",
+    "language": "Rust",
+    "stars": "29,671",
+    "forks": "2,047",
+    "link": "https://github.com/firecracker-microvm/firecracker"
+  },
+  {
+    "rank": 4,
+    "name": "chroma-core/chroma",
+    "description": "Open-source search and retrieval database for AI applications.",
+    "language": "Rust",
+    "stars": "22,417",
+    "forks": "1,763",
+    "link": "https://github.com/chroma-core/chroma"
+  },
+  {
+    "rank": 5,
+    "name": "twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "MDX",
+    "stars": "173,125",
+    "forks": "79,143",
+    "link": "https://github.com/twbs/bootstrap"
+  },
+  {
+    "rank": 6,
+    "name": "santinic/audiblez",
+    "description": "Generate audiobooks from e-books",
+    "language": "Python",
+    "stars": "5,068",
+    "forks": "328",
+    "link": "https://github.com/santinic/audiblez"
+  },
+  {
+    "rank": 7,
+    "name": "karpathy/nn-zero-to-hero",
+    "description": "Neural Networks: Zero to Hero",
+    "language": "Jupyter Notebook",
+    "stars": "16,916",
+    "forks": "2,299",
+    "link": "https://github.com/karpathy/nn-zero-to-hero"
+  },
+  {
+    "rank": 8,
+    "name": "hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "stars": "46,304",
+    "forks": "9,997",
+    "link": "https://github.com/hashicorp/terraform"
+  },
+  {
+    "rank": 9,
+    "name": "MODSetter/SurfSense",
+    "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+    "language": "Python",
+    "stars": "7,177",
+    "forks": "531",
+    "link": "https://github.com/MODSetter/SurfSense"
+  },
+  {
+    "rank": 10,
+    "name": "microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "stars": "99,568",
+    "forks": "8,715",
+    "link": "https://github.com/microsoft/terminal"
+  },
+  {
+    "rank": 11,
+    "name": "opf/openproject",
+    "description": "OpenProject is the leading open source project management software.",
+    "language": "Ruby",
+    "stars": "12,253",
+    "forks": "2,765",
+    "link": "https://github.com/opf/openproject"
+  }
+]
