@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "QuentinFuxa/WhisperLiveKit",
+    "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+    "language": "Python",
+    "stars": "2,864",
+    "forks": "291",
+    "link": "https://github.com/QuentinFuxa/WhisperLiveKit"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/mcp",
+    "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+    "language": "C#",
+    "stars": "1,081",
+    "forks": "106",
+    "link": "https://github.com/microsoft/mcp"
+  },
+  {
+    "rank": 3,
+    "name": "Canner/WrenAI",
+    "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
+    "language": "TypeScript",
+    "stars": "10,756",
+    "forks": "1,089",
+    "link": "https://github.com/Canner/WrenAI"
+  },
+  {
+    "rank": 4,
+    "name": "OpenBMB/MiniCPM-V",
+    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone",
+    "language": "Python",
+    "stars": "20,468",
+    "forks": "1,497",
+    "link": "https://github.com/OpenBMB/MiniCPM-V"
+  },
+  {
+    "rank": 5,
+    "name": "twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "MDX",
+    "stars": "173,218",
+    "forks": "79,146",
+    "link": "https://github.com/twbs/bootstrap"
+  },
+  {
+    "rank": 6,
+    "name": "TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": "205,135",
+    "forks": "47,550",
+    "link": "https://github.com/TheAlgorithms/Python"
+  },
+  {
+    "rank": 7,
+    "name": "humanlayer/humanlayer",
+    "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+    "language": "TypeScript",
+    "stars": "1,474",
+    "forks": "144",
+    "link": "https://github.com/humanlayer/humanlayer"
+  },
+  {
+    "rank": 8,
+    "name": "nats-io/nats-server",
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+    "language": "Go",
+    "stars": "17,988",
+    "forks": "1,625",
+    "link": "https://github.com/nats-io/nats-server"
+  },
+  {
+    "rank": 9,
+    "name": "spf13/cobra",
+    "description": "A Commander for modern Go CLI interactions",
+    "language": "Go",
+    "stars": "41,698",
+    "forks": "2,985",
+    "link": "https://github.com/spf13/cobra"
+  },
+  {
+    "rank": 10,
+    "name": "microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "stars": "99,698",
+    "forks": "8,720",
+    "link": "https://github.com/microsoft/terminal"
+  },
+  {
+    "rank": 11,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "language": "JavaScript",
+    "stars": "17,095",
+    "forks": "2,809",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 12,
+    "name": "mercurjs/mercur",
+    "description": "Open-source multi-vendor marketplace platform for B2B & B2C. Built on top of MedusaJS. Create your own custom marketplace. 🛍️",
+    "language": "TypeScript",
+    "stars": "811",
+    "forks": "159",
+    "link": "https://github.com/mercurjs/mercur"
+  },
+  {
+    "rank": 13,
+    "name": "transformerlab/transformerlab-app",
+    "description": "Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.",
+    "language": "TypeScript",
+    "stars": "4,056",
+    "forks": "372",
+    "link": "https://github.com/transformerlab/transformerlab-app"
+  },
+  {
+    "rank": 14,
+    "name": "opf/openproject",
+    "description": "OpenProject is the leading open source project management software.",
+    "language": "Ruby",
+    "stars": "12,435",
+    "forks": "2,780",
+    "link": "https://github.com/opf/openproject"
+  },
+  {
+    "rank": 15,
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "25,159",
+    "forks": "3,931",
+    "link": "https://github.com/juspay/hyperswitch"
+  },
+  {
+    "rank": 16,
+    "name": "rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "stars": "96,678",
+    "forks": "14,188",
+    "link": "https://github.com/rustdesk/rustdesk"
+  },
+  {
+    "rank": 17,
+    "name": "mlabonne/llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "language": "",
+    "stars": "60,844",
+    "forks": "6,628",
+    "link": "https://github.com/mlabonne/llm-course"
+  }
+]
