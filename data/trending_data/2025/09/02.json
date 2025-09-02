@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "dockur/windows",
+    "description": "Windows inside a Docker container.",
+    "language": "Shell",
+    "stars": "41,109",
+    "forks": "3,033",
+    "link": "https://github.com/dockur/windows"
+  },
+  {
+    "rank": 2,
+    "name": "JetBrains/koog",
+    "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "language": "Kotlin",
+    "stars": "2,306",
+    "forks": "146",
+    "link": "https://github.com/JetBrains/koog"
+  },
+  {
+    "rank": 3,
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "26,200",
+    "forks": "3,985",
+    "link": "https://github.com/juspay/hyperswitch"
+  },
+  {
+    "rank": 4,
+    "name": "QuentinFuxa/WhisperLiveKit",
+    "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+    "language": "Python",
+    "stars": "5,540",
+    "forks": "478",
+    "link": "https://github.com/QuentinFuxa/WhisperLiveKit"
+  },
+  {
+    "rank": 5,
+    "name": "activepieces/activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+    "language": "TypeScript",
+    "stars": "17,008",
+    "forks": "2,454",
+    "link": "https://github.com/activepieces/activepieces"
+  },
+  {
+    "rank": 6,
+    "name": "lllyasviel/Fooocus",
+    "description": "Focus on prompting and generating",
+    "language": "Python",
+    "stars": "46,210",
+    "forks": "7,421",
+    "link": "https://github.com/lllyasviel/Fooocus"
+  },
+  {
+    "rank": 7,
+    "name": "laramies/theHarvester",
+    "description": "E-mails, subdomains and names Harvester - OSINT",
+    "language": "Python",
+    "stars": "13,988",
+    "forks": "2,277",
+    "link": "https://github.com/laramies/theHarvester"
+  },
+  {
+    "rank": 8,
+    "name": "humanlayer/humanlayer",
+    "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+    "language": "TypeScript",
+    "stars": "1,950",
+    "forks": "179",
+    "link": "https://github.com/humanlayer/humanlayer"
+  },
+  {
+    "rank": 9,
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS",
+    "language": "Python",
+    "stars": "11,103",
+    "forks": "1,411",
+    "link": "https://github.com/resemble-ai/chatterbox"
+  },
+  {
+    "rank": 10,
+    "name": "OpenBMB/MiniCPM-V",
+    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
+    "language": "Python",
+    "stars": "20,967",
+    "forks": "1,543",
+    "link": "https://github.com/OpenBMB/MiniCPM-V"
+  },
+  {
+    "rank": 11,
+    "name": "ashishpatel26/500-AI-Agents-Projects",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "language": "",
+    "stars": "7,520",
+    "forks": "1,406",
+    "link": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+  },
+  {
+    "rank": 12,
+    "name": "zakirullin/cognitive-load",
+    "description": "🧠 Cognitive Load is what matters",
+    "language": "",
+    "stars": "9,756",
+    "forks": "205",
+    "link": "https://github.com/zakirullin/cognitive-load"
+  },
+  {
+    "rank": 13,
+    "name": "denizsafak/abogen",
+    "description": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+    "language": "Python",
+    "stars": "3,246",
+    "forks": "163",
+    "link": "https://github.com/denizsafak/abogen"
+  },
+  {
+    "rank": 14,
+    "name": "bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "stars": "41,621",
+    "forks": "4,086",
+    "link": "https://github.com/bevyengine/bevy"
+  }
+]
