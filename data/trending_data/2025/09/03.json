@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "dockur/windows",
+    "description": "Windows inside a Docker container.",
+    "language": "Shell",
+    "stars": "42,992",
+    "forks": "3,123",
+    "link": "https://github.com/dockur/windows"
+  },
+  {
+    "rank": 2,
+    "name": "crewAIInc/crewAI",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "language": "Python",
+    "stars": "36,910",
+    "forks": "4,916",
+    "link": "https://github.com/crewAIInc/crewAI"
+  },
+  {
+    "rank": 3,
+    "name": "JetBrains/koog",
+    "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "language": "Kotlin",
+    "stars": "2,675",
+    "forks": "175",
+    "link": "https://github.com/JetBrains/koog"
+  },
+  {
+    "rank": 4,
+    "name": "ashishpatel26/500-AI-Agents-Projects",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "language": "",
+    "stars": "8,531",
+    "forks": "1,544",
+    "link": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+  },
+  {
+    "rank": 5,
+    "name": "google/mangle",
+    "description": "",
+    "language": "Go",
+    "stars": "2,051",
+    "forks": "101",
+    "link": "https://github.com/google/mangle"
+  },
+  {
+    "rank": 6,
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS",
+    "language": "Python",
+    "stars": "11,485",
+    "forks": "1,438",
+    "link": "https://github.com/resemble-ai/chatterbox"
+  },
+  {
+    "rank": 7,
+    "name": "pedroslopez/whatsapp-web.js",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "language": "JavaScript",
+    "stars": "18,241",
+    "forks": "4,393",
+    "link": "https://github.com/pedroslopez/whatsapp-web.js"
+  },
+  {
+    "rank": 8,
+    "name": "LukeGus/Termix",
+    "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+    "language": "TypeScript",
+    "stars": "2,086",
+    "forks": "78",
+    "link": "https://github.com/LukeGus/Termix"
+  },
+  {
+    "rank": 9,
+    "name": "rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "stars": "97,144",
+    "forks": "14,264",
+    "link": "https://github.com/rustdesk/rustdesk"
+  },
+  {
+    "rank": 10,
+    "name": "bytebot-ai/bytebot",
+    "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+    "language": "TypeScript",
+    "stars": "3,531",
+    "forks": "291",
+    "link": "https://github.com/bytebot-ai/bytebot"
+  },
+  {
+    "rank": 11,
+    "name": "google/comprehensive-rust",
+    "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+    "language": "Rust",
+    "stars": "31,368",
+    "forks": "1,862",
+    "link": "https://github.com/google/comprehensive-rust"
+  },
+  {
+    "rank": 12,
+    "name": "projectdiscovery/nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "language": "JavaScript",
+    "stars": "10,791",
+    "forks": "3,006",
+    "link": "https://github.com/projectdiscovery/nuclei-templates"
+  }
+]
