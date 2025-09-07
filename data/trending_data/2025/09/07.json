@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "zama-ai/fhevm",
+    "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+    "language": "Rust",
+    "stars": "17,162",
+    "forks": "707",
+    "link": "https://github.com/zama-ai/fhevm"
+  },
+  {
+    "rank": 2,
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "stars": "28,606",
+    "forks": "2,731",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 3,
+    "name": "trufflesecurity/trufflehog",
+    "description": "Find, verify, and analyze leaked credentials",
+    "language": "Go",
+    "stars": "21,002",
+    "forks": "1,997",
+    "link": "https://github.com/trufflesecurity/trufflehog"
+  },
+  {
+    "rank": 4,
+    "name": "rails/rails",
+    "description": "Ruby on Rails",
+    "language": "Ruby",
+    "stars": "57,484",
+    "forks": "21,955",
+    "link": "https://github.com/rails/rails"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "Python",
+    "stars": "21,592",
+    "forks": "1,640",
+    "link": "https://github.com/microsoft/BitNet"
+  },
+  {
+    "rank": 6,
+    "name": "coleam00/ottomator-agents",
+    "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+    "language": "Python",
+    "stars": "3,926",
+    "forks": "1,426",
+    "link": "https://github.com/coleam00/ottomator-agents"
+  },
+  {
+    "rank": 7,
+    "name": "emcie-co/parlant",
+    "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+    "language": "Python",
+    "stars": "9,196",
+    "forks": "765",
+    "link": "https://github.com/emcie-co/parlant"
+  },
+  {
+    "rank": 8,
+    "name": "mack-a/v2ray-agent",
+    "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+    "language": "Shell",
+    "stars": "17,098",
+    "forks": "5,100",
+    "link": "https://github.com/mack-a/v2ray-agent"
+  },
+  {
+    "rank": 9,
+    "name": "quarkusio/quarkus",
+    "description": "Quarkus: Supersonic Subatomic Java.",
+    "language": "Java",
+    "stars": "14,916",
+    "forks": "2,949",
+    "link": "https://github.com/quarkusio/quarkus"
+  },
+  {
+    "rank": 10,
+    "name": "apache/airflow",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "language": "Python",
+    "stars": "42,145",
+    "forks": "15,542",
+    "link": "https://github.com/apache/airflow"
+  },
+  {
+    "rank": 11,
+    "name": "apple/embedding-atlas",
+    "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+    "language": "TypeScript",
+    "stars": "3,580",
+    "forks": "173",
+    "link": "https://github.com/apple/embedding-atlas"
+  },
+  {
+    "rank": 12,
+    "name": "Eventual-Inc/Daft",
+    "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+    "language": "Rust",
+    "stars": "3,669",
+    "forks": "276",
+    "link": "https://github.com/Eventual-Inc/Daft"
+  },
+  {
+    "rank": 13,
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "65,247",
+    "forks": "5,567",
+    "link": "https://github.com/Stirling-Tools/Stirling-PDF"
+  }
+]
