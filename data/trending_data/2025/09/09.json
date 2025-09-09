@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "emcie-co/parlant",
+    "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+    "language": "Python",
+    "stars": "10,739",
+    "forks": "863",
+    "link": "https://github.com/emcie-co/parlant"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "36,873",
+    "forks": "11,931",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 3,
+    "name": "zama-ai/fhevm",
+    "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+    "language": "Rust",
+    "stars": "17,798",
+    "forks": "748",
+    "link": "https://github.com/zama-ai/fhevm"
+  },
+  {
+    "rank": 4,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "stars": "18,424",
+    "forks": "1,756",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 5,
+    "name": "openwrt/openwrt",
+    "description": "This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "language": "C",
+    "stars": "23,758",
+    "forks": "11,524",
+    "link": "https://github.com/openwrt/openwrt"
+  },
+  {
+    "rank": 6,
+    "name": "Kilo-Org/kilocode",
+    "description": "Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social",
+    "language": "TypeScript",
+    "stars": "9,246",
+    "forks": "886",
+    "link": "https://github.com/Kilo-Org/kilocode"
+  },
+  {
+    "rank": 7,
+    "name": "11cafe/jaaz",
+    "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+    "language": "TypeScript",
+    "stars": "2,944",
+    "forks": "271",
+    "link": "https://github.com/11cafe/jaaz"
+  },
+  {
+    "rank": 8,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "language": "",
+    "stars": "81,931",
+    "forks": "22,827",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "language": "Jupyter Notebook",
+    "stars": "97,264",
+    "forks": "50,894",
+    "link": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "rank": 10,
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "65,979",
+    "forks": "5,604",
+    "link": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "rank": 11,
+    "name": "Cinnamon/kotaemon",
+    "description": "An open-source RAG-based tool for chatting with your documents.",
+    "language": "Python",
+    "stars": "23,394",
+    "forks": "1,913",
+    "link": "https://github.com/Cinnamon/kotaemon"
+  },
+  {
+    "rank": 12,
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "language": "HTML",
+    "stars": "27,013",
+    "forks": "777",
+    "link": "https://github.com/Zie619/n8n-workflows"
+  },
+  {
+    "rank": 13,
+    "name": "Vector-Wangel/XLeRobot",
+    "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
+    "language": "Python",
+    "stars": "2,417",
+    "forks": "231",
+    "link": "https://github.com/Vector-Wangel/XLeRobot"
+  },
+  {
+    "rank": 14,
+    "name": "uutils/coreutils",
+    "description": "Cross-platform Rust rewrite of the GNU coreutils",
+    "language": "Rust",
+    "stars": "21,294",
+    "forks": "1,538",
+    "link": "https://github.com/uutils/coreutils"
+  }
+]
