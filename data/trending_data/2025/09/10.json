@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "emcie-co/parlant",
+    "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+    "language": "Python",
+    "stars": "11,217",
+    "forks": "891",
+    "link": "https://github.com/emcie-co/parlant"
+  },
+  {
+    "rank": 2,
+    "name": "Vector-Wangel/XLeRobot",
+    "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
+    "language": "Python",
+    "stars": "2,769",
+    "forks": "260",
+    "link": "https://github.com/Vector-Wangel/XLeRobot"
+  },
+  {
+    "rank": 3,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "language": "",
+    "stars": "82,600",
+    "forks": "22,967",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 4,
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "66,345",
+    "forks": "5,633",
+    "link": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "rank": 5,
+    "name": "vercel/examples",
+    "description": "Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.",
+    "language": "TypeScript",
+    "stars": "4,223",
+    "forks": "1,412",
+    "link": "https://github.com/vercel/examples"
+  },
+  {
+    "rank": 6,
+    "name": "Cinnamon/kotaemon",
+    "description": "An open-source RAG-based tool for chatting with your documents.",
+    "language": "Python",
+    "stars": "23,672",
+    "forks": "1,930",
+    "link": "https://github.com/Cinnamon/kotaemon"
+  },
+  {
+    "rank": 7,
+    "name": "pathwaycom/llm-app",
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+    "language": "Jupyter Notebook",
+    "stars": "38,284",
+    "forks": "1,044",
+    "link": "https://github.com/pathwaycom/llm-app"
+  },
+  {
+    "rank": 8,
+    "name": "hiroi-sora/Umi-OCR",
+    "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+    "language": "Python",
+    "stars": "36,801",
+    "forks": "3,641",
+    "link": "https://github.com/hiroi-sora/Umi-OCR"
+  },
+  {
+    "rank": 9,
+    "name": "11cafe/jaaz",
+    "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+    "language": "TypeScript",
+    "stars": "3,518",
+    "forks": "312",
+    "link": "https://github.com/11cafe/jaaz"
+  },
+  {
+    "rank": 10,
+    "name": "pathwaycom/pathway",
+    "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "40,790",
+    "forks": "1,241",
+    "link": "https://github.com/pathwaycom/pathway"
+  },
+  {
+    "rank": 11,
+    "name": "ClemensElflein/OpenMower",
+    "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "language": "C++",
+    "stars": "6,017",
+    "forks": "347",
+    "link": "https://github.com/ClemensElflein/OpenMower"
+  },
+  {
+    "rank": 12,
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "32,365",
+    "forks": "4,156",
+    "link": "https://github.com/juspay/hyperswitch"
+  },
+  {
+    "rank": 13,
+    "name": "Eventual-Inc/Daft",
+    "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+    "language": "Rust",
+    "stars": "4,176",
+    "forks": "289",
+    "link": "https://github.com/Eventual-Inc/Daft"
+  },
+  {
+    "rank": 14,
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "stars": "76,160",
+    "forks": "4,027",
+    "link": "https://github.com/immich-app/immich"
+  },
+  {
+    "rank": 15,
+    "name": "HKUDS/AutoAgent",
+    "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+    "language": "Python",
+    "stars": "6,246",
+    "forks": "854",
+    "link": "https://github.com/HKUDS/AutoAgent"
+  }
+]
