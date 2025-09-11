@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "Physical-Intelligence/openpi",
+    "description": "",
+    "language": "Python",
+    "stars": "5,540",
+    "forks": "677",
+    "link": "https://github.com/Physical-Intelligence/openpi"
+  },
+  {
+    "rank": 2,
+    "name": "modelcontextprotocol/registry",
+    "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "language": "Go",
+    "stars": "3,126",
+    "forks": "256",
+    "link": "https://github.com/modelcontextprotocol/registry"
+  },
+  {
+    "rank": 3,
+    "name": "vercel/examples",
+    "description": "Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.",
+    "language": "TypeScript",
+    "stars": "4,406",
+    "forks": "1,419",
+    "link": "https://github.com/vercel/examples"
+  },
+  {
+    "rank": 4,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "37,582",
+    "forks": "12,109",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 5,
+    "name": "11cafe/jaaz",
+    "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+    "language": "TypeScript",
+    "stars": "3,957",
+    "forks": "334",
+    "link": "https://github.com/11cafe/jaaz"
+  },
+  {
+    "rank": 6,
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm",
+    "language": "Scala",
+    "stars": "65,425",
+    "forks": "12,388",
+    "link": "https://github.com/twitter/the-algorithm"
+  },
+  {
+    "rank": 7,
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语",
+    "language": "TypeScript",
+    "stars": "27,129",
+    "forks": "3,993",
+    "link": "https://github.com/ZuodaoTech/everyone-can-use-english"
+  },
+  {
+    "rank": 8,
+    "name": "tesseract-ocr/tesseract",
+    "description": "Tesseract Open Source OCR Engine (main repository)",
+    "language": "C++",
+    "stars": "69,449",
+    "forks": "10,185",
+    "link": "https://github.com/tesseract-ocr/tesseract"
+  },
+  {
+    "rank": 9,
+    "name": "huggingface/aisheets",
+    "description": "Build, enrich, and transform datasets using AI models with no code",
+    "language": "TypeScript",
+    "stars": "1,217",
+    "forks": "110",
+    "link": "https://github.com/huggingface/aisheets"
+  },
+  {
+    "rank": 10,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "language": "",
+    "stars": "83,147",
+    "forks": "23,099",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 11,
+    "name": "ahujasid/blender-mcp",
+    "description": "",
+    "language": "Python",
+    "stars": "13,298",
+    "forks": "1,257",
+    "link": "https://github.com/ahujasid/blender-mcp"
+  },
+  {
+    "rank": 12,
+    "name": "HKUDS/AutoAgent",
+    "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+    "language": "Python",
+    "stars": "6,523",
+    "forks": "868",
+    "link": "https://github.com/HKUDS/AutoAgent"
+  },
+  {
+    "rank": 13,
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "language": "Java",
+    "stars": "66,690",
+    "forks": "5,650",
+    "link": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "rank": 14,
+    "name": "heroui-inc/heroui",
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)",
+    "language": "TypeScript",
+    "stars": "25,722",
+    "forks": "1,911",
+    "link": "https://github.com/heroui-inc/heroui"
+  },
+  {
+    "rank": 15,
+    "name": "ClemensElflein/OpenMower",
+    "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "language": "C++",
+    "stars": "6,124",
+    "forks": "353",
+    "link": "https://github.com/ClemensElflein/OpenMower"
+  },
+  {
+    "rank": 16,
+    "name": "1Panel-dev/MaxKB",
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。",
+    "language": "Python",
+    "stars": "18,222",
+    "forks": "2,367",
+    "link": "https://github.com/1Panel-dev/MaxKB"
+  },
+  {
+    "rank": 17,
+    "name": "ntdevlabs/tiny11builder",
+    "description": "Scripts to build a trimmed-down Windows 11 image.",
+    "language": "PowerShell",
+    "stars": "13,104",
+    "forks": "1,040",
+    "link": "https://github.com/ntdevlabs/tiny11builder"
+  },
+  {
+    "rank": 18,
+    "name": "microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "stars": "100,149",
+    "forks": "8,747",
+    "link": "https://github.com/microsoft/terminal"
+  }
+]
