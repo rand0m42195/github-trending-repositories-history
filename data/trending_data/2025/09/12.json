@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "Physical-Intelligence/openpi",
+    "description": "",
+    "language": "Python",
+    "stars": "6,470",
+    "forks": "754",
+    "link": "https://github.com/Physical-Intelligence/openpi"
+  },
+  {
+    "rank": 2,
+    "name": "modelcontextprotocol/registry",
+    "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+    "language": "Go",
+    "stars": "3,663",
+    "forks": "283",
+    "link": "https://github.com/modelcontextprotocol/registry"
+  },
+  {
+    "rank": 3,
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm",
+    "language": "Scala",
+    "stars": "66,043",
+    "forks": "12,444",
+    "link": "https://github.com/twitter/the-algorithm"
+  },
+  {
+    "rank": 4,
+    "name": "google/material-design-icons",
+    "description": "Material Design icons by Google (Material Symbols)",
+    "language": "",
+    "stars": "52,140",
+    "forks": "9,671",
+    "link": "https://github.com/google/material-design-icons"
+  },
+  {
+    "rank": 5,
+    "name": "ccfos/nightingale",
+    "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+    "language": "Go",
+    "stars": "11,770",
+    "forks": "1,582",
+    "link": "https://github.com/ccfos/nightingale"
+  },
+  {
+    "rank": 6,
+    "name": "mxrch/GHunt",
+    "description": "🕵️‍♂️ Offensive Google framework.",
+    "language": "Python",
+    "stars": "17,583",
+    "forks": "1,484",
+    "link": "https://github.com/mxrch/GHunt"
+  },
+  {
+    "rank": 7,
+    "name": "agno-agi/agno",
+    "description": "High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.",
+    "language": "Python",
+    "stars": "33,181",
+    "forks": "4,224",
+    "link": "https://github.com/agno-agi/agno"
+  },
+  {
+    "rank": 8,
+    "name": "trueadm/ripple",
+    "description": "the elegant TypeScript UI framework",
+    "language": "JavaScript",
+    "stars": "2,897",
+    "forks": "80",
+    "link": "https://github.com/trueadm/ripple"
+  },
+  {
+    "rank": 9,
+    "name": "aaPanel/BillionMail",
+    "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr",
+    "language": "Go",
+    "stars": "10,213",
+    "forks": "907",
+    "link": "https://github.com/aaPanel/BillionMail"
+  },
+  {
+    "rank": 10,
+    "name": "MotiaDev/motia",
+    "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
+    "language": "TypeScript",
+    "stars": "8,062",
+    "forks": "607",
+    "link": "https://github.com/MotiaDev/motia"
+  },
+  {
+    "rank": 11,
+    "name": "heroui-inc/heroui",
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)",
+    "language": "TypeScript",
+    "stars": "26,025",
+    "forks": "1,926",
+    "link": "https://github.com/heroui-inc/heroui"
+  },
+  {
+    "rank": 12,
+    "name": "ClemensElflein/OpenMower",
+    "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "language": "C++",
+    "stars": "6,188",
+    "forks": "356",
+    "link": "https://github.com/ClemensElflein/OpenMower"
+  },
+  {
+    "rank": 13,
+    "name": "epfml/ML_course",
+    "description": "EPFL Machine Learning Course, Fall 2025",
+    "language": "Jupyter Notebook",
+    "stars": "1,477",
+    "forks": "947",
+    "link": "https://github.com/epfml/ML_course"
+  },
+  {
+    "rank": 14,
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars": "60,246",
+    "forks": "6,705",
+    "link": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "rank": 15,
+    "name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "stars": "88,426",
+    "forks": "9,786",
+    "link": "https://github.com/supabase/supabase"
+  },
+  {
+    "rank": 16,
+    "name": "Azure/azure-sdk-for-python",
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
+    "language": "Python",
+    "stars": "5,135",
+    "forks": "3,109",
+    "link": "https://github.com/Azure/azure-sdk-for-python"
+  },
+  {
+    "rank": 17,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+    "language": "",
+    "stars": "83,609",
+    "forks": "23,162",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 18,
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "language": "HTML",
+    "stars": "28,479",
+    "forks": "1,087",
+    "link": "https://github.com/Zie619/n8n-workflows"
+  },
+  {
+    "rank": 19,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "stars": "49,190",
+    "forks": "11,062",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  }
+]
