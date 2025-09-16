@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "language": "Jupyter Notebook",
+    "stars": "71,298",
+    "forks": "10,251",
+    "link": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars": "74,353",
+    "forks": "4,130",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 3,
+    "name": "PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "stars": "49,764",
+    "forks": "7,916",
+    "link": "https://github.com/PowerShell/PowerShell"
+  },
+  {
+    "rank": 4,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "language": "",
+    "stars": "85,209",
+    "forks": "23,462",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 5,
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "40,338",
+    "forks": "7,120",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 6,
+    "name": "SoftFever/OrcaSlicer",
+    "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+    "language": "C++",
+    "stars": "10,817",
+    "forks": "1,383",
+    "link": "https://github.com/SoftFever/OrcaSlicer"
+  },
+  {
+    "rank": 7,
+    "name": "simdjson/simdjson",
+    "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+    "language": "C++",
+    "stars": "21,978",
+    "forks": "1,133",
+    "link": "https://github.com/simdjson/simdjson"
+  },
+  {
+    "rank": 8,
+    "name": "ItzCrazyKns/Perplexica",
+    "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+    "language": "TypeScript",
+    "stars": "24,605",
+    "forks": "2,567",
+    "link": "https://github.com/ItzCrazyKns/Perplexica"
+  },
+  {
+    "rank": 9,
+    "name": "sst/opencode",
+    "description": "AI coding agent, built for the terminal.",
+    "language": "TypeScript",
+    "stars": "23,435",
+    "forks": "1,625",
+    "link": "https://github.com/sst/opencode"
+  },
+  {
+    "rank": 10,
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "language": "HTML",
+    "stars": "30,327",
+    "forks": "1,457",
+    "link": "https://github.com/Zie619/n8n-workflows"
+  },
+  {
+    "rank": 11,
+    "name": "ccxt/ccxt",
+    "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
+    "language": "Python",
+    "stars": "38,446",
+    "forks": "8,183",
+    "link": "https://github.com/ccxt/ccxt"
+  },
+  {
+    "rank": 12,
+    "name": "midday-ai/midday",
+    "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+    "language": "TypeScript",
+    "stars": "12,260",
+    "forks": "1,108",
+    "link": "https://github.com/midday-ai/midday"
+  },
+  {
+    "rank": 13,
+    "name": "unclecode/crawl4ai",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+    "language": "Python",
+    "stars": "53,245",
+    "forks": "5,298",
+    "link": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+    "rank": 14,
+    "name": "ml-explore/mlx-lm",
+    "description": "Run LLMs with MLX",
+    "language": "Python",
+    "stars": "2,108",
+    "forks": "237",
+    "link": "https://github.com/ml-explore/mlx-lm"
+  },
+  {
+    "rank": 15,
+    "name": "CorentinJ/Real-Time-Voice-Cloning",
+    "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "stars": "55,758",
+    "forks": "9,156",
+    "link": "https://github.com/CorentinJ/Real-Time-Voice-Cloning"
+  },
+  {
+    "rank": 16,
+    "name": "mnh-jansson/open-battery-information",
+    "description": "",
+    "language": "C++",
+    "stars": "437",
+    "forks": "105",
+    "link": "https://github.com/mnh-jansson/open-battery-information"
+  },
+  {
+    "rank": 17,
+    "name": "HKUDS/DeepCode",
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "language": "Python",
+    "stars": "6,282",
+    "forks": "862",
+    "link": "https://github.com/HKUDS/DeepCode"
+  }
+]
