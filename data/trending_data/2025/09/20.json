@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "Alibaba-NLP/DeepResearch",
+    "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+    "language": "Python",
+    "stars": "10,356",
+    "forks": "772",
+    "link": "https://github.com/Alibaba-NLP/DeepResearch"
+  },
+  {
+    "rank": 2,
+    "name": "LazyVim/LazyVim",
+    "description": "Neovim config for the lazy",
+    "language": "Lua",
+    "stars": "22,621",
+    "forks": "1,607",
+    "link": "https://github.com/LazyVim/LazyVim"
+  },
+  {
+    "rank": 3,
+    "name": "basecamp/omarchy",
+    "description": "Opinionated Arch/Hyprland Setup",
+    "language": "Shell",
+    "stars": "8,789",
+    "forks": "960",
+    "link": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "rank": 4,
+    "name": "WebGoat/WebGoat",
+    "description": "WebGoat is a deliberately insecure application",
+    "language": "JavaScript",
+    "stars": "7,887",
+    "forks": "6,721",
+    "link": "https://github.com/WebGoat/WebGoat"
+  },
+  {
+    "rank": 5,
+    "name": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "stars": "172,828",
+    "forks": "29,237",
+    "link": "https://github.com/flutter/flutter"
+  },
+  {
+    "rank": 6,
+    "name": "nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "language": "TypeScript",
+    "stars": "57,392",
+    "forks": "4,192",
+    "link": "https://github.com/nocodb/nocodb"
+  },
+  {
+    "rank": 7,
+    "name": "facebookresearch/detectron2",
+    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "language": "Python",
+    "stars": "33,226",
+    "forks": "7,806",
+    "link": "https://github.com/facebookresearch/detectron2"
+  },
+  {
+    "rank": 8,
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars": "22,372",
+    "forks": "2,710",
+    "link": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "rank": 9,
+    "name": "Gar-b-age/CookLikeHOC",
+    "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+    "language": "JavaScript",
+    "stars": "7,183",
+    "forks": "875",
+    "link": "https://github.com/Gar-b-age/CookLikeHOC"
+  },
+  {
+    "rank": 10,
+    "name": "linera-io/linera-protocol",
+    "description": "Main repository for the Linera protocol",
+    "language": "Rust",
+    "stars": "29,700",
+    "forks": "1,998",
+    "link": "https://github.com/linera-io/linera-protocol"
+  },
+  {
+    "rank": 11,
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "language": "Jupyter Notebook",
+    "stars": "40,683",
+    "forks": "7,991",
+    "link": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "rank": 12,
+    "name": "CopilotKit/CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+    "language": "TypeScript",
+    "stars": "23,299",
+    "forks": "3,131",
+    "link": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "rank": 13,
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars": "79,342",
+    "forks": "4,348",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 14,
+    "name": "bitnami/containers",
+    "description": "Bitnami container images",
+    "language": "Shell",
+    "stars": "4,115",
+    "forks": "6,161",
+    "link": "https://github.com/bitnami/containers"
+  },
+  {
+    "rank": 15,
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "stars": "6,034",
+    "forks": "539",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 16,
+    "name": "bitnami/charts",
+    "description": "Bitnami Helm Charts",
+    "language": "Smarty",
+    "stars": "10,003",
+    "forks": "10,139",
+    "link": "https://github.com/bitnami/charts"
+  }
+]
