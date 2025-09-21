@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "Gar-b-age/CookLikeHOC",
+    "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+    "language": "JavaScript",
+    "stars": "9,116",
+    "forks": "1,063",
+    "link": "https://github.com/Gar-b-age/CookLikeHOC"
+  },
+  {
+    "rank": 2,
+    "name": "Alibaba-NLP/DeepResearch",
+    "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+    "language": "Python",
+    "stars": "11,464",
+    "forks": "853",
+    "link": "https://github.com/Alibaba-NLP/DeepResearch"
+  },
+  {
+    "rank": 3,
+    "name": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "stars": "172,963",
+    "forks": "29,238",
+    "link": "https://github.com/flutter/flutter"
+  },
+  {
+    "rank": 4,
+    "name": "winfunc/opcode",
+    "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+    "language": "TypeScript",
+    "stars": "16,822",
+    "forks": "1,245",
+    "link": "https://github.com/winfunc/opcode"
+  },
+  {
+    "rank": 5,
+    "name": "tldraw/tldraw",
+    "description": "very good whiteboard SDK / infinite canvas SDK",
+    "language": "TypeScript",
+    "stars": "42,048",
+    "forks": "2,716",
+    "link": "https://github.com/tldraw/tldraw"
+  },
+  {
+    "rank": 6,
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars": "22,430",
+    "forks": "2,716",
+    "link": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "rank": 7,
+    "name": "linera-io/linera-protocol",
+    "description": "Main repository for the Linera protocol",
+    "language": "Rust",
+    "stars": "30,030",
+    "forks": "2,016",
+    "link": "https://github.com/linera-io/linera-protocol"
+  },
+  {
+    "rank": 8,
+    "name": "grafana/loki",
+    "description": "Like Prometheus, but for logs.",
+    "language": "Go",
+    "stars": "26,516",
+    "forks": "3,788",
+    "link": "https://github.com/grafana/loki"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "language": "Jupyter Notebook",
+    "stars": "41,171",
+    "forks": "8,049",
+    "link": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "rank": 10,
+    "name": "CopilotKit/CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+    "language": "TypeScript",
+    "stars": "23,523",
+    "forks": "3,155",
+    "link": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "rank": 11,
+    "name": "OpenMind/OM1",
+    "description": "Modular AI runtime for robots",
+    "language": "Python",
+    "stars": "463",
+    "forks": "97",
+    "link": "https://github.com/OpenMind/OM1"
+  },
+  {
+    "rank": 12,
+    "name": "9001/copyparty",
+    "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+    "language": "Python",
+    "stars": "30,393",
+    "forks": "1,193",
+    "link": "https://github.com/9001/copyparty"
+  },
+  {
+    "rank": 13,
+    "name": "knownsec/aipyapp",
+    "description": "AI-Powered Python & Python-Powered AI (Python-Use)",
+    "language": "Python",
+    "stars": "2,160",
+    "forks": "172",
+    "link": "https://github.com/knownsec/aipyapp"
+  },
+  {
+    "rank": 14,
+    "name": "cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "TypeScript",
+    "stars": "49,188",
+    "forks": "3,343",
+    "link": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "rank": 15,
+    "name": "unslothai/unsloth",
+    "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.",
+    "language": "Python",
+    "stars": "45,921",
+    "forks": "3,752",
+    "link": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "rank": 16,
+    "name": "odoo/odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "Python",
+    "stars": "45,957",
+    "forks": "29,652",
+    "link": "https://github.com/odoo/odoo"
+  },
+  {
+    "rank": 17,
+    "name": "OvidijusParsiunas/deep-chat",
+    "description": "Fully customizable AI chatbot component for your website",
+    "language": "TypeScript",
+    "stars": "2,901",
+    "forks": "375",
+    "link": "https://github.com/OvidijusParsiunas/deep-chat"
+  }
+]
