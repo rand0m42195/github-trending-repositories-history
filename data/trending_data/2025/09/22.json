@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "Alibaba-NLP/DeepResearch",
+    "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+    "language": "Python",
+    "stars": "12,537",
+    "forks": "930",
+    "link": "https://github.com/Alibaba-NLP/DeepResearch"
+  },
+  {
+    "rank": 2,
+    "name": "Gar-b-age/CookLikeHOC",
+    "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+    "language": "JavaScript",
+    "stars": "11,366",
+    "forks": "1,243",
+    "link": "https://github.com/Gar-b-age/CookLikeHOC"
+  },
+  {
+    "rank": 3,
+    "name": "torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "stars": "202,698",
+    "forks": "57,816",
+    "link": "https://github.com/torvalds/linux"
+  },
+  {
+    "rank": 4,
+    "name": "LazyVim/LazyVim",
+    "description": "Neovim config for the lazy",
+    "language": "Lua",
+    "stars": "22,796",
+    "forks": "1,617",
+    "link": "https://github.com/LazyVim/LazyVim"
+  },
+  {
+    "rank": 5,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "language": "",
+    "stars": "86,989",
+    "forks": "23,895",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 6,
+    "name": "basecamp/omarchy",
+    "description": "Opinionated Arch/Hyprland Setup",
+    "language": "Shell",
+    "stars": "9,071",
+    "forks": "984",
+    "link": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "rank": 7,
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars": "22,482",
+    "forks": "2,717",
+    "link": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "rank": 8,
+    "name": "WECENG/ticket-purchase",
+    "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+    "language": "Python",
+    "stars": "2,609",
+    "forks": "377",
+    "link": "https://github.com/WECENG/ticket-purchase"
+  },
+  {
+    "rank": 9,
+    "name": "WebGoat/WebGoat",
+    "description": "WebGoat is a deliberately insecure application",
+    "language": "JavaScript",
+    "stars": "8,067",
+    "forks": "6,712",
+    "link": "https://github.com/WebGoat/WebGoat"
+  },
+  {
+    "rank": 10,
+    "name": "CopilotKit/CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+    "language": "TypeScript",
+    "stars": "23,734",
+    "forks": "3,161",
+    "link": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "rank": 11,
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "language": "Jupyter Notebook",
+    "stars": "41,648",
+    "forks": "8,101",
+    "link": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "rank": 12,
+    "name": "HKUDS/AI-Researcher",
+    "description": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version:https://novix.science/chat",
+    "language": "Python",
+    "stars": "2,668",
+    "forks": "323",
+    "link": "https://github.com/HKUDS/AI-Researcher"
+  },
+  {
+    "rank": 13,
+    "name": "tldraw/tldraw",
+    "description": "very good whiteboard SDK / infinite canvas SDK",
+    "language": "TypeScript",
+    "stars": "42,240",
+    "forks": "2,724",
+    "link": "https://github.com/tldraw/tldraw"
+  },
+  {
+    "rank": 14,
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "Python",
+    "stars": "369,229",
+    "forks": "64,219",
+    "link": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "rank": 15,
+    "name": "ml-explore/mlx-swift-examples",
+    "description": "Examples using MLX Swift",
+    "language": "Swift",
+    "stars": "2,136",
+    "forks": "307",
+    "link": "https://github.com/ml-explore/mlx-swift-examples"
+  },
+  {
+    "rank": 16,
+    "name": "mindsdb/mindsdb",
+    "description": "AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need",
+    "language": "Python",
+    "stars": "35,984",
+    "forks": "5,786",
+    "link": "https://github.com/mindsdb/mindsdb"
+  },
+  {
+    "rank": 17,
+    "name": "ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "stars": "137,452",
+    "forks": "10,477",
+    "link": "https://github.com/ytdl-org/youtube-dl"
+  },
+  {
+    "rank": 18,
+    "name": "JetBrains/intellij-community",
+    "description": "IntelliJ IDEA & IntelliJ Platform",
+    "language": "Java",
+    "stars": "18,865",
+    "forks": "5,566",
+    "link": "https://github.com/JetBrains/intellij-community"
+  },
+  {
+    "rank": 19,
+    "name": "MatsuriDayo/NekoBoxForAndroid",
+    "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
+    "language": "Kotlin",
+    "stars": "16,142",
+    "forks": "1,322",
+    "link": "https://github.com/MatsuriDayo/NekoBoxForAndroid"
+  },
+  {
+    "rank": 20,
+    "name": "9001/copyparty",
+    "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+    "language": "Python",
+    "stars": "30,651",
+    "forks": "1,211",
+    "link": "https://github.com/9001/copyparty"
+  }
+]
