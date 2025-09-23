@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "Gar-b-age/CookLikeHOC",
+    "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+    "language": "JavaScript",
+    "stars": "13,978",
+    "forks": "1,450",
+    "link": "https://github.com/Gar-b-age/CookLikeHOC"
+  },
+  {
+    "rank": 2,
+    "name": "bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "stars": "42,120",
+    "forks": "4,118",
+    "link": "https://github.com/bevyengine/bevy"
+  },
+  {
+    "rank": 3,
+    "name": "Alibaba-NLP/DeepResearch",
+    "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+    "language": "Python",
+    "stars": "13,762",
+    "forks": "994",
+    "link": "https://github.com/Alibaba-NLP/DeepResearch"
+  },
+  {
+    "rank": 4,
+    "name": "tldraw/tldraw",
+    "description": "very good whiteboard SDK / infinite canvas SDK",
+    "language": "TypeScript",
+    "stars": "42,469",
+    "forks": "2,735",
+    "link": "https://github.com/tldraw/tldraw"
+  },
+  {
+    "rank": 5,
+    "name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "stars": "73,939",
+    "forks": "25,465",
+    "link": "https://github.com/elastic/elasticsearch"
+  },
+  {
+    "rank": 6,
+    "name": "LizardByte/Sunshine",
+    "description": "Self-hosted game stream host for Moonlight.",
+    "language": "C++",
+    "stars": "29,096",
+    "forks": "1,376",
+    "link": "https://github.com/LizardByte/Sunshine"
+  },
+  {
+    "rank": 7,
+    "name": "ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "stars": "137,718",
+    "forks": "10,485",
+    "link": "https://github.com/ytdl-org/youtube-dl"
+  },
+  {
+    "rank": 8,
+    "name": "mindcraft-bots/mindcraft",
+    "description": "Minecraft AI with LLMs+Mineflayer",
+    "language": "JavaScript",
+    "stars": "3,975",
+    "forks": "549",
+    "link": "https://github.com/mindcraft-bots/mindcraft"
+  },
+  {
+    "rank": 9,
+    "name": "eslint/eslint",
+    "description": "Find and fix problems in your JavaScript code.",
+    "language": "JavaScript",
+    "stars": "26,351",
+    "forks": "4,802",
+    "link": "https://github.com/eslint/eslint"
+  },
+  {
+    "rank": 10,
+    "name": "poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "stars": "49,557",
+    "forks": "3,840",
+    "link": "https://github.com/poteto/hiring-without-whiteboards"
+  },
+  {
+    "rank": 11,
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "stars": "156,686",
+    "forks": "29,065",
+    "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+  },
+  {
+    "rank": 12,
+    "name": "yangshun/tech-interview-handbook",
+    "description": "💯 Curated coding interview preparation materials for busy software engineers",
+    "language": "TypeScript",
+    "stars": "130,076",
+    "forks": "15,800",
+    "link": "https://github.com/yangshun/tech-interview-handbook"
+  },
+  {
+    "rank": 13,
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "Python",
+    "stars": "369,690",
+    "forks": "64,259",
+    "link": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "rank": 14,
+    "name": "lllyasviel/Fooocus",
+    "description": "Focus on prompting and generating",
+    "language": "Python",
+    "stars": "46,554",
+    "forks": "7,487",
+    "link": "https://github.com/lllyasviel/Fooocus"
+  },
+  {
+    "rank": 15,
+    "name": "donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "stars": "320,634",
+    "forks": "52,382",
+    "link": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "rank": 16,
+    "name": "ziglang/zig",
+    "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "language": "Zig",
+    "stars": "41,181",
+    "forks": "3,016",
+    "link": "https://github.com/ziglang/zig"
+  },
+  {
+    "rank": 17,
+    "name": "freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot",
+    "language": "Python",
+    "stars": "42,539",
+    "forks": "8,665",
+    "link": "https://github.com/freqtrade/freqtrade"
+  },
+  {
+    "rank": 18,
+    "name": "winfunc/opcode",
+    "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+    "language": "TypeScript",
+    "stars": "17,114",
+    "forks": "1,271",
+    "link": "https://github.com/winfunc/opcode"
+  }
+]
