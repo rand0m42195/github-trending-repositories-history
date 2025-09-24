@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "gin-gonic/gin",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "language": "Go",
+    "stars": "84,214",
+    "forks": "8,335",
+    "link": "https://github.com/gin-gonic/gin"
+  },
+  {
+    "rank": 2,
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "stars": "48,327",
+    "forks": "2,091",
+    "link": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "rank": 3,
+    "name": "gofiber/fiber",
+    "description": "⚡️ Express inspired web framework written in Go",
+    "language": "Go",
+    "stars": "37,775",
+    "forks": "1,868",
+    "link": "https://github.com/gofiber/fiber"
+  },
+  {
+    "rank": 4,
+    "name": "eslint/eslint",
+    "description": "Find and fix problems in your JavaScript code.",
+    "language": "JavaScript",
+    "stars": "26,443",
+    "forks": "4,806",
+    "link": "https://github.com/eslint/eslint"
+  },
+  {
+    "rank": 5,
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars": "22,532",
+    "forks": "2,721",
+    "link": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "rank": 6,
+    "name": "mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "",
+    "stars": "90,697",
+    "forks": "8,200",
+    "link": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "rank": 7,
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "87,055",
+    "forks": "9,320",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 8,
+    "name": "OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "Solidity",
+    "stars": "26,381",
+    "forks": "12,192",
+    "link": "https://github.com/OpenZeppelin/openzeppelin-contracts"
+  },
+  {
+    "rank": 9,
+    "name": "Gar-b-age/CookLikeHOC",
+    "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+    "language": "JavaScript",
+    "stars": "17,344",
+    "forks": "1,696",
+    "link": "https://github.com/Gar-b-age/CookLikeHOC"
+  },
+  {
+    "rank": 10,
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "Python",
+    "stars": "370,062",
+    "forks": "64,285",
+    "link": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "rank": 11,
+    "name": "WECENG/ticket-purchase",
+    "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+    "language": "Python",
+    "stars": "3,130",
+    "forks": "428",
+    "link": "https://github.com/WECENG/ticket-purchase"
+  },
+  {
+    "rank": 12,
+    "name": "HKUDS/AI-Researcher",
+    "description": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version:https://novix.science/chat",
+    "language": "Python",
+    "stars": "2,882",
+    "forks": "335",
+    "link": "https://github.com/HKUDS/AI-Researcher"
+  },
+  {
+    "rank": 13,
+    "name": "foundry-rs/foundry",
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "language": "Rust",
+    "stars": "9,498",
+    "forks": "2,159",
+    "link": "https://github.com/foundry-rs/foundry"
+  },
+  {
+    "rank": 14,
+    "name": "microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "language": "TypeScript",
+    "stars": "106,074",
+    "forks": "13,008",
+    "link": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "rank": 15,
+    "name": "helm/helm",
+    "description": "The Kubernetes Package Manager",
+    "language": "Go",
+    "stars": "28,520",
+    "forks": "7,333",
+    "link": "https://github.com/helm/helm"
+  },
+  {
+    "rank": 16,
+    "name": "tldraw/tldraw",
+    "description": "very good whiteboard SDK / infinite canvas SDK",
+    "language": "TypeScript",
+    "stars": "42,703",
+    "forks": "2,747",
+    "link": "https://github.com/tldraw/tldraw"
+  },
+  {
+    "rank": 17,
+    "name": "smartcontractkit/chainlink",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "language": "Go",
+    "stars": "7,567",
+    "forks": "1,842",
+    "link": "https://github.com/smartcontractkit/chainlink"
+  },
+  {
+    "rank": 18,
+    "name": "Kludex/uvicorn",
+    "description": "An ASGI web server, for Python. 🦄",
+    "language": "Python",
+    "stars": "9,735",
+    "forks": "850",
+    "link": "https://github.com/Kludex/uvicorn"
+  }
+]
