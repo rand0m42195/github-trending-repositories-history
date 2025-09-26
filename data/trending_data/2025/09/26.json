@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "gin-gonic/gin",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "language": "Go",
+    "stars": "85,441",
+    "forks": "8,401",
+    "link": "https://github.com/gin-gonic/gin"
+  },
+  {
+    "rank": 2,
+    "name": "humanlayer/humanlayer",
+    "description": "The best way to get AI to solve hard problems in complex codebases.",
+    "language": "TypeScript",
+    "stars": "2,936",
+    "forks": "260",
+    "link": "https://github.com/humanlayer/humanlayer"
+  },
+  {
+    "rank": 3,
+    "name": "yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stars": "127,866",
+    "forks": "10,250",
+    "link": "https://github.com/yt-dlp/yt-dlp"
+  },
+  {
+    "rank": 4,
+    "name": "TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": "209,128",
+    "forks": "48,143",
+    "link": "https://github.com/TheAlgorithms/Python"
+  },
+  {
+    "rank": 5,
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语",
+    "language": "TypeScript",
+    "stars": "29,243",
+    "forks": "4,233",
+    "link": "https://github.com/ZuodaoTech/everyone-can-use-english"
+  },
+  {
+    "rank": 6,
+    "name": "Olow304/memvid",
+    "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
+    "language": "Python",
+    "stars": "8,947",
+    "forks": "747",
+    "link": "https://github.com/Olow304/memvid"
+  },
+  {
+    "rank": 7,
+    "name": "TanStack/router",
+    "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
+    "language": "TypeScript",
+    "stars": "11,268",
+    "forks": "1,218",
+    "link": "https://github.com/TanStack/router"
+  },
+  {
+    "rank": 8,
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "stars": "48,791",
+    "forks": "2,116",
+    "link": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "rank": 9,
+    "name": "coinbase/x402",
+    "description": "A payments protocol for the internet. Built on HTTP.",
+    "language": "TypeScript",
+    "stars": "1,329",
+    "forks": "243",
+    "link": "https://github.com/coinbase/x402"
+  },
+  {
+    "rank": 10,
+    "name": "Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+    "language": "Python",
+    "stars": "50,079",
+    "forks": "9,559",
+    "link": "https://github.com/Asabeneh/30-Days-Of-Python"
+  },
+  {
+    "rank": 11,
+    "name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "stars": "74,694",
+    "forks": "25,503",
+    "link": "https://github.com/elastic/elasticsearch"
+  },
+  {
+    "rank": 12,
+    "name": "OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "Solidity",
+    "stars": "26,460",
+    "forks": "12,200",
+    "link": "https://github.com/OpenZeppelin/openzeppelin-contracts"
+  },
+  {
+    "rank": 13,
+    "name": "confident-ai/deepeval",
+    "description": "The LLM Evaluation Framework",
+    "language": "Python",
+    "stars": "11,167",
+    "forks": "963",
+    "link": "https://github.com/confident-ai/deepeval"
+  },
+  {
+    "rank": 14,
+    "name": "cloudflare/capnweb",
+    "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
+    "language": "TypeScript",
+    "stars": "2,467",
+    "forks": "74",
+    "link": "https://github.com/cloudflare/capnweb"
+  },
+  {
+    "rank": 15,
+    "name": "smartcontractkit/chainlink",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "language": "Go",
+    "stars": "7,717",
+    "forks": "1,855",
+    "link": "https://github.com/smartcontractkit/chainlink"
+  },
+  {
+    "rank": 16,
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "stars": "13,768",
+    "forks": "1,918",
+    "link": "https://github.com/onyx-dot-app/onyx"
+  }
+]
