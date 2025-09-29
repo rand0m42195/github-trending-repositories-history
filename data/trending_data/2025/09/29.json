@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "language": "Python",
+    "stars": "56,670",
+    "forks": "10,175",
+    "link": "https://github.com/commaai/openpilot"
+  },
+  {
+    "rank": 2,
+    "name": "kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "338,214",
+    "forks": "42,933",
+    "link": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "rank": 3,
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "language": "Jupyter Notebook",
+    "stars": "73,326",
+    "forks": "10,671",
+    "link": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "rank": 4,
+    "name": "humanlayer/humanlayer",
+    "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
+    "language": "TypeScript",
+    "stars": "4,584",
+    "forks": "358",
+    "link": "https://github.com/humanlayer/humanlayer"
+  },
+  {
+    "rank": 5,
+    "name": "typst/typst",
+    "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "language": "Rust",
+    "stars": "46,102",
+    "forks": "1,238",
+    "link": "https://github.com/typst/typst"
+  },
+  {
+    "rank": 6,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "70,532",
+    "forks": "9,018",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/qlib",
+    "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+    "language": "Python",
+    "stars": "31,430",
+    "forks": "4,842",
+    "link": "https://github.com/microsoft/qlib"
+  },
+  {
+    "rank": 8,
+    "name": "sst/opencode",
+    "description": "AI coding agent, built for the terminal.",
+    "language": "TypeScript",
+    "stars": "25,347",
+    "forks": "1,828",
+    "link": "https://github.com/sst/opencode"
+  },
+  {
+    "rank": 9,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "stars": "40,707",
+    "forks": "5,917",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 10,
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语",
+    "language": "TypeScript",
+    "stars": "30,675",
+    "forks": "4,370",
+    "link": "https://github.com/ZuodaoTech/everyone-can-use-english"
+  },
+  {
+    "rank": 11,
+    "name": "frappe/erpnext",
+    "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "language": "Python",
+    "stars": "28,981",
+    "forks": "9,436",
+    "link": "https://github.com/frappe/erpnext"
+  },
+  {
+    "rank": 12,
+    "name": "basecamp/omarchy",
+    "description": "Opinionated Arch/Hyprland Setup",
+    "language": "Shell",
+    "stars": "11,613",
+    "forks": "1,104",
+    "link": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "rank": 13,
+    "name": "jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "language": "C#",
+    "stars": "44,005",
+    "forks": "3,955",
+    "link": "https://github.com/jellyfin/jellyfin"
+  },
+  {
+    "rank": 14,
+    "name": "rapid7/metasploit-framework",
+    "description": "Metasploit Framework",
+    "language": "Ruby",
+    "stars": "36,551",
+    "forks": "14,540",
+    "link": "https://github.com/rapid7/metasploit-framework"
+  },
+  {
+    "rank": 15,
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "stars": "14,635",
+    "forks": "1,978",
+    "link": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "rank": 16,
+    "name": "yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stars": "128,665",
+    "forks": "10,309",
+    "link": "https://github.com/yt-dlp/yt-dlp"
+  },
+  {
+    "rank": 17,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "40,270",
+    "forks": "13,121",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  }
+]
