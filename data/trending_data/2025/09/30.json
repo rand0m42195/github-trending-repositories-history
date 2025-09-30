@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "stars": "41,812",
+    "forks": "6,013",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 2,
+    "name": "commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "language": "Python",
+    "stars": "57,538",
+    "forks": "10,248",
+    "link": "https://github.com/commaai/openpilot"
+  },
+  {
+    "rank": 3,
+    "name": "kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "338,694",
+    "forks": "42,973",
+    "link": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "rank": 4,
+    "name": "Done-0/fuck-u-code",
+    "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+    "language": "Go",
+    "stars": "4,097",
+    "forks": "206",
+    "link": "https://github.com/Done-0/fuck-u-code"
+  },
+  {
+    "rank": 5,
+    "name": "frappe/erpnext",
+    "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "language": "Python",
+    "stars": "29,195",
+    "forks": "9,461",
+    "link": "https://github.com/frappe/erpnext"
+  },
+  {
+    "rank": 6,
+    "name": "snarktank/ai-dev-tasks",
+    "description": "A simple task management system for managing AI dev agents",
+    "language": "",
+    "stars": "5,383",
+    "forks": "1,296",
+    "link": "https://github.com/snarktank/ai-dev-tasks"
+  },
+  {
+    "rank": 7,
+    "name": "humanlayer/humanlayer",
+    "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
+    "language": "TypeScript",
+    "stars": "4,946",
+    "forks": "375",
+    "link": "https://github.com/humanlayer/humanlayer"
+  },
+  {
+    "rank": 8,
+    "name": "adityatelange/hugo-PaperMod",
+    "description": "A fast, clean, responsive Hugo theme.",
+    "language": "HTML",
+    "stars": "12,380",
+    "forks": "3,229",
+    "link": "https://github.com/adityatelange/hugo-PaperMod"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents",
+    "language": "Jupyter Notebook",
+    "stars": "40,804",
+    "forks": "13,233",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 10,
+    "name": "jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "language": "C#",
+    "stars": "44,130",
+    "forks": "3,958",
+    "link": "https://github.com/jellyfin/jellyfin"
+  },
+  {
+    "rank": 11,
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "language": "Python",
+    "stars": "14,855",
+    "forks": "1,999",
+    "link": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "rank": 12,
+    "name": "florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "",
+    "stars": "85,958",
+    "forks": "9,866",
+    "link": "https://github.com/florinpop17/app-ideas"
+  },
+  {
+    "rank": 13,
+    "name": "oauth2-proxy/oauth2-proxy",
+    "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "language": "Go",
+    "stars": "12,540",
+    "forks": "1,834",
+    "link": "https://github.com/oauth2-proxy/oauth2-proxy"
+  },
+  {
+    "rank": 14,
+    "name": "langgenius/dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "language": "TypeScript",
+    "stars": "115,400",
+    "forks": "17,793",
+    "link": "https://github.com/langgenius/dify"
+  },
+  {
+    "rank": 15,
+    "name": "jsvine/pdfplumber",
+    "description": "Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.",
+    "language": "Python",
+    "stars": "8,565",
+    "forks": "792",
+    "link": "https://github.com/jsvine/pdfplumber"
+  },
+  {
+    "rank": 16,
+    "name": "sst/opencode",
+    "description": "AI coding agent, built for the terminal.",
+    "language": "TypeScript",
+    "stars": "25,751",
+    "forks": "1,856",
+    "link": "https://github.com/sst/opencode"
+  }
+]
