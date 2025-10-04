@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+    "language": "Python",
+    "stars": "8,467",
+    "forks": "1,974",
+    "link": "https://github.com/hsliuping/TradingAgents-CN"
+  },
+  {
+    "rank": 2,
+    "name": "google/tunix",
+    "description": "A JAX-native LLM Post-Training Library",
+    "language": "Python",
+    "stars": "1,331",
+    "forks": "118",
+    "link": "https://github.com/google/tunix"
+  },
+  {
+    "rank": 3,
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "35,055",
+    "forks": "4,262",
+    "link": "https://github.com/juspay/hyperswitch"
+  },
+  {
+    "rank": 4,
+    "name": "airweave-ai/airweave",
+    "description": "Airweave lets agents search any app",
+    "language": "Python",
+    "stars": "3,616",
+    "forks": "445",
+    "link": "https://github.com/airweave-ai/airweave"
+  },
+  {
+    "rank": 5,
+    "name": "kestra-io/kestra",
+    "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+    "language": "Java",
+    "stars": "21,679",
+    "forks": "1,936",
+    "link": "https://github.com/kestra-io/kestra"
+  },
+  {
+    "rank": 6,
+    "name": "nextcloud/server",
+    "description": "☁️ Nextcloud server, a safe home for all your data",
+    "language": "PHP",
+    "stars": "32,608",
+    "forks": "4,542",
+    "link": "https://github.com/nextcloud/server"
+  },
+  {
+    "rank": 7,
+    "name": "emcie-co/parlant",
+    "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+    "language": "Python",
+    "stars": "13,300",
+    "forks": "1,067",
+    "link": "https://github.com/emcie-co/parlant"
+  },
+  {
+    "rank": 8,
+    "name": "Infisical/infisical",
+    "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+    "language": "TypeScript",
+    "stars": "20,287",
+    "forks": "1,387",
+    "link": "https://github.com/Infisical/infisical"
+  },
+  {
+    "rank": 9,
+    "name": "SDWebImage/SDWebImage",
+    "description": "Asynchronous image downloader with cache support as a UIImageView category",
+    "language": "Objective-C",
+    "stars": "25,737",
+    "forks": "6,001",
+    "link": "https://github.com/SDWebImage/SDWebImage"
+  },
+  {
+    "rank": 10,
+    "name": "microsoft/agent-framework",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+    "language": "Python",
+    "stars": "1,782",
+    "forks": "188",
+    "link": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "rank": 11,
+    "name": "amir1376/ab-download-manager",
+    "description": "A Download Manager that speeds up your downloads",
+    "language": "Kotlin",
+    "stars": "9,828",
+    "forks": "545",
+    "link": "https://github.com/amir1376/ab-download-manager"
+  },
+  {
+    "rank": 12,
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager",
+    "language": "JavaScript",
+    "stars": "7,975",
+    "forks": "2,640",
+    "link": "https://github.com/meshery/meshery"
+  },
+  {
+    "rank": 13,
+    "name": "pathwaycom/pathway",
+    "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "44,312",
+    "forks": "1,356",
+    "link": "https://github.com/pathwaycom/pathway"
+  },
+  {
+    "rank": 14,
+    "name": "ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "stars": "113,249",
+    "forks": "11,604",
+    "link": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "rank": 15,
+    "name": "symfony/symfony",
+    "description": "The Symfony PHP framework",
+    "language": "PHP",
+    "stars": "30,664",
+    "forks": "9,715",
+    "link": "https://github.com/symfony/symfony"
+  },
+  {
+    "rank": 16,
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "stars": "79,453",
+    "forks": "4,172",
+    "link": "https://github.com/immich-app/immich"
+  },
+  {
+    "rank": 17,
+    "name": "lukas-blecher/LaTeX-OCR",
+    "description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+    "language": "Python",
+    "stars": "15,688",
+    "forks": "1,253",
+    "link": "https://github.com/lukas-blecher/LaTeX-OCR"
+  },
+  {
+    "rank": 18,
+    "name": "mhogomchungu/media-downloader",
+    "description": "Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..",
+    "language": "C++",
+    "stars": "3,177",
+    "forks": "223",
+    "link": "https://github.com/mhogomchungu/media-downloader"
+  }
+]
