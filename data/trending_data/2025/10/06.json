@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "Python",
+    "stars": "23,247",
+    "forks": "1,805",
+    "link": "https://github.com/microsoft/BitNet"
+  },
+  {
+    "rank": 2,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "16,785",
+    "forks": "1,187",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "rank": 3,
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "35,987",
+    "forks": "4,337",
+    "link": "https://github.com/juspay/hyperswitch"
+  },
+  {
+    "rank": 4,
+    "name": "meshery/meshery",
+    "description": "Meshery, the cloud native manager",
+    "language": "JavaScript",
+    "stars": "8,545",
+    "forks": "2,675",
+    "link": "https://github.com/meshery/meshery"
+  },
+  {
+    "rank": 5,
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream",
+    "language": "JavaScript",
+    "stars": "2,127",
+    "forks": "421",
+    "link": "https://github.com/Stremio/stremio-web"
+  },
+  {
+    "rank": 6,
+    "name": "glide-browser/glide",
+    "description": "An extensible and keyboard-focused web browser",
+    "language": "TypeScript",
+    "stars": "722",
+    "forks": "16",
+    "link": "https://github.com/glide-browser/glide"
+  },
+  {
+    "rank": 7,
+    "name": "comfyanonymous/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "language": "Python",
+    "stars": "90,150",
+    "forks": "10,075",
+    "link": "https://github.com/comfyanonymous/ComfyUI"
+  },
+  {
+    "rank": 8,
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+    "language": "Python",
+    "stars": "9,256",
+    "forks": "2,054",
+    "link": "https://github.com/hsliuping/TradingAgents-CN"
+  },
+  {
+    "rank": 9,
+    "name": "kestra-io/kestra",
+    "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+    "language": "Java",
+    "stars": "22,005",
+    "forks": "1,983",
+    "link": "https://github.com/kestra-io/kestra"
+  },
+  {
+    "rank": 10,
+    "name": "meshtastic/firmware",
+    "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+    "language": "C++",
+    "stars": "5,797",
+    "forks": "1,561",
+    "link": "https://github.com/meshtastic/firmware"
+  },
+  {
+    "rank": 11,
+    "name": "pathwaycom/pathway",
+    "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "44,997",
+    "forks": "1,376",
+    "link": "https://github.com/pathwaycom/pathway"
+  },
+  {
+    "rank": 12,
+    "name": "YaLTeR/niri",
+    "description": "A scrollable-tiling Wayland compositor.",
+    "language": "Rust",
+    "stars": "12,675",
+    "forks": "444",
+    "link": "https://github.com/YaLTeR/niri"
+  },
+  {
+    "rank": 13,
+    "name": "audacity/audacity",
+    "description": "Audio Editor",
+    "language": "C++",
+    "stars": "14,725",
+    "forks": "2,400",
+    "link": "https://github.com/audacity/audacity"
+  },
+  {
+    "rank": 14,
+    "name": "xtekky/gpt4free",
+    "description": "The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5",
+    "language": "Python",
+    "stars": "65,276",
+    "forks": "13,695",
+    "link": "https://github.com/xtekky/gpt4free"
+  },
+  {
+    "rank": 15,
+    "name": "airweave-ai/airweave",
+    "description": "Airweave lets agents search any app",
+    "language": "Python",
+    "stars": "4,022",
+    "forks": "490",
+    "link": "https://github.com/airweave-ai/airweave"
+  },
+  {
+    "rank": 16,
+    "name": "evcc-io/evcc",
+    "description": "solar charging ☀️🚘",
+    "language": "Go",
+    "stars": "5,453",
+    "forks": "1,044",
+    "link": "https://github.com/evcc-io/evcc"
+  },
+  {
+    "rank": 17,
+    "name": "Infisical/infisical",
+    "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+    "language": "TypeScript",
+    "stars": "20,659",
+    "forks": "1,404",
+    "link": "https://github.com/Infisical/infisical"
+  },
+  {
+    "rank": 18,
+    "name": "aandrew-me/ytDownloader",
+    "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
+    "language": "JavaScript",
+    "stars": "2,263",
+    "forks": "193",
+    "link": "https://github.com/aandrew-me/ytDownloader"
+  },
+  {
+    "rank": 19,
+    "name": "expressjs/express",
+    "description": "Fast, unopinionated, minimalist web framework for node.",
+    "language": "JavaScript",
+    "stars": "67,855",
+    "forks": "21,040",
+    "link": "https://github.com/expressjs/express"
+  },
+  {
+    "rank": 20,
+    "name": "amir1376/ab-download-manager",
+    "description": "A Download Manager that speeds up your downloads",
+    "language": "Kotlin",
+    "stars": "10,219",
+    "forks": "557",
+    "link": "https://github.com/amir1376/ab-download-manager"
+  }
+]
