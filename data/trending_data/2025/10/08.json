@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream",
+    "language": "JavaScript",
+    "stars": "3,934",
+    "forks": "570",
+    "link": "https://github.com/Stremio/stremio-web"
+  },
+  {
+    "rank": 2,
+    "name": "trycua/cua",
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+    "language": "Python",
+    "stars": "10,062",
+    "forks": "540",
+    "link": "https://github.com/trycua/cua"
+  },
+  {
+    "rank": 3,
+    "name": "simstudioai/sim",
+    "description": "Open-source platform to build and deploy AI agent workflows.",
+    "language": "TypeScript",
+    "stars": "16,688",
+    "forks": "2,122",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 4,
+    "name": "Infisical/infisical",
+    "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+    "language": "TypeScript",
+    "stars": "22,064",
+    "forks": "1,486",
+    "link": "https://github.com/Infisical/infisical"
+  },
+  {
+    "rank": 5,
+    "name": "BeehiveInnovations/zen-mcp-server",
+    "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+    "language": "Python",
+    "stars": "8,056",
+    "forks": "685",
+    "link": "https://github.com/BeehiveInnovations/zen-mcp-server"
+  },
+  {
+    "rank": 6,
+    "name": "FlowiseAI/Flowise",
+    "description": "Build AI Agents, Visually",
+    "language": "TypeScript",
+    "stars": "44,636",
+    "forks": "22,621",
+    "link": "https://github.com/FlowiseAI/Flowise"
+  },
+  {
+    "rank": 7,
+    "name": "aandrew-me/ytDownloader",
+    "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
+    "language": "JavaScript",
+    "stars": "3,340",
+    "forks": "251",
+    "link": "https://github.com/aandrew-me/ytDownloader"
+  },
+  {
+    "rank": 8,
+    "name": "dgtlmoon/changedetection.io",
+    "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+    "language": "Python",
+    "stars": "27,427",
+    "forks": "1,525",
+    "link": "https://github.com/dgtlmoon/changedetection.io"
+  },
+  {
+    "rank": 9,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "17,003",
+    "forks": "1,202",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "rank": 10,
+    "name": "audacity/audacity",
+    "description": "Audio Editor",
+    "language": "C++",
+    "stars": "15,097",
+    "forks": "2,420",
+    "link": "https://github.com/audacity/audacity"
+  },
+  {
+    "rank": 11,
+    "name": "firefly-iii/firefly-iii",
+    "description": "Firefly III: a personal finances manager",
+    "language": "PHP",
+    "stars": "20,895",
+    "forks": "1,898",
+    "link": "https://github.com/firefly-iii/firefly-iii"
+  },
+  {
+    "rank": 12,
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "language": "Python",
+    "stars": "15,567",
+    "forks": "2,606",
+    "link": "https://github.com/openai/openai-agents-python"
+  },
+  {
+    "rank": 13,
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "Python",
+    "stars": "23,917",
+    "forks": "1,843",
+    "link": "https://github.com/microsoft/BitNet"
+  },
+  {
+    "rank": 14,
+    "name": "Morganamilo/paru",
+    "description": "Feature packed AUR helper",
+    "language": "Rust",
+    "stars": "7,416",
+    "forks": "268",
+    "link": "https://github.com/Morganamilo/paru"
+  },
+  {
+    "rank": 15,
+    "name": "openemr/openemr",
+    "description": "The most popular open source electronic health records and medical practice management solution.",
+    "language": "PHP",
+    "stars": "4,030",
+    "forks": "2,534",
+    "link": "https://github.com/openemr/openemr"
+  },
+  {
+    "rank": 16,
+    "name": "is-a-dev/register",
+    "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+    "language": "JavaScript",
+    "stars": "8,401",
+    "forks": "15,141",
+    "link": "https://github.com/is-a-dev/register"
+  },
+  {
+    "rank": 17,
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "15,531",
+    "forks": "1,650",
+    "link": "https://github.com/dyad-sh/dyad"
+  }
+]
