@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream",
+    "language": "JavaScript",
+    "stars": "6,709",
+    "forks": "778",
+    "link": "https://github.com/Stremio/stremio-web"
+  },
+  {
+    "rank": 2,
+    "name": "MODSetter/SurfSense",
+    "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+    "language": "Python",
+    "stars": "8,876",
+    "forks": "677",
+    "link": "https://github.com/MODSetter/SurfSense"
+  },
+  {
+    "rank": 3,
+    "name": "google/computer-use-preview",
+    "description": "",
+    "language": "Python",
+    "stars": "648",
+    "forks": "74",
+    "link": "https://github.com/google/computer-use-preview"
+  },
+  {
+    "rank": 4,
+    "name": "TibixDev/winboat",
+    "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+    "language": "TypeScript",
+    "stars": "8,263",
+    "forks": "214",
+    "link": "https://github.com/TibixDev/winboat"
+  },
+  {
+    "rank": 5,
+    "name": "timelinize/timelinize",
+    "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+    "language": "Go",
+    "stars": "2,167",
+    "forks": "64",
+    "link": "https://github.com/timelinize/timelinize"
+  },
+  {
+    "rank": 6,
+    "name": "rust-lang/rustfmt",
+    "description": "Format Rust code",
+    "language": "Rust",
+    "stars": "6,537",
+    "forks": "957",
+    "link": "https://github.com/rust-lang/rustfmt"
+  },
+  {
+    "rank": 7,
+    "name": "PixelGuys/Cubyz",
+    "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+    "language": "Zig",
+    "stars": "1,122",
+    "forks": "99",
+    "link": "https://github.com/PixelGuys/Cubyz"
+  },
+  {
+    "rank": 8,
+    "name": "openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "language": "Python",
+    "stars": "15,966",
+    "forks": "2,646",
+    "link": "https://github.com/openai/openai-agents-python"
+  },
+  {
+    "rank": 9,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "stars": "52,119",
+    "forks": "11,713",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "rank": 10,
+    "name": "browserbase/stagehand",
+    "description": "The AI Browser Automation Framework",
+    "language": "TypeScript",
+    "stars": "17,872",
+    "forks": "1,121",
+    "link": "https://github.com/browserbase/stagehand"
+  },
+  {
+    "rank": 11,
+    "name": "rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "stars": "99,546",
+    "forks": "14,638",
+    "link": "https://github.com/rustdesk/rustdesk"
+  },
+  {
+    "rank": 12,
+    "name": "FlowiseAI/Flowise",
+    "description": "Build AI Agents, Visually",
+    "language": "TypeScript",
+    "stars": "45,084",
+    "forks": "22,674",
+    "link": "https://github.com/FlowiseAI/Flowise"
+  },
+  {
+    "rank": 13,
+    "name": "winapps-org/winapps",
+    "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
+    "language": "Shell",
+    "stars": "10,844",
+    "forks": "332",
+    "link": "https://github.com/winapps-org/winapps"
+  }
+]
