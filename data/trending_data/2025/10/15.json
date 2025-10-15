@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "language": "Jupyter Notebook",
+    "stars": "22,845",
+    "forks": "2,136",
+    "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+  },
+  {
+    "rank": 2,
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "87,477",
+    "forks": "9,413",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 3,
+    "name": "GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+    "language": "",
+    "stars": "30,375",
+    "forks": "2,718",
+    "link": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "rank": 4,
+    "name": "alibaba/spring-ai-alibaba",
+    "description": "Agentic AI Framework for Java Developers",
+    "language": "Java",
+    "stars": "6,264",
+    "forks": "1,340",
+    "link": "https://github.com/alibaba/spring-ai-alibaba"
+  },
+  {
+    "rank": 5,
+    "name": "datawhalechina/happy-llm",
+    "description": "📚 从零开始的大语言模型原理与实践教程",
+    "language": "Jupyter Notebook",
+    "stars": "19,430",
+    "forks": "1,687",
+    "link": "https://github.com/datawhalechina/happy-llm"
+  },
+  {
+    "rank": 6,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "language": "JavaScript",
+    "stars": "22,635",
+    "forks": "3,470",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 7,
+    "name": "opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "language": "Python",
+    "stars": "46,321",
+    "forks": "3,837",
+    "link": "https://github.com/opendatalab/MinerU"
+  },
+  {
+    "rank": 8,
+    "name": "nitrojs/nitro",
+    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+    "language": "TypeScript",
+    "stars": "8,484",
+    "forks": "692",
+    "link": "https://github.com/nitrojs/nitro"
+  },
+  {
+    "rank": 9,
+    "name": "Klavis-AI/klavis",
+    "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+    "language": "Python",
+    "stars": "5,151",
+    "forks": "471",
+    "link": "https://github.com/Klavis-AI/klavis"
+  },
+  {
+    "rank": 10,
+    "name": "chili-chips-ba/wireguard-fpga",
+    "description": "Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!",
+    "language": "Verilog",
+    "stars": "1,037",
+    "forks": "18",
+    "link": "https://github.com/chili-chips-ba/wireguard-fpga"
+  },
+  {
+    "rank": 11,
+    "name": "dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+    "language": "MDX",
+    "stars": "63,641",
+    "forks": "6,649",
+    "link": "https://github.com/dair-ai/Prompt-Engineering-Guide"
+  },
+  {
+    "rank": 12,
+    "name": "1Panel-dev/MaxKB",
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。",
+    "language": "Python",
+    "stars": "18,594",
+    "forks": "2,422",
+    "link": "https://github.com/1Panel-dev/MaxKB"
+  },
+  {
+    "rank": 13,
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "369,727",
+    "forks": "38,902",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 14,
+    "name": "KellerJordan/modded-nanogpt",
+    "description": "NanoGPT (124M) in 3 minutes",
+    "language": "Python",
+    "stars": "3,331",
+    "forks": "449",
+    "link": "https://github.com/KellerJordan/modded-nanogpt"
+  },
+  {
+    "rank": 15,
+    "name": "volcengine/MineContext",
+    "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+    "language": "Python",
+    "stars": "1,667",
+    "forks": "75",
+    "link": "https://github.com/volcengine/MineContext"
+  }
+]
