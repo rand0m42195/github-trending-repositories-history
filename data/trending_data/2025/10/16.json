@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+    "language": "Jupyter Notebook",
+    "stars": "23,872",
+    "forks": "2,200",
+    "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+  },
+  {
+    "rank": 2,
+    "name": "jingyaogong/minimind",
+    "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+    "language": "Python",
+    "stars": "27,649",
+    "forks": "3,269",
+    "link": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "rank": 3,
+    "name": "nitrojs/nitro",
+    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+    "language": "TypeScript",
+    "stars": "8,818",
+    "forks": "713",
+    "link": "https://github.com/nitrojs/nitro"
+  },
+  {
+    "rank": 4,
+    "name": "langchain-ai/langchainjs",
+    "description": "🦜🔗 Build context-aware reasoning applications 🦜🔗",
+    "language": "TypeScript",
+    "stars": "15,943",
+    "forks": "2,799",
+    "link": "https://github.com/langchain-ai/langchainjs"
+  },
+  {
+    "rank": 5,
+    "name": "karpathy/nanoGPT",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "language": "Python",
+    "stars": "45,818",
+    "forks": "7,780",
+    "link": "https://github.com/karpathy/nanoGPT"
+  },
+  {
+    "rank": 6,
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "87,609",
+    "forks": "9,421",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 7,
+    "name": "envoyproxy/envoy",
+    "description": "Cloud-native high-performance edge/middle/service proxy",
+    "language": "C++",
+    "stars": "26,732",
+    "forks": "5,105",
+    "link": "https://github.com/envoyproxy/envoy"
+  },
+  {
+    "rank": 8,
+    "name": "EvolutionAPI/evolution-api",
+    "description": "Evolution API is an open-source WhatsApp integration API",
+    "language": "TypeScript",
+    "stars": "5,808",
+    "forks": "4,506",
+    "link": "https://github.com/EvolutionAPI/evolution-api"
+  },
+  {
+    "rank": 9,
+    "name": "devlikeapro/waha",
+    "description": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)",
+    "language": "TypeScript",
+    "stars": "4,662",
+    "forks": "936",
+    "link": "https://github.com/devlikeapro/waha"
+  },
+  {
+    "rank": 10,
+    "name": "enactic/openarm",
+    "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
+    "language": "MDX",
+    "stars": "1,199",
+    "forks": "132",
+    "link": "https://github.com/enactic/openarm"
+  },
+  {
+    "rank": 11,
+    "name": "DigitalPlatDev/FreeDomain",
+    "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+    "language": "HTML",
+    "stars": "106,990",
+    "forks": "2,013",
+    "link": "https://github.com/DigitalPlatDev/FreeDomain"
+  },
+  {
+    "rank": 12,
+    "name": "ChristianLempa/boilerplates",
+    "description": "This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.",
+    "language": "Python",
+    "stars": "6,390",
+    "forks": "1,769",
+    "link": "https://github.com/ChristianLempa/boilerplates"
+  },
+  {
+    "rank": 13,
+    "name": "alibaba/spring-ai-alibaba",
+    "description": "Agentic AI Framework for Java Developers",
+    "language": "Java",
+    "stars": "6,371",
+    "forks": "1,353",
+    "link": "https://github.com/alibaba/spring-ai-alibaba"
+  },
+  {
+    "rank": 14,
+    "name": "dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+    "language": "MDX",
+    "stars": "63,977",
+    "forks": "6,671",
+    "link": "https://github.com/dair-ai/Prompt-Engineering-Guide"
+  },
+  {
+    "rank": 15,
+    "name": "nanobrowser/nanobrowser",
+    "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+    "language": "TypeScript",
+    "stars": "10,176",
+    "forks": "1,026",
+    "link": "https://github.com/nanobrowser/nanobrowser"
+  },
+  {
+    "rank": 16,
+    "name": "czlonkowski/n8n-mcp",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+    "language": "TypeScript",
+    "stars": "8,534",
+    "forks": "1,609",
+    "link": "https://github.com/czlonkowski/n8n-mcp"
+  },
+  {
+    "rank": 17,
+    "name": "tulir/whatsmeow",
+    "description": "Go library for the WhatsApp web multidevice API",
+    "language": "Go",
+    "stars": "4,523",
+    "forks": "710",
+    "link": "https://github.com/tulir/whatsmeow"
+  }
+]
