@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars": "21,349",
+    "forks": "2,291",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 2,
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "88,400",
+    "forks": "9,468",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 3,
+    "name": "jingyaogong/minimind",
+    "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+    "language": "Python",
+    "stars": "29,935",
+    "forks": "3,467",
+    "link": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "rank": 4,
+    "name": "microsoft/vcpkg",
+    "description": "C++ Library Manager for Windows, Linux, and MacOS",
+    "language": "CMake",
+    "stars": "25,818",
+    "forks": "7,124",
+    "link": "https://github.com/microsoft/vcpkg"
+  },
+  {
+    "rank": 5,
+    "name": "wavetermdev/waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows",
+    "language": "Go",
+    "stars": "11,839",
+    "forks": "477",
+    "link": "https://github.com/wavetermdev/waveterm"
+  },
+  {
+    "rank": 6,
+    "name": "pathwaycom/pathway",
+    "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "stars": "48,827",
+    "forks": "1,419",
+    "link": "https://github.com/pathwaycom/pathway"
+  },
+  {
+    "rank": 7,
+    "name": "ThinkInAIXYZ/deepchat",
+    "description": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world",
+    "language": "TypeScript",
+    "stars": "4,354",
+    "forks": "533",
+    "link": "https://github.com/ThinkInAIXYZ/deepchat"
+  },
+  {
+    "rank": 8,
+    "name": "modelcontextprotocol/java-sdk",
+    "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+    "language": "Java",
+    "stars": "2,719",
+    "forks": "697",
+    "link": "https://github.com/modelcontextprotocol/java-sdk"
+  },
+  {
+    "rank": 9,
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "language": "Python",
+    "stars": "58,432",
+    "forks": "8,923",
+    "link": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  {
+    "rank": 10,
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+    "language": "C#",
+    "stars": "124,794",
+    "forks": "7,427",
+    "link": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "rank": 11,
+    "name": "DrewThomasson/ebook2audiobook",
+    "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+    "language": "Python",
+    "stars": "11,859",
+    "forks": "908",
+    "link": "https://github.com/DrewThomasson/ebook2audiobook"
+  },
+  {
+    "rank": 12,
+    "name": "hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "stars": "46,861",
+    "forks": "10,066",
+    "link": "https://github.com/hashicorp/terraform"
+  },
+  {
+    "rank": 13,
+    "name": "fastfire/deepdarkCTI",
+    "description": "Collection of Cyber Threat Intelligence sources from the deep and dark web",
+    "language": "",
+    "stars": "5,846",
+    "forks": "1,018",
+    "link": "https://github.com/fastfire/deepdarkCTI"
+  },
+  {
+    "rank": 14,
+    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+    "language": "Jupyter Notebook",
+    "stars": "16,620",
+    "forks": "3,917",
+    "link": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+  },
+  {
+    "rank": 15,
+    "name": "kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stars": "341,252",
+    "forks": "43,154",
+    "link": "https://github.com/kamranahmedse/developer-roadmap"
+  },
+  {
+    "rank": 16,
+    "name": "storybookjs/storybook",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+    "language": "TypeScript",
+    "stars": "88,079",
+    "forks": "9,724",
+    "link": "https://github.com/storybookjs/storybook"
+  },
+  {
+    "rank": 17,
+    "name": "TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": "211,196",
+    "forks": "48,776",
+    "link": "https://github.com/TheAlgorithms/Python"
+  },
+  {
+    "rank": 18,
+    "name": "gtsteffaniak/filebrowser",
+    "description": "📂 Web File Browser",
+    "language": "Go",
+    "stars": "4,011",
+    "forks": "158",
+    "link": "https://github.com/gtsteffaniak/filebrowser"
+  }
+]
