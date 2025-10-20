@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars": "22,096",
+    "forks": "2,336",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 2,
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "stars": "5,662",
+    "forks": "585",
+    "link": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "rank": 3,
+    "name": "jingyaogong/minimind",
+    "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+    "language": "Python",
+    "stars": "30,193",
+    "forks": "3,491",
+    "link": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "rank": 4,
+    "name": "atuinsh/desktop",
+    "description": "📖 Runbooks that run",
+    "language": "TypeScript",
+    "stars": "1,716",
+    "forks": "46",
+    "link": "https://github.com/atuinsh/desktop"
+  },
+  {
+    "rank": 5,
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "Python",
+    "stars": "373,416",
+    "forks": "64,905",
+    "link": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "rank": 6,
+    "name": "mountain-loop/yaak",
+    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+    "language": "TypeScript",
+    "stars": "8,422",
+    "forks": "293",
+    "link": "https://github.com/mountain-loop/yaak"
+  },
+  {
+    "rank": 7,
+    "name": "Skyvern-AI/skyvern",
+    "description": "Automate browser-based workflows with LLMs and Computer Vision",
+    "language": "Python",
+    "stars": "14,744",
+    "forks": "1,264",
+    "link": "https://github.com/Skyvern-AI/skyvern"
+  },
+  {
+    "rank": 8,
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "language": "Python",
+    "stars": "58,935",
+    "forks": "8,967",
+    "link": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  {
+    "rank": 9,
+    "name": "TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": "211,410",
+    "forks": "48,812",
+    "link": "https://github.com/TheAlgorithms/Python"
+  },
+  {
+    "rank": 10,
+    "name": "ThinkInAIXYZ/deepchat",
+    "description": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world",
+    "language": "TypeScript",
+    "stars": "4,529",
+    "forks": "546",
+    "link": "https://github.com/ThinkInAIXYZ/deepchat"
+  },
+  {
+    "rank": 11,
+    "name": "wavetermdev/waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows",
+    "language": "Go",
+    "stars": "12,009",
+    "forks": "482",
+    "link": "https://github.com/wavetermdev/waveterm"
+  },
+  {
+    "rank": 12,
+    "name": "microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "stars": "100,607",
+    "forks": "8,862",
+    "link": "https://github.com/microsoft/terminal"
+  },
+  {
+    "rank": 13,
+    "name": "karpathy/micrograd",
+    "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+    "language": "Jupyter Notebook",
+    "stars": "13,065",
+    "forks": "1,946",
+    "link": "https://github.com/karpathy/micrograd"
+  },
+  {
+    "rank": 14,
+    "name": "DrewThomasson/ebook2audiobook",
+    "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+    "language": "Python",
+    "stars": "12,061",
+    "forks": "918",
+    "link": "https://github.com/DrewThomasson/ebook2audiobook"
+  },
+  {
+    "rank": 15,
+    "name": "huggingface/chat-ui",
+    "description": "Open source codebase powering the HuggingChat app",
+    "language": "TypeScript",
+    "stars": "9,407",
+    "forks": "1,447",
+    "link": "https://github.com/huggingface/chat-ui"
+  },
+  {
+    "rank": 16,
+    "name": "clockworklabs/SpacetimeDB",
+    "description": "Multiplayer at the speed of light",
+    "language": "Rust",
+    "stars": "17,786",
+    "forks": "621",
+    "link": "https://github.com/clockworklabs/SpacetimeDB"
+  },
+  {
+    "rank": 17,
+    "name": "reflex-dev/reflex",
+    "description": "🕸️ Web apps in pure Python 🐍",
+    "language": "Python",
+    "stars": "26,936",
+    "forks": "1,596",
+    "link": "https://github.com/reflex-dev/reflex"
+  },
+  {
+    "rank": 18,
+    "name": "qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client",
+    "language": "C++",
+    "stars": "33,466",
+    "forks": "4,423",
+    "link": "https://github.com/qbittorrent/qBittorrent"
+  },
+  {
+    "rank": 19,
+    "name": "microsoft/vcpkg",
+    "description": "C++ Library Manager for Windows, Linux, and MacOS",
+    "language": "CMake",
+    "stars": "25,878",
+    "forks": "7,126",
+    "link": "https://github.com/microsoft/vcpkg"
+  },
+  {
+    "rank": 20,
+    "name": "myshell-ai/OpenVoice",
+    "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
+    "language": "Python",
+    "stars": "34,906",
+    "forks": "3,841",
+    "link": "https://github.com/myshell-ai/OpenVoice"
+  }
+]
