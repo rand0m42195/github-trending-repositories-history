@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "mountain-loop/yaak",
+    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+    "language": "TypeScript",
+    "stars": "10,291",
+    "forks": "358",
+    "link": "https://github.com/mountain-loop/yaak"
+  },
+  {
+    "rank": 2,
+    "name": "louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "stars": "76,470",
+    "forks": "6,777",
+    "link": "https://github.com/louislam/uptime-kuma"
+  },
+  {
+    "rank": 3,
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "stars": "6,749",
+    "forks": "683",
+    "link": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "rank": 4,
+    "name": "DrewThomasson/ebook2audiobook",
+    "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+    "language": "Python",
+    "stars": "12,903",
+    "forks": "975",
+    "link": "https://github.com/DrewThomasson/ebook2audiobook"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars": "24,334",
+    "forks": "2,455",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 6,
+    "name": "sharkdp/bat",
+    "description": "A cat(1) clone with wings.",
+    "language": "Rust",
+    "stars": "55,320",
+    "forks": "1,382",
+    "link": "https://github.com/sharkdp/bat"
+  },
+  {
+    "rank": 7,
+    "name": "Skyvern-AI/skyvern",
+    "description": "Automate browser-based workflows with LLMs and Computer Vision",
+    "language": "Python",
+    "stars": "15,132",
+    "forks": "1,282",
+    "link": "https://github.com/Skyvern-AI/skyvern"
+  },
+  {
+    "rank": 8,
+    "name": "oceanbase/miniob",
+    "description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.",
+    "language": "C++",
+    "stars": "4,107",
+    "forks": "1,478",
+    "link": "https://github.com/oceanbase/miniob"
+  },
+  {
+    "rank": 9,
+    "name": "k2-fsa/sherpa-onnx",
+    "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+    "language": "C++",
+    "stars": "7,921",
+    "forks": "912",
+    "link": "https://github.com/k2-fsa/sherpa-onnx"
+  },
+  {
+    "rank": 10,
+    "name": "servo/servo",
+    "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "language": "Rust",
+    "stars": "32,482",
+    "forks": "3,291",
+    "link": "https://github.com/servo/servo"
+  },
+  {
+    "rank": 11,
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "16,515",
+    "forks": "1,793",
+    "link": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "rank": 12,
+    "name": "Anuken/Mindustry",
+    "description": "The automation tower defense RTS",
+    "language": "Java",
+    "stars": "25,293",
+    "forks": "3,241",
+    "link": "https://github.com/Anuken/Mindustry"
+  },
+  {
+    "rank": 13,
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "language": "Python",
+    "stars": "60,055",
+    "forks": "9,050",
+    "link": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  {
+    "rank": 14,
+    "name": "huggingface/chat-ui",
+    "description": "Open source codebase powering the HuggingChat app",
+    "language": "TypeScript",
+    "stars": "9,781",
+    "forks": "1,475",
+    "link": "https://github.com/huggingface/chat-ui"
+  },
+  {
+    "rank": 15,
+    "name": "EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "Python",
+    "stars": "374,354",
+    "forks": "65,022",
+    "link": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "rank": 16,
+    "name": "is-a-dev/register",
+    "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+    "language": "JavaScript",
+    "stars": "8,753",
+    "forks": "15,676",
+    "link": "https://github.com/is-a-dev/register"
+  },
+  {
+    "rank": 17,
+    "name": "jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "language": "JavaScript",
+    "stars": "90,591",
+    "forks": "6,867",
+    "link": "https://github.com/jaywcjlove/awesome-mac"
+  },
+  {
+    "rank": 18,
+    "name": "clockworklabs/SpacetimeDB",
+    "description": "Multiplayer at the speed of light",
+    "language": "Rust",
+    "stars": "18,079",
+    "forks": "631",
+    "link": "https://github.com/clockworklabs/SpacetimeDB"
+  },
+  {
+    "rank": 19,
+    "name": "harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems",
+    "language": "Python",
+    "stars": "3,970",
+    "forks": "436",
+    "link": "https://github.com/harvard-edge/cs249r_book"
+  }
+]
