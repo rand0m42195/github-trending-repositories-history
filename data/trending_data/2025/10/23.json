@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "mountain-loop/yaak",
+    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+    "language": "TypeScript",
+    "stars": "12,041",
+    "forks": "428",
+    "link": "https://github.com/mountain-loop/yaak"
+  },
+  {
+    "rank": 2,
+    "name": "servo/servo",
+    "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "language": "Rust",
+    "stars": "32,800",
+    "forks": "3,302",
+    "link": "https://github.com/servo/servo"
+  },
+  {
+    "rank": 3,
+    "name": "emcie-co/parlant",
+    "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+    "language": "Python",
+    "stars": "14,216",
+    "forks": "1,149",
+    "link": "https://github.com/emcie-co/parlant"
+  },
+  {
+    "rank": 4,
+    "name": "guofei9987/blind_watermark",
+    "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+    "language": "Python",
+    "stars": "7,788",
+    "forks": "872",
+    "link": "https://github.com/guofei9987/blind_watermark"
+  },
+  {
+    "rank": 5,
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "stars": "7,307",
+    "forks": "728",
+    "link": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "rank": 6,
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "16,726",
+    "forks": "1,812",
+    "link": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "rank": 7,
+    "name": "fishaudio/fish-speech",
+    "description": "SOTA Open Source TTS",
+    "language": "Python",
+    "stars": "23,487",
+    "forks": "1,934",
+    "link": "https://github.com/fishaudio/fish-speech"
+  },
+  {
+    "rank": 8,
+    "name": "huggingface/chat-ui",
+    "description": "Open source codebase powering the HuggingChat app",
+    "language": "TypeScript",
+    "stars": "9,972",
+    "forks": "1,493",
+    "link": "https://github.com/huggingface/chat-ui"
+  },
+  {
+    "rank": 9,
+    "name": "rossant/awesome-math",
+    "description": "A curated list of awesome mathematics resources",
+    "language": "Python",
+    "stars": "10,430",
+    "forks": "1,063",
+    "link": "https://github.com/rossant/awesome-math"
+  },
+  {
+    "rank": 10,
+    "name": "drawdb-io/drawdb",
+    "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "language": "JavaScript",
+    "stars": "33,639",
+    "forks": "2,538",
+    "link": "https://github.com/drawdb-io/drawdb"
+  },
+  {
+    "rank": 11,
+    "name": "DrewThomasson/ebook2audiobook",
+    "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+    "language": "Python",
+    "stars": "13,277",
+    "forks": "999",
+    "link": "https://github.com/DrewThomasson/ebook2audiobook"
+  },
+  {
+    "rank": 12,
+    "name": "clockworklabs/SpacetimeDB",
+    "description": "Multiplayer at the speed of light",
+    "language": "Rust",
+    "stars": "18,230",
+    "forks": "635",
+    "link": "https://github.com/clockworklabs/SpacetimeDB"
+  },
+  {
+    "rank": 13,
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "stars": "24,654",
+    "forks": "2,480",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 14,
+    "name": "zyronon/TypeWords",
+    "description": "练习英语，一次敲击，一点进步；Practice English, One Keystroke at a Time.",
+    "language": "Vue",
+    "stars": "4,151",
+    "forks": "501",
+    "link": "https://github.com/zyronon/TypeWords"
+  },
+  {
+    "rank": 15,
+    "name": "tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+    "language": "Rust",
+    "stars": "97,895",
+    "forks": "3,125",
+    "link": "https://github.com/tauri-apps/tauri"
+  },
+  {
+    "rank": 16,
+    "name": "remix-run/react-router",
+    "description": "Declarative routing for React",
+    "language": "TypeScript",
+    "stars": "55,725",
+    "forks": "10,743",
+    "link": "https://github.com/remix-run/react-router"
+  },
+  {
+    "rank": 17,
+    "name": "harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems",
+    "language": "Python",
+    "stars": "4,331",
+    "forks": "461",
+    "link": "https://github.com/harvard-edge/cs249r_book"
+  }
+]
