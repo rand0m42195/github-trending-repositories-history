@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "minio/minio",
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "language": "Go",
+    "stars": "56,568",
+    "forks": "6,304",
+    "link": "https://github.com/minio/minio"
+  },
+  {
+    "rank": 2,
+    "name": "guofei9987/blind_watermark",
+    "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+    "language": "Python",
+    "stars": "8,784",
+    "forks": "935",
+    "link": "https://github.com/guofei9987/blind_watermark"
+  },
+  {
+    "rank": 3,
+    "name": "mountain-loop/yaak",
+    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+    "language": "TypeScript",
+    "stars": "13,240",
+    "forks": "458",
+    "link": "https://github.com/mountain-loop/yaak"
+  },
+  {
+    "rank": 4,
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "stars": "50,436",
+    "forks": "2,207",
+    "link": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "rank": 5,
+    "name": "paperless-ngx/paperless-ngx",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "language": "Python",
+    "stars": "33,158",
+    "forks": "2,066",
+    "link": "https://github.com/paperless-ngx/paperless-ngx"
+  },
+  {
+    "rank": 6,
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "16,938",
+    "forks": "1,827",
+    "link": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "rank": 7,
+    "name": "k2-fsa/sherpa-onnx",
+    "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+    "language": "C++",
+    "stars": "8,165",
+    "forks": "926",
+    "link": "https://github.com/k2-fsa/sherpa-onnx"
+  },
+  {
+    "rank": 8,
+    "name": "rossant/awesome-math",
+    "description": "A curated list of awesome mathematics resources",
+    "language": "Python",
+    "stars": "11,093",
+    "forks": "1,112",
+    "link": "https://github.com/rossant/awesome-math"
+  },
+  {
+    "rank": 9,
+    "name": "louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "stars": "76,952",
+    "forks": "6,804",
+    "link": "https://github.com/louislam/uptime-kuma"
+  },
+  {
+    "rank": 10,
+    "name": "harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems",
+    "language": "Python",
+    "stars": "4,662",
+    "forks": "475",
+    "link": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "rank": 11,
+    "name": "yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stars": "131,904",
+    "forks": "10,598",
+    "link": "https://github.com/yt-dlp/yt-dlp"
+  },
+  {
+    "rank": 12,
+    "name": "meta-pytorch/torchforge",
+    "description": "PyTorch-native post-training at scale",
+    "language": "Python",
+    "stars": "293",
+    "forks": "29",
+    "link": "https://github.com/meta-pytorch/torchforge"
+  },
+  {
+    "rank": 13,
+    "name": "lukasmasuch/best-of-ml-python",
+    "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "language": "",
+    "stars": "22,385",
+    "forks": "3,008",
+    "link": "https://github.com/lukasmasuch/best-of-ml-python"
+  },
+  {
+    "rank": 14,
+    "name": "guofei9987/scikit-opt",
+    "description": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)",
+    "language": "Python",
+    "stars": "6,033",
+    "forks": "1,046",
+    "link": "https://github.com/guofei9987/scikit-opt"
+  },
+  {
+    "rank": 15,
+    "name": "jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "language": "JavaScript",
+    "stars": "91,066",
+    "forks": "6,901",
+    "link": "https://github.com/jaywcjlove/awesome-mac"
+  },
+  {
+    "rank": 16,
+    "name": "hoppscotch/hoppscotch",
+    "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+    "language": "TypeScript",
+    "stars": "75,360",
+    "forks": "5,298",
+    "link": "https://github.com/hoppscotch/hoppscotch"
+  }
+]
