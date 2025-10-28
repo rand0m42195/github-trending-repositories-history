@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "language": "TypeScript",
+    "stars": "57,138",
+    "forks": "3,915",
+    "link": "https://github.com/toeverything/AFFiNE"
+  },
+  {
+    "rank": 2,
+    "name": "yeongpin/cursor-free-vip",
+    "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+    "language": "Python",
+    "stars": "38,708",
+    "forks": "4,709",
+    "link": "https://github.com/yeongpin/cursor-free-vip"
+  },
+  {
+    "rank": 3,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "430,533",
+    "forks": "40,420",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 4,
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.",
+    "language": "Python",
+    "stars": "2,852",
+    "forks": "217",
+    "link": "https://github.com/microsoft/agent-lightning"
+  },
+  {
+    "rank": 5,
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "stars": "54,350",
+    "forks": "2,391",
+    "link": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "rank": 6,
+    "name": "TheRobotStudio/SO-ARM100",
+    "description": "Standard Open Arm 100",
+    "language": "",
+    "stars": "4,061",
+    "forks": "333",
+    "link": "https://github.com/TheRobotStudio/SO-ARM100"
+  },
+  {
+    "rank": 7,
+    "name": "coinbase/x402",
+    "description": "A payments protocol for the internet. Built on HTTP.",
+    "language": "TypeScript",
+    "stars": "3,035",
+    "forks": "475",
+    "link": "https://github.com/coinbase/x402"
+  },
+  {
+    "rank": 8,
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "373,748",
+    "forks": "39,444",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 9,
+    "name": "bol-van/zapret",
+    "description": "DPI bypass multi platform",
+    "language": "C",
+    "stars": "12,936",
+    "forks": "912",
+    "link": "https://github.com/bol-van/zapret"
+  },
+  {
+    "rank": 10,
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "stars": "20,725",
+    "forks": "1,890",
+    "link": "https://github.com/block/goose"
+  },
+  {
+    "rank": 11,
+    "name": "qeeqbox/social-analyzer",
+    "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+    "language": "JavaScript",
+    "stars": "14,340",
+    "forks": "1,207",
+    "link": "https://github.com/qeeqbox/social-analyzer"
+  },
+  {
+    "rank": 12,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "73,574",
+    "forks": "9,572",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  }
+]
