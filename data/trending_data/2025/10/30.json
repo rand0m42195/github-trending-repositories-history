@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "smartcontractkit/chainlink",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "language": "Go",
+    "stars": "7,894",
+    "forks": "1,888",
+    "link": "https://github.com/smartcontractkit/chainlink"
+  },
+  {
+    "rank": 2,
+    "name": "cjpais/Handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+    "language": "TypeScript",
+    "stars": "4,486",
+    "forks": "281",
+    "link": "https://github.com/cjpais/Handy"
+  },
+  {
+    "rank": 3,
+    "name": "qeeqbox/social-analyzer",
+    "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+    "language": "JavaScript",
+    "stars": "15,730",
+    "forks": "1,293",
+    "link": "https://github.com/qeeqbox/social-analyzer"
+  },
+  {
+    "rank": 4,
+    "name": "open-telemetry/opentelemetry-collector",
+    "description": "OpenTelemetry Collector",
+    "language": "Go",
+    "stars": "5,970",
+    "forks": "1,754",
+    "link": "https://github.com/open-telemetry/opentelemetry-collector"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "stars": "92,739",
+    "forks": "14,382",
+    "link": "https://github.com/microsoft/Web-Dev-For-Beginners"
+  },
+  {
+    "rank": 6,
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": "69,440",
+    "forks": "15,922",
+    "link": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "rank": 7,
+    "name": "Beingpax/VoiceInk",
+    "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
+    "language": "Swift",
+    "stars": "2,282",
+    "forks": "277",
+    "link": "https://github.com/Beingpax/VoiceInk"
+  },
+  {
+    "rank": 8,
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "stars": "21,059",
+    "forks": "1,911",
+    "link": "https://github.com/block/goose"
+  },
+  {
+    "rank": 9,
+    "name": "allenai/olmocr",
+    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "language": "Python",
+    "stars": "15,081",
+    "forks": "1,150",
+    "link": "https://github.com/allenai/olmocr"
+  },
+  {
+    "rank": 10,
+    "name": "dotnet/eShop",
+    "description": "A reference .NET application implementing an eCommerce site",
+    "language": "C#",
+    "stars": "9,403",
+    "forks": "3,185",
+    "link": "https://github.com/dotnet/eShop"
+  },
+  {
+    "rank": 11,
+    "name": "toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "language": "TypeScript",
+    "stars": "58,494",
+    "forks": "3,982",
+    "link": "https://github.com/toeverything/AFFiNE"
+  },
+  {
+    "rank": 12,
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.",
+    "language": "Python",
+    "stars": "3,916",
+    "forks": "266",
+    "link": "https://github.com/microsoft/agent-lightning"
+  }
+]
