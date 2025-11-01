@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "88,756",
+    "forks": "9,503",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 2,
+    "name": "Wei-Shaw/claude-relay-service",
+    "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+    "language": "JavaScript",
+    "stars": "4,664",
+    "forks": "777",
+    "link": "https://github.com/Wei-Shaw/claude-relay-service"
+  },
+  {
+    "rank": 3,
+    "name": "ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "stars": "71,884",
+    "forks": "4,542",
+    "link": "https://github.com/ventoy/Ventoy"
+  },
+  {
+    "rank": 4,
+    "name": "projectdiscovery/nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "language": "JavaScript",
+    "stars": "11,216",
+    "forks": "3,115",
+    "link": "https://github.com/projectdiscovery/nuclei-templates"
+  },
+  {
+    "rank": 5,
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars": "22,799",
+    "forks": "2,764",
+    "link": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "rank": 6,
+    "name": "qeeqbox/social-analyzer",
+    "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+    "language": "JavaScript",
+    "stars": "16,786",
+    "forks": "1,366",
+    "link": "https://github.com/qeeqbox/social-analyzer"
+  },
+  {
+    "rank": 7,
+    "name": "open-telemetry/opentelemetry-collector",
+    "description": "OpenTelemetry Collector",
+    "language": "Go",
+    "stars": "6,151",
+    "forks": "1,766",
+    "link": "https://github.com/open-telemetry/opentelemetry-collector"
+  },
+  {
+    "rank": 8,
+    "name": "yhirose/cpp-httplib",
+    "description": "A C++ header-only HTTP/HTTPS server and client library",
+    "language": "C++",
+    "stars": "15,370",
+    "forks": "2,538",
+    "link": "https://github.com/yhirose/cpp-httplib"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.",
+    "language": "Python",
+    "stars": "5,105",
+    "forks": "366",
+    "link": "https://github.com/microsoft/agent-lightning"
+  },
+  {
+    "rank": 10,
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "language": "Python",
+    "stars": "2,278",
+    "forks": "305",
+    "link": "https://github.com/666ghj/BettaFish"
+  },
+  {
+    "rank": 11,
+    "name": "hiyouga/LLaMA-Factory",
+    "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "language": "Python",
+    "stars": "61,454",
+    "forks": "7,433",
+    "link": "https://github.com/hiyouga/LLaMA-Factory"
+  },
+  {
+    "rank": 12,
+    "name": "smartcontractkit/chainlink",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "language": "Go",
+    "stars": "8,020",
+    "forks": "1,896",
+    "link": "https://github.com/smartcontractkit/chainlink"
+  },
+  {
+    "rank": 13,
+    "name": "dotnet/eShop",
+    "description": "A reference .NET application implementing an eCommerce site",
+    "language": "C#",
+    "stars": "9,511",
+    "forks": "3,204",
+    "link": "https://github.com/dotnet/eShop"
+  },
+  {
+    "rank": 14,
+    "name": "patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "language": "Jupyter Notebook",
+    "stars": "20,156",
+    "forks": "3,358",
+    "link": "https://github.com/patchy631/ai-engineering-hub"
+  },
+  {
+    "rank": 15,
+    "name": "microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "stars": "93,459",
+    "forks": "14,503",
+    "link": "https://github.com/microsoft/Web-Dev-For-Beginners"
+  }
+]
