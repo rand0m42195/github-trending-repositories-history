@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "get-convex/chef",
+    "description": "The only AI app builder that knows backend",
+    "language": "TypeScript",
+    "stars": "2,710",
+    "forks": "521",
+    "link": "https://github.com/get-convex/chef"
+  },
+  {
+    "rank": 2,
+    "name": "suitenumerique/docs",
+    "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.",
+    "language": "Python",
+    "stars": "14,202",
+    "forks": "430",
+    "link": "https://github.com/suitenumerique/docs"
+  },
+  {
+    "rank": 3,
+    "name": "Tencent/WeKnora",
+    "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "language": "Go",
+    "stars": "7,187",
+    "forks": "811",
+    "link": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "rank": 4,
+    "name": "janhq/jan",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+    "language": "TypeScript",
+    "stars": "38,945",
+    "forks": "2,347",
+    "link": "https://github.com/janhq/jan"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "stars": "93,732",
+    "forks": "14,549",
+    "link": "https://github.com/microsoft/Web-Dev-For-Beginners"
+  },
+  {
+    "rank": 6,
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": "74,739",
+    "forks": "10,880",
+    "link": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "rank": 7,
+    "name": "juspay/hyperswitch",
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "stars": "38,914",
+    "forks": "4,513",
+    "link": "https://github.com/juspay/hyperswitch"
+  },
+  {
+    "rank": 8,
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "88,835",
+    "forks": "9,511",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 9,
+    "name": "github/copilot-cli",
+    "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+    "language": "",
+    "stars": "4,516",
+    "forks": "288",
+    "link": "https://github.com/github/copilot-cli"
+  },
+  {
+    "rank": 10,
+    "name": "YunaiV/ruoyi-vue-pro",
+    "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "language": "Java",
+    "stars": "33,877",
+    "forks": "7,313",
+    "link": "https://github.com/YunaiV/ruoyi-vue-pro"
+  },
+  {
+    "rank": 11,
+    "name": "hanxi/xiaomusic",
+    "description": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
+    "language": "Python",
+    "stars": "6,528",
+    "forks": "639",
+    "link": "https://github.com/hanxi/xiaomusic"
+  },
+  {
+    "rank": 12,
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "language": "Python",
+    "stars": "3,252",
+    "forks": "361",
+    "link": "https://github.com/666ghj/BettaFish"
+  },
+  {
+    "rank": 13,
+    "name": "pathwaycom/llm-app",
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+    "language": "Jupyter Notebook",
+    "stars": "46,408",
+    "forks": "1,192",
+    "link": "https://github.com/pathwaycom/llm-app"
+  },
+  {
+    "rank": 14,
+    "name": "lingodotdev/lingo.dev",
+    "description": "⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:",
+    "language": "TypeScript",
+    "stars": "4,031",
+    "forks": "606",
+    "link": "https://github.com/lingodotdev/lingo.dev"
+  },
+  {
+    "rank": 15,
+    "name": "ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "HTML",
+    "stars": "196,729",
+    "forks": "24,526",
+    "link": "https://github.com/ossu/computer-science"
+  }
+]
