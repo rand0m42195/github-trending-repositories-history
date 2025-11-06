@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "language": "Python",
+    "stars": "14,847",
+    "forks": "2,594",
+    "link": "https://github.com/666ghj/BettaFish"
+  },
+  {
+    "rank": 2,
+    "name": "Skyvern-AI/skyvern",
+    "description": "Automate browser based workflows with AI",
+    "language": "Python",
+    "stars": "16,170",
+    "forks": "1,376",
+    "link": "https://github.com/Skyvern-AI/skyvern"
+  },
+  {
+    "rank": 3,
+    "name": "HKUDS/DeepCode",
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "language": "Python",
+    "stars": "9,439",
+    "forks": "1,281",
+    "link": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "rank": 4,
+    "name": "nocobase/nocobase",
+    "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
+    "language": "TypeScript",
+    "stars": "17,859",
+    "forks": "2,039",
+    "link": "https://github.com/nocobase/nocobase"
+  },
+  {
+    "rank": 5,
+    "name": "mudler/LocalAI",
+    "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "language": "Go",
+    "stars": "37,253",
+    "forks": "2,939",
+    "link": "https://github.com/mudler/LocalAI"
+  },
+  {
+    "rank": 6,
+    "name": "sst/opentui",
+    "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+    "language": "TypeScript",
+    "stars": "4,457",
+    "forks": "162",
+    "link": "https://github.com/sst/opentui"
+  },
+  {
+    "rank": 7,
+    "name": "prometheus/alertmanager",
+    "description": "Prometheus Alertmanager",
+    "language": "Go",
+    "stars": "7,350",
+    "forks": "2,286",
+    "link": "https://github.com/prometheus/alertmanager"
+  },
+  {
+    "rank": 8,
+    "name": "GopeedLab/gopeed",
+    "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+    "language": "Dart",
+    "stars": "21,174",
+    "forks": "1,466",
+    "link": "https://github.com/GopeedLab/gopeed"
+  },
+  {
+    "rank": 9,
+    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "description": "An evolving how-to guide for securing a Linux server.",
+    "language": "",
+    "stars": "21,674",
+    "forks": "1,375",
+    "link": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+  },
+  {
+    "rank": 10,
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "language": "PowerShell",
+    "stars": "32,161",
+    "forks": "1,258",
+    "link": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "rank": 11,
+    "name": "GoogleCloudPlatform/vertex-ai-creative-studio",
+    "description": "GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.",
+    "language": "Jupyter Notebook",
+    "stars": "592",
+    "forks": "206",
+    "link": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio"
+  },
+  {
+    "rank": 12,
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
+    "language": "Python",
+    "stars": "3,622",
+    "forks": "268",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "rank": 13,
+    "name": "coleam00/ottomator-agents",
+    "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+    "language": "Python",
+    "stars": "4,729",
+    "forks": "1,684",
+    "link": "https://github.com/coleam00/ottomator-agents"
+  },
+  {
+    "rank": 14,
+    "name": "NickvisionApps/Parabolic",
+    "description": "Download web video and audio",
+    "language": "C++",
+    "stars": "4,198",
+    "forks": "194",
+    "link": "https://github.com/NickvisionApps/Parabolic"
+  },
+  {
+    "rank": 15,
+    "name": "aandrew-me/ytDownloader",
+    "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
+    "language": "JavaScript",
+    "stars": "5,976",
+    "forks": "487",
+    "link": "https://github.com/aandrew-me/ytDownloader"
+  },
+  {
+    "rank": 16,
+    "name": "sst/opencode",
+    "description": "The AI coding agent built for the terminal.",
+    "language": "TypeScript",
+    "stars": "31,702",
+    "forks": "2,453",
+    "link": "https://github.com/sst/opencode"
+  },
+  {
+    "rank": 17,
+    "name": "localstack/localstack",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+    "language": "Python",
+    "stars": "61,381",
+    "forks": "4,299",
+    "link": "https://github.com/localstack/localstack"
+  },
+  {
+    "rank": 18,
+    "name": "jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "",
+    "stars": "332,448",
+    "forks": "81,119",
+    "link": "https://github.com/jwasham/coding-interview-university"
+  }
+]
