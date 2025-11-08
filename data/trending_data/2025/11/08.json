@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "prometheus/alertmanager",
+    "description": "Prometheus Alertmanager",
+    "language": "Go",
+    "stars": "7,677",
+    "forks": "2,325",
+    "link": "https://github.com/prometheus/alertmanager"
+  },
+  {
+    "rank": 2,
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "language": "Python",
+    "stars": "21,528",
+    "forks": "4,172",
+    "link": "https://github.com/666ghj/BettaFish"
+  },
+  {
+    "rank": 3,
+    "name": "simstudioai/sim",
+    "description": "Open-source platform to build and deploy AI agent workflows.",
+    "language": "TypeScript",
+    "stars": "17,622",
+    "forks": "2,340",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 4,
+    "name": "lima-vm/lima",
+    "description": "Linux virtual machines, with a focus on running containers",
+    "language": "Go",
+    "stars": "18,437",
+    "forks": "728",
+    "link": "https://github.com/lima-vm/lima"
+  },
+  {
+    "rank": 5,
+    "name": "awslabs/mcp",
+    "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
+    "language": "Python",
+    "stars": "7,061",
+    "forks": "1,041",
+    "link": "https://github.com/awslabs/mcp"
+  },
+  {
+    "rank": 6,
+    "name": "usestrix/strix",
+    "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+    "language": "Python",
+    "stars": "3,333",
+    "forks": "416",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 7,
+    "name": "blakeblackshear/frigate",
+    "description": "NVR with realtime local object detection for IP cameras",
+    "language": "TypeScript",
+    "stars": "26,853",
+    "forks": "2,482",
+    "link": "https://github.com/blakeblackshear/frigate"
+  },
+  {
+    "rank": 8,
+    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "description": "An evolving how-to guide for securing a Linux server.",
+    "language": "",
+    "stars": "22,722",
+    "forks": "1,447",
+    "link": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+  },
+  {
+    "rank": 9,
+    "name": "FFmpeg/asm-lessons",
+    "description": "FFmpeg Assembly Language Lessons",
+    "language": "",
+    "stars": "10,230",
+    "forks": "307",
+    "link": "https://github.com/FFmpeg/asm-lessons"
+  },
+  {
+    "rank": 10,
+    "name": "ad-on-is/rachoon",
+    "description": "🦝 Rachoon — A self-hostable way to handle invoices",
+    "language": "TypeScript",
+    "stars": "626",
+    "forks": "36",
+    "link": "https://github.com/ad-on-is/rachoon"
+  },
+  {
+    "rank": 11,
+    "name": "TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": "212,706",
+    "forks": "49,191",
+    "link": "https://github.com/TheAlgorithms/Python"
+  },
+  {
+    "rank": 12,
+    "name": "jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "",
+    "stars": "332,815",
+    "forks": "81,164",
+    "link": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "rank": 13,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "75,466",
+    "forks": "9,932",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 14,
+    "name": "GoogleCloudPlatform/vertex-ai-creative-studio",
+    "description": "GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.",
+    "language": "Jupyter Notebook",
+    "stars": "716",
+    "forks": "222",
+    "link": "https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio"
+  },
+  {
+    "rank": 15,
+    "name": "GopeedLab/gopeed",
+    "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+    "language": "Dart",
+    "stars": "21,466",
+    "forks": "1,483",
+    "link": "https://github.com/GopeedLab/gopeed"
+  },
+  {
+    "rank": 16,
+    "name": "Skyvern-AI/skyvern",
+    "description": "Automate browser based workflows with AI",
+    "language": "Python",
+    "stars": "17,010",
+    "forks": "1,437",
+    "link": "https://github.com/Skyvern-AI/skyvern"
+  },
+  {
+    "rank": 17,
+    "name": "antiwork/gumroad",
+    "description": "Sell stuff and see what sticks",
+    "language": "Ruby",
+    "stars": "7,451",
+    "forks": "1,402",
+    "link": "https://github.com/antiwork/gumroad"
+  },
+  {
+    "rank": 18,
+    "name": "coder/code-server",
+    "description": "VS Code in the browser",
+    "language": "TypeScript",
+    "stars": "74,666",
+    "forks": "6,331",
+    "link": "https://github.com/coder/code-server"
+  },
+  {
+    "rank": 19,
+    "name": "remix-run/react-router",
+    "description": "Declarative routing for React",
+    "language": "TypeScript",
+    "stars": "55,873",
+    "forks": "10,761",
+    "link": "https://github.com/remix-run/react-router"
+  },
+  {
+    "rank": 20,
+    "name": "dbeaver/dbeaver",
+    "description": "Free universal database tool and SQL client",
+    "language": "Java",
+    "stars": "46,280",
+    "forks": "3,904",
+    "link": "https://github.com/dbeaver/dbeaver"
+  }
+]
