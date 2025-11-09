@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "usestrix/strix",
+    "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+    "language": "Python",
+    "stars": "4,713",
+    "forks": "519",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 2,
+    "name": "umami-software/umami",
+    "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+    "language": "TypeScript",
+    "stars": "32,308",
+    "forks": "5,792",
+    "link": "https://github.com/umami-software/umami"
+  },
+  {
+    "rank": 3,
+    "name": "prometheus/alertmanager",
+    "description": "Prometheus Alertmanager",
+    "language": "Go",
+    "stars": "7,922",
+    "forks": "2,343",
+    "link": "https://github.com/prometheus/alertmanager"
+  },
+  {
+    "rank": 4,
+    "name": "lima-vm/lima",
+    "description": "Linux virtual machines, with a focus on running containers",
+    "language": "Go",
+    "stars": "18,588",
+    "forks": "741",
+    "link": "https://github.com/lima-vm/lima"
+  },
+  {
+    "rank": 5,
+    "name": "nocobase/nocobase",
+    "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
+    "language": "TypeScript",
+    "stars": "18,923",
+    "forks": "2,118",
+    "link": "https://github.com/nocobase/nocobase"
+  },
+  {
+    "rank": 6,
+    "name": "dbeaver/dbeaver",
+    "description": "Free universal database tool and SQL client",
+    "language": "Java",
+    "stars": "46,501",
+    "forks": "3,914",
+    "link": "https://github.com/dbeaver/dbeaver"
+  },
+  {
+    "rank": 7,
+    "name": "localstack/localstack",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+    "language": "Python",
+    "stars": "62,581",
+    "forks": "4,380",
+    "link": "https://github.com/localstack/localstack"
+  },
+  {
+    "rank": 8,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "75,769",
+    "forks": "9,975",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 9,
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "language": "Python",
+    "stars": "23,038",
+    "forks": "4,415",
+    "link": "https://github.com/666ghj/BettaFish"
+  },
+  {
+    "rank": 10,
+    "name": "airweave-ai/airweave",
+    "description": "Context retrieval for AI agents across apps and databases",
+    "language": "Python",
+    "stars": "4,759",
+    "forks": "576",
+    "link": "https://github.com/airweave-ai/airweave"
+  },
+  {
+    "rank": 11,
+    "name": "TodePond/GulfOfMexico",
+    "description": "perfect programming language",
+    "language": "",
+    "stars": "12,952",
+    "forks": "449",
+    "link": "https://github.com/TodePond/GulfOfMexico"
+  },
+  {
+    "rank": 12,
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "stars": "41,260",
+    "forks": "2,276",
+    "link": "https://github.com/penpot/penpot"
+  },
+  {
+    "rank": 13,
+    "name": "awslabs/mcp",
+    "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
+    "language": "Python",
+    "stars": "7,247",
+    "forks": "1,051",
+    "link": "https://github.com/awslabs/mcp"
+  },
+  {
+    "rank": 14,
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": "377,048",
+    "forks": "39,915",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 15,
+    "name": "thinking-machines-lab/tinker-cookbook",
+    "description": "Post-training with Tinker",
+    "language": "Python",
+    "stars": "1,533",
+    "forks": "120",
+    "link": "https://github.com/thinking-machines-lab/tinker-cookbook"
+  },
+  {
+    "rank": 16,
+    "name": "ad-on-is/rachoon",
+    "description": "🦝 Rachoon — A self-hostable way to handle invoices",
+    "language": "TypeScript",
+    "stars": "756",
+    "forks": "47",
+    "link": "https://github.com/ad-on-is/rachoon"
+  },
+  {
+    "rank": 17,
+    "name": "FFmpeg/asm-lessons",
+    "description": "FFmpeg Assembly Language Lessons",
+    "language": "",
+    "stars": "10,769",
+    "forks": "326",
+    "link": "https://github.com/FFmpeg/asm-lessons"
+  },
+  {
+    "rank": 18,
+    "name": "jamwithai/arxiv-paper-curator",
+    "description": "",
+    "language": "Python",
+    "stars": "1,342",
+    "forks": "424",
+    "link": "https://github.com/jamwithai/arxiv-paper-curator"
+  }
+]
