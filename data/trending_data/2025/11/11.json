@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "google/adk-go",
+    "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "language": "Go",
+    "stars": "1,487",
+    "forks": "81",
+    "link": "https://github.com/google/adk-go"
+  },
+  {
+    "rank": 2,
+    "name": "usestrix/strix",
+    "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+    "language": "Python",
+    "stars": "8,760",
+    "forks": "793",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 3,
+    "name": "umami-software/umami",
+    "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+    "language": "TypeScript",
+    "stars": "33,168",
+    "forks": "5,835",
+    "link": "https://github.com/umami-software/umami"
+  },
+  {
+    "rank": 4,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "language": "Roff",
+    "stars": "54,944",
+    "forks": "12,339",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "rank": 5,
+    "name": "thinking-machines-lab/tinker-cookbook",
+    "description": "Post-training with Tinker",
+    "language": "Python",
+    "stars": "1,752",
+    "forks": "140",
+    "link": "https://github.com/thinking-machines-lab/tinker-cookbook"
+  },
+  {
+    "rank": 6,
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stars": "99,180",
+    "forks": "4,256",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 7,
+    "name": "lzhoang2801/OpCore-Simplify",
+    "description": "A tool designed to simplify the creation of OpenCore EFI",
+    "language": "Python",
+    "stars": "2,253",
+    "forks": "215",
+    "link": "https://github.com/lzhoang2801/OpCore-Simplify"
+  },
+  {
+    "rank": 8,
+    "name": "YaLTeR/niri",
+    "description": "A scrollable-tiling Wayland compositor.",
+    "language": "Rust",
+    "stars": "14,749",
+    "forks": "522",
+    "link": "https://github.com/YaLTeR/niri"
+  },
+  {
+    "rank": 9,
+    "name": "bobeff/open-source-games",
+    "description": "A list of open source games.",
+    "language": "",
+    "stars": "2,159",
+    "forks": "154",
+    "link": "https://github.com/bobeff/open-source-games"
+  },
+  {
+    "rank": 10,
+    "name": "microsoft/call-center-ai",
+    "description": "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!",
+    "language": "Python",
+    "stars": "1,634",
+    "forks": "286",
+    "link": "https://github.com/microsoft/call-center-ai"
+  },
+  {
+    "rank": 11,
+    "name": "librespot-org/librespot",
+    "description": "Open Source Spotify client library",
+    "language": "Rust",
+    "stars": "6,062",
+    "forks": "768",
+    "link": "https://github.com/librespot-org/librespot"
+  },
+  {
+    "rank": 12,
+    "name": "opencloud-eu/opencloud",
+    "description": "🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.",
+    "language": "Go",
+    "stars": "3,448",
+    "forks": "113",
+    "link": "https://github.com/opencloud-eu/opencloud"
+  },
+  {
+    "rank": 13,
+    "name": "end-4/dots-hyprland",
+    "description": "uhh questioning the meaning of dotfiles",
+    "language": "QML",
+    "stars": "10,406",
+    "forks": "822",
+    "link": "https://github.com/end-4/dots-hyprland"
+  },
+  {
+    "rank": 14,
+    "name": "Zie619/n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "language": "Python",
+    "stars": "39,396",
+    "forks": "3,845",
+    "link": "https://github.com/Zie619/n8n-workflows"
+  }
+]
