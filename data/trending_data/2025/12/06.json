@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "basecamp/fizzy",
+    "description": "Kanban as it should be. Not as it has been.",
+    "language": "Ruby",
+    "stars": "4,350",
+    "forks": "425",
+    "link": "https://github.com/basecamp/fizzy"
+  },
+  {
+    "rank": 2,
+    "name": "rustfs/rustfs",
+    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "language": "Rust",
+    "stars": "14,397",
+    "forks": "630",
+    "link": "https://github.com/rustfs/rustfs"
+  },
+  {
+    "rank": 3,
+    "name": "trustedsec/social-engineer-toolkit",
+    "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+    "language": "Python",
+    "stars": "13,284",
+    "forks": "3,140",
+    "link": "https://github.com/trustedsec/social-engineer-toolkit"
+  },
+  {
+    "rank": 4,
+    "name": "DayuanJiang/next-ai-draw-io",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+    "language": "TypeScript",
+    "stars": "3,933",
+    "forks": "442",
+    "link": "https://github.com/DayuanJiang/next-ai-draw-io"
+  },
+  {
+    "rank": 5,
+    "name": "facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "language": "JavaScript",
+    "stars": "241,198",
+    "forks": "50,011",
+    "link": "https://github.com/facebook/react"
+  },
+  {
+    "rank": 6,
+    "name": "CorentinTh/it-tools",
+    "description": "Collection of handy online tools for developers, with great UX.",
+    "language": "Vue",
+    "stars": "34,755",
+    "forks": "4,313",
+    "link": "https://github.com/CorentinTh/it-tools"
+  },
+  {
+    "rank": 7,
+    "name": "vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "stars": "136,190",
+    "forks": "29,981",
+    "link": "https://github.com/vercel/next.js"
+  },
+  {
+    "rank": 8,
+    "name": "ashishpatel26/500-AI-Agents-Projects",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "language": "",
+    "stars": "18,435",
+    "forks": "3,397",
+    "link": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+  },
+  {
+    "rank": 9,
+    "name": "sinelaw/fresh",
+    "description": "Text editor for your terminal: easy, powerful and fast",
+    "language": "Rust",
+    "stars": "540",
+    "forks": "14",
+    "link": "https://github.com/sinelaw/fresh"
+  },
+  {
+    "rank": 10,
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "language": "Zig",
+    "stars": "84,130",
+    "forks": "3,716",
+    "link": "https://github.com/oven-sh/bun"
+  },
+  {
+    "rank": 11,
+    "name": "mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "",
+    "stars": "95,885",
+    "forks": "8,521",
+    "link": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "rank": 12,
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "stars": "10,527",
+    "forks": "1,356",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 13,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "18,840",
+    "forks": "1,466",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "rank": 14,
+    "name": "sst/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "stars": "36,001",
+    "forks": "2,987",
+    "link": "https://github.com/sst/opencode"
+  },
+  {
+    "rank": 15,
+    "name": "TelegramMessenger/Telegram-iOS",
+    "description": "Telegram-iOS",
+    "language": "Swift",
+    "stars": "7,549",
+    "forks": "2,184",
+    "link": "https://github.com/TelegramMessenger/Telegram-iOS"
+  }
+]
