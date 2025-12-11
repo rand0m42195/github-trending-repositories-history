@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "JavaScript",
+    "stars": "2,678",
+    "forks": "169",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 2,
+    "name": "KaijuEngine/kaiju",
+    "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+    "language": "Go",
+    "stars": "2,757",
+    "forks": "89",
+    "link": "https://github.com/KaijuEngine/kaiju"
+  },
+  {
+    "rank": 3,
+    "name": "agentsmd/agents.md",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents",
+    "language": "TypeScript",
+    "stars": "9,477",
+    "forks": "751",
+    "link": "https://github.com/agentsmd/agents.md"
+  },
+  {
+    "rank": 4,
+    "name": "lfnovo/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "stars": "14,024",
+    "forks": "1,411",
+    "link": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "rank": 5,
+    "name": "dyad-sh/dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "18,223",
+    "forks": "2,007",
+    "link": "https://github.com/dyad-sh/dyad"
+  },
+  {
+    "rank": 6,
+    "name": "datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "language": "Python",
+    "stars": "6,986",
+    "forks": "787",
+    "link": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "stars": "17,000",
+    "forks": "1,853",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 8,
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "stars": "23,369",
+    "forks": "2,110",
+    "link": "https://github.com/block/goose"
+  },
+  {
+    "rank": 9,
+    "name": "666ghj/BettaFish",
+    "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "language": "Python",
+    "stars": "32,308",
+    "forks": "6,211",
+    "link": "https://github.com/666ghj/BettaFish"
+  },
+  {
+    "rank": 10,
+    "name": "cloudflare/vibesdk",
+    "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
+    "language": "TypeScript",
+    "stars": "4,121",
+    "forks": "961",
+    "link": "https://github.com/cloudflare/vibesdk"
+  },
+  {
+    "rank": 11,
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "language": "Jupyter Notebook",
+    "stars": "103,437",
+    "forks": "54,907",
+    "link": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "rank": 12,
+    "name": "infiniflow/ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "language": "Python",
+    "stars": "69,394",
+    "forks": "7,528",
+    "link": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "rank": 13,
+    "name": "google/adk-samples",
+    "description": "A collection of sample agents built with Agent Development Kit (ADK)",
+    "language": "Python",
+    "stars": "7,332",
+    "forks": "2,026",
+    "link": "https://github.com/google/adk-samples"
+  },
+  {
+    "rank": 14,
+    "name": "microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "stars": "81,288",
+    "forks": "19,058",
+    "link": "https://github.com/microsoft/ML-For-Beginners"
+  }
+]
