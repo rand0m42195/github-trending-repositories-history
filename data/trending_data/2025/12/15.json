@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "simstudioai/sim",
+    "description": "Open-source platform to build and deploy AI agent workflows.",
+    "language": "TypeScript",
+    "stars": "20,258",
+    "forks": "2,634",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 2,
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": "53,119",
+    "forks": "6,759",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 3,
+    "name": "mdn/content",
+    "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
+    "language": "Markdown",
+    "stars": "10,000",
+    "forks": "22,985",
+    "link": "https://github.com/mdn/content"
+  },
+  {
+    "rank": 4,
+    "name": "Morganamilo/paru",
+    "description": "Feature packed AUR helper",
+    "language": "Rust",
+    "stars": "7,813",
+    "forks": "288",
+    "link": "https://github.com/Morganamilo/paru"
+  },
+  {
+    "rank": 5,
+    "name": "Mebus/cupp",
+    "description": "Common User Passwords Profiler (CUPP)",
+    "language": "Python",
+    "stars": "5,203",
+    "forks": "1,336",
+    "link": "https://github.com/Mebus/cupp"
+  },
+  {
+    "rank": 6,
+    "name": "ZJU-LLMs/Foundations-of-LLMs",
+    "description": "A book for Learning the Foundations of LLMs",
+    "language": "",
+    "stars": "13,656",
+    "forks": "1,272",
+    "link": "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
+  },
+  {
+    "rank": 7,
+    "name": "daytonaio/daytona",
+    "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+    "language": "TypeScript",
+    "stars": "37,234",
+    "forks": "2,785",
+    "link": "https://github.com/daytonaio/daytona"
+  },
+  {
+    "rank": 8,
+    "name": "shadcn-ui/ui",
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+    "language": "TypeScript",
+    "stars": "102,334",
+    "forks": "7,443",
+    "link": "https://github.com/shadcn-ui/ui"
+  },
+  {
+    "rank": 9,
+    "name": "datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "language": "Python",
+    "stars": "9,063",
+    "forks": "966",
+    "link": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "rank": 10,
+    "name": "HuLaSpark/HuLa",
+    "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）",
+    "language": "Vue",
+    "stars": "5,914",
+    "forks": "796",
+    "link": "https://github.com/HuLaSpark/HuLa"
+  },
+  {
+    "rank": 11,
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "stars": "5,779",
+    "forks": "337",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 12,
+    "name": "thinking-machines-lab/tinker-cookbook",
+    "description": "Post-training with Tinker",
+    "language": "Python",
+    "stars": "2,471",
+    "forks": "230",
+    "link": "https://github.com/thinking-machines-lab/tinker-cookbook"
+  },
+  {
+    "rank": 13,
+    "name": "tursodatabase/turso",
+    "description": "Turso is an in-process SQL database, compatible with SQLite.",
+    "language": "Rust",
+    "stars": "15,492",
+    "forks": "634",
+    "link": "https://github.com/tursodatabase/turso"
+  },
+  {
+    "rank": 14,
+    "name": "Tencent/WeKnora",
+    "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "language": "Go",
+    "stars": "8,751",
+    "forks": "953",
+    "link": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "rank": 15,
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "42,729",
+    "forks": "7,604",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  }
+]
