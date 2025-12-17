@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "simstudioai/sim",
+    "description": "Open-source platform to build and deploy AI agent workflows.",
+    "language": "TypeScript",
+    "stars": "22,887",
+    "forks": "2,862",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 2,
+    "name": "ZJU-LLMs/Foundations-of-LLMs",
+    "description": "A book for Learning the Foundations of LLMs",
+    "language": "",
+    "stars": "14,423",
+    "forks": "1,325",
+    "link": "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
+  },
+  {
+    "rank": 3,
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "43,116",
+    "forks": "7,657",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 4,
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "stars": "7,404",
+    "forks": "435",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 5,
+    "name": "Morganamilo/paru",
+    "description": "Feature packed AUR helper",
+    "language": "Rust",
+    "stars": "7,958",
+    "forks": "295",
+    "link": "https://github.com/Morganamilo/paru"
+  },
+  {
+    "rank": 6,
+    "name": "jellyfin/jellyfin-desktop",
+    "description": "Jellyfin Desktop Client",
+    "language": "C++",
+    "stars": "4,723",
+    "forks": "441",
+    "link": "https://github.com/jellyfin/jellyfin-desktop"
+  },
+  {
+    "rank": 7,
+    "name": "nicotsx/zerobyte",
+    "description": "Backup automation for self-hosters",
+    "language": "TypeScript",
+    "stars": "2,781",
+    "forks": "53",
+    "link": "https://github.com/nicotsx/zerobyte"
+  },
+  {
+    "rank": 8,
+    "name": "eudoxia0/hashcards",
+    "description": "A plain text-based spaced repetition system.",
+    "language": "Rust",
+    "stars": "691",
+    "forks": "31",
+    "link": "https://github.com/eudoxia0/hashcards"
+  },
+  {
+    "rank": 9,
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": "54,064",
+    "forks": "6,834",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 10,
+    "name": "C4illin/ConvertX",
+    "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+    "language": "TypeScript",
+    "stars": "11,398",
+    "forks": "572",
+    "link": "https://github.com/C4illin/ConvertX"
+  },
+  {
+    "rank": 11,
+    "name": "mdn/content",
+    "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
+    "language": "Markdown",
+    "stars": "10,261",
+    "forks": "23,000",
+    "link": "https://github.com/mdn/content"
+  },
+  {
+    "rank": 12,
+    "name": "Raphire/Win11Debloat",
+    "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "language": "PowerShell",
+    "stars": "35,742",
+    "forks": "1,386",
+    "link": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "rank": 13,
+    "name": "mnh-jansson/open-battery-information",
+    "description": "",
+    "language": "C++",
+    "stars": "879",
+    "forks": "153",
+    "link": "https://github.com/mnh-jansson/open-battery-information"
+  }
+]
