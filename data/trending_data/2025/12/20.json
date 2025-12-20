@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "language": "JavaScript",
+    "stars": "96,324",
+    "forks": "7,237",
+    "link": "https://github.com/jaywcjlove/awesome-mac"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "stars": "47,145",
+    "forks": "3,310",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 3,
+    "name": "NVIDIA-NeMo/Gym",
+    "description": "Build RL environments for LLM training",
+    "language": "Python",
+    "stars": "452",
+    "forks": "30",
+    "link": "https://github.com/NVIDIA-NeMo/Gym"
+  },
+  {
+    "rank": 4,
+    "name": "GreyDGL/PentestGPT",
+    "description": "A GPT-empowered penetration testing tool",
+    "language": "Python",
+    "stars": "9,603",
+    "forks": "1,405",
+    "link": "https://github.com/GreyDGL/PentestGPT"
+  },
+  {
+    "rank": 5,
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+    "language": "Python",
+    "stars": "33,653",
+    "forks": "2,287",
+    "link": "https://github.com/exo-explore/exo"
+  },
+  {
+    "rank": 6,
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "stars": "72,600",
+    "forks": "16,348",
+    "link": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+  },
+  {
+    "rank": 7,
+    "name": "sgl-project/mini-sglang",
+    "description": "",
+    "language": "Python",
+    "stars": "1,454",
+    "forks": "103",
+    "link": "https://github.com/sgl-project/mini-sglang"
+  },
+  {
+    "rank": 8,
+    "name": "google/adk-js",
+    "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "language": "TypeScript",
+    "stars": "393",
+    "forks": "29",
+    "link": "https://github.com/google/adk-js"
+  },
+  {
+    "rank": 9,
+    "name": "afshinea/stanford-cs-229-machine-learning",
+    "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
+    "language": "",
+    "stars": "19,008",
+    "forks": "4,139",
+    "link": "https://github.com/afshinea/stanford-cs-229-machine-learning"
+  },
+  {
+    "rank": 10,
+    "name": "metabase/metabase",
+    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+    "language": "Clojure",
+    "stars": "45,145",
+    "forks": "6,096",
+    "link": "https://github.com/metabase/metabase"
+  }
+]
