@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+    "language": "Python",
+    "stars": "34,553",
+    "forks": "2,338",
+    "link": "https://github.com/exo-explore/exo"
+  },
+  {
+    "rank": 2,
+    "name": "lintsinghua/DeepAudit",
+    "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。",
+    "language": "Python",
+    "stars": "2,033",
+    "forks": "217",
+    "link": "https://github.com/lintsinghua/DeepAudit"
+  },
+  {
+    "rank": 3,
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "stars": "47,428",
+    "forks": "3,327",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 4,
+    "name": "github/awesome-copilot",
+    "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+    "language": "JavaScript",
+    "stars": "15,043",
+    "forks": "1,764",
+    "link": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "rank": 5,
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "stars": "72,855",
+    "forks": "16,363",
+    "link": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+  },
+  {
+    "rank": 6,
+    "name": "sgl-project/mini-sglang",
+    "description": "",
+    "language": "Python",
+    "stars": "1,701",
+    "forks": "133",
+    "link": "https://github.com/sgl-project/mini-sglang"
+  },
+  {
+    "rank": 7,
+    "name": "cloudcommunity/Free-Certifications",
+    "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
+    "language": "",
+    "stars": "47,161",
+    "forks": "3,174",
+    "link": "https://github.com/cloudcommunity/Free-Certifications"
+  },
+  {
+    "rank": 8,
+    "name": "GreyDGL/PentestGPT",
+    "description": "A GPT-empowered penetration testing tool",
+    "language": "Python",
+    "stars": "9,796",
+    "forks": "1,433",
+    "link": "https://github.com/GreyDGL/PentestGPT"
+  },
+  {
+    "rank": 9,
+    "name": "NexaAI/nexa-sdk",
+    "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+    "language": "Go",
+    "stars": "6,756",
+    "forks": "876",
+    "link": "https://github.com/NexaAI/nexa-sdk"
+  },
+  {
+    "rank": 10,
+    "name": "astral-sh/ty",
+    "description": "An extremely fast Python type checker and language server, written in Rust.",
+    "language": "Python",
+    "stars": "15,253",
+    "forks": "160",
+    "link": "https://github.com/astral-sh/ty"
+  },
+  {
+    "rank": 11,
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stars": "105,855",
+    "forks": "4,844",
+    "link": "https://github.com/iptv-org/iptv"
+  }
+]
