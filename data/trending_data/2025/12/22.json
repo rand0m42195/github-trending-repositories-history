@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+    "language": "Python",
+    "stars": "35,636",
+    "forks": "2,391",
+    "link": "https://github.com/exo-explore/exo"
+  },
+  {
+    "rank": 2,
+    "name": "GreyDGL/PentestGPT",
+    "description": "A GPT-empowered penetration testing tool",
+    "language": "Python",
+    "stars": "10,029",
+    "forks": "1,489",
+    "link": "https://github.com/GreyDGL/PentestGPT"
+  },
+  {
+    "rank": 3,
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "stars": "73,081",
+    "forks": "16,377",
+    "link": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+  },
+  {
+    "rank": 4,
+    "name": "sgl-project/mini-sglang",
+    "description": "",
+    "language": "Python",
+    "stars": "1,904",
+    "forks": "155",
+    "link": "https://github.com/sgl-project/mini-sglang"
+  },
+  {
+    "rank": 5,
+    "name": "pollen-robotics/reachy_mini",
+    "description": "Reachy Mini's SDK",
+    "language": "Python",
+    "stars": "492",
+    "forks": "72",
+    "link": "https://github.com/pollen-robotics/reachy_mini"
+  },
+  {
+    "rank": 6,
+    "name": "cocoindex-io/cocoindex",
+    "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
+    "language": "Rust",
+    "stars": "4,407",
+    "forks": "354",
+    "link": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
+    "rank": 7,
+    "name": "cloudcommunity/Free-Certifications",
+    "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
+    "language": "",
+    "stars": "47,611",
+    "forks": "3,189",
+    "link": "https://github.com/cloudcommunity/Free-Certifications"
+  },
+  {
+    "rank": 8,
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "stars": "47,704",
+    "forks": "3,339",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 9,
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "",
+    "stars": "199,109",
+    "forks": "12,131",
+    "link": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  }
+]
