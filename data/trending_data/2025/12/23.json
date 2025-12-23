@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "exo-explore/exo",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+    "language": "Python",
+    "stars": "37,017",
+    "forks": "2,481",
+    "link": "https://github.com/exo-explore/exo"
+  },
+  {
+    "rank": 2,
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stars": "106,436",
+    "forks": "4,930",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 3,
+    "name": "swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "stars": "73,373",
+    "forks": "16,395",
+    "link": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+  },
+  {
+    "rank": 4,
+    "name": "GreyDGL/PentestGPT",
+    "description": "A GPT-empowered penetration testing tool",
+    "language": "Python",
+    "stars": "10,335",
+    "forks": "1,543",
+    "link": "https://github.com/GreyDGL/PentestGPT"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": "24,981",
+    "forks": "2,337",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 6,
+    "name": "cocoindex-io/cocoindex",
+    "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
+    "language": "Rust",
+    "stars": "4,776",
+    "forks": "367",
+    "link": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
+    "rank": 7,
+    "name": "danielmiessler/Fabric",
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "language": "Go",
+    "stars": "36,051",
+    "forks": "3,652",
+    "link": "https://github.com/danielmiessler/Fabric"
+  },
+  {
+    "rank": 8,
+    "name": "tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "stars": "192,984",
+    "forks": "75,147",
+    "link": "https://github.com/tensorflow/tensorflow"
+  },
+  {
+    "rank": 9,
+    "name": "rendercv/rendercv",
+    "description": "Typst-based CV/resume generator for academics and engineers",
+    "language": "Python",
+    "stars": "5,083",
+    "forks": "418",
+    "link": "https://github.com/rendercv/rendercv"
+  },
+  {
+    "rank": 10,
+    "name": "home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "stars": "83,471",
+    "forks": "36,249",
+    "link": "https://github.com/home-assistant/core"
+  },
+  {
+    "rank": 11,
+    "name": "Semperis/EntraGoat",
+    "description": "A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.",
+    "language": "PowerShell",
+    "stars": "800",
+    "forks": "80",
+    "link": "https://github.com/Semperis/EntraGoat"
+  },
+  {
+    "rank": 12,
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "language": "Python",
+    "stars": "18,218",
+    "forks": "1,301",
+    "link": "https://github.com/google/langextract"
+  },
+  {
+    "rank": 13,
+    "name": "expressjs/express",
+    "description": "Fast, unopinionated, minimalist web framework for node.",
+    "language": "JavaScript",
+    "stars": "68,399",
+    "forks": "21,863",
+    "link": "https://github.com/expressjs/express"
+  },
+  {
+    "rank": 14,
+    "name": "lintsinghua/DeepAudit",
+    "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。",
+    "language": "Python",
+    "stars": "2,397",
+    "forks": "245",
+    "link": "https://github.com/lintsinghua/DeepAudit"
+  },
+  {
+    "rank": 15,
+    "name": "cloudcommunity/Free-Certifications",
+    "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
+    "language": "",
+    "stars": "48,071",
+    "forks": "3,209",
+    "link": "https://github.com/cloudcommunity/Free-Certifications"
+  },
+  {
+    "rank": 16,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stars": "451,166",
+    "forks": "42,320",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 17,
+    "name": "mudler/LocalAI",
+    "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "language": "Go",
+    "stars": "40,495",
+    "forks": "3,261",
+    "link": "https://github.com/mudler/LocalAI"
+  }
+]
