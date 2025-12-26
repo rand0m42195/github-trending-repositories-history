@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "rendercv/rendercv",
+    "description": "CV/resume generator for academics and engineers, YAML to PDF",
+    "language": "Python",
+    "stars": "10,742",
+    "forks": "712",
+    "link": "https://github.com/rendercv/rendercv"
+  },
+  {
+    "rank": 2,
+    "name": "xerrors/Yuxi-Know",
+    "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+    "language": "Python",
+    "stars": "3,171",
+    "forks": "386",
+    "link": "https://github.com/xerrors/Yuxi-Know"
+  },
+  {
+    "rank": 3,
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm",
+    "language": "Scala",
+    "stars": "68,776",
+    "forks": "12,714",
+    "link": "https://github.com/twitter/the-algorithm"
+  },
+  {
+    "rank": 4,
+    "name": "vendure-ecommerce/vendure",
+    "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+    "language": "TypeScript",
+    "stars": "7,582",
+    "forks": "1,280",
+    "link": "https://github.com/vendure-ecommerce/vendure"
+  },
+  {
+    "rank": 5,
+    "name": "yichuan-w/LEANN",
+    "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+    "language": "Python",
+    "stars": "6,102",
+    "forks": "603",
+    "link": "https://github.com/yichuan-w/LEANN"
+  },
+  {
+    "rank": 6,
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS",
+    "language": "Python",
+    "stars": "17,744",
+    "forks": "2,368",
+    "link": "https://github.com/resemble-ai/chatterbox"
+  },
+  {
+    "rank": 7,
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "language": "TypeScript",
+    "stars": "41,777",
+    "forks": "3,070",
+    "link": "https://github.com/makeplane/plane"
+  },
+  {
+    "rank": 8,
+    "name": "vllm-project/vllm-omni",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "language": "Python",
+    "stars": "1,701",
+    "forks": "213",
+    "link": "https://github.com/vllm-project/vllm-omni"
+  },
+  {
+    "rank": 9,
+    "name": "ModelTC/LightX2V",
+    "description": "Light Video Generation Inference Framework",
+    "language": "Python",
+    "stars": "1,422",
+    "forks": "93",
+    "link": "https://github.com/ModelTC/LightX2V"
+  }
+]
