@@ -1,0 +1,56 @@
+[
+  {
+    "rank": 1,
+    "name": "rendercv/rendercv",
+    "description": "CV/resume generator for academics and engineers, YAML to PDF",
+    "language": "Python",
+    "stars": "12,159",
+    "forks": "795",
+    "link": "https://github.com/rendercv/rendercv"
+  },
+  {
+    "rank": 2,
+    "name": "langgenius/dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "language": "TypeScript",
+    "stars": "123,598",
+    "forks": "19,211",
+    "link": "https://github.com/langgenius/dify"
+  },
+  {
+    "rank": 3,
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "stars": "40,831",
+    "forks": "9,159",
+    "link": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "rank": 4,
+    "name": "flowsurface-rs/flowsurface",
+    "description": "A native desktop charting platform for crypto markets",
+    "language": "Rust",
+    "stars": "854",
+    "forks": "137",
+    "link": "https://github.com/flowsurface-rs/flowsurface"
+  },
+  {
+    "rank": 5,
+    "name": "yichuan-w/LEANN",
+    "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+    "language": "Python",
+    "stars": "6,421",
+    "forks": "622",
+    "link": "https://github.com/yichuan-w/LEANN"
+  },
+  {
+    "rank": 6,
+    "name": "apurvsinghgautam/robin",
+    "description": "AI-Powered Dark Web OSINT Tool",
+    "language": "Python",
+    "stars": "3,010",
+    "forks": "597",
+    "link": "https://github.com/apurvsinghgautam/robin"
+  }
+]
