@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "20,148",
+    "forks": "1,668",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "rank": 2,
+    "name": "tw93/Mole",
+    "description": "🐹 Deep clean and optimize your Mac.",
+    "language": "Shell",
+    "stars": "21,372",
+    "forks": "577",
+    "link": "https://github.com/tw93/Mole"
+  },
+  {
+    "rank": 3,
+    "name": "TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": "215,831",
+    "forks": "49,764",
+    "link": "https://github.com/TheAlgorithms/Python"
+  },
+  {
+    "rank": 4,
+    "name": "Sergeydigl3/zapret-discord-youtube-linux",
+    "description": "(NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux",
+    "language": "Shell",
+    "stars": "837",
+    "forks": "39",
+    "link": "https://github.com/Sergeydigl3/zapret-discord-youtube-linux"
+  },
+  {
+    "rank": 5,
+    "name": "BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+    "language": "Rust",
+    "stars": "7,349",
+    "forks": "737",
+    "link": "https://github.com/BloopAI/vibe-kanban"
+  },
+  {
+    "rank": 6,
+    "name": "RustPython/RustPython",
+    "description": "A Python Interpreter written in Rust",
+    "language": "Rust",
+    "stars": "21,127",
+    "forks": "1,376",
+    "link": "https://github.com/RustPython/RustPython"
+  },
+  {
+    "rank": 7,
+    "name": "QuantConnect/Lean",
+    "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+    "language": "C#",
+    "stars": "14,448",
+    "forks": "4,066",
+    "link": "https://github.com/QuantConnect/Lean"
+  },
+  {
+    "rank": 8,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "84,856",
+    "forks": "12,062",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 9,
+    "name": "sinelaw/fresh",
+    "description": "Text editor for your terminal: easy, powerful and fast",
+    "language": "Rust",
+    "stars": "3,787",
+    "forks": "119",
+    "link": "https://github.com/sinelaw/fresh"
+  }
+]
