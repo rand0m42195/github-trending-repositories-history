@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "QuantConnect/Lean",
+    "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+    "language": "C#",
+    "stars": "14,849",
+    "forks": "4,091",
+    "link": "https://github.com/QuantConnect/Lean"
+  },
+  {
+    "rank": 2,
+    "name": "RustPython/RustPython",
+    "description": "A Python Interpreter written in Rust",
+    "language": "Rust",
+    "stars": "21,332",
+    "forks": "1,386",
+    "link": "https://github.com/RustPython/RustPython"
+  },
+  {
+    "rank": 3,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "20,315",
+    "forks": "1,684",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "rank": 4,
+    "name": "BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+    "language": "Rust",
+    "stars": "7,990",
+    "forks": "785",
+    "link": "https://github.com/BloopAI/vibe-kanban"
+  },
+  {
+    "rank": 5,
+    "name": "gitroomhq/postiz-app",
+    "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+    "language": "TypeScript",
+    "stars": "25,397",
+    "forks": "4,307",
+    "link": "https://github.com/gitroomhq/postiz-app"
+  },
+  {
+    "rank": 6,
+    "name": "sansan0/TrendRadar",
+    "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点",
+    "language": "Python",
+    "stars": "41,318",
+    "forks": "21,055",
+    "link": "https://github.com/sansan0/TrendRadar"
+  },
+  {
+    "rank": 7,
+    "name": "sinelaw/fresh",
+    "description": "Text editor for your terminal: easy, powerful and fast",
+    "language": "Rust",
+    "stars": "4,108",
+    "forks": "133",
+    "link": "https://github.com/sinelaw/fresh"
+  },
+  {
+    "rank": 8,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "language": "",
+    "stars": "103,364",
+    "forks": "27,470",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 9,
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+    "language": "Java",
+    "stars": "72,014",
+    "forks": "6,109",
+    "link": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "rank": 10,
+    "name": "resemble-ai/chatterbox",
+    "description": "SoTA open-source TTS",
+    "language": "Python",
+    "stars": "19,186",
+    "forks": "2,513",
+    "link": "https://github.com/resemble-ai/chatterbox"
+  },
+  {
+    "rank": 11,
+    "name": "antiwork/gumroad",
+    "description": "Sell stuff and see what sticks",
+    "language": "Ruby",
+    "stars": "7,937",
+    "forks": "1,529",
+    "link": "https://github.com/antiwork/gumroad"
+  },
+  {
+    "rank": 12,
+    "name": "TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stars": "216,109",
+    "forks": "49,792",
+    "link": "https://github.com/TheAlgorithms/Python"
+  },
+  {
+    "rank": 13,
+    "name": "vanilla-wiiu/vanilla",
+    "description": "",
+    "language": "C",
+    "stars": "1,467",
+    "forks": "52",
+    "link": "https://github.com/vanilla-wiiu/vanilla"
+  },
+  {
+    "rank": 14,
+    "name": "jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "language": "C#",
+    "stars": "47,094",
+    "forks": "4,261",
+    "link": "https://github.com/jellyfin/jellyfin"
+  }
+]
