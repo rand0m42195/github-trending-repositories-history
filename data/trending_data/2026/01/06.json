@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "stars": "49,721",
+    "forks": "4,220",
+    "link": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "rank": 2,
+    "name": "usememos/memos",
+    "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+    "language": "Go",
+    "stars": "51,888",
+    "forks": "3,728",
+    "link": "https://github.com/usememos/memos"
+  },
+  {
+    "rank": 3,
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.",
+    "language": "Python",
+    "stars": "57,158",
+    "forks": "5,545",
+    "link": "https://github.com/OpenBB-finance/OpenBB"
+  },
+  {
+    "rank": 4,
+    "name": "ourongxing/newsnow",
+    "description": "Elegant reading of real-time and hottest news",
+    "language": "TypeScript",
+    "stars": "16,778",
+    "forks": "4,831",
+    "link": "https://github.com/ourongxing/newsnow"
+  },
+  {
+    "rank": 5,
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "language": "Python",
+    "stars": "44,744",
+    "forks": "7,873",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 6,
+    "name": "python/cpython",
+    "description": "The Python programming language",
+    "language": "Python",
+    "stars": "70,867",
+    "forks": "33,831",
+    "link": "https://github.com/python/cpython"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "stars": "19,760",
+    "forks": "2,189",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 8,
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "stars": "83,196",
+    "forks": "7,036",
+    "link": "https://github.com/3b1b/manim"
+  },
+  {
+    "rank": 9,
+    "name": "maplibre/maplibre-gl-js",
+    "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+    "language": "TypeScript",
+    "stars": "9,380",
+    "forks": "968",
+    "link": "https://github.com/maplibre/maplibre-gl-js"
+  },
+  {
+    "rank": 10,
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "stars": "51,631",
+    "forks": "3,709",
+    "link": "https://github.com/anthropics/claude-code"
+  }
+]
