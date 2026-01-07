@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": "70,085",
+    "forks": "15,982",
+    "link": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "rank": 2,
+    "name": "Lissy93/web-check",
+    "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+    "language": "TypeScript",
+    "stars": "27,779",
+    "forks": "2,236",
+    "link": "https://github.com/Lissy93/web-check"
+  },
+  {
+    "rank": 3,
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+    "language": "C#",
+    "stars": "127,269",
+    "forks": "7,572",
+    "link": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "rank": 4,
+    "name": "anthropics/claude-code-action",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,756",
+    "forks": "1,338",
+    "link": "https://github.com/anthropics/claude-code-action"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "Python",
+    "stars": "25,370",
+    "forks": "2,019",
+    "link": "https://github.com/microsoft/BitNet"
+  },
+  {
+    "rank": 6,
+    "name": "marcelscruz/public-apis",
+    "description": "A collaborative list of public APIs for developers",
+    "language": "JavaScript",
+    "stars": "6,869",
+    "forks": "658",
+    "link": "https://github.com/marcelscruz/public-apis"
+  },
+  {
+    "rank": 7,
+    "name": "kirodotdev/Kiro",
+    "description": "Kiro is an agentic IDE that works alongside you from prototype to production.",
+    "language": "",
+    "stars": "2,668",
+    "forks": "120",
+    "link": "https://github.com/kirodotdev/Kiro"
+  },
+  {
+    "rank": 8,
+    "name": "LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+    "description": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+    "language": "Python",
+    "stars": "7,087",
+    "forks": "1,530",
+    "link": "https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment"
+  },
+  {
+    "rank": 9,
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
+    "language": "Jupyter Notebook",
+    "stars": "4,712",
+    "forks": "366",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "rank": 10,
+    "name": "bobbyiliev/introduction-to-bash-scripting",
+    "description": "Free Introduction to Bash Scripting eBook",
+    "language": "HTML",
+    "stars": "5,381",
+    "forks": "573",
+    "link": "https://github.com/bobbyiliev/introduction-to-bash-scripting"
+  }
+]
