@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "stars": "54,743",
+    "forks": "3,957",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 2,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": "20,056",
+    "forks": "1,223",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 3,
+    "name": "github/awesome-copilot",
+    "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+    "language": "JavaScript",
+    "stars": "16,933",
+    "forks": "1,956",
+    "link": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "rank": 4,
+    "name": "NevaMind-AI/memU",
+    "description": "Memory infrastructure for LLMs and AI agents",
+    "language": "Python",
+    "stars": "4,268",
+    "forks": "283",
+    "link": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "rank": 5,
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library",
+    "language": "Shell",
+    "stars": "16,165",
+    "forks": "1,277",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 6,
+    "name": "google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "stars": "38,021",
+    "forks": "10,663",
+    "link": "https://github.com/google/googletest"
+  },
+  {
+    "rank": 7,
+    "name": "xpipe-io/xpipe",
+    "description": "Access your entire server infrastructure from your local desktop",
+    "language": "Java",
+    "stars": "13,259",
+    "forks": "513",
+    "link": "https://github.com/xpipe-io/xpipe"
+  },
+  {
+    "rank": 8,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "stars": "22,313",
+    "forks": "2,155",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 9,
+    "name": "C4illin/ConvertX",
+    "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+    "language": "TypeScript",
+    "stars": "14,248",
+    "forks": "760",
+    "link": "https://github.com/C4illin/ConvertX"
+  },
+  {
+    "rank": 10,
+    "name": "opf/openproject",
+    "description": "OpenProject is the leading open source project management software.",
+    "language": "Ruby",
+    "stars": "13,650",
+    "forks": "3,002",
+    "link": "https://github.com/opf/openproject"
+  },
+  {
+    "rank": 11,
+    "name": "MiroMindAI/MiroThinker",
+    "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+    "language": "Python",
+    "stars": "4,214",
+    "forks": "266",
+    "link": "https://github.com/MiroMindAI/MiroThinker"
+  },
+  {
+    "rank": 12,
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": "77,156",
+    "forks": "11,282",
+    "link": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "rank": 13,
+    "name": "twentyhq/twenty",
+    "description": "Building a modern alternative to Salesforce, powered by the community.",
+    "language": "TypeScript",
+    "stars": "38,370",
+    "forks": "4,890",
+    "link": "https://github.com/twentyhq/twenty"
+  }
+]
