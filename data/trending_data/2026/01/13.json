@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "DioxusLabs/dioxus",
+    "description": "Fullstack app framework for web, desktop, and mobile.",
+    "language": "Rust",
+    "stars": "33,598",
+    "forks": "1,479",
+    "link": "https://github.com/DioxusLabs/dioxus"
+  },
+  {
+    "rank": 2,
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "stars": "42,142",
+    "forks": "9,354",
+    "link": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "rank": 3,
+    "name": "frankbria/ralph-claude-code",
+    "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+    "language": "Shell",
+    "stars": "2,217",
+    "forks": "151",
+    "link": "https://github.com/frankbria/ralph-claude-code"
+  },
+  {
+    "rank": 4,
+    "name": "iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "TypeScript",
+    "stars": "109,362",
+    "forks": "5,332",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 5,
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "stars": "77,501",
+    "forks": "11,316",
+    "link": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "rank": 6,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "stars": "23,194",
+    "forks": "2,249",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "Claude Code superpowers: core skills library",
+    "language": "Shell",
+    "stars": "18,635",
+    "forks": "1,435",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "ruvnet/claude-flow",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
+    "language": "JavaScript",
+    "stars": "11,682",
+    "forks": "1,488",
+    "link": "https://github.com/ruvnet/claude-flow"
+  },
+  {
+    "rank": 9,
+    "name": "home-assistant/home-assistant.io",
+    "description": "📘 Home Assistant User documentation",
+    "language": "HTML",
+    "stars": "8,140",
+    "forks": "8,098",
+    "link": "https://github.com/home-assistant/home-assistant.io"
+  },
+  {
+    "rank": 10,
+    "name": "mpv-player/mpv",
+    "description": "🎥 Command line media player",
+    "language": "C",
+    "stars": "33,488",
+    "forks": "3,192",
+    "link": "https://github.com/mpv-player/mpv"
+  },
+  {
+    "rank": 11,
+    "name": "OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+    "language": "Python",
+    "stars": "28,364",
+    "forks": "3,586",
+    "link": "https://github.com/OpenBMB/ChatDev"
+  },
+  {
+    "rank": 12,
+    "name": "opf/openproject",
+    "description": "OpenProject is the leading open source project management software.",
+    "language": "Ruby",
+    "stars": "13,949",
+    "forks": "3,038",
+    "link": "https://github.com/opf/openproject"
+  }
+]
