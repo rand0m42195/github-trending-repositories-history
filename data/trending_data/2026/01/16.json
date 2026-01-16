@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "eigent-ai/eigent",
+    "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+    "language": "TypeScript",
+    "stars": "5,996",
+    "forks": "687",
+    "link": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "rank": 2,
+    "name": "blakeblackshear/frigate",
+    "description": "NVR with realtime local object detection for IP cameras",
+    "language": "TypeScript",
+    "stars": "29,359",
+    "forks": "2,739",
+    "link": "https://github.com/blakeblackshear/frigate"
+  },
+  {
+    "rank": 3,
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": "24,281",
+    "forks": "1,807",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 4,
+    "name": "cilium/cilium",
+    "description": "eBPF-based Networking, Security, and Observability",
+    "language": "Go",
+    "stars": "23,349",
+    "forks": "3,537",
+    "link": "https://github.com/cilium/cilium"
+  },
+  {
+    "rank": 5,
+    "name": "wavetermdev/waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows",
+    "language": "Go",
+    "stars": "16,436",
+    "forks": "708",
+    "link": "https://github.com/wavetermdev/waveterm"
+  },
+  {
+    "rank": 6,
+    "name": "ultralytics/ultralytics",
+    "description": "Ultralytics YOLO 🚀",
+    "language": "Python",
+    "stars": "51,414",
+    "forks": "9,898",
+    "link": "https://github.com/ultralytics/ultralytics"
+  },
+  {
+    "rank": 7,
+    "name": "mudler/LocalAI",
+    "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "language": "Go",
+    "stars": "41,910",
+    "forks": "3,432",
+    "link": "https://github.com/mudler/LocalAI"
+  },
+  {
+    "rank": 8,
+    "name": "google-ai-edge/mediapipe",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "language": "C++",
+    "stars": "33,195",
+    "forks": "5,735",
+    "link": "https://github.com/google-ai-edge/mediapipe"
+  },
+  {
+    "rank": 9,
+    "name": "puckeditor/puck",
+    "description": "The visual editor for React",
+    "language": "TypeScript",
+    "stars": "10,631",
+    "forks": "748",
+    "link": "https://github.com/puckeditor/puck"
+  },
+  {
+    "rank": 10,
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm",
+    "language": "Scala",
+    "stars": "70,225",
+    "forks": "12,935",
+    "link": "https://github.com/twitter/the-algorithm"
+  }
+]
