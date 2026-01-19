@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "5,596",
+    "forks": "435",
+    "link": "https://github.com/iOfficeAI/AionUi"
+  },
+  {
+    "rank": 2,
+    "name": "yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stars": "142,471",
+    "forks": "11,506",
+    "link": "https://github.com/yt-dlp/yt-dlp"
+  },
+  {
+    "rank": 3,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Rust",
+    "stars": "17,580",
+    "forks": "2,096",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 4,
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "language": "Python",
+    "stars": "22,050",
+    "forks": "1,527",
+    "link": "https://github.com/google/langextract"
+  },
+  {
+    "rank": 5,
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+    "language": "Python",
+    "stars": "4,226",
+    "forks": "511",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 6,
+    "name": "yichuan-w/LEANN",
+    "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+    "language": "Python",
+    "stars": "8,971",
+    "forks": "784",
+    "link": "https://github.com/yichuan-w/LEANN"
+  },
+  {
+    "rank": 7,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "21,235",
+    "forks": "1,774",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "rank": 8,
+    "name": "tobi/try",
+    "description": "fresh directories for every vibe",
+    "language": "Shell",
+    "stars": "2,693",
+    "forks": "98",
+    "link": "https://github.com/tobi/try"
+  },
+  {
+    "rank": 9,
+    "name": "Mebus/cupp",
+    "description": "Common User Passwords Profiler (CUPP)",
+    "language": "Python",
+    "stars": "5,552",
+    "forks": "1,757",
+    "link": "https://github.com/Mebus/cupp"
+  }
+]
