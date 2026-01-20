@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+    "language": "Python",
+    "stars": "4,876",
+    "forks": "570",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 2,
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "language": "Python",
+    "stars": "22,682",
+    "forks": "1,563",
+    "link": "https://github.com/google/langextract"
+  },
+  {
+    "rank": 3,
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "6,809",
+    "forks": "523",
+    "link": "https://github.com/iOfficeAI/AionUi"
+  },
+  {
+    "rank": 4,
+    "name": "czlonkowski/n8n-mcp",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+    "language": "TypeScript",
+    "stars": "12,164",
+    "forks": "2,218",
+    "link": "https://github.com/czlonkowski/n8n-mcp"
+  },
+  {
+    "rank": 5,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Rust",
+    "stars": "18,044",
+    "forks": "2,122",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 6,
+    "name": "ahujasid/blender-mcp",
+    "description": "",
+    "language": "Python",
+    "stars": "15,912",
+    "forks": "1,517",
+    "link": "https://github.com/ahujasid/blender-mcp"
+  },
+  {
+    "rank": 7,
+    "name": "yichuan-w/LEANN",
+    "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+    "language": "Python",
+    "stars": "9,307",
+    "forks": "806",
+    "link": "https://github.com/yichuan-w/LEANN"
+  },
+  {
+    "rank": 8,
+    "name": "DavidXanatos/TaskExplorer",
+    "description": "Power full Task Manager",
+    "language": "C",
+    "stars": "2,449",
+    "forks": "212",
+    "link": "https://github.com/DavidXanatos/TaskExplorer"
+  }
+]
