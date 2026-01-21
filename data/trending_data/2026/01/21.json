@@ -1,0 +1,65 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.",
+    "language": "Python",
+    "stars": "10,735",
+    "forks": "881",
+    "link": "https://github.com/microsoft/agent-lightning"
+  },
+  {
+    "rank": 2,
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "7,783",
+    "forks": "590",
+    "link": "https://github.com/iOfficeAI/AionUi"
+  },
+  {
+    "rank": 3,
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "language": "Python",
+    "stars": "23,176",
+    "forks": "1,591",
+    "link": "https://github.com/google/langextract"
+  },
+  {
+    "rank": 4,
+    "name": "AlexxIT/go2rtc",
+    "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "language": "Go",
+    "stars": "11,518",
+    "forks": "874",
+    "link": "https://github.com/AlexxIT/go2rtc"
+  },
+  {
+    "rank": 5,
+    "name": "lukasz-madon/awesome-remote-job",
+    "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
+    "language": "",
+    "stars": "42,551",
+    "forks": "4,420",
+    "link": "https://github.com/lukasz-madon/awesome-remote-job"
+  },
+  {
+    "rank": 6,
+    "name": "tobi/try",
+    "description": "fresh directories for every vibe",
+    "language": "Shell",
+    "stars": "2,936",
+    "forks": "110",
+    "link": "https://github.com/tobi/try"
+  },
+  {
+    "rank": 7,
+    "name": "DavidXanatos/TaskExplorer",
+    "description": "Power full Task Manager",
+    "language": "C",
+    "stars": "2,745",
+    "forks": "225",
+    "link": "https://github.com/DavidXanatos/TaskExplorer"
+  }
+]
