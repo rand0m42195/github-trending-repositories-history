@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "name": "tambo-ai/tambo",
+    "description": "Generative UI SDK for React",
+    "language": "TypeScript",
+    "stars": "3,280",
+    "forks": "200",
+    "link": "https://github.com/tambo-ai/tambo"
+  },
+  {
+    "rank": 2,
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Claude Code compound engineering plugin",
+    "language": "Python",
+    "stars": "5,663",
+    "forks": "457",
+    "link": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "rank": 3,
+    "name": "twitter/the-algorithm",
+    "description": "Source code for the X Recommendation Algorithm",
+    "language": "Scala",
+    "stars": "71,350",
+    "forks": "13,089",
+    "link": "https://github.com/twitter/the-algorithm"
+  },
+  {
+    "rank": 4,
+    "name": "xai-org/grok-1",
+    "description": "Grok open release",
+    "language": "Python",
+    "stars": "50,948",
+    "forks": "8,425",
+    "link": "https://github.com/xai-org/grok-1"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.",
+    "language": "Python",
+    "stars": "11,184",
+    "forks": "917",
+    "link": "https://github.com/microsoft/agent-lightning"
+  },
+  {
+    "rank": 6,
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "language": "Python",
+    "stars": "6,076",
+    "forks": "486",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!",
+    "language": "Jupyter Notebook",
+    "stars": "32,232",
+    "forks": "6,795",
+    "link": "https://github.com/microsoft/Data-Science-For-Beginners"
+  },
+  {
+    "rank": 8,
+    "name": "tobi/try",
+    "description": "fresh directories for every vibe",
+    "language": "Shell",
+    "stars": "3,135",
+    "forks": "116",
+    "link": "https://github.com/tobi/try"
+  }
+]
