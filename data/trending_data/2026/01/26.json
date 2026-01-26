@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "Blaizzy/mlx-audio",
+    "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+    "language": "Python",
+    "stars": "4,221",
+    "forks": "337",
+    "link": "https://github.com/Blaizzy/mlx-audio"
+  },
+  {
+    "rank": 2,
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "language": "Python",
+    "stars": "9,042",
+    "forks": "664",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "rank": 3,
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React",
+    "language": "TypeScript",
+    "stars": "30,606",
+    "forks": "1,851",
+    "link": "https://github.com/remotion-dev/remotion"
+  },
+  {
+    "rank": 4,
+    "name": "qarmin/czkawka",
+    "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "language": "Rust",
+    "stars": "28,549",
+    "forks": "932",
+    "link": "https://github.com/qarmin/czkawka"
+  },
+  {
+    "rank": 5,
+    "name": "OpenBMB/UltraRAG",
+    "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+    "language": "Python",
+    "stars": "4,028",
+    "forks": "284",
+    "link": "https://github.com/OpenBMB/UltraRAG"
+  },
+  {
+    "rank": 6,
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "stars": "22,027",
+    "forks": "2,394",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 7,
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": "57,431",
+    "forks": "7,444",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 8,
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "language": "TypeScript",
+    "stars": "14,683",
+    "forks": "1,543",
+    "link": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "rank": 9,
+    "name": "Psiphon-Inc/conduit",
+    "description": "Conduit React Native app",
+    "language": "TypeScript",
+    "stars": "85",
+    "forks": "39",
+    "link": "https://github.com/Psiphon-Inc/conduit"
+  }
+]
