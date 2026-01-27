@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "name": "Blaizzy/mlx-audio",
+    "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+    "language": "Python",
+    "stars": "5,092",
+    "forks": "379",
+    "link": "https://github.com/Blaizzy/mlx-audio"
+  },
+  {
+    "rank": 2,
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "language": "Python",
+    "stars": "9,765",
+    "forks": "713",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "rank": 3,
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "language": "TypeScript",
+    "stars": "15,085",
+    "forks": "1,569",
+    "link": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "rank": 4,
+    "name": "block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "stars": "29,145",
+    "forks": "2,622",
+    "link": "https://github.com/block/goose"
+  },
+  {
+    "rank": 5,
+    "name": "remotion-dev/remotion",
+    "description": "🎥 Make videos programmatically with React",
+    "language": "TypeScript",
+    "stars": "31,954",
+    "forks": "1,923",
+    "link": "https://github.com/remotion-dev/remotion"
+  },
+  {
+    "rank": 6,
+    "name": "AI4Finance-Foundation/FinRobot",
+    "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
+    "language": "Jupyter Notebook",
+    "stars": "5,673",
+    "forks": "974",
+    "link": "https://github.com/AI4Finance-Foundation/FinRobot"
+  },
+  {
+    "rank": 7,
+    "name": "k4yt3x/video2x",
+    "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+    "language": "C++",
+    "stars": "18,024",
+    "forks": "1,604",
+    "link": "https://github.com/k4yt3x/video2x"
+  },
+  {
+    "rank": 8,
+    "name": "business-science/ai-data-science-team",
+    "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+    "language": "Python",
+    "stars": "4,155",
+    "forks": "771",
+    "link": "https://github.com/business-science/ai-data-science-team"
+  }
+]
