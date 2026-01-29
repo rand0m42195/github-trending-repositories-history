@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "badlogic/pi-mono",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "language": "TypeScript",
+    "stars": "3,129",
+    "forks": "383",
+    "link": "https://github.com/badlogic/pi-mono"
+  },
+  {
+    "rank": 2,
+    "name": "hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "stars": "34,372",
+    "forks": "4,540",
+    "link": "https://github.com/hashicorp/vault"
+  },
+  {
+    "rank": 3,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "language": "JavaScript",
+    "stars": "26,575",
+    "forks": "4,238",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 4,
+    "name": "NevaMind-AI/memU",
+    "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+    "language": "Python",
+    "stars": "5,520",
+    "forks": "389",
+    "link": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "rank": 5,
+    "name": "MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "language": "Python",
+    "stars": "4,546",
+    "forks": "443",
+    "link": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "rank": 6,
+    "name": "kubernetes/ingress-nginx",
+    "description": "Ingress NGINX Controller for Kubernetes",
+    "language": "Go",
+    "stars": "19,352",
+    "forks": "8,512",
+    "link": "https://github.com/kubernetes/ingress-nginx"
+  },
+  {
+    "rank": 7,
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "stars": "70,446",
+    "forks": "16,018",
+    "link": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "rank": 8,
+    "name": "lobehub/lobehub",
+    "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+    "language": "TypeScript",
+    "stars": "70,893",
+    "forks": "14,495",
+    "link": "https://github.com/lobehub/lobehub"
+  },
+  {
+    "rank": 9,
+    "name": "ran-j/PS2Recomp",
+    "description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
+    "language": "C++",
+    "stars": "1,460",
+    "forks": "28",
+    "link": "https://github.com/ran-j/PS2Recomp"
+  },
+  {
+    "rank": 10,
+    "name": "bambulab/BambuStudio",
+    "description": "PC Software for BambuLab and other 3D printers",
+    "language": "C++",
+    "stars": "3,826",
+    "forks": "584",
+    "link": "https://github.com/bambulab/BambuStudio"
+  },
+  {
+    "rank": 11,
+    "name": "GetStream/Vision-Agents",
+    "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
+    "language": "Python",
+    "stars": "4,185",
+    "forks": "363",
+    "link": "https://github.com/GetStream/Vision-Agents"
+  }
+]
