@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "stars": "20,262",
+    "forks": "1,364",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 2,
+    "name": "masoncl/review-prompts",
+    "description": "AI review prompts",
+    "language": "Python",
+    "stars": "343",
+    "forks": "34",
+    "link": "https://github.com/masoncl/review-prompts"
+  },
+  {
+    "rank": 3,
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "stars": "3,010",
+    "forks": "179",
+    "link": "https://github.com/openai/skills"
+  },
+  {
+    "rank": 4,
+    "name": "automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "language": "Shell",
+    "stars": "6,704",
+    "forks": "699",
+    "link": "https://github.com/automazeio/ccpm"
+  },
+  {
+    "rank": 5,
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": "43,506",
+    "forks": "3,298",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 6,
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "language": "TypeScript",
+    "stars": "10,078",
+    "forks": "1,225",
+    "link": "https://github.com/virattt/dexter"
+  },
+  {
+    "rank": 7,
+    "name": "karpathy/nanochat",
+    "description": "The best ChatGPT that $100 can buy.",
+    "language": "Python",
+    "stars": "42,017",
+    "forks": "5,429",
+    "link": "https://github.com/karpathy/nanochat"
+  },
+  {
+    "rank": 8,
+    "name": "kovidgoyal/calibre",
+    "description": "The official source code repository for the calibre ebook manager",
+    "language": "Python",
+    "stars": "23,927",
+    "forks": "2,548",
+    "link": "https://github.com/kovidgoyal/calibre"
+  },
+  {
+    "rank": 9,
+    "name": "OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+    "language": "Python",
+    "stars": "29,777",
+    "forks": "3,686",
+    "link": "https://github.com/OpenBMB/ChatDev"
+  },
+  {
+    "rank": 10,
+    "name": "pedramamini/Maestro",
+    "description": "Agent Orchestration Command Center",
+    "language": "TypeScript",
+    "stars": "1,497",
+    "forks": "157",
+    "link": "https://github.com/pedramamini/Maestro"
+  },
+  {
+    "rank": 11,
+    "name": "vm0-ai/vm0",
+    "description": "the easiest way to run natural language-described workflows automatically",
+    "language": "TypeScript",
+    "stars": "698",
+    "forks": "25",
+    "link": "https://github.com/vm0-ai/vm0"
+  }
+]
