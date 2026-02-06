@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "stars": "26,697",
+    "forks": "2,612",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 2,
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "stars": "4,273",
+    "forks": "245",
+    "link": "https://github.com/openai/skills"
+  },
+  {
+    "rank": 3,
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "stars": "23,708",
+    "forks": "1,569",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 4,
+    "name": "j178/prek",
+    "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "language": "Rust",
+    "stars": "5,511",
+    "forks": "145",
+    "link": "https://github.com/j178/prek"
+  },
+  {
+    "rank": 5,
+    "name": "topoteretes/cognee",
+    "description": "Memory for AI Agents in 6 lines of code",
+    "language": "Python",
+    "stars": "11,832",
+    "forks": "1,158",
+    "link": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": "45,352",
+    "forks": "3,431",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 7,
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "stars": "31,365",
+    "forks": "2,910",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 8,
+    "name": "fish-shell/fish-shell",
+    "description": "The user-friendly command line shell.",
+    "language": "Rust",
+    "stars": "32,381",
+    "forks": "2,214",
+    "link": "https://github.com/fish-shell/fish-shell"
+  },
+  {
+    "rank": 9,
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "91,372",
+    "forks": "9,828",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 10,
+    "name": "linshenkx/prompt-optimizer",
+    "description": "一款提示词优化器，助力于编写高质量的提示词",
+    "language": "TypeScript",
+    "stars": "19,344",
+    "forks": "2,396",
+    "link": "https://github.com/linshenkx/prompt-optimizer"
+  },
+  {
+    "rank": 11,
+    "name": "ZeroTworu/anet",
+    "description": "Simple Rust VPN Client / Server",
+    "language": "Rust",
+    "stars": "357",
+    "forks": "29",
+    "link": "https://github.com/ZeroTworu/anet"
+  }
+]
