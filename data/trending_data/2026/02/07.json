@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "stars": "4,858",
+    "forks": "279",
+    "link": "https://github.com/openai/skills"
+  },
+  {
+    "rank": 2,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "stars": "27,110",
+    "forks": "2,642",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 3,
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "stars": "91,500",
+    "forks": "9,834",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 4,
+    "name": "likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "language": "TypeScript",
+    "stars": "1,807",
+    "forks": "136",
+    "link": "https://github.com/likec4/likec4"
+  },
+  {
+    "rank": 5,
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "stars": "31,540",
+    "forks": "2,921",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 6,
+    "name": "ZeroTworu/anet",
+    "description": "Simple Rust VPN Client / Server",
+    "language": "Rust",
+    "stars": "531",
+    "forks": "47",
+    "link": "https://github.com/ZeroTworu/anet"
+  },
+  {
+    "rank": 7,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "21,969",
+    "forks": "1,830",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "rank": 8,
+    "name": "DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "language": "Jupyter Notebook",
+    "stars": "39,863",
+    "forks": "7,616",
+    "link": "https://github.com/DataExpert-io/data-engineer-handbook"
+  }
+]
