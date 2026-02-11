@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "language": "Python",
+    "stars": "28,446",
+    "forks": "1,917",
+    "link": "https://github.com/google/langextract"
+  },
+  {
+    "rank": 2,
+    "name": "iOfficeAI/AionUi",
+    "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "stars": "14,433",
+    "forks": "1,101",
+    "link": "https://github.com/iOfficeAI/AionUi"
+  },
+  {
+    "rank": 3,
+    "name": "KeygraphHQ/shannon",
+    "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+    "language": "TypeScript",
+    "stars": "19,750",
+    "forks": "2,016",
+    "link": "https://github.com/KeygraphHQ/shannon"
+  },
+  {
+    "rank": 4,
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows",
+    "language": "Go",
+    "stars": "1,339",
+    "forks": "106",
+    "link": "https://github.com/github/gh-aw"
+  },
+  {
+    "rank": 5,
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Claude Code compound engineering plugin",
+    "language": "TypeScript",
+    "stars": "8,174",
+    "forks": "641",
+    "link": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "rank": 6,
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+    "language": "Python",
+    "stars": "16,669",
+    "forks": "3,616",
+    "link": "https://github.com/hsliuping/TradingAgents-CN"
+  },
+  {
+    "rank": 7,
+    "name": "gitbutlerapp/gitbutler",
+    "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "language": "Rust",
+    "stars": "19,029",
+    "forks": "820",
+    "link": "https://github.com/gitbutlerapp/gitbutler"
+  },
+  {
+    "rank": 8,
+    "name": "carlvellotti/claude-code-pm-course",
+    "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
+    "language": "MDX",
+    "stars": "813",
+    "forks": "144",
+    "link": "https://github.com/carlvellotti/claude-code-pm-course"
+  },
+  {
+    "rank": 9,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "stars": "93,626",
+    "forks": "13,580",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 10,
+    "name": "drawdb-io/drawdb",
+    "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "language": "JavaScript",
+    "stars": "36,318",
+    "forks": "2,837",
+    "link": "https://github.com/drawdb-io/drawdb"
+  },
+  {
+    "rank": 11,
+    "name": "pydantic/monty",
+    "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+    "language": "Rust",
+    "stars": "4,535",
+    "forks": "161",
+    "link": "https://github.com/pydantic/monty"
+  },
+  {
+    "rank": 12,
+    "name": "cheahjs/free-llm-api-resources",
+    "description": "A list of free LLM inference resources accessible via API.",
+    "language": "Python",
+    "stars": "8,691",
+    "forks": "852",
+    "link": "https://github.com/cheahjs/free-llm-api-resources"
+  },
+  {
+    "rank": 13,
+    "name": "Jeffallan/claude-skills",
+    "description": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+    "language": "Python",
+    "stars": "778",
+    "forks": "69",
+    "link": "https://github.com/Jeffallan/claude-skills"
+  },
+  {
+    "rank": 14,
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "language": "TypeScript",
+    "stars": "14,145",
+    "forks": "1,698",
+    "link": "https://github.com/virattt/dexter"
+  }
+]
