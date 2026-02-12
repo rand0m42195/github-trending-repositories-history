@@ -1,0 +1,65 @@
+[
+  {
+    "rank": 1,
+    "name": "google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "language": "Python",
+    "stars": "30,465",
+    "forks": "2,034",
+    "link": "https://github.com/google/langextract"
+  },
+  {
+    "rank": 2,
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows",
+    "language": "Go",
+    "stars": "1,719",
+    "forks": "123",
+    "link": "https://github.com/github/gh-aw"
+  },
+  {
+    "rank": 3,
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "language": "C#",
+    "stars": "129,397",
+    "forks": "7,695",
+    "link": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "rank": 4,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": "23,976",
+    "forks": "1,419",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 5,
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "Official Claude Code compound engineering plugin",
+    "language": "TypeScript",
+    "stars": "8,468",
+    "forks": "660",
+    "link": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "rank": 6,
+    "name": "patchy631/ai-engineering-hub",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "language": "Jupyter Notebook",
+    "stars": "28,616",
+    "forks": "4,676",
+    "link": "https://github.com/patchy631/ai-engineering-hub"
+  },
+  {
+    "rank": 7,
+    "name": "cheahjs/free-llm-api-resources",
+    "description": "A list of free LLM inference resources accessible via API.",
+    "language": "Python",
+    "stars": "9,500",
+    "forks": "922",
+    "link": "https://github.com/cheahjs/free-llm-api-resources"
+  }
+]
