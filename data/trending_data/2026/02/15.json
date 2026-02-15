@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "tambo-ai/tambo",
+    "description": "Generative UI SDK for React",
+    "language": "TypeScript",
+    "stars": "9,617",
+    "forks": "464",
+    "link": "https://github.com/tambo-ai/tambo"
+  },
+  {
+    "rank": 2,
+    "name": "SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+    "language": "JavaScript",
+    "stars": "608",
+    "forks": "241",
+    "link": "https://github.com/SynkraAI/aios-core"
+  },
+  {
+    "rank": 3,
+    "name": "rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory",
+    "language": "TypeScript",
+    "stars": "6,052",
+    "forks": "496",
+    "link": "https://github.com/rowboatlabs/rowboat"
+  },
+  {
+    "rank": 4,
+    "name": "minio/minio",
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "language": "Go",
+    "stars": "60,279",
+    "forks": "7,009",
+    "link": "https://github.com/minio/minio"
+  },
+  {
+    "rank": 5,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": "25,095",
+    "forks": "1,479",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 6,
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "stars": "1,255",
+    "forks": "68",
+    "link": "https://github.com/alibaba/zvec"
+  },
+  {
+    "rank": 7,
+    "name": "ruvnet/wifi-densepose",
+    "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+    "language": "Python",
+    "stars": "6,162",
+    "forks": "551",
+    "link": "https://github.com/ruvnet/wifi-densepose"
+  },
+  {
+    "rank": 8,
+    "name": "Zipstack/unstract",
+    "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+    "language": "Python",
+    "stars": "6,315",
+    "forks": "600",
+    "link": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "rank": 9,
+    "name": "letta-ai/letta-code",
+    "description": "The memory-first coding agent",
+    "language": "TypeScript",
+    "stars": "1,213",
+    "forks": "135",
+    "link": "https://github.com/letta-ai/letta-code"
+  },
+  {
+    "rank": 10,
+    "name": "ruby/ruby",
+    "description": "The Ruby Programming Language",
+    "language": "Ruby",
+    "stars": "23,370",
+    "forks": "5,563",
+    "link": "https://github.com/ruby/ruby"
+  },
+  {
+    "rank": 11,
+    "name": "cinnyapp/cinny",
+    "description": "Yet another matrix client",
+    "language": "TypeScript",
+    "stars": "3,048",
+    "forks": "410",
+    "link": "https://github.com/cinnyapp/cinny"
+  }
+]
