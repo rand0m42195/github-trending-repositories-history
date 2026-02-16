@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Rust",
+    "stars": "19,304",
+    "forks": "2,295",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 2,
+    "name": "steipete/gogcli",
+    "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+    "language": "Go",
+    "stars": "2,976",
+    "forks": "258",
+    "link": "https://github.com/steipete/gogcli"
+  },
+  {
+    "rank": 3,
+    "name": "rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory",
+    "language": "TypeScript",
+    "stars": "6,813",
+    "forks": "577",
+    "link": "https://github.com/rowboatlabs/rowboat"
+  },
+  {
+    "rank": 4,
+    "name": "github/gh-aw",
+    "description": "GitHub Agentic Workflows",
+    "language": "Go",
+    "stars": "2,708",
+    "forks": "200",
+    "link": "https://github.com/github/gh-aw"
+  },
+  {
+    "rank": 5,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": "25,423",
+    "forks": "1,501",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 6,
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "stars": "2,324",
+    "forks": "117",
+    "link": "https://github.com/alibaba/zvec"
+  },
+  {
+    "rank": 7,
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "language": "TypeScript",
+    "stars": "197,266",
+    "forks": "34,351",
+    "link": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "rank": 8,
+    "name": "moonshine-ai/moonshine",
+    "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+    "language": "C",
+    "stars": "3,818",
+    "forks": "179",
+    "link": "https://github.com/moonshine-ai/moonshine"
+  },
+  {
+    "rank": 9,
+    "name": "brave/brave-browser",
+    "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+    "language": "",
+    "stars": "21,545",
+    "forks": "2,973",
+    "link": "https://github.com/brave/brave-browser"
+  },
+  {
+    "rank": 10,
+    "name": "SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+    "language": "JavaScript",
+    "stars": "793",
+    "forks": "287",
+    "link": "https://github.com/SynkraAI/aios-core"
+  },
+  {
+    "rank": 11,
+    "name": "ruvnet/wifi-densepose",
+    "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+    "language": "Python",
+    "stars": "6,489",
+    "forks": "573",
+    "link": "https://github.com/ruvnet/wifi-densepose"
+  }
+]
