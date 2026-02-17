@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "language": "C++",
+    "stars": "3,601",
+    "forks": "188",
+    "link": "https://github.com/alibaba/zvec"
+  },
+  {
+    "rank": 2,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "language": "Rust",
+    "stars": "19,778",
+    "forks": "2,321",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 3,
+    "name": "rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory",
+    "language": "TypeScript",
+    "stars": "7,327",
+    "forks": "620",
+    "link": "https://github.com/rowboatlabs/rowboat"
+  },
+  {
+    "rank": 4,
+    "name": "steipete/gogcli",
+    "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+    "language": "Go",
+    "stars": "3,498",
+    "forks": "298",
+    "link": "https://github.com/steipete/gogcli"
+  },
+  {
+    "rank": 5,
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "language": "TypeScript",
+    "stars": "201,654",
+    "forks": "36,146",
+    "link": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "rank": 6,
+    "name": "SynkraAI/aios-core",
+    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+    "language": "JavaScript",
+    "stars": "990",
+    "forks": "351",
+    "link": "https://github.com/SynkraAI/aios-core"
+  },
+  {
+    "rank": 7,
+    "name": "letta-ai/letta-code",
+    "description": "The memory-first coding agent",
+    "language": "TypeScript",
+    "stars": "1,448",
+    "forks": "155",
+    "link": "https://github.com/letta-ai/letta-code"
+  },
+  {
+    "rank": 8,
+    "name": "ruvnet/wifi-densepose",
+    "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+    "language": "Python",
+    "stars": "6,801",
+    "forks": "585",
+    "link": "https://github.com/ruvnet/wifi-densepose"
+  },
+  {
+    "rank": 9,
+    "name": "seerr-team/seerr",
+    "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+    "language": "TypeScript",
+    "stars": "9,069",
+    "forks": "601",
+    "link": "https://github.com/seerr-team/seerr"
+  },
+  {
+    "rank": 10,
+    "name": "hummingbot/hummingbot",
+    "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+    "language": "Python",
+    "stars": "16,557",
+    "forks": "4,386",
+    "link": "https://github.com/hummingbot/hummingbot"
+  }
+]
