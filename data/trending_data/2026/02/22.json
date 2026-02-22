@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "vxcontrol/pentagi",
+    "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "language": "Go",
+    "stars": "5,558",
+    "forks": "715",
+    "link": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "rank": 2,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "stars": "1,037",
+    "forks": "94",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 3,
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": "57,002",
+    "forks": "4,317",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 4,
+    "name": "huggingface/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "1,680",
+    "forks": "148",
+    "link": "https://github.com/huggingface/skills"
+  },
+  {
+    "rank": 5,
+    "name": "PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "stars": "51,545",
+    "forks": "8,182",
+    "link": "https://github.com/PowerShell/PowerShell"
+  },
+  {
+    "rank": 6,
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "stars": "68,413",
+    "forks": "5,365",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 7,
+    "name": "stan-smith/FossFLOW",
+    "description": "Make beautiful isometric infrastructure diagrams",
+    "language": "TypeScript",
+    "stars": "17,778",
+    "forks": "1,161",
+    "link": "https://github.com/stan-smith/FossFLOW"
+  },
+  {
+    "rank": 8,
+    "name": "ggml-org/ggml",
+    "description": "Tensor library for machine learning",
+    "language": "C++",
+    "stars": "14,063",
+    "forks": "1,475",
+    "link": "https://github.com/ggml-org/ggml"
+  },
+  {
+    "rank": 9,
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream",
+    "language": "JavaScript",
+    "stars": "9,454",
+    "forks": "1,053",
+    "link": "https://github.com/Stremio/stremio-web"
+  },
+  {
+    "rank": 10,
+    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+    "language": "Jupyter Notebook",
+    "stars": "22,561",
+    "forks": "5,246",
+    "link": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+  },
+  {
+    "rank": 11,
+    "name": "RichardAtCT/claude-code-telegram",
+    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+    "language": "Python",
+    "stars": "1,386",
+    "forks": "170",
+    "link": "https://github.com/RichardAtCT/claude-code-telegram"
+  },
+  {
+    "rank": 12,
+    "name": "cloudflare/agents",
+    "description": "Build and deploy AI Agents on Cloudflare",
+    "language": "TypeScript",
+    "stars": "3,434",
+    "forks": "388",
+    "link": "https://github.com/cloudflare/agents"
+  },
+  {
+    "rank": 13,
+    "name": "hiddify/hiddify-app",
+    "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+    "language": "Dart",
+    "stars": "26,402",
+    "forks": "2,279",
+    "link": "https://github.com/hiddify/hiddify-app"
+  }
+]
