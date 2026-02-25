@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "huggingface/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "5,309",
+    "forks": "335",
+    "link": "https://github.com/huggingface/skills"
+  },
+  {
+    "rank": 2,
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "description": "",
+    "language": "Python",
+    "stars": "9,886",
+    "forks": "780",
+    "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
+  },
+  {
+    "rank": 3,
+    "name": "OpenBB-finance/OpenBB",
+    "description": "",
+    "language": "Python",
+    "stars": "61,878",
+    "forks": "6,028",
+    "link": "https://github.com/OpenBB-finance/OpenBB"
+  },
+  {
+    "rank": 4,
+    "name": "LadybirdBrowser/ladybird",
+    "description": "",
+    "language": "C++",
+    "stars": "59,095",
+    "forks": "2,698",
+    "link": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "rank": 5,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "",
+    "language": "",
+    "stars": "123,062",
+    "forks": "31,728",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "60,454",
+    "forks": "4,612",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 7,
+    "name": "ruvnet/ruvector",
+    "description": "",
+    "language": "Rust",
+    "stars": "722",
+    "forks": "125",
+    "link": "https://github.com/ruvnet/ruvector"
+  },
+  {
+    "rank": 8,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "12,606",
+    "forks": "852",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "rank": 9,
+    "name": "GVCLab/PersonaLive",
+    "description": "",
+    "language": "Python",
+    "stars": "1,969",
+    "forks": "289",
+    "link": "https://github.com/GVCLab/PersonaLive"
+  },
+  {
+    "rank": 10,
+    "name": "HunxByts/GhostTrack",
+    "description": "",
+    "language": "Python",
+    "stars": "7,448",
+    "forks": "983",
+    "link": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "rank": 11,
+    "name": "VectifyAI/PageIndex",
+    "description": "",
+    "language": "Python",
+    "stars": "17,241",
+    "forks": "1,226",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "rank": 12,
+    "name": "openemr/openemr",
+    "description": "",
+    "language": "PHP",
+    "stars": "4,839",
+    "forks": "2,755",
+    "link": "https://github.com/openemr/openemr"
+  }
+]
