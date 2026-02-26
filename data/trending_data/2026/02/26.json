@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "15,011",
+    "forks": "987",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "rank": 2,
+    "name": "huggingface/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "6,377",
+    "forks": "382",
+    "link": "https://github.com/huggingface/skills"
+  },
+  {
+    "rank": 3,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,699",
+    "forks": "306",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "61,820",
+    "forks": "4,723",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "description": "",
+    "language": "Python",
+    "stars": "10,708",
+    "forks": "834",
+    "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
+  },
+  {
+    "rank": 6,
+    "name": "datawhalechina/hello-agents",
+    "description": "",
+    "language": "Python",
+    "stars": "21,936",
+    "forks": "2,526",
+    "link": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "rank": 7,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,444",
+    "forks": "2,558",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 8,
+    "name": "VectifyAI/PageIndex",
+    "description": "",
+    "language": "Python",
+    "stars": "17,708",
+    "forks": "1,261",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "rank": 9,
+    "name": "NevaMind-AI/memU",
+    "description": "",
+    "language": "Python",
+    "stars": "10,791",
+    "forks": "791",
+    "link": "https://github.com/NevaMind-AI/memU"
+  },
+  {
+    "rank": 10,
+    "name": "ruvnet/ruvector",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,173",
+    "forks": "151",
+    "link": "https://github.com/ruvnet/ruvector"
+  },
+  {
+    "rank": 11,
+    "name": "NVIDIA/Megatron-LM",
+    "description": "",
+    "language": "Python",
+    "stars": "15,350",
+    "forks": "3,628",
+    "link": "https://github.com/NVIDIA/Megatron-LM"
+  },
+  {
+    "rank": 12,
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,962",
+    "forks": "3,767",
+    "link": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "rank": 13,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "",
+    "language": "",
+    "stars": "124,112",
+    "forks": "31,943",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 14,
+    "name": "katanemo/plano",
+    "description": "",
+    "language": "Rust",
+    "stars": "5,562",
+    "forks": "330",
+    "link": "https://github.com/katanemo/plano"
+  },
+  {
+    "rank": 15,
+    "name": "liyupi/ai-guide",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "7,676",
+    "forks": "826",
+    "link": "https://github.com/liyupi/ai-guide"
+  },
+  {
+    "rank": 16,
+    "name": "siteboon/claudecodeui",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,004",
+    "forks": "882",
+    "link": "https://github.com/siteboon/claudecodeui"
+  }
+]
