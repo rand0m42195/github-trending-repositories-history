@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "clockworklabs/SpacetimeDB",
+    "description": "",
+    "language": "Rust",
+    "stars": "20,863",
+    "forks": "751",
+    "link": "https://github.com/clockworklabs/SpacetimeDB"
+  },
+  {
+    "rank": 2,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "63,352",
+    "forks": "4,841",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 3,
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "description": "",
+    "language": "Python",
+    "stars": "11,717",
+    "forks": "908",
+    "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
+  },
+  {
+    "rank": 4,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,102",
+    "forks": "2,601",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 5,
+    "name": "huggingface/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "6,972",
+    "forks": "406",
+    "link": "https://github.com/huggingface/skills"
+  },
+  {
+    "rank": 6,
+    "name": "farion1231/cc-switch",
+    "description": "",
+    "language": "Rust",
+    "stars": "20,656",
+    "forks": "1,281",
+    "link": "https://github.com/farion1231/cc-switch"
+  },
+  {
+    "rank": 7,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "16,842",
+    "forks": "1,108",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "rank": 8,
+    "name": "ruvnet/claude-flow",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,963",
+    "forks": "1,742",
+    "link": "https://github.com/ruvnet/claude-flow"
+  },
+  {
+    "rank": 9,
+    "name": "ruvnet/ruvector",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,591",
+    "forks": "176",
+    "link": "https://github.com/ruvnet/ruvector"
+  },
+  {
+    "rank": 10,
+    "name": "moonshine-ai/moonshine",
+    "description": "",
+    "language": "C",
+    "stars": "5,256",
+    "forks": "249",
+    "link": "https://github.com/moonshine-ai/moonshine"
+  }
+]
