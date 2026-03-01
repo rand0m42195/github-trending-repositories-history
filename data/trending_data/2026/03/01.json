@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "ruvnet/wifi-densepose",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,151",
+    "forks": "1,046",
+    "link": "https://github.com/ruvnet/wifi-densepose"
+  },
+  {
+    "rank": 2,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,342",
+    "forks": "1,846",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 3,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "Shell",
+    "stars": "71,845",
+    "forks": "5,684",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 4,
+    "name": "tukaani-project/xz",
+    "description": "",
+    "language": "C",
+    "stars": "1,230",
+    "forks": "211",
+    "link": "https://github.com/tukaani-project/xz"
+  },
+  {
+    "rank": 5,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "",
+    "language": "Python",
+    "stars": "98,256",
+    "forks": "14,302",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 6,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,560",
+    "forks": "1,881",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 7,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "22,603",
+    "forks": "2,718",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 8,
+    "name": "Wei-Shaw/claude-relay-service",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "8,684",
+    "forks": "1,386",
+    "link": "https://github.com/Wei-Shaw/claude-relay-service"
+  },
+  {
+    "rank": 9,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "1,127",
+    "forks": "171",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 10,
+    "name": "superset-sh/superset",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,447",
+    "forks": "184",
+    "link": "https://github.com/superset-sh/superset"
+  },
+  {
+    "rank": 11,
+    "name": "moonshine-ai/moonshine",
+    "description": "",
+    "language": "C",
+    "stars": "6,258",
+    "forks": "287",
+    "link": "https://github.com/moonshine-ai/moonshine"
+  },
+  {
+    "rank": 12,
+    "name": "PaddlePaddle/Paddle",
+    "description": "",
+    "language": "C++",
+    "stars": "23,699",
+    "forks": "5,956",
+    "link": "https://github.com/PaddlePaddle/Paddle"
+  },
+  {
+    "rank": 13,
+    "name": "datagouv/datagouv-mcp",
+    "description": "",
+    "language": "Python",
+    "stars": "657",
+    "forks": "50",
+    "link": "https://github.com/datagouv/datagouv-mcp"
+  },
+  {
+    "rank": 14,
+    "name": "Wei-Shaw/sub2api",
+    "description": "",
+    "language": "Go",
+    "stars": "2,392",
+    "forks": "459",
+    "link": "https://github.com/Wei-Shaw/sub2api"
+  },
+  {
+    "rank": 15,
+    "name": "X-PLUG/MobileAgent",
+    "description": "",
+    "language": "Python",
+    "stars": "7,511",
+    "forks": "766",
+    "link": "https://github.com/X-PLUG/MobileAgent"
+  },
+  {
+    "rank": 16,
+    "name": "alibaba/OpenSandbox",
+    "description": "",
+    "language": "Python",
+    "stars": "2,149",
+    "forks": "157",
+    "link": "https://github.com/alibaba/OpenSandbox"
+  },
+  {
+    "rank": 17,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "65,973",
+    "forks": "5,033",
+    "link": "https://github.com/obra/superpowers"
+  }
+]
