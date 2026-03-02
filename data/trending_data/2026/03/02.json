@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,240",
+    "forks": "1,911",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 2,
+    "name": "ruvnet/wifi-densepose",
+    "description": "",
+    "language": "Rust",
+    "stars": "17,416",
+    "forks": "1,962",
+    "link": "https://github.com/ruvnet/wifi-densepose"
+  },
+  {
+    "rank": 3,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,303",
+    "forks": "1,944",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 4,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "88,978",
+    "forks": "5,220",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 5,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "22,953",
+    "forks": "2,743",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 6,
+    "name": "alibaba/OpenSandbox",
+    "description": "",
+    "language": "Python",
+    "stars": "3,339",
+    "forks": "241",
+    "link": "https://github.com/alibaba/OpenSandbox"
+  },
+  {
+    "rank": 7,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "",
+    "language": "Python",
+    "stars": "98,693",
+    "forks": "14,356",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 8,
+    "name": "K-Dense-AI/claude-scientific-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "10,280",
+    "forks": "1,205",
+    "link": "https://github.com/K-Dense-AI/claude-scientific-skills"
+  },
+  {
+    "rank": 9,
+    "name": "basecamp/omarchy",
+    "description": "",
+    "language": "Shell",
+    "stars": "20,736",
+    "forks": "2,055",
+    "link": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "rank": 10,
+    "name": "X-PLUG/MobileAgent",
+    "description": "",
+    "language": "Python",
+    "stars": "7,696",
+    "forks": "780",
+    "link": "https://github.com/X-PLUG/MobileAgent"
+  },
+  {
+    "rank": 11,
+    "name": "datawhalechina/hello-agents",
+    "description": "",
+    "language": "Python",
+    "stars": "23,827",
+    "forks": "2,687",
+    "link": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "rank": 12,
+    "name": "superset-sh/superset",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,879",
+    "forks": "206",
+    "link": "https://github.com/superset-sh/superset"
+  },
+  {
+    "rank": 13,
+    "name": "NevaMind-AI/memU",
+    "description": "",
+    "language": "Python",
+    "stars": "12,033",
+    "forks": "883",
+    "link": "https://github.com/NevaMind-AI/memU"
+  }
+]
