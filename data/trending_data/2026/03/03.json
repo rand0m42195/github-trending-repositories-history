@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "ruvnet/wifi-densepose",
+    "description": "",
+    "language": "Rust",
+    "stars": "21,945",
+    "forks": "2,579",
+    "link": "https://github.com/ruvnet/wifi-densepose"
+  },
+  {
+    "rank": 2,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,402",
+    "forks": "2,005",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 3,
+    "name": "anthropics/prompt-eng-interactive-tutorial",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "31,591",
+    "forks": "3,214",
+    "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+  },
+  {
+    "rank": 4,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,060",
+    "forks": "2,004",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 5,
+    "name": "alibaba/OpenSandbox",
+    "description": "",
+    "language": "Python",
+    "stars": "4,315",
+    "forks": "304",
+    "link": "https://github.com/alibaba/OpenSandbox"
+  },
+  {
+    "rank": 6,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "89,609",
+    "forks": "5,250",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 7,
+    "name": "K-Dense-AI/claude-scientific-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "11,079",
+    "forks": "1,255",
+    "link": "https://github.com/K-Dense-AI/claude-scientific-skills"
+  },
+  {
+    "rank": 8,
+    "name": "superset-sh/superset",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,510",
+    "forks": "237",
+    "link": "https://github.com/superset-sh/superset"
+  },
+  {
+    "rank": 9,
+    "name": "servo/servo",
+    "description": "",
+    "language": "Rust",
+    "stars": "35,754",
+    "forks": "3,497",
+    "link": "https://github.com/servo/servo"
+  }
+]
