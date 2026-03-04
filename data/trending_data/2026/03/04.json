@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "25,271",
+    "forks": "3,124",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 2,
+    "name": "K-Dense-AI/claude-scientific-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "11,915",
+    "forks": "1,310",
+    "link": "https://github.com/K-Dense-AI/claude-scientific-skills"
+  },
+  {
+    "rank": 3,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,162",
+    "forks": "2,072",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 4,
+    "name": "CodebuffAI/codebuff",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,274",
+    "forks": "422",
+    "link": "https://github.com/CodebuffAI/codebuff"
+  },
+  {
+    "rank": 5,
+    "name": "agentscope-ai/agentscope",
+    "description": "",
+    "language": "Python",
+    "stars": "17,027",
+    "forks": "1,526",
+    "link": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "rank": 6,
+    "name": "agentscope-ai/ReMe",
+    "description": "",
+    "language": "Python",
+    "stars": "1,282",
+    "forks": "117",
+    "link": "https://github.com/agentscope-ai/ReMe"
+  },
+  {
+    "rank": 7,
+    "name": "LMCache/LMCache",
+    "description": "",
+    "language": "Python",
+    "stars": "7,393",
+    "forks": "960",
+    "link": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "rank": 8,
+    "name": "superset-sh/superset",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,163",
+    "forks": "269",
+    "link": "https://github.com/superset-sh/superset"
+  },
+  {
+    "rank": 9,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "540",
+    "forks": "39",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 10,
+    "name": "alibaba/OpenSandbox",
+    "description": "",
+    "language": "Python",
+    "stars": "5,385",
+    "forks": "384",
+    "link": "https://github.com/alibaba/OpenSandbox"
+  }
+]
