@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "KeygraphHQ/shannon",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "30,357",
+    "forks": "3,070",
+    "link": "https://github.com/KeygraphHQ/shannon"
+  },
+  {
+    "rank": 2,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "",
+    "stars": "5,460",
+    "forks": "915",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 3,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "855",
+    "forks": "53",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 4,
+    "name": "K-Dense-AI/claude-scientific-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "12,722",
+    "forks": "1,374",
+    "link": "https://github.com/K-Dense-AI/claude-scientific-skills"
+  },
+  {
+    "rank": 5,
+    "name": "CodebuffAI/codebuff",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,569",
+    "forks": "438",
+    "link": "https://github.com/CodebuffAI/codebuff"
+  },
+  {
+    "rank": 6,
+    "name": "agentscope-ai/ReMe",
+    "description": "",
+    "language": "Python",
+    "stars": "1,622",
+    "forks": "134",
+    "link": "https://github.com/agentscope-ai/ReMe"
+  },
+  {
+    "rank": 7,
+    "name": "alibaba/OpenSandbox",
+    "description": "",
+    "language": "Python",
+    "stars": "5,977",
+    "forks": "430",
+    "link": "https://github.com/alibaba/OpenSandbox"
+  },
+  {
+    "rank": 8,
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "",
+    "language": "Python",
+    "stars": "14,195",
+    "forks": "1,433",
+    "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "rank": 9,
+    "name": "ItzCrazyKns/Perplexica",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "30,855",
+    "forks": "3,262",
+    "link": "https://github.com/ItzCrazyKns/Perplexica"
+  },
+  {
+    "rank": 10,
+    "name": "agentscope-ai/agentscope",
+    "description": "",
+    "language": "Python",
+    "stars": "17,379",
+    "forks": "1,549",
+    "link": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "rank": 11,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,720",
+    "forks": "2,307",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 12,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "",
+    "language": "Rust",
+    "stars": "20,731",
+    "forks": "2,451",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 13,
+    "name": "FlowiseAI/Flowise",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "50,078",
+    "forks": "23,847",
+    "link": "https://github.com/FlowiseAI/Flowise"
+  }
+]
