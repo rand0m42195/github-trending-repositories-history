@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "",
+    "stars": "7,474",
+    "forks": "1,176",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 2,
+    "name": "TheCraigHewitt/seomachine",
+    "description": "",
+    "language": "Python",
+    "stars": "1,630",
+    "forks": "315",
+    "link": "https://github.com/TheCraigHewitt/seomachine"
+  },
+  {
+    "rank": 3,
+    "name": "KeygraphHQ/shannon",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "31,812",
+    "forks": "3,166",
+    "link": "https://github.com/KeygraphHQ/shannon"
+  },
+  {
+    "rank": 4,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "32,883",
+    "forks": "67",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 5,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "27,385",
+    "forks": "2,585",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 6,
+    "name": "inclusionAI/AReaL",
+    "description": "",
+    "language": "Python",
+    "stars": "4,084",
+    "forks": "341",
+    "link": "https://github.com/inclusionAI/AReaL"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/mcp-for-beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "14,900",
+    "forks": "4,865",
+    "link": "https://github.com/microsoft/mcp-for-beginners"
+  },
+  {
+    "rank": 8,
+    "name": "CodebuffAI/codebuff",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,866",
+    "forks": "455",
+    "link": "https://github.com/CodebuffAI/codebuff"
+  },
+  {
+    "rank": 9,
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "",
+    "language": "Python",
+    "stars": "14,693",
+    "forks": "1,472",
+    "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "rank": 10,
+    "name": "agentscope-ai/ReMe",
+    "description": "",
+    "language": "Python",
+    "stars": "1,815",
+    "forks": "144",
+    "link": "https://github.com/agentscope-ai/ReMe"
+  },
+  {
+    "rank": 11,
+    "name": "microsoft/hve-core",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "299",
+    "forks": "73",
+    "link": "https://github.com/microsoft/hve-core"
+  }
+]
