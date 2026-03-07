@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "29,522",
+    "forks": "2,816",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 2,
+    "name": "QwenLM/Qwen-Agent",
+    "description": "",
+    "language": "Python",
+    "stars": "14,632",
+    "forks": "1,391",
+    "link": "https://github.com/QwenLM/Qwen-Agent"
+  },
+  {
+    "rank": 3,
+    "name": "microsoft/hve-core",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "551",
+    "forks": "92",
+    "link": "https://github.com/microsoft/hve-core"
+  },
+  {
+    "rank": 4,
+    "name": "Ed1s0nZ/CyberStrikeAI",
+    "description": "",
+    "language": "Go",
+    "stars": "1,610",
+    "forks": "310",
+    "link": "https://github.com/Ed1s0nZ/CyberStrikeAI"
+  },
+  {
+    "rank": 5,
+    "name": "inclusionAI/AReaL",
+    "description": "",
+    "language": "Python",
+    "stars": "4,395",
+    "forks": "363",
+    "link": "https://github.com/inclusionAI/AReaL"
+  },
+  {
+    "rank": 6,
+    "name": "lingfengQAQ/webnovel-writer",
+    "description": "",
+    "language": "Python",
+    "stars": "774",
+    "forks": "189",
+    "link": "https://github.com/lingfengQAQ/webnovel-writer"
+  },
+  {
+    "rank": 7,
+    "name": "openai/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "11,984",
+    "forks": "673",
+    "link": "https://github.com/openai/skills"
+  },
+  {
+    "rank": 8,
+    "name": "TheCraigHewitt/seomachine",
+    "description": "",
+    "language": "Python",
+    "stars": "2,148",
+    "forks": "363",
+    "link": "https://github.com/TheCraigHewitt/seomachine"
+  },
+  {
+    "rank": 9,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "46,326",
+    "forks": "8,092",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 10,
+    "name": "aidenybai/react-grab",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,003",
+    "forks": "274",
+    "link": "https://github.com/aidenybai/react-grab"
+  },
+  {
+    "rank": 11,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "",
+    "stars": "9,840",
+    "forks": "1,468",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  }
+]
