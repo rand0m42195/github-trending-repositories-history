@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "5,654",
+    "forks": "624",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 2,
+    "name": "openai/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "12,712",
+    "forks": "707",
+    "link": "https://github.com/openai/skills"
+  },
+  {
+    "rank": 3,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "10,772",
+    "forks": "1,578",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 4,
+    "name": "GoogleCloudPlatform/generative-ai",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "13,528",
+    "forks": "3,826",
+    "link": "https://github.com/GoogleCloudPlatform/generative-ai"
+  },
+  {
+    "rank": 5,
+    "name": "agentjido/jido",
+    "description": "",
+    "language": "Elixir",
+    "stars": "1,424",
+    "forks": "74",
+    "link": "https://github.com/agentjido/jido"
+  },
+  {
+    "rank": 6,
+    "name": "QwenLM/Qwen-Agent",
+    "description": "",
+    "language": "Python",
+    "stars": "15,021",
+    "forks": "1,438",
+    "link": "https://github.com/QwenLM/Qwen-Agent"
+  },
+  {
+    "rank": 7,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "46,576",
+    "forks": "8,111",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 8,
+    "name": "microsoft/hve-core",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "749",
+    "forks": "96",
+    "link": "https://github.com/microsoft/hve-core"
+  },
+  {
+    "rank": 9,
+    "name": "toeverything/AFFiNE",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "64,698",
+    "forks": "4,528",
+    "link": "https://github.com/toeverything/AFFiNE"
+  },
+  {
+    "rank": 10,
+    "name": "shadcn-ui/ui",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "108,180",
+    "forks": "8,042",
+    "link": "https://github.com/shadcn-ui/ui"
+  },
+  {
+    "rank": 11,
+    "name": "alibaba/page-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,368",
+    "forks": "125",
+    "link": "https://github.com/alibaba/page-agent"
+  }
+]
