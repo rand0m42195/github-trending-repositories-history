@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "GoogleCloudPlatform/generative-ai",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "14,386",
+    "forks": "3,899",
+    "link": "https://github.com/GoogleCloudPlatform/generative-ai"
+  },
+  {
+    "rank": 2,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "6,997",
+    "forks": "768",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 3,
+    "name": "shadcn-ui/ui",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "108,696",
+    "forks": "8,077",
+    "link": "https://github.com/shadcn-ui/ui"
+  },
+  {
+    "rank": 4,
+    "name": "openclaw/openclaw",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "280,594",
+    "forks": "53,577",
+    "link": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "rank": 5,
+    "name": "toeverything/AFFiNE",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "65,229",
+    "forks": "4,554",
+    "link": "https://github.com/toeverything/AFFiNE"
+  },
+  {
+    "rank": 6,
+    "name": "Ed1s0nZ/CyberStrikeAI",
+    "description": "",
+    "language": "Go",
+    "stars": "2,259",
+    "forks": "389",
+    "link": "https://github.com/Ed1s0nZ/CyberStrikeAI"
+  },
+  {
+    "rank": 7,
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,876",
+    "forks": "4,409",
+    "link": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "rank": 8,
+    "name": "openai/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "13,232",
+    "forks": "740",
+    "link": "https://github.com/openai/skills"
+  },
+  {
+    "rank": 9,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "46,823",
+    "forks": "8,147",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 10,
+    "name": "is-a-dev/register",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "9,790",
+    "forks": "18,769",
+    "link": "https://github.com/is-a-dev/register"
+  },
+  {
+    "rank": 11,
+    "name": "teng-lin/notebooklm-py",
+    "description": "",
+    "language": "Python",
+    "stars": "3,737",
+    "forks": "474",
+    "link": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "rank": 12,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "1,766",
+    "forks": "75",
+    "link": "https://github.com/pbakaus/impeccable"
+  }
+]
