@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "GoogleCloudPlatform/generative-ai",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "15,274",
+    "forks": "3,962",
+    "link": "https://github.com/GoogleCloudPlatform/generative-ai"
+  },
+  {
+    "rank": 2,
+    "name": "openclaw/openclaw",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "290,033",
+    "forks": "54,992",
+    "link": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "rank": 3,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "10,851",
+    "forks": "1,127",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 4,
+    "name": "karpathy/nanochat",
+    "description": "",
+    "language": "Python",
+    "stars": "45,501",
+    "forks": "6,020",
+    "link": "https://github.com/karpathy/nanochat"
+  },
+  {
+    "rank": 5,
+    "name": "666ghj/BettaFish",
+    "description": "",
+    "language": "Python",
+    "stars": "37,334",
+    "forks": "7,033",
+    "link": "https://github.com/666ghj/BettaFish"
+  },
+  {
+    "rank": 6,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "2,963",
+    "forks": "406",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 7,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "2,964",
+    "forks": "109",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 8,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "19,243",
+    "forks": "2,990",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 9,
+    "name": "alibaba/page-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,562",
+    "forks": "201",
+    "link": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "rank": 10,
+    "name": "alirezarezvani/claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "3,337",
+    "forks": "401",
+    "link": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "rank": 11,
+    "name": "Raphire/Win11Debloat",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "41,204",
+    "forks": "1,602",
+    "link": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "rank": 12,
+    "name": "teng-lin/notebooklm-py",
+    "description": "",
+    "language": "Python",
+    "stars": "4,234",
+    "forks": "523",
+    "link": "https://github.com/teng-lin/notebooklm-py"
+  }
+]
