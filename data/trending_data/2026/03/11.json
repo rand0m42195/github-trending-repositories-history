@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "25,353",
+    "forks": "3,987",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 2,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "14,159",
+    "forks": "1,480",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 3,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "3,776",
+    "forks": "480",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 4,
+    "name": "promptfoo/promptfoo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,946",
+    "forks": "1,105",
+    "link": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "rank": 5,
+    "name": "GoogleCloudPlatform/generative-ai",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "15,748",
+    "forks": "4,000",
+    "link": "https://github.com/GoogleCloudPlatform/generative-ai"
+  },
+  {
+    "rank": 6,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "47,585",
+    "forks": "8,282",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 7,
+    "name": "karpathy/nanochat",
+    "description": "",
+    "language": "Python",
+    "stars": "46,237",
+    "forks": "6,106",
+    "link": "https://github.com/karpathy/nanochat"
+  },
+  {
+    "rank": 8,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "76,563",
+    "forks": "5,926",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 9,
+    "name": "alibaba/page-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,623",
+    "forks": "279",
+    "link": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "rank": 10,
+    "name": "sepinf-inc/IPED",
+    "description": "",
+    "language": "Java",
+    "stars": "2,209",
+    "forks": "392",
+    "link": "https://github.com/sepinf-inc/IPED"
+  },
+  {
+    "rank": 11,
+    "name": "openclaw/openclaw",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "298,325",
+    "forks": "56,378",
+    "link": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "rank": 12,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "3,653",
+    "forks": "134",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 13,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "28,558",
+    "forks": "3,393",
+    "link": "https://github.com/bytedance/deer-flow"
+  }
+]
