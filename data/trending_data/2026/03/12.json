@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "30,060",
+    "forks": "4,728",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 2,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "16,774",
+    "forks": "1,786",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 3,
+    "name": "promptfoo/promptfoo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,556",
+    "forks": "1,156",
+    "link": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "78,058",
+    "forks": "6,038",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "fishaudio/fish-speech",
+    "description": "",
+    "language": "Python",
+    "stars": "25,784",
+    "forks": "2,176",
+    "link": "https://github.com/fishaudio/fish-speech"
+  },
+  {
+    "rank": 6,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "48,150",
+    "forks": "8,385",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 7,
+    "name": "alibaba/page-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,746",
+    "forks": "371",
+    "link": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "rank": 8,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "5,247",
+    "forks": "608",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 9,
+    "name": "AstrBotDevs/AstrBot",
+    "description": "",
+    "language": "Python",
+    "stars": "21,055",
+    "forks": "1,516",
+    "link": "https://github.com/AstrBotDevs/AstrBot"
+  }
+]
