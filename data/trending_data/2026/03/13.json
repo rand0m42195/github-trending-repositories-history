@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/BitNet",
+    "description": "",
+    "language": "Python",
+    "stars": "32,340",
+    "forks": "2,727",
+    "link": "https://github.com/microsoft/BitNet"
+  },
+  {
+    "rank": 2,
+    "name": "fishaudio/fish-speech",
+    "description": "",
+    "language": "Python",
+    "stars": "26,366",
+    "forks": "2,215",
+    "link": "https://github.com/fishaudio/fish-speech"
+  },
+  {
+    "rank": 3,
+    "name": "langflow-ai/openrag",
+    "description": "",
+    "language": "Python",
+    "stars": "1,546",
+    "forks": "147",
+    "link": "https://github.com/langflow-ai/openrag"
+  },
+  {
+    "rank": 4,
+    "name": "InsForge/InsForge",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,102",
+    "forks": "315",
+    "link": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "rank": 5,
+    "name": "vectorize-io/hindsight",
+    "description": "",
+    "language": "Python",
+    "stars": "3,077",
+    "forks": "225",
+    "link": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "rank": 6,
+    "name": "alibaba/page-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,946",
+    "forks": "459",
+    "link": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "79,934",
+    "forks": "6,183",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "6,161",
+    "forks": "701",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 9,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "19,168",
+    "forks": "2,038",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 10,
+    "name": "google-ai-edge/LiteRT",
+    "description": "",
+    "language": "C++",
+    "stars": "1,668",
+    "forks": "212",
+    "link": "https://github.com/google-ai-edge/LiteRT"
+  },
+  {
+    "rank": 11,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "34,929",
+    "forks": "5,333",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 12,
+    "name": "google/A2UI",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,602",
+    "forks": "953",
+    "link": "https://github.com/google/A2UI"
+  },
+  {
+    "rank": 13,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "10,262",
+    "forks": "1,037",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  }
+]
