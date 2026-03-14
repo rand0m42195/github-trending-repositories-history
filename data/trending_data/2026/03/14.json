@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/BitNet",
+    "description": "",
+    "language": "Python",
+    "stars": "33,959",
+    "forks": "2,866",
+    "link": "https://github.com/microsoft/BitNet"
+  },
+  {
+    "rank": 2,
+    "name": "langflow-ai/openrag",
+    "description": "",
+    "language": "Python",
+    "stars": "2,251",
+    "forks": "208",
+    "link": "https://github.com/langflow-ai/openrag"
+  },
+  {
+    "rank": 3,
+    "name": "lightpanda-io/browser",
+    "description": "",
+    "language": "Zig",
+    "stars": "15,437",
+    "forks": "539",
+    "link": "https://github.com/lightpanda-io/browser"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "81,910",
+    "forks": "6,356",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "public-apis/public-apis",
+    "description": "",
+    "language": "Python",
+    "stars": "409,464",
+    "forks": "44,240",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 6,
+    "name": "promptfoo/promptfoo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,270",
+    "forks": "1,354",
+    "link": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "rank": 7,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "40,076",
+    "forks": "6,032",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 8,
+    "name": "dolthub/dolt",
+    "description": "",
+    "language": "Go",
+    "stars": "21,071",
+    "forks": "670",
+    "link": "https://github.com/dolthub/dolt"
+  },
+  {
+    "rank": 9,
+    "name": "google/A2UI",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,051",
+    "forks": "979",
+    "link": "https://github.com/google/A2UI"
+  },
+  {
+    "rank": 10,
+    "name": "fishaudio/fish-speech",
+    "description": "",
+    "language": "Python",
+    "stars": "26,864",
+    "forks": "2,248",
+    "link": "https://github.com/fishaudio/fish-speech"
+  },
+  {
+    "rank": 11,
+    "name": "alibaba/page-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,518",
+    "forks": "577",
+    "link": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "rank": 12,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "10,788",
+    "forks": "1,074",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 13,
+    "name": "AstrBotDevs/AstrBot",
+    "description": "",
+    "language": "Python",
+    "stars": "23,814",
+    "forks": "1,622",
+    "link": "https://github.com/AstrBotDevs/AstrBot"
+  },
+  {
+    "rank": 14,
+    "name": "vectorize-io/hindsight",
+    "description": "",
+    "language": "Python",
+    "stars": "3,633",
+    "forks": "255",
+    "link": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "rank": 15,
+    "name": "InsForge/InsForge",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,634",
+    "forks": "342",
+    "link": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "rank": 16,
+    "name": "google-ai-edge/LiteRT",
+    "description": "",
+    "language": "C++",
+    "stars": "1,859",
+    "forks": "228",
+    "link": "https://github.com/google-ai-edge/LiteRT"
+  }
+]
