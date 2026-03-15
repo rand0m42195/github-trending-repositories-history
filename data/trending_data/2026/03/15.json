@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "volcengine/OpenViking",
+    "description": "",
+    "language": "Python",
+    "stars": "10,594",
+    "forks": "721",
+    "link": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "11,308",
+    "forks": "1,107",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 3,
+    "name": "dimensionalOS/dimos",
+    "description": "",
+    "language": "Python",
+    "stars": "858",
+    "forks": "157",
+    "link": "https://github.com/dimensionalOS/dimos"
+  },
+  {
+    "rank": 4,
+    "name": "p-e-w/heretic",
+    "description": "",
+    "language": "Python",
+    "stars": "13,758",
+    "forks": "1,400",
+    "link": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "rank": 5,
+    "name": "langflow-ai/openrag",
+    "description": "",
+    "language": "Python",
+    "stars": "2,719",
+    "forks": "251",
+    "link": "https://github.com/langflow-ai/openrag"
+  },
+  {
+    "rank": 6,
+    "name": "lightpanda-io/browser",
+    "description": "",
+    "language": "Zig",
+    "stars": "17,103",
+    "forks": "635",
+    "link": "https://github.com/lightpanda-io/browser"
+  },
+  {
+    "rank": 7,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "43,774",
+    "forks": "6,551",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 8,
+    "name": "fishaudio/fish-speech",
+    "description": "",
+    "language": "Python",
+    "stars": "27,217",
+    "forks": "2,272",
+    "link": "https://github.com/fishaudio/fish-speech"
+  },
+  {
+    "rank": 9,
+    "name": "InsForge/InsForge",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,171",
+    "forks": "428",
+    "link": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "rank": 10,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "83,487",
+    "forks": "6,516",
+    "link": "https://github.com/obra/superpowers"
+  }
+]
