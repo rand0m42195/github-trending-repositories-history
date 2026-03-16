@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "lightpanda-io/browser",
+    "description": "",
+    "language": "Zig",
+    "stars": "18,579",
+    "forks": "696",
+    "link": "https://github.com/lightpanda-io/browser"
+  },
+  {
+    "rank": 2,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,109",
+    "forks": "117",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 3,
+    "name": "volcengine/OpenViking",
+    "description": "",
+    "language": "Python",
+    "stars": "12,396",
+    "forks": "850",
+    "link": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "rank": 4,
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "27,896",
+    "forks": "4,879",
+    "link": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "rank": 5,
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "",
+    "language": "HTML",
+    "stars": "16,993",
+    "forks": "1,506",
+    "link": "https://github.com/shanraisshan/claude-code-best-practice"
+  },
+  {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "85,890",
+    "forks": "6,755",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 7,
+    "name": "p-e-w/heretic",
+    "description": "",
+    "language": "Python",
+    "stars": "14,698",
+    "forks": "1,494",
+    "link": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "rank": 8,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "27,231",
+    "forks": "3,267",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 9,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,300",
+    "forks": "1,662",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 10,
+    "name": "topoteretes/cognee",
+    "description": "",
+    "language": "Python",
+    "stars": "13,908",
+    "forks": "1,390",
+    "link": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "rank": 11,
+    "name": "InsForge/InsForge",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,584",
+    "forks": "474",
+    "link": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "rank": 12,
+    "name": "voidzero-dev/vite-plus",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,708",
+    "forks": "55",
+    "link": "https://github.com/voidzero-dev/vite-plus"
+  },
+  {
+    "rank": 13,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "11,932",
+    "forks": "1,154",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  }
+]
