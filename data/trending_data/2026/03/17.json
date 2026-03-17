@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "29,987",
+    "forks": "3,666",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 2,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "36,807",
+    "forks": "2,643",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 3,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,827",
+    "forks": "167",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "88,618",
+    "forks": "7,001",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,603",
+    "forks": "1,793",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 6,
+    "name": "lightpanda-io/browser",
+    "description": "",
+    "language": "Zig",
+    "stars": "20,219",
+    "forks": "773",
+    "link": "https://github.com/lightpanda-io/browser"
+  },
+  {
+    "rank": 7,
+    "name": "volcengine/OpenViking",
+    "description": "",
+    "language": "Python",
+    "stars": "14,156",
+    "forks": "968",
+    "link": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "rank": 8,
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "29,296",
+    "forks": "5,008",
+    "link": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "rank": 9,
+    "name": "p-e-w/heretic",
+    "description": "",
+    "language": "Python",
+    "stars": "15,290",
+    "forks": "1,541",
+    "link": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "rank": 10,
+    "name": "langchain-ai/deepagents",
+    "description": "",
+    "language": "Python",
+    "stars": "12,912",
+    "forks": "2,010",
+    "link": "https://github.com/langchain-ai/deepagents"
+  },
+  {
+    "rank": 11,
+    "name": "YishenTu/claudian",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,159",
+    "forks": "238",
+    "link": "https://github.com/YishenTu/claudian"
+  },
+  {
+    "rank": 12,
+    "name": "voidzero-dev/vite-plus",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,239",
+    "forks": "77",
+    "link": "https://github.com/voidzero-dev/vite-plus"
+  }
+]
