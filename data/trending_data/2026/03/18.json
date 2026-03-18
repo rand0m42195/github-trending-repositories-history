@@ -1,0 +1,56 @@
+[
+  {
+    "rank": 1,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "92,376",
+    "forks": "7,307",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 2,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "479,804",
+    "forks": "45,141",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 3,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,724",
+    "forks": "1,896",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 4,
+    "name": "langchain-ai/deepagents",
+    "description": "",
+    "language": "Python",
+    "stars": "14,144",
+    "forks": "2,131",
+    "link": "https://github.com/langchain-ai/deepagents"
+  },
+  {
+    "rank": 5,
+    "name": "jarrodwatts/claude-hud",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "5,620",
+    "forks": "248",
+    "link": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "rank": 6,
+    "name": "cloudflare/workerd",
+    "description": "",
+    "language": "C++",
+    "stars": "7,831",
+    "forks": "575",
+    "link": "https://github.com/cloudflare/workerd"
+  }
+]
