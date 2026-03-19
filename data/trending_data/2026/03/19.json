@@ -1,0 +1,56 @@
+[
+  {
+    "rank": 1,
+    "name": "jarrodwatts/claude-hud",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "6,997",
+    "forks": "300",
+    "link": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "rank": 2,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "96,211",
+    "forks": "7,635",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 3,
+    "name": "unslothai/unsloth",
+    "description": "",
+    "language": "Python",
+    "stars": "55,821",
+    "forks": "4,685",
+    "link": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "rank": 4,
+    "name": "newton-physics/newton",
+    "description": "",
+    "language": "Python",
+    "stars": "2,914",
+    "forks": "317",
+    "link": "https://github.com/newton-physics/newton"
+  },
+  {
+    "rank": 5,
+    "name": "shadps4-emu/shadPS4",
+    "description": "",
+    "language": "C++",
+    "stars": "29,867",
+    "forks": "2,028",
+    "link": "https://github.com/shadps4-emu/shadPS4"
+  },
+  {
+    "rank": 6,
+    "name": "langchain-ai/open-swe",
+    "description": "",
+    "language": "Python",
+    "stars": "6,352",
+    "forks": "813",
+    "link": "https://github.com/langchain-ai/open-swe"
+  }
+]
