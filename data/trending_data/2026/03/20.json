@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "",
+    "language": "Java",
+    "stars": "5,625",
+    "forks": "406",
+    "link": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "rank": 2,
+    "name": "langchain-ai/open-swe",
+    "description": "",
+    "language": "Python",
+    "stars": "7,032",
+    "forks": "875",
+    "link": "https://github.com/langchain-ai/open-swe"
+  },
+  {
+    "rank": 3,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "99,199",
+    "forks": "7,904",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 4,
+    "name": "jarrodwatts/claude-hud",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "8,504",
+    "forks": "354",
+    "link": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "rank": 5,
+    "name": "unslothai/unsloth",
+    "description": "",
+    "language": "Python",
+    "stars": "56,700",
+    "forks": "4,758",
+    "link": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "rank": 6,
+    "name": "mobile-dev-inc/Maestro",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "12,434",
+    "forks": "703",
+    "link": "https://github.com/mobile-dev-inc/Maestro"
+  },
+  {
+    "rank": 7,
+    "name": "newton-physics/newton",
+    "description": "",
+    "language": "Python",
+    "stars": "3,227",
+    "forks": "343",
+    "link": "https://github.com/newton-physics/newton"
+  },
+  {
+    "rank": 8,
+    "name": "louis-e/arnis",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,758",
+    "forks": "961",
+    "link": "https://github.com/louis-e/arnis"
+  },
+  {
+    "rank": 9,
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "",
+    "language": "Python",
+    "stars": "16,066",
+    "forks": "1,683",
+    "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "rank": 10,
+    "name": "gsd-build/get-shit-done",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "36,107",
+    "forks": "2,958",
+    "link": "https://github.com/gsd-build/get-shit-done"
+  },
+  {
+    "rank": 11,
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "33,627",
+    "forks": "5,475",
+    "link": "https://github.com/shareAI-lab/learn-claude-code"
+  }
+]
