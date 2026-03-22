@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "",
+    "language": "Python",
+    "stars": "17,757",
+    "forks": "1,891",
+    "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "rank": 2,
+    "name": "systemd/systemd",
+    "description": "",
+    "language": "C",
+    "stars": "15,725",
+    "forks": "4,353",
+    "link": "https://github.com/systemd/systemd"
+  },
+  {
+    "rank": 3,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "33,376",
+    "forks": "125",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 4,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,734",
+    "forks": "627",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 5,
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "",
+    "language": "Java",
+    "stars": "7,887",
+    "forks": "534",
+    "link": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "rank": 6,
+    "name": "jarrodwatts/claude-hud",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "10,439",
+    "forks": "446",
+    "link": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "rank": 7,
+    "name": "protocolbuffers/protobuf",
+    "description": "",
+    "language": "C++",
+    "stars": "70,947",
+    "forks": "16,083",
+    "link": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "rank": 8,
+    "name": "vllm-project/vllm-omni",
+    "description": "",
+    "language": "Python",
+    "stars": "3,508",
+    "forks": "587",
+    "link": "https://github.com/vllm-project/vllm-omni"
+  },
+  {
+    "rank": 9,
+    "name": "louis-e/arnis",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,221",
+    "forks": "1,014",
+    "link": "https://github.com/louis-e/arnis"
+  }
+]
