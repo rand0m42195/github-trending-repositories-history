@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "",
+    "language": "Python",
+    "stars": "19,779",
+    "forks": "2,072",
+    "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "rank": 2,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "37,205",
+    "forks": "7,049",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 3,
+    "name": "vxcontrol/pentagi",
+    "description": "",
+    "language": "Go",
+    "stars": "12,025",
+    "forks": "1,514",
+    "link": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "rank": 4,
+    "name": "jamwithai/production-agentic-rag-course",
+    "description": "",
+    "language": "Python",
+    "stars": "4,747",
+    "forks": "1,185",
+    "link": "https://github.com/jamwithai/production-agentic-rag-course"
+  },
+  {
+    "rank": 5,
+    "name": "affaan-m/everything-claude-code",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "98,070",
+    "forks": "12,807",
+    "link": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "rank": 6,
+    "name": "jarrodwatts/claude-hud",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "11,178",
+    "forks": "476",
+    "link": "https://github.com/jarrodwatts/claude-hud"
+  },
+  {
+    "rank": 7,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,065",
+    "forks": "945",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 8,
+    "name": "systemd/systemd",
+    "description": "",
+    "language": "C",
+    "stars": "15,993",
+    "forks": "4,371",
+    "link": "https://github.com/systemd/systemd"
+  },
+  {
+    "rank": 9,
+    "name": "browser-use/browser-use",
+    "description": "",
+    "language": "Python",
+    "stars": "82,563",
+    "forks": "9,677",
+    "link": "https://github.com/browser-use/browser-use"
+  },
+  {
+    "rank": 10,
+    "name": "HKUDS/LightRAG",
+    "description": "",
+    "language": "Python",
+    "stars": "30,036",
+    "forks": "4,312",
+    "link": "https://github.com/HKUDS/LightRAG"
+  },
+  {
+    "rank": 11,
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "",
+    "language": "Python",
+    "stars": "19,766",
+    "forks": "4,207",
+    "link": "https://github.com/hsliuping/TradingAgents-CN"
+  },
+  {
+    "rank": 12,
+    "name": "louis-e/arnis",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,723",
+    "forks": "1,041",
+    "link": "https://github.com/louis-e/arnis"
+  },
+  {
+    "rank": 13,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "33,660",
+    "forks": "158",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 14,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "35,329",
+    "forks": "4,249",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 15,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "50,937",
+    "forks": "7,246",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  }
+]
