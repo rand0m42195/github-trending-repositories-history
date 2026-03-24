@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "",
+    "language": "Python",
+    "stars": "22,914",
+    "forks": "2,356",
+    "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "rank": 2,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "39,355",
+    "forks": "4,624",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 3,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,385",
+    "forks": "1,261",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 4,
+    "name": "vxcontrol/pentagi",
+    "description": "",
+    "language": "Go",
+    "stars": "12,992",
+    "forks": "1,616",
+    "link": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "rank": 5,
+    "name": "browser-use/browser-use",
+    "description": "",
+    "language": "Python",
+    "stars": "83,631",
+    "forks": "9,730",
+    "link": "https://github.com/browser-use/browser-use"
+  },
+  {
+    "rank": 6,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "39,311",
+    "forks": "7,313",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 7,
+    "name": "tinygrad/tinygrad",
+    "description": "",
+    "language": "Python",
+    "stars": "31,878",
+    "forks": "3,978",
+    "link": "https://github.com/tinygrad/tinygrad"
+  },
+  {
+    "rank": 8,
+    "name": "affaan-m/everything-claude-code",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "101,952",
+    "forks": "13,278",
+    "link": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "rank": 9,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "11,561",
+    "forks": "1,405",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 10,
+    "name": "jingyaogong/minimind",
+    "description": "",
+    "language": "Python",
+    "stars": "42,562",
+    "forks": "5,119",
+    "link": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "rank": 11,
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "",
+    "language": "Python",
+    "stars": "20,308",
+    "forks": "4,281",
+    "link": "https://github.com/hsliuping/TradingAgents-CN"
+  },
+  {
+    "rank": 12,
+    "name": "kepano/obsidian-skills",
+    "description": "",
+    "language": "",
+    "stars": "16,349",
+    "forks": "936",
+    "link": "https://github.com/kepano/obsidian-skills"
+  },
+  {
+    "rank": 13,
+    "name": "czlonkowski/n8n-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,050",
+    "forks": "2,766",
+    "link": "https://github.com/czlonkowski/n8n-mcp"
+  },
+  {
+    "rank": 14,
+    "name": "iptv-org/iptv",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "113,591",
+    "forks": "5,777",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 15,
+    "name": "hesreallyhim/awesome-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "30,953",
+    "forks": "2,156",
+    "link": "https://github.com/hesreallyhim/awesome-claude-code"
+  }
+]
