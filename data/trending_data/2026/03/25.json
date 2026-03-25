@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,216",
+    "forks": "726",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 2,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "43,260",
+    "forks": "5,077",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 3,
+    "name": "supermemoryai/supermemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,545",
+    "forks": "1,781",
+    "link": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "rank": 4,
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "",
+    "language": "Python",
+    "stars": "24,810",
+    "forks": "2,577",
+    "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "rank": 5,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "52,614",
+    "forks": "7,446",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 6,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,339",
+    "forks": "1,459",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 7,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "40,857",
+    "forks": "7,523",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 8,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "5,562",
+    "forks": "590",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 9,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,100",
+    "forks": "2,737",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 10,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "12,544",
+    "forks": "1,516",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 11,
+    "name": "hesreallyhim/awesome-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "31,851",
+    "forks": "2,215",
+    "link": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "rank": 12,
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "",
+    "language": "Python",
+    "stars": "20,885",
+    "forks": "4,359",
+    "link": "https://github.com/hsliuping/TradingAgents-CN"
+  },
+  {
+    "rank": 13,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "33,986",
+    "forks": "192",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 14,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "41,295",
+    "forks": "5,664",
+    "link": "https://github.com/ruvnet/RuView"
+  }
+]
