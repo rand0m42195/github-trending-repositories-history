@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "7,657",
+    "forks": "716",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 2,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "46,220",
+    "forks": "5,473",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 3,
+    "name": "BerriAI/litellm",
+    "description": "",
+    "language": "Python",
+    "stars": "40,653",
+    "forks": "6,717",
+    "link": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "rank": 4,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,834",
+    "forks": "896",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 5,
+    "name": "letta-ai/claude-subconscious",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,449",
+    "forks": "110",
+    "link": "https://github.com/letta-ai/claude-subconscious"
+  },
+  {
+    "rank": 6,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "26,220",
+    "forks": "2,841",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 7,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,634",
+    "forks": "1,582",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 8,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "42,305",
+    "forks": "5,758",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 9,
+    "name": "supermemoryai/supermemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,213",
+    "forks": "1,810",
+    "link": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "rank": 10,
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "description": "",
+    "language": "Python",
+    "stars": "25,590",
+    "forks": "2,653",
+    "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+  },
+  {
+    "rank": 11,
+    "name": "usestrix/strix",
+    "description": "",
+    "language": "Python",
+    "stars": "21,745",
+    "forks": "2,302",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 12,
+    "name": "hsliuping/TradingAgents-CN",
+    "description": "",
+    "language": "Python",
+    "stars": "21,311",
+    "forks": "4,427",
+    "link": "https://github.com/hsliuping/TradingAgents-CN"
+  }
+]
