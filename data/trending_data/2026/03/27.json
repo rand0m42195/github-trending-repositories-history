@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "10,269",
+    "forks": "885",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 2,
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,635",
+    "forks": "837",
+    "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  },
+  {
+    "rank": 3,
+    "name": "virattt/dexter",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,988",
+    "forks": "2,329",
+    "link": "https://github.com/virattt/dexter"
+  },
+  {
+    "rank": 4,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "43,170",
+    "forks": "5,847",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 5,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "48,344",
+    "forks": "5,760",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 6,
+    "name": "Vaibhavs10/insanely-fast-whisper",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "11,218",
+    "forks": "817",
+    "link": "https://github.com/Vaibhavs10/insanely-fast-whisper"
+  },
+  {
+    "rank": 7,
+    "name": "agentscope-ai/agentscope",
+    "description": "",
+    "language": "Python",
+    "stars": "20,416",
+    "forks": "1,990",
+    "link": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "rank": 8,
+    "name": "twentyhq/twenty",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "41,272",
+    "forks": "5,501",
+    "link": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "rank": 9,
+    "name": "datalab-to/chandra",
+    "description": "",
+    "language": "Python",
+    "stars": "6,152",
+    "forks": "674",
+    "link": "https://github.com/datalab-to/chandra"
+  }
+]
