@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "12,643",
+    "forks": "1,015",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 2,
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "",
+    "language": "Python",
+    "stars": "83,055",
+    "forks": "12,138",
+    "link": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "rank": 3,
+    "name": "SakanaAI/AI-Scientist-v2",
+    "description": "",
+    "language": "Python",
+    "stars": "2,862",
+    "forks": "476",
+    "link": "https://github.com/SakanaAI/AI-Scientist-v2"
+  },
+  {
+    "rank": 4,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "24,684",
+    "forks": "2,705",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 5,
+    "name": "twentyhq/twenty",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "42,009",
+    "forks": "5,578",
+    "link": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "rank": 6,
+    "name": "datalab-to/chandra",
+    "description": "",
+    "language": "Python",
+    "stars": "7,018",
+    "forks": "733",
+    "link": "https://github.com/datalab-to/chandra"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "118,526",
+    "forks": "9,560",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "virattt/dexter",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,688",
+    "forks": "2,386",
+    "link": "https://github.com/virattt/dexter"
+  },
+  {
+    "rank": 9,
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,955",
+    "forks": "904",
+    "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  },
+  {
+    "rank": 10,
+    "name": "FreeCAD/FreeCAD",
+    "description": "",
+    "language": "C++",
+    "stars": "29,661",
+    "forks": "5,321",
+    "link": "https://github.com/FreeCAD/FreeCAD"
+  },
+  {
+    "rank": 11,
+    "name": "Vaibhavs10/insanely-fast-whisper",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "11,873",
+    "forks": "845",
+    "link": "https://github.com/Vaibhavs10/insanely-fast-whisper"
+  },
+  {
+    "rank": 12,
+    "name": "onyx-dot-app/onyx",
+    "description": "",
+    "language": "Python",
+    "stars": "19,138",
+    "forks": "2,591",
+    "link": "https://github.com/onyx-dot-app/onyx"
+  }
+]
