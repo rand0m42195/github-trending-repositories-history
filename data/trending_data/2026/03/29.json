@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "",
+    "language": "Python",
+    "stars": "84,341",
+    "forks": "12,317",
+    "link": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "rank": 2,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "120,784",
+    "forks": "9,806",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 3,
+    "name": "SakanaAI/AI-Scientist-v2",
+    "description": "",
+    "language": "Python",
+    "stars": "3,463",
+    "forks": "526",
+    "link": "https://github.com/SakanaAI/AI-Scientist-v2"
+  },
+  {
+    "rank": 4,
+    "name": "virattt/dexter",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,203",
+    "forks": "2,424",
+    "link": "https://github.com/virattt/dexter"
+  },
+  {
+    "rank": 5,
+    "name": "twentyhq/twenty",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "42,433",
+    "forks": "5,633",
+    "link": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "rank": 6,
+    "name": "onyx-dot-app/onyx",
+    "description": "",
+    "language": "Python",
+    "stars": "19,752",
+    "forks": "2,654",
+    "link": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "rank": 7,
+    "name": "datalab-to/chandra",
+    "description": "",
+    "language": "Python",
+    "stars": "7,595",
+    "forks": "762",
+    "link": "https://github.com/datalab-to/chandra"
+  },
+  {
+    "rank": 8,
+    "name": "agentscope-ai/agentscope",
+    "description": "",
+    "language": "Python",
+    "stars": "21,619",
+    "forks": "2,134",
+    "link": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "rank": 9,
+    "name": "apache/superset",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "71,468",
+    "forks": "16,891",
+    "link": "https://github.com/apache/superset"
+  }
+]
