@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "luongnv89/claude-howto",
+    "description": "",
+    "language": "Python",
+    "stars": "6,688",
+    "forks": "739",
+    "link": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "27,293",
+    "forks": "3,018",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 3,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "16,764",
+    "forks": "2,041",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 4,
+    "name": "OpenBB-finance/OpenBB",
+    "description": "",
+    "language": "Python",
+    "stars": "64,027",
+    "forks": "6,308",
+    "link": "https://github.com/OpenBB-finance/OpenBB"
+  },
+  {
+    "rank": 5,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "122,932",
+    "forks": "10,019",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 6,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "42,598",
+    "forks": "3,178",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 7,
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "",
+    "language": "Python",
+    "stars": "85,291",
+    "forks": "12,423",
+    "link": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "rank": 8,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "15,350",
+    "forks": "1,221",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 9,
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "42,677",
+    "forks": "6,574",
+    "link": "https://github.com/shareAI-lab/learn-claude-code"
+  },
+  {
+    "rank": 10,
+    "name": "fastfetch-cli/fastfetch",
+    "description": "",
+    "language": "C",
+    "stars": "21,151",
+    "forks": "716",
+    "link": "https://github.com/fastfetch-cli/fastfetch"
+  },
+  {
+    "rank": 11,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "36,350",
+    "forks": "3,607",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 12,
+    "name": "twentyhq/twenty",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "42,941",
+    "forks": "5,672",
+    "link": "https://github.com/twentyhq/twenty"
+  }
+]
