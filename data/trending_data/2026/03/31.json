@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "30,380",
+    "forks": "3,348",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 2,
+    "name": "luongnv89/claude-howto",
+    "description": "",
+    "language": "Python",
+    "stars": "9,894",
+    "forks": "986",
+    "link": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "rank": 3,
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "",
+    "language": "HTML",
+    "stars": "26,153",
+    "forks": "2,191",
+    "link": "https://github.com/shanraisshan/claude-code-best-practice"
+  },
+  {
+    "rank": 4,
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "",
+    "language": "Python",
+    "stars": "86,354",
+    "forks": "12,542",
+    "link": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "rank": 5,
+    "name": "OpenBB-finance/OpenBB",
+    "description": "",
+    "language": "Python",
+    "stars": "64,535",
+    "forks": "6,348",
+    "link": "https://github.com/OpenBB-finance/OpenBB"
+  },
+  {
+    "rank": 6,
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "439,722",
+    "forks": "43,897",
+    "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "rank": 7,
+    "name": "sherlock-project/sherlock",
+    "description": "",
+    "language": "Python",
+    "stars": "74,729",
+    "forks": "8,838",
+    "link": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "rank": 8,
+    "name": "apache/superset",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "71,929",
+    "forks": "16,939",
+    "link": "https://github.com/apache/superset"
+  },
+  {
+    "rank": 9,
+    "name": "fastfetch-cli/fastfetch",
+    "description": "",
+    "language": "C",
+    "stars": "21,419",
+    "forks": "726",
+    "link": "https://github.com/fastfetch-cli/fastfetch"
+  },
+  {
+    "rank": 10,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "18,616",
+    "forks": "2,264",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  }
+]
