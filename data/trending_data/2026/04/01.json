@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "luongnv89/claude-howto",
+    "description": "",
+    "language": "Python",
+    "stars": "13,040",
+    "forks": "1,415",
+    "link": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "33,140",
+    "forks": "3,743",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 3,
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,061",
+    "forks": "1,429",
+    "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  },
+  {
+    "rank": 4,
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "",
+    "language": "HTML",
+    "stars": "28,672",
+    "forks": "2,417",
+    "link": "https://github.com/shanraisshan/claude-code-best-practice"
+  },
+  {
+    "rank": 5,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "20,379",
+    "forks": "2,468",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "128,175",
+    "forks": "10,485",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/agent-lightning",
+    "description": "",
+    "language": "Python",
+    "stars": "16,225",
+    "forks": "1,400",
+    "link": "https://github.com/microsoft/agent-lightning"
+  },
+  {
+    "rank": 8,
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "",
+    "language": "Python",
+    "stars": "74,187",
+    "forks": "10,119",
+    "link": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  {
+    "rank": 9,
+    "name": "Dimillian/Skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "2,853",
+    "forks": "151",
+    "link": "https://github.com/Dimillian/Skills"
+  },
+  {
+    "rank": 10,
+    "name": "sherlock-project/sherlock",
+    "description": "",
+    "language": "Python",
+    "stars": "75,541",
+    "forks": "8,883",
+    "link": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "rank": 11,
+    "name": "neovim/neovim",
+    "description": "",
+    "language": "Vim Script",
+    "stars": "97,941",
+    "forks": "6,708",
+    "link": "https://github.com/neovim/neovim"
+  },
+  {
+    "rank": 12,
+    "name": "vas3k/TaxHacker",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,740",
+    "forks": "595",
+    "link": "https://github.com/vas3k/TaxHacker"
+  },
+  {
+    "rank": 13,
+    "name": "OpenBMB/ChatDev",
+    "description": "",
+    "language": "Python",
+    "stars": "32,412",
+    "forks": "3,994",
+    "link": "https://github.com/OpenBMB/ChatDev"
+  },
+  {
+    "rank": 14,
+    "name": "jwasham/coding-interview-university",
+    "description": "",
+    "language": "",
+    "stars": "339,641",
+    "forks": "81,776",
+    "link": "https://github.com/jwasham/coding-interview-university"
+  }
+]
