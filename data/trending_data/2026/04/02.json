@@ -1,0 +1,65 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "Shell",
+    "stars": "100,873",
+    "forks": "15,560",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "34,451",
+    "forks": "3,919",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 3,
+    "name": "google-research/timesfm",
+    "description": "",
+    "language": "Python",
+    "stars": "12,123",
+    "forks": "1,001",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 4,
+    "name": "luongnv89/claude-howto",
+    "description": "",
+    "language": "Python",
+    "stars": "15,609",
+    "forks": "1,796",
+    "link": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "rank": 5,
+    "name": "axios/axios",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "108,868",
+    "forks": "11,585",
+    "link": "https://github.com/axios/axios"
+  },
+  {
+    "rank": 6,
+    "name": "openai/codex",
+    "description": "",
+    "language": "Rust",
+    "stars": "71,733",
+    "forks": "10,031",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 7,
+    "name": "f/prompts.chat",
+    "description": "",
+    "language": "HTML",
+    "stars": "156,020",
+    "forks": "20,486",
+    "link": "https://github.com/f/prompts.chat"
+  }
+]
