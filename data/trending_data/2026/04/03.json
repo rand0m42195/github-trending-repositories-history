@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "name": "siddharthvaddem/openscreen",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,886",
+    "forks": "1,082",
+    "link": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "rank": 2,
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,720",
+    "forks": "1,091",
+    "link": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "rank": 3,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "",
+    "stars": "36,370",
+    "forks": "6,008",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 4,
+    "name": "sherlock-project/sherlock",
+    "description": "",
+    "language": "Python",
+    "stars": "77,281",
+    "forks": "9,067",
+    "link": "https://github.com/sherlock-project/sherlock"
+  }
+]
