@@ -1,0 +1,65 @@
+[
+  {
+    "rank": 1,
+    "name": "Yeachan-Heo/oh-my-codex",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,132",
+    "forks": "1,301",
+    "link": "https://github.com/Yeachan-Heo/oh-my-codex"
+  },
+  {
+    "rank": 2,
+    "name": "onyx-dot-app/onyx",
+    "description": "",
+    "language": "Python",
+    "stars": "23,277",
+    "forks": "3,132",
+    "link": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "rank": 3,
+    "name": "google-research/timesfm",
+    "description": "",
+    "language": "Python",
+    "stars": "14,122",
+    "forks": "1,219",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 4,
+    "name": "siddharthvaddem/openscreen",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,197",
+    "forks": "1,236",
+    "link": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "rank": 5,
+    "name": "dmtrKovalenko/fff.nvim",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,258",
+    "forks": "129",
+    "link": "https://github.com/dmtrKovalenko/fff.nvim"
+  },
+  {
+    "rank": 6,
+    "name": "f/prompts.chat",
+    "description": "",
+    "language": "HTML",
+    "stars": "157,181",
+    "forks": "20,604",
+    "link": "https://github.com/f/prompts.chat"
+  },
+  {
+    "rank": 7,
+    "name": "sherlock-project/sherlock",
+    "description": "",
+    "language": "Python",
+    "stars": "78,513",
+    "forks": "9,175",
+    "link": "https://github.com/sherlock-project/sherlock"
+  }
+]
