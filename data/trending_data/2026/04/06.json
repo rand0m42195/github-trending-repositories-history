@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "google-ai-edge/gallery",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "16,951",
+    "forks": "1,557",
+    "link": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "rank": 2,
+    "name": "Blaizzy/mlx-vlm",
+    "description": "",
+    "language": "Python",
+    "stars": "3,931",
+    "forks": "421",
+    "link": "https://github.com/Blaizzy/mlx-vlm"
+  },
+  {
+    "rank": 3,
+    "name": "siddharthvaddem/openscreen",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,544",
+    "forks": "1,504",
+    "link": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "rank": 4,
+    "name": "block/goose",
+    "description": "",
+    "language": "Rust",
+    "stars": "37,045",
+    "forks": "3,544",
+    "link": "https://github.com/block/goose"
+  },
+  {
+    "rank": 5,
+    "name": "onyx-dot-app/onyx",
+    "description": "",
+    "language": "Python",
+    "stars": "25,035",
+    "forks": "3,349",
+    "link": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "rank": 6,
+    "name": "badlogic/pi-mono",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "31,925",
+    "forks": "3,474",
+    "link": "https://github.com/badlogic/pi-mono"
+  },
+  {
+    "rank": 7,
+    "name": "dmtrKovalenko/fff.nvim",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,698",
+    "forks": "150",
+    "link": "https://github.com/dmtrKovalenko/fff.nvim"
+  },
+  {
+    "rank": 8,
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "stars": "1,562",
+    "forks": "184",
+    "link": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "rank": 9,
+    "name": "telegramdesktop/tdesktop",
+    "description": "",
+    "language": "C++",
+    "stars": "31,071",
+    "forks": "6,537",
+    "link": "https://github.com/telegramdesktop/tdesktop"
+  },
+  {
+    "rank": 10,
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "441,511",
+    "forks": "44,102",
+    "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+  }
+]
