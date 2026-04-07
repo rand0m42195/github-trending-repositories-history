@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,456",
+    "forks": "2,642",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 2,
+    "name": "google-ai-edge/gallery",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "17,871",
+    "forks": "1,658",
+    "link": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "rank": 3,
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "stars": "2,011",
+    "forks": "212",
+    "link": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "rank": 4,
+    "name": "immich-app/immich",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "96,853",
+    "forks": "5,288",
+    "link": "https://github.com/immich-app/immich"
+  },
+  {
+    "rank": 5,
+    "name": "KeygraphHQ/shannon",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "36,529",
+    "forks": "3,827",
+    "link": "https://github.com/KeygraphHQ/shannon"
+  },
+  {
+    "rank": 6,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "28,120",
+    "forks": "3,703",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 7,
+    "name": "tobi/qmd",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,751",
+    "forks": "1,141",
+    "link": "https://github.com/tobi/qmd"
+  },
+  {
+    "rank": 8,
+    "name": "TelegramMessenger/Telegram-iOS",
+    "description": "",
+    "language": "Swift",
+    "stars": "8,315",
+    "forks": "2,529",
+    "link": "https://github.com/TelegramMessenger/Telegram-iOS"
+  },
+  {
+    "rank": 9,
+    "name": "kepano/obsidian-skills",
+    "description": "",
+    "language": "",
+    "stars": "20,547",
+    "forks": "1,273",
+    "link": "https://github.com/kepano/obsidian-skills"
+  },
+  {
+    "rank": 10,
+    "name": "ollama/ollama",
+    "description": "",
+    "language": "Go",
+    "stars": "167,695",
+    "forks": "15,390",
+    "link": "https://github.com/ollama/ollama"
+  },
+  {
+    "rank": 11,
+    "name": "ggml-org/llama.cpp",
+    "description": "",
+    "language": "C++",
+    "stars": "102,046",
+    "forks": "16,466",
+    "link": "https://github.com/ggml-org/llama.cpp"
+  },
+  {
+    "rank": 12,
+    "name": "siddharthvaddem/openscreen",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,995",
+    "forks": "1,606",
+    "link": "https://github.com/siddharthvaddem/openscreen"
+  },
+  {
+    "rank": 13,
+    "name": "NVIDIA/personaplex",
+    "description": "",
+    "language": "Python",
+    "stars": "7,357",
+    "forks": "1,089",
+    "link": "https://github.com/NVIDIA/personaplex"
+  }
+]
