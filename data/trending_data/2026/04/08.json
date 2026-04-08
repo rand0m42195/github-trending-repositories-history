@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "google-ai-edge/gallery",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "18,780",
+    "forks": "1,753",
+    "link": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "rank": 2,
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "stars": "2,542",
+    "forks": "252",
+    "link": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "rank": 3,
+    "name": "NVIDIA/personaplex",
+    "description": "",
+    "language": "Python",
+    "stars": "7,950",
+    "forks": "1,156",
+    "link": "https://github.com/NVIDIA/personaplex"
+  },
+  {
+    "rank": 4,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,506",
+    "forks": "2,730",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 5,
+    "name": "tobi/qmd",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,551",
+    "forks": "1,176",
+    "link": "https://github.com/tobi/qmd"
+  },
+  {
+    "rank": 6,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "8,055",
+    "forks": "567",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 7,
+    "name": "elebumm/RedditVideoMakerBot",
+    "description": "",
+    "language": "Python",
+    "stars": "10,035",
+    "forks": "2,523",
+    "link": "https://github.com/elebumm/RedditVideoMakerBot"
+  },
+  {
+    "rank": 8,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "12,201",
+    "forks": "1,665",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 9,
+    "name": "TheCraigHewitt/seomachine",
+    "description": "",
+    "language": "Python",
+    "stars": "3,893",
+    "forks": "659",
+    "link": "https://github.com/TheCraigHewitt/seomachine"
+  }
+]
