@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "8,991",
+    "forks": "624",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 2,
+    "name": "TheCraigHewitt/seomachine",
+    "description": "",
+    "language": "Python",
+    "stars": "4,585",
+    "forks": "710",
+    "link": "https://github.com/TheCraigHewitt/seomachine"
+  },
+  {
+    "rank": 3,
+    "name": "google-ai-edge/gallery",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "19,504",
+    "forks": "1,820",
+    "link": "https://github.com/google-ai-edge/gallery"
+  },
+  {
+    "rank": 4,
+    "name": "NVIDIA/personaplex",
+    "description": "",
+    "language": "Python",
+    "stars": "8,413",
+    "forks": "1,205",
+    "link": "https://github.com/NVIDIA/personaplex"
+  },
+  {
+    "rank": 5,
+    "name": "google-ai-edge/LiteRT-LM",
+    "description": "",
+    "language": "C++",
+    "stars": "2,988",
+    "forks": "281",
+    "link": "https://github.com/google-ai-edge/LiteRT-LM"
+  },
+  {
+    "rank": 6,
+    "name": "elebumm/RedditVideoMakerBot",
+    "description": "",
+    "language": "Python",
+    "stars": "10,484",
+    "forks": "2,577",
+    "link": "https://github.com/elebumm/RedditVideoMakerBot"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "141,524",
+    "forks": "12,075",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "newton-physics/newton",
+    "description": "",
+    "language": "Python",
+    "stars": "4,092",
+    "forks": "424",
+    "link": "https://github.com/newton-physics/newton"
+  },
+  {
+    "rank": 9,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,300",
+    "forks": "2,815",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 10,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "50,680",
+    "forks": "8,793",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 11,
+    "name": "goharbor/harbor",
+    "description": "",
+    "language": "Go",
+    "stars": "28,116",
+    "forks": "5,173",
+    "link": "https://github.com/goharbor/harbor"
+  }
+]
