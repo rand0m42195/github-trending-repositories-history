@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "44,462",
+    "forks": "5,729",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 2,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "10,469",
+    "forks": "701",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 3,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "14,877",
+    "forks": "1,987",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 4,
+    "name": "OpenBMB/VoxCPM",
+    "description": "",
+    "language": "Python",
+    "stars": "7,659",
+    "forks": "911",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 5,
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "",
+    "language": "Java",
+    "stars": "13,802",
+    "forks": "1,157",
+    "link": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "143,749",
+    "forks": "12,285",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 7,
+    "name": "TheCraigHewitt/seomachine",
+    "description": "",
+    "language": "Python",
+    "stars": "5,209",
+    "forks": "758",
+    "link": "https://github.com/TheCraigHewitt/seomachine"
+  },
+  {
+    "rank": 8,
+    "name": "coleam00/Archon",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,422",
+    "forks": "2,465",
+    "link": "https://github.com/coleam00/Archon"
+  },
+  {
+    "rank": 9,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "12,186",
+    "forks": "2,509",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 10,
+    "name": "YishenTu/claudian",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,829",
+    "forks": "401",
+    "link": "https://github.com/YishenTu/claudian"
+  }
+]
