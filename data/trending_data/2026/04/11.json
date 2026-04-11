@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "99,715",
+    "forks": "6,104",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 2,
+    "name": "coleam00/Archon",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,633",
+    "forks": "2,547",
+    "link": "https://github.com/coleam00/Archon"
+  },
+  {
+    "rank": 3,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "52,011",
+    "forks": "6,760",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 4,
+    "name": "rowboatlabs/rowboat",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,736",
+    "forks": "1,093",
+    "link": "https://github.com/rowboatlabs/rowboat"
+  },
+  {
+    "rank": 5,
+    "name": "multica-ai/multica",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,093",
+    "forks": "750",
+    "link": "https://github.com/multica-ai/multica"
+  },
+  {
+    "rank": 6,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "11,739",
+    "forks": "774",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 7,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "12,717",
+    "forks": "2,550",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 8,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "15,984",
+    "forks": "2,102",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 9,
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "",
+    "language": "Java",
+    "stars": "14,797",
+    "forks": "1,249",
+    "link": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "rank": 10,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "145,752",
+    "forks": "12,497",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 11,
+    "name": "jqlang/jq",
+    "description": "",
+    "language": "C",
+    "stars": "34,297",
+    "forks": "1,760",
+    "link": "https://github.com/jqlang/jq"
+  },
+  {
+    "rank": 12,
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "",
+    "language": "HTML",
+    "stars": "35,774",
+    "forks": "3,373",
+    "link": "https://github.com/shanraisshan/claude-code-best-practice"
+  }
+]
