@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "59,004",
+    "forks": "7,834",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "102,228",
+    "forks": "6,321",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 3,
+    "name": "coleam00/Archon",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,474",
+    "forks": "2,640",
+    "link": "https://github.com/coleam00/Archon"
+  },
+  {
+    "rank": 4,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "13,626",
+    "forks": "928",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 5,
+    "name": "multica-ai/multica",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,934",
+    "forks": "1,011",
+    "link": "https://github.com/multica-ai/multica"
+  },
+  {
+    "rank": 6,
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "",
+    "language": "HTML",
+    "stars": "37,076",
+    "forks": "3,471",
+    "link": "https://github.com/shanraisshan/claude-code-best-practice"
+  },
+  {
+    "rank": 7,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "",
+    "language": "Roff",
+    "stars": "67,783",
+    "forks": "15,138",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "rank": 8,
+    "name": "OpenBMB/VoxCPM",
+    "description": "",
+    "language": "Python",
+    "stars": "9,913",
+    "forks": "1,157",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 9,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "14,276",
+    "forks": "2,813",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 10,
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "",
+    "language": "Java",
+    "stars": "15,619",
+    "forks": "1,326",
+    "link": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "rank": 11,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "16,778",
+    "forks": "2,206",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 12,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "147,174",
+    "forks": "12,638",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 13,
+    "name": "alexpate/awesome-design-systems",
+    "description": "",
+    "language": "",
+    "stars": "22,390",
+    "forks": "1,385",
+    "link": "https://github.com/alexpate/awesome-design-systems"
+  }
+]
