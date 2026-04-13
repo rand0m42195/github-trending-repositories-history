@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "66,722",
+    "forks": "8,930",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 2,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "15,796",
+    "forks": "3,019",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 3,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "16,894",
+    "forks": "1,251",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 4,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "104,731",
+    "forks": "6,538",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 5,
+    "name": "multica-ai/multica",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,425",
+    "forks": "1,198",
+    "link": "https://github.com/multica-ai/multica"
+  },
+  {
+    "rank": 6,
+    "name": "coleam00/Archon",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,065",
+    "forks": "2,709",
+    "link": "https://github.com/coleam00/Archon"
+  },
+  {
+    "rank": 7,
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "",
+    "language": "HTML",
+    "stars": "39,061",
+    "forks": "3,684",
+    "link": "https://github.com/shanraisshan/claude-code-best-practice"
+  },
+  {
+    "rank": 8,
+    "name": "OpenBMB/VoxCPM",
+    "description": "",
+    "language": "Python",
+    "stars": "11,323",
+    "forks": "1,313",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 9,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "50,078",
+    "forks": "3,955",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 10,
+    "name": "ahujasid/blender-mcp",
+    "description": "",
+    "language": "Python",
+    "stars": "19,158",
+    "forks": "1,864",
+    "link": "https://github.com/ahujasid/blender-mcp"
+  },
+  {
+    "rank": 11,
+    "name": "rustfs/rustfs",
+    "description": "",
+    "language": "Rust",
+    "stars": "25,230",
+    "forks": "1,074",
+    "link": "https://github.com/rustfs/rustfs"
+  },
+  {
+    "rank": 12,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "52,188",
+    "forks": "9,052",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 13,
+    "name": "snarktank/ralph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,942",
+    "forks": "1,589",
+    "link": "https://github.com/snarktank/ralph"
+  },
+  {
+    "rank": 14,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "",
+    "language": "Roff",
+    "stars": "68,244",
+    "forks": "15,232",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  }
+]
