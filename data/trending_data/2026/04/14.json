@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "25,275",
+    "forks": "2,054",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 2,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "77,197",
+    "forks": "10,326",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 3,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "17,029",
+    "forks": "3,206",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 4,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "53,323",
+    "forks": "4,257",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "106,965",
+    "forks": "6,740",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 6,
+    "name": "multica-ai/multica",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,142",
+    "forks": "1,392",
+    "link": "https://github.com/multica-ai/multica"
+  },
+  {
+    "rank": 7,
+    "name": "coleam00/Archon",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,623",
+    "forks": "2,776",
+    "link": "https://github.com/coleam00/Archon"
+  },
+  {
+    "rank": 8,
+    "name": "snarktank/ralph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,523",
+    "forks": "1,635",
+    "link": "https://github.com/snarktank/ralph"
+  },
+  {
+    "rank": 9,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "52,959",
+    "forks": "9,192",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 10,
+    "name": "anthropics/claude-cookbooks",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "39,520",
+    "forks": "4,397",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 11,
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "",
+    "language": "HTML",
+    "stars": "41,797",
+    "forks": "3,975",
+    "link": "https://github.com/shanraisshan/claude-code-best-practice"
+  },
+  {
+    "rank": 12,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,325",
+    "forks": "1,944",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 13,
+    "name": "ahujasid/blender-mcp",
+    "description": "",
+    "language": "Python",
+    "stars": "19,498",
+    "forks": "1,883",
+    "link": "https://github.com/ahujasid/blender-mcp"
+  },
+  {
+    "rank": 14,
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "",
+    "language": "Python",
+    "stars": "90,239",
+    "forks": "13,129",
+    "link": "https://github.com/hacksider/Deep-Live-Cam"
+  },
+  {
+    "rank": 15,
+    "name": "gsd-build/get-shit-done",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "52,119",
+    "forks": "4,369",
+    "link": "https://github.com/gsd-build/get-shit-done"
+  },
+  {
+    "rank": 16,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "",
+    "language": "Roff",
+    "stars": "68,908",
+    "forks": "15,371",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  }
+]
