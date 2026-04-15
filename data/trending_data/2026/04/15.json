@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "33,919",
+    "forks": "2,782",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 2,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "55,818",
+    "forks": "4,485",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 3,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,349",
+    "forks": "2,032",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 4,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,652",
+    "forks": "1,476",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "108,478",
+    "forks": "6,869",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "152,301",
+    "forks": "13,210",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 7,
+    "name": "chrislgarry/Apollo-11",
+    "description": "",
+    "language": "Assembly",
+    "stars": "66,367",
+    "forks": "7,581",
+    "link": "https://github.com/chrislgarry/Apollo-11"
+  },
+  {
+    "rank": 8,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "54,149",
+    "forks": "9,387",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 9,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "17,806",
+    "forks": "3,307",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 10,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "84,398",
+    "forks": "11,403",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 11,
+    "name": "anthropics/claude-cookbooks",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "40,258",
+    "forks": "4,447",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 12,
+    "name": "shanraisshan/claude-code-best-practice",
+    "description": "",
+    "language": "HTML",
+    "stars": "43,809",
+    "forks": "4,188",
+    "link": "https://github.com/shanraisshan/claude-code-best-practice"
+  }
+]
