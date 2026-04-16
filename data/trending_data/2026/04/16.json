@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "43,094",
+    "forks": "3,491",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 2,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,656",
+    "forks": "1,552",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 3,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "57,860",
+    "forks": "4,678",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 4,
+    "name": "Lordog/dive-into-llms",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "29,455",
+    "forks": "3,579",
+    "link": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "rank": 5,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "55,067",
+    "forks": "9,558",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 6,
+    "name": "chrislgarry/Apollo-11",
+    "description": "",
+    "language": "Assembly",
+    "stars": "66,808",
+    "forks": "7,608",
+    "link": "https://github.com/chrislgarry/Apollo-11"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "154,317",
+    "forks": "13,400",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,297",
+    "forks": "2,130",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 9,
+    "name": "public-apis/public-apis",
+    "description": "",
+    "language": "Python",
+    "stars": "423,357",
+    "forks": "46,090",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 10,
+    "name": "vercel-labs/open-agents",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,648",
+    "forks": "291",
+    "link": "https://github.com/vercel-labs/open-agents"
+  },
+  {
+    "rank": 11,
+    "name": "lsdefine/GenericAgent",
+    "description": "",
+    "language": "Python",
+    "stars": "1,948",
+    "forks": "245",
+    "link": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "rank": 12,
+    "name": "google/magika",
+    "description": "",
+    "language": "Python",
+    "stars": "13,796",
+    "forks": "726",
+    "link": "https://github.com/google/magika"
+  },
+  {
+    "rank": 13,
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "description": "",
+    "language": "Shell",
+    "stars": "10,469",
+    "forks": "1,587",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+  }
+]
