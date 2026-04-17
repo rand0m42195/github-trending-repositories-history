@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "49,957",
+    "forks": "4,119",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 2,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "59,774",
+    "forks": "4,905",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 3,
+    "name": "lsdefine/GenericAgent",
+    "description": "",
+    "language": "Python",
+    "stars": "2,782",
+    "forks": "319",
+    "link": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "rank": 4,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,071",
+    "forks": "2,201",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 5,
+    "name": "vercel-labs/open-agents",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,208",
+    "forks": "350",
+    "link": "https://github.com/vercel-labs/open-agents"
+  },
+  {
+    "rank": 6,
+    "name": "google/magika",
+    "description": "",
+    "language": "Python",
+    "stars": "14,767",
+    "forks": "794",
+    "link": "https://github.com/google/magika"
+  },
+  {
+    "rank": 7,
+    "name": "steipete/wacli",
+    "description": "",
+    "language": "Go",
+    "stars": "1,684",
+    "forks": "198",
+    "link": "https://github.com/steipete/wacli"
+  },
+  {
+    "rank": 8,
+    "name": "topoteretes/cognee",
+    "description": "",
+    "language": "Python",
+    "stars": "15,809",
+    "forks": "1,630",
+    "link": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "rank": 9,
+    "name": "z-lab/dflash",
+    "description": "",
+    "language": "Python",
+    "stars": "1,606",
+    "forks": "110",
+    "link": "https://github.com/z-lab/dflash"
+  },
+  {
+    "rank": 10,
+    "name": "Lordog/dive-into-llms",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "30,700",
+    "forks": "3,718",
+    "link": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "rank": 11,
+    "name": "openai/openai-agents-python",
+    "description": "",
+    "language": "Python",
+    "stars": "21,246",
+    "forks": "3,453",
+    "link": "https://github.com/openai/openai-agents-python"
+  },
+  {
+    "rank": 12,
+    "name": "EvoMap/evolver",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "3,170",
+    "forks": "339",
+    "link": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "rank": 13,
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "",
+    "language": "Shell",
+    "stars": "2,239",
+    "forks": "251",
+    "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+  },
+  {
+    "rank": 14,
+    "name": "BasedHardware/omi",
+    "description": "",
+    "language": "Dart",
+    "stars": "9,118",
+    "forks": "1,620",
+    "link": "https://github.com/BasedHardware/omi"
+  }
+]
