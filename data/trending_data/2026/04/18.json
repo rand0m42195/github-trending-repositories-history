@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "EvoMap/evolver",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "4,251",
+    "forks": "418",
+    "link": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "rank": 2,
+    "name": "lsdefine/GenericAgent",
+    "description": "",
+    "language": "Python",
+    "stars": "3,632",
+    "forks": "387",
+    "link": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "rank": 3,
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "",
+    "language": "Shell",
+    "stars": "2,748",
+    "forks": "285",
+    "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+  },
+  {
+    "rank": 4,
+    "name": "BasedHardware/omi",
+    "description": "",
+    "language": "Dart",
+    "stars": "9,841",
+    "forks": "1,672",
+    "link": "https://github.com/BasedHardware/omi"
+  },
+  {
+    "rank": 5,
+    "name": "Lordog/dive-into-llms",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "31,524",
+    "forks": "3,842",
+    "link": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "rank": 6,
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "description": "",
+    "language": "Shell",
+    "stars": "11,796",
+    "forks": "1,718",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+  },
+  {
+    "rank": 7,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,860",
+    "forks": "2,278",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 8,
+    "name": "lukilabs/craft-agents-oss",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,300",
+    "forks": "635",
+    "link": "https://github.com/lukilabs/craft-agents-oss"
+  },
+  {
+    "rank": 9,
+    "name": "Tracer-Cloud/opensre",
+    "description": "",
+    "language": "Python",
+    "stars": "1,457",
+    "forks": "170",
+    "link": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "rank": 10,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "157,773",
+    "forks": "13,724",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 11,
+    "name": "z-lab/dflash",
+    "description": "",
+    "language": "Python",
+    "stars": "1,804",
+    "forks": "119",
+    "link": "https://github.com/z-lab/dflash"
+  },
+  {
+    "rank": 12,
+    "name": "openai/openai-agents-python",
+    "description": "",
+    "language": "Python",
+    "stars": "21,814",
+    "forks": "3,489",
+    "link": "https://github.com/openai/openai-agents-python"
+  },
+  {
+    "rank": 13,
+    "name": "google/magika",
+    "description": "",
+    "language": "Python",
+    "stars": "15,470",
+    "forks": "852",
+    "link": "https://github.com/google/magika"
+  },
+  {
+    "rank": 14,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,446",
+    "forks": "1,780",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 15,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "35,855",
+    "forks": "2,193",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  }
+]
