@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "thunderbird/thunderbolt",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,576",
+    "forks": "80",
+    "link": "https://github.com/thunderbird/thunderbolt"
+  },
+  {
+    "rank": 2,
+    "name": "BasedHardware/omi",
+    "description": "",
+    "language": "Dart",
+    "stars": "10,464",
+    "forks": "1,719",
+    "link": "https://github.com/BasedHardware/omi"
+  },
+  {
+    "rank": 3,
+    "name": "openai/openai-agents-python",
+    "description": "",
+    "language": "Python",
+    "stars": "22,340",
+    "forks": "3,549",
+    "link": "https://github.com/openai/openai-agents-python"
+  },
+  {
+    "rank": 4,
+    "name": "EvoMap/evolver",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "5,014",
+    "forks": "490",
+    "link": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "rank": 5,
+    "name": "deepseek-ai/DeepGEMM",
+    "description": "",
+    "language": "Cuda",
+    "stars": "6,541",
+    "forks": "877",
+    "link": "https://github.com/deepseek-ai/DeepGEMM"
+  },
+  {
+    "rank": 6,
+    "name": "Lordog/dive-into-llms",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "32,028",
+    "forks": "3,897",
+    "link": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "rank": 7,
+    "name": "aaddrick/claude-desktop-debian",
+    "description": "",
+    "language": "Shell",
+    "stars": "3,475",
+    "forks": "380",
+    "link": "https://github.com/aaddrick/claude-desktop-debian"
+  },
+  {
+    "rank": 8,
+    "name": "rustdesk/rustdesk",
+    "description": "",
+    "language": "Rust",
+    "stars": "112,104",
+    "forks": "16,762",
+    "link": "https://github.com/rustdesk/rustdesk"
+  },
+  {
+    "rank": 9,
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "",
+    "language": "Shell",
+    "stars": "3,137",
+    "forks": "319",
+    "link": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+  },
+  {
+    "rank": 10,
+    "name": "tractorjuice/arc-kit",
+    "description": "",
+    "language": "HTML",
+    "stars": "741",
+    "forks": "102",
+    "link": "https://github.com/tractorjuice/arc-kit"
+  }
+]
