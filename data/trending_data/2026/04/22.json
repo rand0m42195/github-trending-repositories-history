@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "",
+    "language": "Python",
+    "stars": "11,629",
+    "forks": "1,526",
+    "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "rank": 2,
+    "name": "thunderbird/thunderbolt",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,477",
+    "forks": "204",
+    "link": "https://github.com/thunderbird/thunderbolt"
+  },
+  {
+    "rank": 3,
+    "name": "zilliztech/claude-context",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,617",
+    "forks": "569",
+    "link": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "rank": 4,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "48,895",
+    "forks": "6,514",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "57,683",
+    "forks": "19,871",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 6,
+    "name": "dayanch96/YTLite",
+    "description": "",
+    "language": "Logos",
+    "stars": "4,835",
+    "forks": "20,139",
+    "link": "https://github.com/dayanch96/YTLite"
+  },
+  {
+    "rank": 7,
+    "name": "HKUDS/RAG-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "16,890",
+    "forks": "2,000",
+    "link": "https://github.com/HKUDS/RAG-Anything"
+  },
+  {
+    "rank": 8,
+    "name": "sansan0/TrendRadar",
+    "description": "",
+    "language": "Python",
+    "stars": "53,656",
+    "forks": "23,540",
+    "link": "https://github.com/sansan0/TrendRadar"
+  }
+]
