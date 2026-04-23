@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "zilliztech/claude-context",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,541",
+    "forks": "624",
+    "link": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "rank": 2,
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "",
+    "language": "Python",
+    "stars": "13,120",
+    "forks": "1,719",
+    "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "rank": 3,
+    "name": "koala73/worldmonitor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "51,597",
+    "forks": "8,303",
+    "link": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "rank": 4,
+    "name": "langfuse/langfuse",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,625",
+    "forks": "2,596",
+    "link": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "rank": 5,
+    "name": "KeygraphHQ/shannon",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "39,595",
+    "forks": "4,365",
+    "link": "https://github.com/KeygraphHQ/shannon"
+  },
+  {
+    "rank": 6,
+    "name": "open-metadata/OpenMetadata",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,192",
+    "forks": "1,991",
+    "link": "https://github.com/open-metadata/OpenMetadata"
+  },
+  {
+    "rank": 7,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "49,382",
+    "forks": "6,555",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 8,
+    "name": "HKUDS/RAG-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "17,554",
+    "forks": "2,060",
+    "link": "https://github.com/HKUDS/RAG-Anything"
+  },
+  {
+    "rank": 9,
+    "name": "sansan0/TrendRadar",
+    "description": "",
+    "language": "Python",
+    "stars": "54,450",
+    "forks": "23,657",
+    "link": "https://github.com/sansan0/TrendRadar"
+  },
+  {
+    "rank": 10,
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "",
+    "language": "Python",
+    "stars": "5,584",
+    "forks": "896",
+    "link": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "rank": 11,
+    "name": "Z4nzu/hackingtool",
+    "description": "",
+    "language": "Python",
+    "stars": "59,689",
+    "forks": "6,717",
+    "link": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "rank": 12,
+    "name": "vercel-labs/skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,495",
+    "forks": "1,272",
+    "link": "https://github.com/vercel-labs/skills"
+  }
+]
