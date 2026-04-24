@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "huggingface/ml-intern",
+    "description": "",
+    "language": "Python",
+    "stars": "3,347",
+    "forks": "286",
+    "link": "https://github.com/huggingface/ml-intern"
+  },
+  {
+    "rank": 2,
+    "name": "zilliztech/claude-context",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,430",
+    "forks": "661",
+    "link": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "rank": 3,
+    "name": "HKUDS/RAG-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "18,167",
+    "forks": "2,099",
+    "link": "https://github.com/HKUDS/RAG-Anything"
+  },
+  {
+    "rank": 4,
+    "name": "Z4nzu/hackingtool",
+    "description": "",
+    "language": "Python",
+    "stars": "61,073",
+    "forks": "6,840",
+    "link": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "rank": 5,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "49,838",
+    "forks": "6,589",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 6,
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "6,961",
+    "forks": "1,334",
+    "link": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "rank": 7,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "5,603",
+    "forks": "946",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 8,
+    "name": "open-metadata/OpenMetadata",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,943",
+    "forks": "2,016",
+    "link": "https://github.com/open-metadata/OpenMetadata"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "58,804",
+    "forks": "20,033",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 10,
+    "name": "PowerShell/PowerShell",
+    "description": "",
+    "language": "C#",
+    "stars": "52,788",
+    "forks": "8,275",
+    "link": "https://github.com/PowerShell/PowerShell"
+  },
+  {
+    "rank": 11,
+    "name": "cline/cline",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "60,822",
+    "forks": "6,254",
+    "link": "https://github.com/cline/cline"
+  },
+  {
+    "rank": 12,
+    "name": "microsoft/onnxruntime",
+    "description": "",
+    "language": "C++",
+    "stars": "20,186",
+    "forks": "3,855",
+    "link": "https://github.com/microsoft/onnxruntime"
+  },
+  {
+    "rank": 13,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,446",
+    "forks": "656",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 14,
+    "name": "coreyhaines31/marketingskills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "23,844",
+    "forks": "3,798",
+    "link": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "rank": 15,
+    "name": "chiphuyen/aie-book",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "15,182",
+    "forks": "2,185",
+    "link": "https://github.com/chiphuyen/aie-book"
+  },
+  {
+    "rank": 16,
+    "name": "VoltAgent/awesome-agent-skills",
+    "description": "",
+    "language": "",
+    "stars": "18,100",
+    "forks": "1,929",
+    "link": "https://github.com/VoltAgent/awesome-agent-skills"
+  }
+]
