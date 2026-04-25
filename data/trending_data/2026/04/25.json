@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "8,961",
+    "forks": "1,330",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 2,
+    "name": "huggingface/ml-intern",
+    "description": "",
+    "language": "Python",
+    "stars": "5,353",
+    "forks": "456",
+    "link": "https://github.com/huggingface/ml-intern"
+  },
+  {
+    "rank": 3,
+    "name": "google/osv-scanner",
+    "description": "",
+    "language": "Go",
+    "stars": "9,509",
+    "forks": "619",
+    "link": "https://github.com/google/osv-scanner"
+  },
+  {
+    "rank": 4,
+    "name": "Z4nzu/hackingtool",
+    "description": "",
+    "language": "Python",
+    "stars": "62,377",
+    "forks": "6,990",
+    "link": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "rank": 5,
+    "name": "zilliztech/claude-context",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,012",
+    "forks": "690",
+    "link": "https://github.com/zilliztech/claude-context"
+  },
+  {
+    "rank": 6,
+    "name": "open-metadata/OpenMetadata",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,353",
+    "forks": "2,037",
+    "link": "https://github.com/open-metadata/OpenMetadata"
+  },
+  {
+    "rank": 7,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "33,113",
+    "forks": "2,583",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 8,
+    "name": "dani-garcia/vaultwarden",
+    "description": "",
+    "language": "Rust",
+    "stars": "59,173",
+    "forks": "2,727",
+    "link": "https://github.com/dani-garcia/vaultwarden"
+  },
+  {
+    "rank": 9,
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "7,695",
+    "forks": "1,417",
+    "link": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "rank": 10,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "494,781",
+    "forks": "46,867",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 11,
+    "name": "deepseek-ai/DeepEP",
+    "description": "",
+    "language": "Cuda",
+    "stars": "9,334",
+    "forks": "1,181",
+    "link": "https://github.com/deepseek-ai/DeepEP"
+  },
+  {
+    "rank": 12,
+    "name": "microsoft/typescript-go",
+    "description": "",
+    "language": "Go",
+    "stars": "25,018",
+    "forks": "907",
+    "link": "https://github.com/microsoft/typescript-go"
+  }
+]
