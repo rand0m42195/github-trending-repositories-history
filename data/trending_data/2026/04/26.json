@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "11,506",
+    "forks": "1,717",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "20,079",
+    "forks": "1,673",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "Z4nzu/hackingtool",
+    "description": "",
+    "language": "Python",
+    "stars": "63,898",
+    "forks": "7,160",
+    "link": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "rank": 4,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "33,503",
+    "forks": "2,605",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 5,
+    "name": "davila7/claude-code-templates",
+    "description": "",
+    "language": "Python",
+    "stars": "25,352",
+    "forks": "2,529",
+    "link": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "rank": 6,
+    "name": "deepseek-ai/DeepEP",
+    "description": "",
+    "language": "Cuda",
+    "stars": "9,495",
+    "forks": "1,197",
+    "link": "https://github.com/deepseek-ai/DeepEP"
+  },
+  {
+    "rank": 7,
+    "name": "PowerShell/PowerShell",
+    "description": "",
+    "language": "C#",
+    "stars": "53,073",
+    "forks": "8,298",
+    "link": "https://github.com/PowerShell/PowerShell"
+  },
+  {
+    "rank": 8,
+    "name": "RooCodeInc/Roo-Code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,510",
+    "forks": "3,123",
+    "link": "https://github.com/RooCodeInc/Roo-Code"
+  },
+  {
+    "rank": 9,
+    "name": "huggingface/ml-intern",
+    "description": "",
+    "language": "Python",
+    "stars": "6,246",
+    "forks": "563",
+    "link": "https://github.com/huggingface/ml-intern"
+  },
+  {
+    "rank": 10,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "495,992",
+    "forks": "47,009",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 11,
+    "name": "CJackHwang/ds2api",
+    "description": "",
+    "language": "Go",
+    "stars": "1,413",
+    "forks": "455",
+    "link": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "rank": 12,
+    "name": "Universal-Commerce-Protocol/ucp",
+    "description": "",
+    "language": "Python",
+    "stars": "2,791",
+    "forks": "349",
+    "link": "https://github.com/Universal-Commerce-Protocol/ucp"
+  },
+  {
+    "rank": 13,
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "1,487",
+    "forks": "133",
+    "link": "https://github.com/ComposioHQ/awesome-codex-skills"
+  }
+]
