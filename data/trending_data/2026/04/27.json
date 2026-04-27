@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "23,826",
+    "forks": "1,928",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 2,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "13,663",
+    "forks": "1,959",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 3,
+    "name": "Z4nzu/hackingtool",
+    "description": "",
+    "language": "Python",
+    "stars": "65,519",
+    "forks": "7,347",
+    "link": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "rank": 4,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "30,200",
+    "forks": "3,485",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 5,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "33,844",
+    "forks": "2,633",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 6,
+    "name": "microsoft/typescript-go",
+    "description": "",
+    "language": "Go",
+    "stars": "25,163",
+    "forks": "921",
+    "link": "https://github.com/microsoft/typescript-go"
+  },
+  {
+    "rank": 7,
+    "name": "trycua/cua",
+    "description": "",
+    "language": "HTML",
+    "stars": "14,393",
+    "forks": "900",
+    "link": "https://github.com/trycua/cua"
+  },
+  {
+    "rank": 8,
+    "name": "gastownhall/beads",
+    "description": "",
+    "language": "Go",
+    "stars": "21,691",
+    "forks": "1,439",
+    "link": "https://github.com/gastownhall/beads"
+  },
+  {
+    "rank": 9,
+    "name": "curl/curl",
+    "description": "",
+    "language": "C",
+    "stars": "41,541",
+    "forks": "7,153",
+    "link": "https://github.com/curl/curl"
+  },
+  {
+    "rank": 10,
+    "name": "home-assistant/core",
+    "description": "",
+    "language": "Python",
+    "stars": "86,526",
+    "forks": "37,361",
+    "link": "https://github.com/home-assistant/core"
+  },
+  {
+    "rank": 11,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "496,816",
+    "forks": "47,081",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 12,
+    "name": "openclaw/openclaw",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "364,635",
+    "forks": "74,668",
+    "link": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "rank": 13,
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "1,996",
+    "forks": "158",
+    "link": "https://github.com/ComposioHQ/awesome-codex-skills"
+  }
+]
