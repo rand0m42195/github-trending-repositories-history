@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "30,463",
+    "forks": "2,387",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 2,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "31,564",
+    "forks": "3,609",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 3,
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "2,825",
+    "forks": "202",
+    "link": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "rank": 4,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "16,151",
+    "forks": "2,246",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 5,
+    "name": "gastownhall/beads",
+    "description": "",
+    "language": "Go",
+    "stars": "22,212",
+    "forks": "1,459",
+    "link": "https://github.com/gastownhall/beads"
+  },
+  {
+    "rank": 6,
+    "name": "penpot/penpot",
+    "description": "",
+    "language": "Clojure",
+    "stars": "46,629",
+    "forks": "2,797",
+    "link": "https://github.com/penpot/penpot"
+  },
+  {
+    "rank": 7,
+    "name": "davila7/claude-code-templates",
+    "description": "",
+    "language": "Python",
+    "stars": "25,792",
+    "forks": "2,593",
+    "link": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "rank": 8,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "43,131",
+    "forks": "4,894",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 9,
+    "name": "Z4nzu/hackingtool",
+    "description": "",
+    "language": "Python",
+    "stars": "67,125",
+    "forks": "7,524",
+    "link": "https://github.com/Z4nzu/hackingtool"
+  },
+  {
+    "rank": 10,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "53,808",
+    "forks": "9,777",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 11,
+    "name": "CJackHwang/ds2api",
+    "description": "",
+    "language": "Go",
+    "stars": "1,846",
+    "forks": "569",
+    "link": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "rank": 12,
+    "name": "deepseek-ai/DeepSeek-V3",
+    "description": "",
+    "language": "Python",
+    "stars": "103,109",
+    "forks": "16,698",
+    "link": "https://github.com/deepseek-ai/DeepSeek-V3"
+  },
+  {
+    "rank": 13,
+    "name": "donnemartin/system-design-primer",
+    "description": "",
+    "language": "Python",
+    "stars": "345,183",
+    "forks": "55,765",
+    "link": "https://github.com/donnemartin/system-design-primer"
+  }
+]
