@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "37,592",
+    "forks": "2,948",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 2,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "32,656",
+    "forks": "3,707",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 3,
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "4,020",
+    "forks": "257",
+    "link": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "rank": 4,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "44,848",
+    "forks": "4,975",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 5,
+    "name": "davila7/claude-code-templates",
+    "description": "",
+    "language": "Python",
+    "stars": "26,167",
+    "forks": "2,615",
+    "link": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "rank": 6,
+    "name": "HunxByts/GhostTrack",
+    "description": "",
+    "language": "Python",
+    "stars": "10,650",
+    "forks": "1,495",
+    "link": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "rank": 7,
+    "name": "fspecii/ace-step-ui",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "1,701",
+    "forks": "260",
+    "link": "https://github.com/fspecii/ace-step-ui"
+  },
+  {
+    "rank": 8,
+    "name": "public-apis/public-apis",
+    "description": "",
+    "language": "Python",
+    "stars": "428,194",
+    "forks": "46,752",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 9,
+    "name": "CJackHwang/ds2api",
+    "description": "",
+    "language": "Go",
+    "stars": "2,342",
+    "forks": "651",
+    "link": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "rank": 10,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "17,543",
+    "forks": "2,464",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 11,
+    "name": "donnemartin/system-design-primer",
+    "description": "",
+    "language": "Python",
+    "stars": "345,863",
+    "forks": "55,830",
+    "link": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "rank": 12,
+    "name": "EbookFoundation/free-programming-books",
+    "description": "",
+    "language": "Python",
+    "stars": "386,649",
+    "forks": "66,158",
+    "link": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "rank": 13,
+    "name": "iamgio/quarkdown",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "12,038",
+    "forks": "320",
+    "link": "https://github.com/iamgio/quarkdown"
+  }
+]
