@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "warpdotdev/warp",
+    "description": "",
+    "language": "Rust",
+    "stars": "44,127",
+    "forks": "2,634",
+    "link": "https://github.com/warpdotdev/warp"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "44,787",
+    "forks": "3,593",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "HunxByts/GhostTrack",
+    "description": "",
+    "language": "Python",
+    "stars": "11,592",
+    "forks": "1,587",
+    "link": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "rank": 4,
+    "name": "ComposioHQ/awesome-codex-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "4,811",
+    "forks": "298",
+    "link": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "rank": 5,
+    "name": "1jehuang/jcode",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,379",
+    "forks": "129",
+    "link": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "rank": 6,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "33,352",
+    "forks": "3,783",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "45,705",
+    "forks": "5,054",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 8,
+    "name": "CJackHwang/ds2api",
+    "description": "",
+    "language": "Go",
+    "stars": "2,729",
+    "forks": "726",
+    "link": "https://github.com/CJackHwang/ds2api"
+  },
+  {
+    "rank": 9,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "173,156",
+    "forks": "15,269",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 10,
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "",
+    "language": "Python",
+    "stars": "32,778",
+    "forks": "32,930",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "rank": 11,
+    "name": "lukilabs/craft-agents-oss",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,355",
+    "forks": "723",
+    "link": "https://github.com/lukilabs/craft-agents-oss"
+  },
+  {
+    "rank": 12,
+    "name": "EbookFoundation/free-programming-books",
+    "description": "",
+    "language": "Python",
+    "stars": "387,199",
+    "forks": "66,186",
+    "link": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "rank": 13,
+    "name": "soxoj/maigret",
+    "description": "",
+    "language": "Python",
+    "stars": "20,267",
+    "forks": "1,420",
+    "link": "https://github.com/soxoj/maigret"
+  },
+  {
+    "rank": 14,
+    "name": "iv-org/invidious",
+    "description": "",
+    "language": "Crystal",
+    "stars": "19,433",
+    "forks": "2,136",
+    "link": "https://github.com/iv-org/invidious"
+  },
+  {
+    "rank": 15,
+    "name": "gorhill/uBlock",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "64,043",
+    "forks": "4,074",
+    "link": "https://github.com/gorhill/uBlock"
+  },
+  {
+    "rank": 16,
+    "name": "microsoft/PowerToys",
+    "description": "",
+    "language": "C#",
+    "stars": "132,405",
+    "forks": "7,914",
+    "link": "https://github.com/microsoft/PowerToys"
+  }
+]
