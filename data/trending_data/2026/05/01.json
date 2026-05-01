@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "warpdotdev/warp",
+    "description": "",
+    "language": "Rust",
+    "stars": "49,302",
+    "forks": "3,210",
+    "link": "https://github.com/warpdotdev/warp"
+  },
+  {
+    "rank": 2,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "57,807",
+    "forks": "10,976",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 3,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "49,576",
+    "forks": "4,059",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "174,608",
+    "forks": "15,407",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "lukilabs/craft-agents-oss",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,578",
+    "forks": "739",
+    "link": "https://github.com/lukilabs/craft-agents-oss"
+  },
+  {
+    "rank": 6,
+    "name": "public-apis/public-apis",
+    "description": "",
+    "language": "Python",
+    "stars": "429,542",
+    "forks": "46,867",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 7,
+    "name": "1jehuang/jcode",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,901",
+    "forks": "174",
+    "link": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "rank": 8,
+    "name": "soxoj/maigret",
+    "description": "",
+    "language": "Python",
+    "stars": "20,855",
+    "forks": "1,450",
+    "link": "https://github.com/soxoj/maigret"
+  },
+  {
+    "rank": 9,
+    "name": "HunxByts/GhostTrack",
+    "description": "",
+    "language": "Python",
+    "stars": "12,182",
+    "forks": "1,629",
+    "link": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "rank": 10,
+    "name": "iamgio/quarkdown",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "13,086",
+    "forks": "358",
+    "link": "https://github.com/iamgio/quarkdown"
+  },
+  {
+    "rank": 11,
+    "name": "ghostty-org/ghostty",
+    "description": "",
+    "language": "Zig",
+    "stars": "52,883",
+    "forks": "2,563",
+    "link": "https://github.com/ghostty-org/ghostty"
+  },
+  {
+    "rank": 12,
+    "name": "ForrestKnight/open-source-cs",
+    "description": "",
+    "language": "",
+    "stars": "22,383",
+    "forks": "3,213",
+    "link": "https://github.com/ForrestKnight/open-source-cs"
+  },
+  {
+    "rank": 13,
+    "name": "browserbase/skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "851",
+    "forks": "65",
+    "link": "https://github.com/browserbase/skills"
+  }
+]
