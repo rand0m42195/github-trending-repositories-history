@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "59,912",
+    "forks": "11,514",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 2,
+    "name": "soxoj/maigret",
+    "description": "",
+    "language": "Python",
+    "stars": "21,683",
+    "forks": "1,513",
+    "link": "https://github.com/soxoj/maigret"
+  },
+  {
+    "rank": 3,
+    "name": "warpdotdev/warp",
+    "description": "",
+    "language": "Rust",
+    "stars": "51,490",
+    "forks": "3,455",
+    "link": "https://github.com/warpdotdev/warp"
+  },
+  {
+    "rank": 4,
+    "name": "1jehuang/jcode",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,367",
+    "forks": "207",
+    "link": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "rank": 5,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "52,591",
+    "forks": "4,399",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 6,
+    "name": "browserbase/skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "1,191",
+    "forks": "82",
+    "link": "https://github.com/browserbase/skills"
+  },
+  {
+    "rank": 7,
+    "name": "simstudioai/sim",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "28,161",
+    "forks": "3,557",
+    "link": "https://github.com/simstudioai/sim"
+  },
+  {
+    "rank": 8,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "175,641",
+    "forks": "15,521",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 9,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "26,975",
+    "forks": "2,107",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  }
+]
