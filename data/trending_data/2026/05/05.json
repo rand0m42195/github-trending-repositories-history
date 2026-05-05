@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "41,454",
+    "forks": "4,640",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 2,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "67,520",
+    "forks": "12,993",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 3,
+    "name": "browserbase/skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "2,125",
+    "forks": "134",
+    "link": "https://github.com/browserbase/skills"
+  },
+  {
+    "rank": 4,
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,994",
+    "forks": "268",
+    "link": "https://github.com/Hmbown/DeepSeek-TUI"
+  },
+  {
+    "rank": 5,
+    "name": "soxoj/maigret",
+    "description": "",
+    "language": "Python",
+    "stars": "24,858",
+    "forks": "1,730",
+    "link": "https://github.com/soxoj/maigret"
+  },
+  {
+    "rank": 6,
+    "name": "qbittorrent/qBittorrent",
+    "description": "",
+    "language": "C++",
+    "stars": "37,053",
+    "forks": "4,651",
+    "link": "https://github.com/qbittorrent/qBittorrent"
+  },
+  {
+    "rank": 7,
+    "name": "czlonkowski/n8n-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,923",
+    "forks": "3,267",
+    "link": "https://github.com/czlonkowski/n8n-mcp"
+  },
+  {
+    "rank": 8,
+    "name": "1jehuang/jcode",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,920",
+    "forks": "369",
+    "link": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "rank": 9,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "92,665",
+    "forks": "15,244",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 10,
+    "name": "virattt/dexter",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,215",
+    "forks": "2,844",
+    "link": "https://github.com/virattt/dexter"
+  },
+  {
+    "rank": 11,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "27,315",
+    "forks": "2,132",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "rank": 12,
+    "name": "fspecii/ace-step-ui",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "2,851",
+    "forks": "409",
+    "link": "https://github.com/fspecii/ace-step-ui"
+  },
+  {
+    "rank": 13,
+    "name": "jellyfin/jellyfin",
+    "description": "",
+    "language": "C#",
+    "stars": "51,161",
+    "forks": "4,739",
+    "link": "https://github.com/jellyfin/jellyfin"
+  },
+  {
+    "rank": 14,
+    "name": "cocoindex-io/cocoindex",
+    "description": "",
+    "language": "Python",
+    "stars": "8,011",
+    "forks": "591",
+    "link": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
+    "rank": 15,
+    "name": "docusealco/docuseal",
+    "description": "",
+    "language": "Ruby",
+    "stars": "13,275",
+    "forks": "1,213",
+    "link": "https://github.com/docusealco/docuseal"
+  }
+]
