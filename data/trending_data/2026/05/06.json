@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,561",
+    "forks": "583",
+    "link": "https://github.com/Hmbown/DeepSeek-TUI"
+  },
+  {
+    "rank": 2,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "43,680",
+    "forks": "4,862",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 3,
+    "name": "virattt/dexter",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,788",
+    "forks": "2,899",
+    "link": "https://github.com/virattt/dexter"
+  },
+  {
+    "rank": 4,
+    "name": "docusealco/docuseal",
+    "description": "",
+    "language": "Ruby",
+    "stars": "14,023",
+    "forks": "1,262",
+    "link": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "rank": 5,
+    "name": "bwya77/vscode-dark-islands",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "7,874",
+    "forks": "238",
+    "link": "https://github.com/bwya77/vscode-dark-islands"
+  },
+  {
+    "rank": 6,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,049",
+    "forks": "897",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 7,
+    "name": "cocoindex-io/cocoindex",
+    "description": "",
+    "language": "Python",
+    "stars": "8,396",
+    "forks": "618",
+    "link": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
+    "rank": 8,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "93,641",
+    "forks": "15,409",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 9,
+    "name": "jwasham/coding-interview-university",
+    "description": "",
+    "language": "",
+    "stars": "345,822",
+    "forks": "82,730",
+    "link": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "rank": 10,
+    "name": "Arindam200/awesome-ai-apps",
+    "description": "",
+    "language": "Python",
+    "stars": "11,317",
+    "forks": "1,474",
+    "link": "https://github.com/Arindam200/awesome-ai-apps"
+  },
+  {
+    "rank": 11,
+    "name": "AIDC-AI/Pixelle-Video",
+    "description": "",
+    "language": "Python",
+    "stars": "11,715",
+    "forks": "1,805",
+    "link": "https://github.com/AIDC-AI/Pixelle-Video"
+  },
+  {
+    "rank": 12,
+    "name": "LearningCircuit/local-deep-research",
+    "description": "",
+    "language": "Python",
+    "stars": "5,167",
+    "forks": "480",
+    "link": "https://github.com/LearningCircuit/local-deep-research"
+  },
+  {
+    "rank": 13,
+    "name": "browserbase/skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "2,382",
+    "forks": "153",
+    "link": "https://github.com/browserbase/skills"
+  },
+  {
+    "rank": 14,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "113,984",
+    "forks": "11,392",
+    "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "rank": 15,
+    "name": "PriorLabs/TabPFN",
+    "description": "",
+    "language": "Python",
+    "stars": "6,368",
+    "forks": "640",
+    "link": "https://github.com/PriorLabs/TabPFN"
+  }
+]
