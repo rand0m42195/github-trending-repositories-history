@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "",
+    "language": "Rust",
+    "stars": "14,112",
+    "forks": "1,087",
+    "link": "https://github.com/Hmbown/DeepSeek-TUI"
+  },
+  {
+    "rank": 2,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "30,580",
+    "forks": "3,633",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "PriorLabs/TabPFN",
+    "description": "",
+    "language": "Python",
+    "stars": "6,584",
+    "forks": "658",
+    "link": "https://github.com/PriorLabs/TabPFN"
+  },
+  {
+    "rank": 4,
+    "name": "docusealco/docuseal",
+    "description": "",
+    "language": "Ruby",
+    "stars": "14,906",
+    "forks": "1,355",
+    "link": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "rank": 5,
+    "name": "LearningCircuit/local-deep-research",
+    "description": "",
+    "language": "Python",
+    "stars": "5,665",
+    "forks": "513",
+    "link": "https://github.com/LearningCircuit/local-deep-research"
+  },
+  {
+    "rank": 6,
+    "name": "LadybirdBrowser/ladybird",
+    "description": "",
+    "language": "C++",
+    "stars": "62,988",
+    "forks": "2,994",
+    "link": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "rank": 7,
+    "name": "InsForge/InsForge",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,464",
+    "forks": "703",
+    "link": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "rank": 8,
+    "name": "virattt/dexter",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,366",
+    "forks": "2,964",
+    "link": "https://github.com/virattt/dexter"
+  },
+  {
+    "rank": 9,
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": "9,165",
+    "forks": "1,252",
+    "link": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "rank": 10,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "45,292",
+    "forks": "5,018",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 11,
+    "name": "cheahjs/free-llm-api-resources",
+    "description": "",
+    "language": "Python",
+    "stars": "20,512",
+    "forks": "2,089",
+    "link": "https://github.com/cheahjs/free-llm-api-resources"
+  },
+  {
+    "rank": 12,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "23,205",
+    "forks": "4,063",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 13,
+    "name": "bwya77/vscode-dark-islands",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "8,215",
+    "forks": "254",
+    "link": "https://github.com/bwya77/vscode-dark-islands"
+  },
+  {
+    "rank": 14,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "65,546",
+    "forks": "8,666",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 15,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "46,311",
+    "forks": "4,283",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  }
+]
