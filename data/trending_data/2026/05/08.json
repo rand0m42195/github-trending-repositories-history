@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": "11,787",
+    "forks": "1,532",
+    "link": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "rank": 2,
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "",
+    "language": "Rust",
+    "stars": "18,961",
+    "forks": "1,438",
+    "link": "https://github.com/Hmbown/DeepSeek-TUI"
+  },
+  {
+    "rank": 3,
+    "name": "z-lab/dflash",
+    "description": "",
+    "language": "Python",
+    "stars": "3,512",
+    "forks": "249",
+    "link": "https://github.com/z-lab/dflash"
+  },
+  {
+    "rank": 4,
+    "name": "InsForge/InsForge",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,865",
+    "forks": "734",
+    "link": "https://github.com/InsForge/InsForge"
+  },
+  {
+    "rank": 5,
+    "name": "LearningCircuit/local-deep-research",
+    "description": "",
+    "language": "Python",
+    "stars": "6,268",
+    "forks": "553",
+    "link": "https://github.com/LearningCircuit/local-deep-research"
+  },
+  {
+    "rank": 6,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "33,033",
+    "forks": "3,811",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 7,
+    "name": "VectifyAI/PageIndex",
+    "description": "",
+    "language": "Python",
+    "stars": "29,576",
+    "forks": "2,498",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "rank": 8,
+    "name": "vercel-labs/open-agents",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,054",
+    "forks": "636",
+    "link": "https://github.com/vercel-labs/open-agents"
+  },
+  {
+    "rank": 9,
+    "name": "docusealco/docuseal",
+    "description": "",
+    "language": "Ruby",
+    "stars": "15,640",
+    "forks": "1,411",
+    "link": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "rank": 10,
+    "name": "decolua/9router",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "4,576",
+    "forks": "986",
+    "link": "https://github.com/decolua/9router"
+  },
+  {
+    "rank": 11,
+    "name": "PriorLabs/TabPFN",
+    "description": "",
+    "language": "Python",
+    "stars": "6,793",
+    "forks": "669",
+    "link": "https://github.com/PriorLabs/TabPFN"
+  },
+  {
+    "rank": 12,
+    "name": "aaif-goose/goose",
+    "description": "",
+    "language": "Rust",
+    "stars": "44,519",
+    "forks": "4,555",
+    "link": "https://github.com/aaif-goose/goose"
+  },
+  {
+    "rank": 13,
+    "name": "Augani/openreel-video",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,719",
+    "forks": "263",
+    "link": "https://github.com/Augani/openreel-video"
+  }
+]
