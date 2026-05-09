@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": "15,227",
+    "forks": "1,906",
+    "link": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "rank": 2,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "35,446",
+    "forks": "4,027",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "Hmbown/DeepSeek-TUI",
+    "description": "",
+    "language": "Rust",
+    "stars": "21,827",
+    "forks": "1,704",
+    "link": "https://github.com/Hmbown/DeepSeek-TUI"
+  },
+  {
+    "rank": 4,
+    "name": "z-lab/dflash",
+    "description": "",
+    "language": "Python",
+    "stars": "3,853",
+    "forks": "265",
+    "link": "https://github.com/z-lab/dflash"
+  },
+  {
+    "rank": 5,
+    "name": "decolua/9router",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "5,601",
+    "forks": "1,071",
+    "link": "https://github.com/decolua/9router"
+  },
+  {
+    "rank": 6,
+    "name": "CloakHQ/CloakBrowser",
+    "description": "",
+    "language": "Python",
+    "stars": "3,042",
+    "forks": "241",
+    "link": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "rank": 7,
+    "name": "awslabs/aidlc-workflows",
+    "description": "",
+    "language": "Python",
+    "stars": "1,766",
+    "forks": "305",
+    "link": "https://github.com/awslabs/aidlc-workflows"
+  },
+  {
+    "rank": 8,
+    "name": "HKUDS/AI-Trader",
+    "description": "",
+    "language": "Python",
+    "stars": "14,647",
+    "forks": "2,436",
+    "link": "https://github.com/HKUDS/AI-Trader"
+  },
+  {
+    "rank": 9,
+    "name": "LearningCircuit/local-deep-research",
+    "description": "",
+    "language": "Python",
+    "stars": "6,743",
+    "forks": "598",
+    "link": "https://github.com/LearningCircuit/local-deep-research"
+  },
+  {
+    "rank": 10,
+    "name": "lobehub/lobehub",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "76,510",
+    "forks": "15,112",
+    "link": "https://github.com/lobehub/lobehub"
+  },
+  {
+    "rank": 11,
+    "name": "datawhalechina/hello-agents",
+    "description": "",
+    "language": "Python",
+    "stars": "44,611",
+    "forks": "5,422",
+    "link": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "rank": 12,
+    "name": "flutter/skills",
+    "description": "",
+    "language": "Dart",
+    "stars": "1,681",
+    "forks": "93",
+    "link": "https://github.com/flutter/skills"
+  }
+]
