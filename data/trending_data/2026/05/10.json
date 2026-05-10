@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": "17,421",
+    "forks": "2,208",
+    "link": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "rank": 2,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "31,413",
+    "forks": "3,124",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 3,
+    "name": "rohitg00/agentmemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,452",
+    "forks": "341",
+    "link": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "rank": 4,
+    "name": "datawhalechina/hello-agents",
+    "description": "",
+    "language": "Python",
+    "stars": "45,701",
+    "forks": "5,533",
+    "link": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "rank": 5,
+    "name": "datawhalechina/easy-vibe",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "8,537",
+    "forks": "861",
+    "link": "https://github.com/datawhalechina/easy-vibe"
+  },
+  {
+    "rank": 6,
+    "name": "rowboatlabs/rowboat",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,791",
+    "forks": "1,369",
+    "link": "https://github.com/rowboatlabs/rowboat"
+  },
+  {
+    "rank": 7,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "38,834",
+    "forks": "2,456",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 8,
+    "name": "masterking32/MasterDnsVPN",
+    "description": "",
+    "language": "Go",
+    "stars": "2,543",
+    "forks": "271",
+    "link": "https://github.com/masterking32/MasterDnsVPN"
+  },
+  {
+    "rank": 9,
+    "name": "playcanvas/supersplat",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,320",
+    "forks": "731",
+    "link": "https://github.com/playcanvas/supersplat"
+  },
+  {
+    "rank": 10,
+    "name": "Lordog/dive-into-llms",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "36,487",
+    "forks": "4,486",
+    "link": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "rank": 11,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "37,401",
+    "forks": "4,179",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 12,
+    "name": "decolua/9router",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "6,515",
+    "forks": "1,171",
+    "link": "https://github.com/decolua/9router"
+  },
+  {
+    "rank": 13,
+    "name": "oracle-devrel/oracle-ai-developer-hub",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "803",
+    "forks": "230",
+    "link": "https://github.com/oracle-devrel/oracle-ai-developer-hub"
+  }
+]
