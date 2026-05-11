@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "32,171",
+    "forks": "3,189",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": "18,912",
+    "forks": "2,444",
+    "link": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "rank": 3,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "38,483",
+    "forks": "4,267",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "CloakHQ/CloakBrowser",
+    "description": "",
+    "language": "Python",
+    "stars": "4,783",
+    "forks": "370",
+    "link": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "rank": 5,
+    "name": "HKUDS/AI-Trader",
+    "description": "",
+    "language": "Python",
+    "stars": "15,604",
+    "forks": "2,532",
+    "link": "https://github.com/HKUDS/AI-Trader"
+  },
+  {
+    "rank": 6,
+    "name": "jundot/omlx",
+    "description": "",
+    "language": "Python",
+    "stars": "13,317",
+    "forks": "1,140",
+    "link": "https://github.com/jundot/omlx"
+  },
+  {
+    "rank": 7,
+    "name": "datawhalechina/easy-vibe",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "9,201",
+    "forks": "897",
+    "link": "https://github.com/datawhalechina/easy-vibe"
+  },
+  {
+    "rank": 8,
+    "name": "playcanvas/supersplat",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,837",
+    "forks": "768",
+    "link": "https://github.com/playcanvas/supersplat"
+  },
+  {
+    "rank": 9,
+    "name": "lsdefine/GenericAgent",
+    "description": "",
+    "language": "Python",
+    "stars": "10,538",
+    "forks": "1,199",
+    "link": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "rank": 10,
+    "name": "decolua/9router",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "7,333",
+    "forks": "1,235",
+    "link": "https://github.com/decolua/9router"
+  },
+  {
+    "rank": 11,
+    "name": "affaan-m/everything-claude-code",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "178,269",
+    "forks": "27,522",
+    "link": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "rank": 12,
+    "name": "datawhalechina/hello-agents",
+    "description": "",
+    "language": "Python",
+    "stars": "46,569",
+    "forks": "5,609",
+    "link": "https://github.com/datawhalechina/hello-agents"
+  }
+]
