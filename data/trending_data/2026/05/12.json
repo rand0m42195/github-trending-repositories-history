@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "33,024",
+    "forks": "3,273",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 2,
+    "name": "CloakHQ/CloakBrowser",
+    "description": "",
+    "language": "Python",
+    "stars": "6,195",
+    "forks": "458",
+    "link": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "rank": 3,
+    "name": "yikart/AiToEarn",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,808",
+    "forks": "2,004",
+    "link": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "rank": 4,
+    "name": "playcanvas/supersplat",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,357",
+    "forks": "809",
+    "link": "https://github.com/playcanvas/supersplat"
+  },
+  {
+    "rank": 5,
+    "name": "datawhalechina/easy-vibe",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "9,935",
+    "forks": "949",
+    "link": "https://github.com/datawhalechina/easy-vibe"
+  },
+  {
+    "rank": 6,
+    "name": "decolua/9router",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "8,362",
+    "forks": "1,334",
+    "link": "https://github.com/decolua/9router"
+  },
+  {
+    "rank": 7,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,493",
+    "forks": "182",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 8,
+    "name": "millionco/react-doctor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,073",
+    "forks": "262",
+    "link": "https://github.com/millionco/react-doctor"
+  },
+  {
+    "rank": 9,
+    "name": "Lordog/dive-into-llms",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "37,327",
+    "forks": "4,578",
+    "link": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "rank": 10,
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "description": "",
+    "language": "Python",
+    "stars": "162,904",
+    "forks": "30,336",
+    "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+  },
+  {
+    "rank": 11,
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "93,022",
+    "forks": "14,336",
+    "link": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "rank": 12,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "144,877",
+    "forks": "22,652",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 13,
+    "name": "rohitg00/agentmemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,774",
+    "forks": "455",
+    "link": "https://github.com/rohitg00/agentmemory"
+  }
+]
