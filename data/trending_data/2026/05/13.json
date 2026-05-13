@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,800",
+    "forks": "268",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 2,
+    "name": "rohitg00/agentmemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,931",
+    "forks": "558",
+    "link": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "rank": 3,
+    "name": "CloakHQ/CloakBrowser",
+    "description": "",
+    "language": "Python",
+    "stars": "7,939",
+    "forks": "579",
+    "link": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "rank": 4,
+    "name": "apernet/hysteria",
+    "description": "",
+    "language": "Go",
+    "stars": "20,248",
+    "forks": "2,097",
+    "link": "https://github.com/apernet/hysteria"
+  },
+  {
+    "rank": 5,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "76,196",
+    "forks": "6,565",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 6,
+    "name": "anonfaded/FadCam",
+    "description": "",
+    "language": "Java",
+    "stars": "2,224",
+    "forks": "171",
+    "link": "https://github.com/anonfaded/FadCam"
+  },
+  {
+    "rank": 7,
+    "name": "millionco/react-doctor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,785",
+    "forks": "281",
+    "link": "https://github.com/millionco/react-doctor"
+  },
+  {
+    "rank": 8,
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "93,826",
+    "forks": "14,416",
+    "link": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "rank": 9,
+    "name": "datawhalechina/hello-agents",
+    "description": "",
+    "language": "Python",
+    "stars": "48,286",
+    "forks": "5,808",
+    "link": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "rank": 10,
+    "name": "yikart/AiToEarn",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,915",
+    "forks": "2,092",
+    "link": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "rank": 11,
+    "name": "HKUDS/AI-Trader",
+    "description": "",
+    "language": "Python",
+    "stars": "16,638",
+    "forks": "2,613",
+    "link": "https://github.com/HKUDS/AI-Trader"
+  }
+]
