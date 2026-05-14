@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "5,641",
+    "forks": "460",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 2,
+    "name": "rohitg00/agentmemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,729",
+    "forks": "662",
+    "link": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "rank": 3,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "189,584",
+    "forks": "16,873",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 4,
+    "name": "yikart/AiToEarn",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,974",
+    "forks": "2,235",
+    "link": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "rank": 5,
+    "name": "influxdata/telegraf",
+    "description": "",
+    "language": "Go",
+    "stars": "17,016",
+    "forks": "5,779",
+    "link": "https://github.com/influxdata/telegraf"
+  },
+  {
+    "rank": 6,
+    "name": "millionco/react-doctor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,300",
+    "forks": "289",
+    "link": "https://github.com/millionco/react-doctor"
+  },
+  {
+    "rank": 7,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "21,155",
+    "forks": "2,330",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 8,
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,390",
+    "forks": "1,871",
+    "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+  },
+  {
+    "rank": 9,
+    "name": "supertone-inc/supertonic",
+    "description": "",
+    "language": "Swift",
+    "stars": "4,391",
+    "forks": "445",
+    "link": "https://github.com/supertone-inc/supertonic"
+  },
+  {
+    "rank": 10,
+    "name": "CloakHQ/CloakBrowser",
+    "description": "",
+    "language": "Python",
+    "stars": "9,556",
+    "forks": "709",
+    "link": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "rank": 11,
+    "name": "Greedeks/GTweak",
+    "description": "",
+    "language": "C#",
+    "stars": "933",
+    "forks": "78",
+    "link": "https://github.com/Greedeks/GTweak"
+  },
+  {
+    "rank": 12,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "79,115",
+    "forks": "6,817",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 13,
+    "name": "ArthurBrussee/brush",
+    "description": "",
+    "language": "Rust",
+    "stars": "4,375",
+    "forks": "234",
+    "link": "https://github.com/ArthurBrussee/brush"
+  },
+  {
+    "rank": 14,
+    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "description": "",
+    "language": "",
+    "stars": "27,109",
+    "forks": "1,774",
+    "link": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+  },
+  {
+    "rank": 15,
+    "name": "apernet/hysteria",
+    "description": "",
+    "language": "Go",
+    "stars": "20,625",
+    "forks": "2,136",
+    "link": "https://github.com/apernet/hysteria"
+  },
+  {
+    "rank": 16,
+    "name": "rasbt/LLMs-from-scratch",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "94,482",
+    "forks": "14,484",
+    "link": "https://github.com/rasbt/LLMs-from-scratch"
+  },
+  {
+    "rank": 17,
+    "name": "ton-blockchain/acton",
+    "description": "",
+    "language": "Rust",
+    "stars": "217",
+    "forks": "29",
+    "link": "https://github.com/ton-blockchain/acton"
+  },
+  {
+    "rank": 18,
+    "name": "trycua/cua",
+    "description": "",
+    "language": "HTML",
+    "stars": "16,558",
+    "forks": "1,040",
+    "link": "https://github.com/trycua/cua"
+  },
+  {
+    "rank": 19,
+    "name": "github/spec-kit",
+    "description": "",
+    "language": "Python",
+    "stars": "98,426",
+    "forks": "8,574",
+    "link": "https://github.com/github/spec-kit"
+  }
+]
