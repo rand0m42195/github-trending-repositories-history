@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "56,086",
+    "forks": "7,421",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 2,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,812",
+    "forks": "629",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 3,
+    "name": "rohitg00/agentmemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,016",
+    "forks": "746",
+    "link": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "191,272",
+    "forks": "17,015",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "21,821",
+    "forks": "2,377",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 6,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "24,848",
+    "forks": "4,346",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 7,
+    "name": "roboflow/supervision",
+    "description": "",
+    "language": "Python",
+    "stars": "38,898",
+    "forks": "3,479",
+    "link": "https://github.com/roboflow/supervision"
+  },
+  {
+    "rank": 8,
+    "name": "influxdata/telegraf",
+    "description": "",
+    "language": "Go",
+    "stars": "17,226",
+    "forks": "5,795",
+    "link": "https://github.com/influxdata/telegraf"
+  },
+  {
+    "rank": 9,
+    "name": "supertone-inc/supertonic",
+    "description": "",
+    "language": "Swift",
+    "stars": "5,370",
+    "forks": "527",
+    "link": "https://github.com/supertone-inc/supertonic"
+  },
+  {
+    "rank": 10,
+    "name": "Genymobile/scrcpy",
+    "description": "",
+    "language": "C",
+    "stars": "141,375",
+    "forks": "13,053",
+    "link": "https://github.com/Genymobile/scrcpy"
+  },
+  {
+    "rank": 11,
+    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "description": "",
+    "language": "Python",
+    "stars": "855",
+    "forks": "246",
+    "link": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
+  },
+  {
+    "rank": 12,
+    "name": "CloakHQ/CloakBrowser",
+    "description": "",
+    "language": "Python",
+    "stars": "10,940",
+    "forks": "815",
+    "link": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "rank": 13,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "82,437",
+    "forks": "7,117",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 14,
+    "name": "github/spec-kit",
+    "description": "",
+    "language": "Python",
+    "stars": "99,530",
+    "forks": "8,671",
+    "link": "https://github.com/github/spec-kit"
+  },
+  {
+    "rank": 15,
+    "name": "garrytan/gstack",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "96,805",
+    "forks": "14,396",
+    "link": "https://github.com/garrytan/gstack"
+  }
+]
