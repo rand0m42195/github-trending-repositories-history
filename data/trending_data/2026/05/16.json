@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "9,074",
+    "forks": "766",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 2,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "192,845",
+    "forks": "17,150",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 3,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "22,465",
+    "forks": "2,429",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "supertone-inc/supertonic",
+    "description": "",
+    "language": "Swift",
+    "stars": "6,056",
+    "forks": "595",
+    "link": "https://github.com/supertone-inc/supertonic"
+  },
+  {
+    "rank": 5,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "57,523",
+    "forks": "7,552",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 6,
+    "name": "influxdata/telegraf",
+    "description": "",
+    "language": "Go",
+    "stars": "17,415",
+    "forks": "5,803",
+    "link": "https://github.com/influxdata/telegraf"
+  },
+  {
+    "rank": 7,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "135,160",
+    "forks": "15,934",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 8,
+    "name": "czlonkowski/n8n-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,902",
+    "forks": "3,398",
+    "link": "https://github.com/czlonkowski/n8n-mcp"
+  },
+  {
+    "rank": 9,
+    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "description": "",
+    "language": "Python",
+    "stars": "1,156",
+    "forks": "264",
+    "link": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
+  },
+  {
+    "rank": 10,
+    "name": "oven-sh/bun",
+    "description": "",
+    "language": "Rust",
+    "stars": "90,622",
+    "forks": "4,513",
+    "link": "https://github.com/oven-sh/bun"
+  },
+  {
+    "rank": 11,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "85,009",
+    "forks": "7,368",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 12,
+    "name": "joeseesun/qiaomu-anything-to-notebooklm",
+    "description": "",
+    "language": "Python",
+    "stars": "2,720",
+    "forks": "277",
+    "link": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm"
+  }
+]
