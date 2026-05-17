@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "name": "oven-sh/bun",
+    "description": "",
+    "language": "Rust",
+    "stars": "91,251",
+    "forks": "4,550",
+    "link": "https://github.com/oven-sh/bun"
+  },
+  {
+    "rank": 2,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "23,167",
+    "forks": "2,488",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "194,053",
+    "forks": "17,263",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 4,
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "14,462",
+    "forks": "2,518",
+    "link": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "rank": 5,
+    "name": "supertone-inc/supertonic",
+    "description": "",
+    "language": "Swift",
+    "stars": "6,918",
+    "forks": "711",
+    "link": "https://github.com/supertone-inc/supertonic"
+  },
+  {
+    "rank": 6,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,774",
+    "forks": "932",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 7,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "58,373",
+    "forks": "7,627",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 8,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,556",
+    "forks": "209",
+    "link": "https://github.com/colbymchenry/codegraph"
+  }
+]
