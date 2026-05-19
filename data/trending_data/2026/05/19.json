@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "17,454",
+    "forks": "1,520",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 2,
+    "name": "Imbad0202/academic-research-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "11,897",
+    "forks": "1,213",
+    "link": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "rank": 3,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "36,691",
+    "forks": "3,560",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 4,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "24,422",
+    "forks": "2,578",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 5,
+    "name": "supertone-inc/supertonic",
+    "description": "",
+    "language": "Swift",
+    "stars": "8,375",
+    "forks": "853",
+    "link": "https://github.com/supertone-inc/supertonic"
+  },
+  {
+    "rank": 6,
+    "name": "ggml-org/llama.cpp",
+    "description": "",
+    "language": "C++",
+    "stars": "111,070",
+    "forks": "18,387",
+    "link": "https://github.com/ggml-org/llama.cpp"
+  },
+  {
+    "rank": 7,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "59,934",
+    "forks": "7,811",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 8,
+    "name": "CloakHQ/CloakBrowser",
+    "description": "",
+    "language": "Python",
+    "stars": "15,297",
+    "forks": "1,194",
+    "link": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "rank": 9,
+    "name": "tech-leads-club/agent-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,069",
+    "forks": "351",
+    "link": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "rank": 10,
+    "name": "BigBodyCobain/Shadowbroker",
+    "description": "",
+    "language": "Python",
+    "stars": "7,758",
+    "forks": "1,194",
+    "link": "https://github.com/BigBodyCobain/Shadowbroker"
+  },
+  {
+    "rank": 11,
+    "name": "humanlayer/12-factor-agents",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,622",
+    "forks": "1,561",
+    "link": "https://github.com/humanlayer/12-factor-agents"
+  },
+  {
+    "rank": 12,
+    "name": "NVlabs/Sana",
+    "description": "",
+    "language": "Python",
+    "stars": "6,544",
+    "forks": "468",
+    "link": "https://github.com/NVlabs/Sana"
+  },
+  {
+    "rank": 13,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "63,489",
+    "forks": "21,177",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 14,
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "",
+    "language": "Python",
+    "stars": "37,176",
+    "forks": "36,203",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "rank": 15,
+    "name": "plausible/analytics",
+    "description": "",
+    "language": "Elixir",
+    "stars": "25,983",
+    "forks": "1,494",
+    "link": "https://github.com/plausible/analytics"
+  }
+]
