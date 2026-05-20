@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "21,404",
+    "forks": "1,891",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 2,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "37,748",
+    "forks": "3,618",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 3,
+    "name": "Imbad0202/academic-research-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "14,195",
+    "forks": "1,335",
+    "link": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "198,478",
+    "forks": "17,712",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "20,231",
+    "forks": "2,510",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 6,
+    "name": "rohitg00/agentmemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,206",
+    "forks": "1,183",
+    "link": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "rank": 7,
+    "name": "CloakHQ/CloakBrowser",
+    "description": "",
+    "language": "Python",
+    "stars": "16,668",
+    "forks": "1,285",
+    "link": "https://github.com/CloakHQ/CloakBrowser"
+  },
+  {
+    "rank": 8,
+    "name": "rtk-ai/rtk",
+    "description": "",
+    "language": "Rust",
+    "stars": "50,945",
+    "forks": "3,104",
+    "link": "https://github.com/rtk-ai/rtk"
+  },
+  {
+    "rank": 9,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "101,678",
+    "forks": "16,801",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 10,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,703",
+    "forks": "442",
+    "link": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "rank": 11,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "138,147",
+    "forks": "14,166",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 12,
+    "name": "humanlayer/12-factor-agents",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,201",
+    "forks": "1,600",
+    "link": "https://github.com/humanlayer/12-factor-agents"
+  },
+  {
+    "rank": 13,
+    "name": "Diolinux/PhotoGIMP",
+    "description": "",
+    "language": "CSS",
+    "stars": "10,800",
+    "forks": "375",
+    "link": "https://github.com/Diolinux/PhotoGIMP"
+  },
+  {
+    "rank": 14,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "26,396",
+    "forks": "3,933",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 15,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,898",
+    "forks": "2,080",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 16,
+    "name": "frappe/erpnext",
+    "description": "",
+    "language": "Python",
+    "stars": "34,298",
+    "forks": "11,315",
+    "link": "https://github.com/frappe/erpnext"
+  },
+  {
+    "rank": 17,
+    "name": "microsoft/ai-agents-for-beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "64,403",
+    "forks": "21,305",
+    "link": "https://github.com/microsoft/ai-agents-for-beginners"
+  },
+  {
+    "rank": 18,
+    "name": "HKUDS/ViMax",
+    "description": "",
+    "language": "Python",
+    "stars": "5,469",
+    "forks": "929",
+    "link": "https://github.com/HKUDS/ViMax"
+  }
+]
