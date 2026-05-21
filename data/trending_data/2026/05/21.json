@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,786",
+    "forks": "601",
+    "link": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "rank": 2,
+    "name": "Imbad0202/academic-research-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "16,284",
+    "forks": "1,451",
+    "link": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "rank": 3,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "23,717",
+    "forks": "2,118",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 4,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "140,975",
+    "forks": "14,470",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 5,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "9,628",
+    "forks": "1,951",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 6,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "38,563",
+    "forks": "3,665",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 7,
+    "name": "can1357/oh-my-pi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,443",
+    "forks": "455",
+    "link": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "rank": 8,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "200,105",
+    "forks": "17,842",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 9,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "20,821",
+    "forks": "2,547",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 10,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "102,881",
+    "forks": "16,955",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 11,
+    "name": "rmyndharis/OpenWA",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,883",
+    "forks": "986",
+    "link": "https://github.com/rmyndharis/OpenWA"
+  },
+  {
+    "rank": 12,
+    "name": "truelockmc/streambert",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "3,084",
+    "forks": "251",
+    "link": "https://github.com/truelockmc/streambert"
+  },
+  {
+    "rank": 13,
+    "name": "opentoonz/opentoonz",
+    "description": "",
+    "language": "C++",
+    "stars": "6,371",
+    "forks": "734",
+    "link": "https://github.com/opentoonz/opentoonz"
+  },
+  {
+    "rank": 14,
+    "name": "zakirullin/files.md",
+    "description": "",
+    "language": "Go",
+    "stars": "2,233",
+    "forks": "50",
+    "link": "https://github.com/zakirullin/files.md"
+  },
+  {
+    "rank": 15,
+    "name": "rohitg00/agentmemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,175",
+    "forks": "1,254",
+    "link": "https://github.com/rohitg00/agentmemory"
+  },
+  {
+    "rank": 16,
+    "name": "ggml-org/llama.cpp",
+    "description": "",
+    "language": "C++",
+    "stars": "111,866",
+    "forks": "18,510",
+    "link": "https://github.com/ggml-org/llama.cpp"
+  },
+  {
+    "rank": 17,
+    "name": "HKUDS/ViMax",
+    "description": "",
+    "language": "Python",
+    "stars": "6,088",
+    "forks": "983",
+    "link": "https://github.com/HKUDS/ViMax"
+  }
+]
