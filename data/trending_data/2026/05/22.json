@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "22,565",
+    "forks": "2,650",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 2,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,688",
+    "forks": "780",
+    "link": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "rank": 3,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "143,300",
+    "forks": "14,693",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 4,
+    "name": "dotnet/skills",
+    "description": "",
+    "language": "C#",
+    "stars": "2,216",
+    "forks": "179",
+    "link": "https://github.com/dotnet/skills"
+  },
+  {
+    "rank": 5,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "201,578",
+    "forks": "17,957",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 6,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "39,155",
+    "forks": "3,715",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 7,
+    "name": "rmyndharis/OpenWA",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,438",
+    "forks": "1,084",
+    "link": "https://github.com/rmyndharis/OpenWA"
+  },
+  {
+    "rank": 8,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "40,511",
+    "forks": "2,573",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 9,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "10,775",
+    "forks": "2,125",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 10,
+    "name": "teng-lin/notebooklm-py",
+    "description": "",
+    "language": "Python",
+    "stars": "14,395",
+    "forks": "1,993",
+    "link": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "rank": 11,
+    "name": "can1357/oh-my-pi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,868",
+    "forks": "479",
+    "link": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "rank": 12,
+    "name": "antoinezambelli/forge",
+    "description": "",
+    "language": "Python",
+    "stars": "1,510",
+    "forks": "78",
+    "link": "https://github.com/antoinezambelli/forge"
+  },
+  {
+    "rank": 13,
+    "name": "multica-ai/multica",
+    "description": "",
+    "language": "Go",
+    "stars": "30,772",
+    "forks": "3,737",
+    "link": "https://github.com/multica-ai/multica"
+  },
+  {
+    "rank": 14,
+    "name": "Imbad0202/academic-research-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "18,230",
+    "forks": "1,572",
+    "link": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "rank": 15,
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "description": "",
+    "language": "",
+    "stars": "222,475",
+    "forks": "13,327",
+    "link": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "rank": 16,
+    "name": "truelockmc/streambert",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "4,036",
+    "forks": "315",
+    "link": "https://github.com/truelockmc/streambert"
+  },
+  {
+    "rank": 17,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "103,704",
+    "forks": "17,060",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 18,
+    "name": "alireza0/s-ui",
+    "description": "",
+    "language": "Go",
+    "stars": "8,935",
+    "forks": "1,505",
+    "link": "https://github.com/alireza0/s-ui"
+  },
+  {
+    "rank": 19,
+    "name": "Lum1104/Understand-Anything",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,704",
+    "forks": "1,564",
+    "link": "https://github.com/Lum1104/Understand-Anything"
+  }
+]
