@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "24,997",
+    "forks": "2,767",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 2,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,632",
+    "forks": "916",
+    "link": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "rank": 3,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "64,052",
+    "forks": "8,464",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 4,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "11,978",
+    "forks": "2,275",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 5,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "40,984",
+    "forks": "2,604",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 6,
+    "name": "dotnet/skills",
+    "description": "",
+    "language": "C#",
+    "stars": "2,539",
+    "forks": "200",
+    "link": "https://github.com/dotnet/skills"
+  },
+  {
+    "rank": 7,
+    "name": "Lum1104/Understand-Anything",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,719",
+    "forks": "1,695",
+    "link": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "rank": 8,
+    "name": "odoo/odoo",
+    "description": "",
+    "language": "Python",
+    "stars": "51,146",
+    "forks": "32,516",
+    "link": "https://github.com/odoo/odoo"
+  },
+  {
+    "rank": 9,
+    "name": "byJoey/cfnew",
+    "description": "",
+    "language": "",
+    "stars": "13,316",
+    "forks": "6,481",
+    "link": "https://github.com/byJoey/cfnew"
+  },
+  {
+    "rank": 10,
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "description": "",
+    "language": "",
+    "stars": "223,222",
+    "forks": "13,382",
+    "link": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "rank": 11,
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "",
+    "language": "Python",
+    "stars": "22,658",
+    "forks": "3,128",
+    "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "rank": 12,
+    "name": "can1357/oh-my-pi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,367",
+    "forks": "518",
+    "link": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "rank": 13,
+    "name": "yt-dlp/yt-dlp",
+    "description": "",
+    "language": "Python",
+    "stars": "164,363",
+    "forks": "13,826",
+    "link": "https://github.com/yt-dlp/yt-dlp"
+  },
+  {
+    "rank": 14,
+    "name": "karpathy/nn-zero-to-hero",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "22,370",
+    "forks": "3,243",
+    "link": "https://github.com/karpathy/nn-zero-to-hero"
+  }
+]
