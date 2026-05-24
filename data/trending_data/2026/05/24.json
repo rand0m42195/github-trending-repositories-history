@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "Lum1104/Understand-Anything",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,664",
+    "forks": "1,938",
+    "link": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "26,494",
+    "forks": "2,858",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 3,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,594",
+    "forks": "1,082",
+    "link": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "rank": 4,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "13,820",
+    "forks": "2,578",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 5,
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "",
+    "language": "Python",
+    "stars": "23,138",
+    "forks": "3,191",
+    "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "rank": 6,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "149,716",
+    "forks": "15,353",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 7,
+    "name": "dotnet/skills",
+    "description": "",
+    "language": "C#",
+    "stars": "2,754",
+    "forks": "209",
+    "link": "https://github.com/dotnet/skills"
+  },
+  {
+    "rank": 8,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "41,349",
+    "forks": "2,622",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 9,
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "",
+    "language": "Python",
+    "stars": "7,457",
+    "forks": "1,009",
+    "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "rank": 10,
+    "name": "presenton/presenton",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,396",
+    "forks": "1,118",
+    "link": "https://github.com/presenton/presenton"
+  },
+  {
+    "rank": 11,
+    "name": "multica-ai/multica",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "31,944",
+    "forks": "3,858",
+    "link": "https://github.com/multica-ai/multica"
+  },
+  {
+    "rank": 12,
+    "name": "trimstray/the-book-of-secret-knowledge",
+    "description": "",
+    "language": "",
+    "stars": "223,862",
+    "forks": "13,426",
+    "link": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "rank": 13,
+    "name": "odoo/odoo",
+    "description": "",
+    "language": "Python",
+    "stars": "51,494",
+    "forks": "32,530",
+    "link": "https://github.com/odoo/odoo"
+  },
+  {
+    "rank": 14,
+    "name": "NVlabs/LongLive",
+    "description": "",
+    "language": "Python",
+    "stars": "1,825",
+    "forks": "169",
+    "link": "https://github.com/NVlabs/LongLive"
+  },
+  {
+    "rank": 15,
+    "name": "yt-dlp/yt-dlp",
+    "description": "",
+    "language": "Python",
+    "stars": "164,982",
+    "forks": "13,861",
+    "link": "https://github.com/yt-dlp/yt-dlp"
+  },
+  {
+    "rank": 16,
+    "name": "janestreet/magic-trace",
+    "description": "",
+    "language": "OCaml",
+    "stars": "5,874",
+    "forks": "180",
+    "link": "https://github.com/janestreet/magic-trace"
+  }
+]
