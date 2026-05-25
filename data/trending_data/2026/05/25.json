@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "Lum1104/Understand-Anything",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "26,237",
+    "forks": "2,265",
+    "link": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "rank": 2,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "16,177",
+    "forks": "2,868",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 3,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "27,278",
+    "forks": "2,906",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 4,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "",
+    "language": "Python",
+    "stars": "14,101",
+    "forks": "1,745",
+    "link": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "rank": 5,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "152,243",
+    "forks": "15,609",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 6,
+    "name": "earendil-works/pi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "53,975",
+    "forks": "6,445",
+    "link": "https://github.com/earendil-works/pi"
+  },
+  {
+    "rank": 7,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "29,193",
+    "forks": "4,384",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 8,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,221",
+    "forks": "1,230",
+    "link": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "rank": 9,
+    "name": "multica-ai/multica",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "32,535",
+    "forks": "3,908",
+    "link": "https://github.com/multica-ai/multica"
+  },
+  {
+    "rank": 10,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "25,810",
+    "forks": "4,496",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 11,
+    "name": "manaflow-ai/cmux",
+    "description": "",
+    "language": "Swift",
+    "stars": "19,045",
+    "forks": "1,449",
+    "link": "https://github.com/manaflow-ai/cmux"
+  },
+  {
+    "rank": 12,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "62,176",
+    "forks": "9,730",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 13,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "504,292",
+    "forks": "47,831",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 14,
+    "name": "dotnet/skills",
+    "description": "",
+    "language": "C#",
+    "stars": "2,970",
+    "forks": "219",
+    "link": "https://github.com/dotnet/skills"
+  },
+  {
+    "rank": 15,
+    "name": "blakeblackshear/frigate",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "32,870",
+    "forks": "3,180",
+    "link": "https://github.com/blakeblackshear/frigate"
+  },
+  {
+    "rank": 16,
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "",
+    "language": "Python",
+    "stars": "8,388",
+    "forks": "1,060",
+    "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  }
+]
