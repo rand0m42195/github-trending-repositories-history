@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "Lum1104/Understand-Anything",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "31,347",
+    "forks": "2,580",
+    "link": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "",
+    "language": "Python",
+    "stars": "15,533",
+    "forks": "1,870",
+    "link": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "rank": 3,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "18,707",
+    "forks": "3,168",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 4,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "192,431",
+    "forks": "29,781",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 5,
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "",
+    "language": "Python",
+    "stars": "9,276",
+    "forks": "1,138",
+    "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "rank": 6,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,197",
+    "forks": "1,397",
+    "link": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "rank": 7,
+    "name": "manaflow-ai/cmux",
+    "description": "",
+    "language": "Swift",
+    "stars": "19,512",
+    "forks": "1,474",
+    "link": "https://github.com/manaflow-ai/cmux"
+  },
+  {
+    "rank": 8,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "155,075",
+    "forks": "15,895",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 9,
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "description": "",
+    "language": "Python",
+    "stars": "23,899",
+    "forks": "3,287",
+    "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
+  },
+  {
+    "rank": 10,
+    "name": "paperless-ngx/paperless-ngx",
+    "description": "",
+    "language": "Python",
+    "stars": "41,356",
+    "forks": "2,748",
+    "link": "https://github.com/paperless-ngx/paperless-ngx"
+  },
+  {
+    "rank": 11,
+    "name": "anthropics/claude-cookbooks",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "44,042",
+    "forks": "5,051",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 12,
+    "name": "Leonxlnx/taste-skill",
+    "description": "",
+    "language": "Shell",
+    "stars": "19,777",
+    "forks": "1,656",
+    "link": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "rank": 13,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "39,744",
+    "forks": "4,023",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 14,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "26,034",
+    "forks": "4,521",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 15,
+    "name": "Axorax/awesome-free-apps",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "4,560",
+    "forks": "233",
+    "link": "https://github.com/Axorax/awesome-free-apps"
+  },
+  {
+    "rank": 16,
+    "name": "hardikpandya/stop-slop",
+    "description": "",
+    "language": "",
+    "stars": "4,429",
+    "forks": "384",
+    "link": "https://github.com/hardikpandya/stop-slop"
+  },
+  {
+    "rank": 17,
+    "name": "garrytan/gstack",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "102,518",
+    "forks": "15,291",
+    "link": "https://github.com/garrytan/gstack"
+  }
+]
