@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "69,740",
+    "forks": "10,052",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "130,017",
+    "forks": "8,923",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 3,
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,145",
+    "forks": "1,378",
+    "link": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "rank": 4,
+    "name": "twentyhq/twenty",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "48,422",
+    "forks": "6,865",
+    "link": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "127,894",
+    "forks": "20,912",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 6,
+    "name": "Leonxlnx/taste-skill",
+    "description": "",
+    "language": "Shell",
+    "stars": "28,166",
+    "forks": "2,087",
+    "link": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "rank": 7,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,305",
+    "forks": "111",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 8,
+    "name": "run-llama/liteparse",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,338",
+    "forks": "445",
+    "link": "https://github.com/run-llama/liteparse"
+  },
+  {
+    "rank": 9,
+    "name": "galilai-group/stable-worldmodel",
+    "description": "",
+    "language": "Python",
+    "stars": "1,259",
+    "forks": "149",
+    "link": "https://github.com/galilai-group/stable-worldmodel"
+  },
+  {
+    "rank": 10,
+    "name": "byoungd/English-level-up-tips",
+    "description": "",
+    "language": "",
+    "stars": "49,647",
+    "forks": "5,202",
+    "link": "https://github.com/byoungd/English-level-up-tips"
+  },
+  {
+    "rank": 11,
+    "name": "Biohub/esm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "2,569",
+    "forks": "314",
+    "link": "https://github.com/Biohub/esm"
+  },
+  {
+    "rank": 12,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "26,974",
+    "forks": "2,657",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 13,
+    "name": "DigitalPlatDev/FreeDomain",
+    "description": "",
+    "language": "HTML",
+    "stars": "171,829",
+    "forks": "3,348",
+    "link": "https://github.com/DigitalPlatDev/FreeDomain"
+  },
+  {
+    "rank": 14,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "198,593",
+    "forks": "30,517",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 15,
+    "name": "hardikpandya/stop-slop",
+    "description": "",
+    "language": "",
+    "stars": "7,018",
+    "forks": "492",
+    "link": "https://github.com/hardikpandya/stop-slop"
+  },
+  {
+    "rank": 16,
+    "name": "DataTalksClub/data-engineering-zoomcamp",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "41,569",
+    "forks": "8,271",
+    "link": "https://github.com/DataTalksClub/data-engineering-zoomcamp"
+  },
+  {
+    "rank": 17,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "507,384",
+    "forks": "48,175",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  }
+]
