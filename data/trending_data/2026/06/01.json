@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "74,452",
+    "forks": "10,616",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "135,160",
+    "forks": "9,236",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 3,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "56,711",
+    "forks": "5,500",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "rank": 4,
+    "name": "nesquena/hermes-webui",
+    "description": "",
+    "language": "Python",
+    "stars": "10,039",
+    "forks": "1,373",
+    "link": "https://github.com/nesquena/hermes-webui"
+  },
+  {
+    "rank": 5,
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,731",
+    "forks": "1,408",
+    "link": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "rank": 6,
+    "name": "github/docs",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,748",
+    "forks": "67,289",
+    "link": "https://github.com/github/docs"
+  },
+  {
+    "rank": 7,
+    "name": "OpenBMB/VoxCPM",
+    "description": "",
+    "language": "Python",
+    "stars": "23,586",
+    "forks": "2,721",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 8,
+    "name": "revfactory/harness",
+    "description": "",
+    "language": "HTML",
+    "stars": "4,634",
+    "forks": "651",
+    "link": "https://github.com/revfactory/harness"
+  },
+  {
+    "rank": 9,
+    "name": "FareedKhan-dev/train-llm-from-scratch",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "3,000",
+    "forks": "448",
+    "link": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
+  },
+  {
+    "rank": 10,
+    "name": "supermemoryai/supermemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,387",
+    "forks": "2,111",
+    "link": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "rank": 11,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "27,745",
+    "forks": "2,713",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 12,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "128,949",
+    "forks": "21,001",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 13,
+    "name": "nicobailon/pi-subagents",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,861",
+    "forks": "257",
+    "link": "https://github.com/nicobailon/pi-subagents"
+  },
+  {
+    "rank": 14,
+    "name": "emmabostian/developer-portfolios",
+    "description": "",
+    "language": "Python",
+    "stars": "23,396",
+    "forks": "4,611",
+    "link": "https://github.com/emmabostian/developer-portfolios"
+  },
+  {
+    "rank": 15,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "509,452",
+    "forks": "48,324",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  }
+]
