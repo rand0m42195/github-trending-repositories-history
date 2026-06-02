@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "138,623",
+    "forks": "9,439",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 2,
+    "name": "nesquena/hermes-webui",
+    "description": "",
+    "language": "Python",
+    "stars": "11,395",
+    "forks": "1,459",
+    "link": "https://github.com/nesquena/hermes-webui"
+  },
+  {
+    "rank": 3,
+    "name": "supermemoryai/supermemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,029",
+    "forks": "2,150",
+    "link": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "rank": 4,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "76,922",
+    "forks": "10,915",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 5,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "58,119",
+    "forks": "5,640",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "rank": 6,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "32,778",
+    "forks": "1,786",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 7,
+    "name": "p-e-w/heretic",
+    "description": "",
+    "language": "Python",
+    "stars": "23,053",
+    "forks": "2,467",
+    "link": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "rank": 8,
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,131",
+    "forks": "1,428",
+    "link": "https://github.com/EveryInc/compound-engineering-plugin"
+  },
+  {
+    "rank": 9,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "81,817",
+    "forks": "15,905",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 10,
+    "name": "revfactory/harness",
+    "description": "",
+    "language": "HTML",
+    "stars": "5,181",
+    "forks": "696",
+    "link": "https://github.com/revfactory/harness"
+  },
+  {
+    "rank": 11,
+    "name": "godotengine/godot",
+    "description": "",
+    "language": "C++",
+    "stars": "111,667",
+    "forks": "25,513",
+    "link": "https://github.com/godotengine/godot"
+  },
+  {
+    "rank": 12,
+    "name": "can1357/oh-my-pi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,492",
+    "forks": "760",
+    "link": "https://github.com/can1357/oh-my-pi"
+  },
+  {
+    "rank": 13,
+    "name": "OpenBMB/VoxCPM",
+    "description": "",
+    "language": "Python",
+    "stars": "24,297",
+    "forks": "2,805",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 14,
+    "name": "FareedKhan-dev/train-llm-from-scratch",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "3,752",
+    "forks": "520",
+    "link": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
+  },
+  {
+    "rank": 15,
+    "name": "stefan-jansen/machine-learning-for-trading",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "17,907",
+    "forks": "5,190",
+    "link": "https://github.com/stefan-jansen/machine-learning-for-trading"
+  },
+  {
+    "rank": 16,
+    "name": "dmtrKovalenko/fff",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,203",
+    "forks": "298",
+    "link": "https://github.com/dmtrKovalenko/fff"
+  },
+  {
+    "rank": 17,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "510,466",
+    "forks": "48,396",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  }
+]
