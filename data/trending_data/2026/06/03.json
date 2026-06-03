@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "chopratejas/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "6,699",
+    "forks": "462",
+    "link": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "141,290",
+    "forks": "9,628",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 3,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "204,093",
+    "forks": "31,308",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 4,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "59,247",
+    "forks": "5,724",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "rank": 5,
+    "name": "nesquena/hermes-webui",
+    "description": "",
+    "language": "Python",
+    "stars": "12,599",
+    "forks": "1,542",
+    "link": "https://github.com/nesquena/hermes-webui"
+  },
+  {
+    "rank": 6,
+    "name": "reconurge/flowsint",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,550",
+    "forks": "584",
+    "link": "https://github.com/reconurge/flowsint"
+  },
+  {
+    "rank": 7,
+    "name": "OpenBMB/VoxCPM",
+    "description": "",
+    "language": "Python",
+    "stars": "25,180",
+    "forks": "2,884",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 8,
+    "name": "stefan-jansen/machine-learning-for-trading",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "18,526",
+    "forks": "5,232",
+    "link": "https://github.com/stefan-jansen/machine-learning-for-trading"
+  },
+  {
+    "rank": 9,
+    "name": "jamwithai/production-agentic-rag-course",
+    "description": "",
+    "language": "Python",
+    "stars": "6,408",
+    "forks": "1,489",
+    "link": "https://github.com/jamwithai/production-agentic-rag-course"
+  },
+  {
+    "rank": 10,
+    "name": "supermemoryai/supermemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,689",
+    "forks": "2,180",
+    "link": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "rank": 11,
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "",
+    "language": "Python",
+    "stars": "8,421",
+    "forks": "1,079",
+    "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  }
+]
