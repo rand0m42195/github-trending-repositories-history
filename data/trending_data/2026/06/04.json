@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "chopratejas/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "9,930",
+    "forks": "656",
+    "link": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "rank": 2,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "205,840",
+    "forks": "31,604",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 3,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "35,427",
+    "forks": "416",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 4,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "179,251",
+    "forks": "30,700",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "142,955",
+    "forks": "9,770",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 6,
+    "name": "nesquena/hermes-webui",
+    "description": "",
+    "language": "Python",
+    "stars": "13,127",
+    "forks": "1,596",
+    "link": "https://github.com/nesquena/hermes-webui"
+  },
+  {
+    "rank": 7,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "60,326",
+    "forks": "5,816",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "rank": 8,
+    "name": "opendataloader-project/opendataloader-pdf",
+    "description": "",
+    "language": "Java",
+    "stars": "23,334",
+    "forks": "2,183",
+    "link": "https://github.com/opendataloader-project/opendataloader-pdf"
+  },
+  {
+    "rank": 9,
+    "name": "odoo/odoo",
+    "description": "",
+    "language": "Python",
+    "stars": "51,971",
+    "forks": "32,644",
+    "link": "https://github.com/odoo/odoo"
+  },
+  {
+    "rank": 10,
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "",
+    "language": "Python",
+    "stars": "8,999",
+    "forks": "1,107",
+    "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  },
+  {
+    "rank": 11,
+    "name": "jwasham/coding-interview-university",
+    "description": "",
+    "language": "",
+    "stars": "349,068",
+    "forks": "83,162",
+    "link": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "rank": 12,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "18,945",
+    "forks": "2,072",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 13,
+    "name": "supermemoryai/supermemory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,204",
+    "forks": "2,214",
+    "link": "https://github.com/supermemoryai/supermemory"
+  },
+  {
+    "rank": 14,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "10,000",
+    "forks": "2,014",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  }
+]
