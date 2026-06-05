@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "chopratejas/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "12,624",
+    "forks": "819",
+    "link": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "rank": 2,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "181,077",
+    "forks": "31,070",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 3,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "207,302",
+    "forks": "31,827",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 4,
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "",
+    "language": "Python",
+    "stars": "79,917",
+    "forks": "10,606",
+    "link": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  {
+    "rank": 5,
+    "name": "github/spec-kit",
+    "description": "",
+    "language": "Python",
+    "stars": "108,610",
+    "forks": "9,600",
+    "link": "https://github.com/github/spec-kit"
+  },
+  {
+    "rank": 6,
+    "name": "NVIDIA/cosmos",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "9,033",
+    "forks": "581",
+    "link": "https://github.com/NVIDIA/cosmos"
+  },
+  {
+    "rank": 7,
+    "name": "lfnovo/open-notebook",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,091",
+    "forks": "2,921",
+    "link": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "rank": 8,
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "",
+    "language": "Python",
+    "stars": "9,632",
+    "forks": "1,155",
+    "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+  },
+  {
+    "rank": 9,
+    "name": "jwasham/coding-interview-university",
+    "description": "",
+    "language": "",
+    "stars": "349,751",
+    "forks": "83,228",
+    "link": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "rank": 10,
+    "name": "github/copilot-sdk",
+    "description": "",
+    "language": "Java",
+    "stars": "8,991",
+    "forks": "1,211",
+    "link": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "rank": 11,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "35,678",
+    "forks": "431",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 12,
+    "name": "openclaw/openclaw-windows-node",
+    "description": "",
+    "language": "C#",
+    "stars": "1,344",
+    "forks": "169",
+    "link": "https://github.com/openclaw/openclaw-windows-node"
+  },
+  {
+    "rank": 13,
+    "name": "reconurge/flowsint",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,320",
+    "forks": "640",
+    "link": "https://github.com/reconurge/flowsint"
+  },
+  {
+    "rank": 14,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "27,620",
+    "forks": "2,348",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  }
+]
