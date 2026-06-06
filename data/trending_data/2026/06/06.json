@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "183,190",
+    "forks": "31,422",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 2,
+    "name": "chopratejas/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "14,546",
+    "forks": "924",
+    "link": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "rank": 3,
+    "name": "CopilotKit/CopilotKit",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "32,705",
+    "forks": "4,196",
+    "link": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "rank": 4,
+    "name": "lfnovo/open-notebook",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "26,033",
+    "forks": "2,994",
+    "link": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "rank": 5,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "208,382",
+    "forks": "31,969",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 6,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "21,589",
+    "forks": "1,864",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 7,
+    "name": "NVIDIA/cosmos",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "9,422",
+    "forks": "602",
+    "link": "https://github.com/NVIDIA/cosmos"
+  },
+  {
+    "rank": 8,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "64,719",
+    "forks": "10,088",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 9,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "28,227",
+    "forks": "2,392",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 10,
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "",
+    "language": "Python",
+    "stars": "80,554",
+    "forks": "10,633",
+    "link": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  {
+    "rank": 11,
+    "name": "openai/plugins",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "1,546",
+    "forks": "243",
+    "link": "https://github.com/openai/plugins"
+  },
+  {
+    "rank": 12,
+    "name": "MemPalace/mempalace",
+    "description": "",
+    "language": "Python",
+    "stars": "53,902",
+    "forks": "7,081",
+    "link": "https://github.com/MemPalace/mempalace"
+  },
+  {
+    "rank": 13,
+    "name": "withastro/flue",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,533",
+    "forks": "241",
+    "link": "https://github.com/withastro/flue"
+  },
+  {
+    "rank": 14,
+    "name": "openclaw/openclaw-windows-node",
+    "description": "",
+    "language": "C#",
+    "stars": "1,611",
+    "forks": "182",
+    "link": "https://github.com/openclaw/openclaw-windows-node"
+  },
+  {
+    "rank": 15,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "35,862",
+    "forks": "443",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 16,
+    "name": "jwasham/coding-interview-university",
+    "description": "",
+    "language": "",
+    "stars": "350,400",
+    "forks": "83,290",
+    "link": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "rank": 17,
+    "name": "github/copilot-sdk",
+    "description": "",
+    "language": "Java",
+    "stars": "9,254",
+    "forks": "1,223",
+    "link": "https://github.com/github/copilot-sdk"
+  }
+]
