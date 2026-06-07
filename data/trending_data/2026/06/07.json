@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "28,864",
+    "forks": "2,443",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 2,
+    "name": "CopilotKit/CopilotKit",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "33,234",
+    "forks": "4,243",
+    "link": "https://github.com/CopilotKit/CopilotKit"
+  },
+  {
+    "rank": 3,
+    "name": "MemPalace/mempalace",
+    "description": "",
+    "language": "Python",
+    "stars": "54,304",
+    "forks": "7,111",
+    "link": "https://github.com/MemPalace/mempalace"
+  },
+  {
+    "rank": 4,
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,977",
+    "forks": "2,124",
+    "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+  },
+  {
+    "rank": 5,
+    "name": "openai/plugins",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "1,788",
+    "forks": "257",
+    "link": "https://github.com/openai/plugins"
+  },
+  {
+    "rank": 6,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "22,366",
+    "forks": "1,909",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 7,
+    "name": "sveltejs/svelte",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "86,998",
+    "forks": "4,937",
+    "link": "https://github.com/sveltejs/svelte"
+  },
+  {
+    "rank": 8,
+    "name": "nginx/nginx",
+    "description": "",
+    "language": "C",
+    "stars": "30,696",
+    "forks": "7,957",
+    "link": "https://github.com/nginx/nginx"
+  },
+  {
+    "rank": 9,
+    "name": "aquasecurity/trivy",
+    "description": "",
+    "language": "Go",
+    "stars": "36,008",
+    "forks": "455",
+    "link": "https://github.com/aquasecurity/trivy"
+  },
+  {
+    "rank": 10,
+    "name": "golang/go",
+    "description": "",
+    "language": "Go",
+    "stars": "134,514",
+    "forks": "19,086",
+    "link": "https://github.com/golang/go"
+  },
+  {
+    "rank": 11,
+    "name": "lfnovo/open-notebook",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "26,640",
+    "forks": "3,042",
+    "link": "https://github.com/lfnovo/open-notebook"
+  },
+  {
+    "rank": 12,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "219,689",
+    "forks": "19,549",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 13,
+    "name": "santifer/career-ops",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "49,387",
+    "forks": "10,207",
+    "link": "https://github.com/santifer/career-ops"
+  },
+  {
+    "rank": 14,
+    "name": "openai/whisper",
+    "description": "",
+    "language": "Python",
+    "stars": "101,881",
+    "forks": "12,440",
+    "link": "https://github.com/openai/whisper"
+  },
+  {
+    "rank": 15,
+    "name": "vitejs/vite",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "81,190",
+    "forks": "8,276",
+    "link": "https://github.com/vitejs/vite"
+  },
+  {
+    "rank": 16,
+    "name": "microsoft/mxc",
+    "description": "",
+    "language": "Rust",
+    "stars": "592",
+    "forks": "25",
+    "link": "https://github.com/microsoft/mxc"
+  },
+  {
+    "rank": 17,
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "",
+    "language": "Python",
+    "stars": "80,977",
+    "forks": "10,661",
+    "link": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  {
+    "rank": 18,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "48,485",
+    "forks": "5,391",
+    "link": "https://github.com/microsoft/VibeVoice"
+  }
+]
