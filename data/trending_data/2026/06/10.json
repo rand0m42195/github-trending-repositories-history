@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "37,455",
+    "forks": "3,036",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 2,
+    "name": "RyanCodrai/turbovec",
+    "description": "",
+    "language": "Python",
+    "stars": "10,231",
+    "forks": "873",
+    "link": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "rank": 3,
+    "name": "roboflow/supervision",
+    "description": "",
+    "language": "Python",
+    "stars": "43,031",
+    "forks": "3,836",
+    "link": "https://github.com/roboflow/supervision"
+  },
+  {
+    "rank": 4,
+    "name": "opencv/opencv",
+    "description": "",
+    "language": "C++",
+    "stars": "88,664",
+    "forks": "56,622",
+    "link": "https://github.com/opencv/opencv"
+  },
+  {
+    "rank": 5,
+    "name": "refactoringhq/tolaria",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,371",
+    "forks": "997",
+    "link": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "rank": 6,
+    "name": "aaif-goose/goose",
+    "description": "",
+    "language": "Rust",
+    "stars": "48,514",
+    "forks": "5,094",
+    "link": "https://github.com/aaif-goose/goose"
+  },
+  {
+    "rank": 7,
+    "name": "Andyyyy64/whichllm",
+    "description": "",
+    "language": "Python",
+    "stars": "4,118",
+    "forks": "227",
+    "link": "https://github.com/Andyyyy64/whichllm"
+  },
+  {
+    "rank": 8,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "",
+    "language": "Roff",
+    "stars": "73,520",
+    "forks": "16,455",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "rank": 9,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "",
+    "language": "",
+    "stars": "139,188",
+    "forks": "34,560",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 10,
+    "name": "yikart/AiToEarn",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,970",
+    "forks": "3,023",
+    "link": "https://github.com/yikart/AiToEarn"
+  },
+  {
+    "rank": 11,
+    "name": "phuryn/pm-skills",
+    "description": "",
+    "language": "",
+    "stars": "13,473",
+    "forks": "1,543",
+    "link": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "rank": 12,
+    "name": "santifer/career-ops",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "51,732",
+    "forks": "10,427",
+    "link": "https://github.com/santifer/career-ops"
+  },
+  {
+    "rank": 13,
+    "name": "openai/plugins",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "2,620",
+    "forks": "306",
+    "link": "https://github.com/openai/plugins"
+  },
+  {
+    "rank": 14,
+    "name": "maziyarpanahi/openmed",
+    "description": "",
+    "language": "Python",
+    "stars": "1,890",
+    "forks": "216",
+    "link": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "rank": 15,
+    "name": "francescopace/espectre",
+    "description": "",
+    "language": "Python",
+    "stars": "8,225",
+    "forks": "633",
+    "link": "https://github.com/francescopace/espectre"
+  },
+  {
+    "rank": 16,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "49,854",
+    "forks": "5,570",
+    "link": "https://github.com/addyosmani/agent-skills"
+  }
+]
