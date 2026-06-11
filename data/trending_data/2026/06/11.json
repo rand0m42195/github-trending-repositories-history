@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "51,964",
+    "forks": "5,723",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 2,
+    "name": "phuryn/pm-skills",
+    "description": "",
+    "language": "",
+    "stars": "14,997",
+    "forks": "1,628",
+    "link": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "rank": 3,
+    "name": "refactoringhq/tolaria",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,954",
+    "forks": "1,034",
+    "link": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "rank": 4,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "39,135",
+    "forks": "3,157",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 5,
+    "name": "soxoj/maigret",
+    "description": "",
+    "language": "Python",
+    "stars": "32,068",
+    "forks": "2,348",
+    "link": "https://github.com/soxoj/maigret"
+  },
+  {
+    "rank": 6,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "",
+    "language": "",
+    "stars": "139,541",
+    "forks": "34,593",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "223,655",
+    "forks": "19,883",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "masterking32/MasterDnsVPN",
+    "description": "",
+    "language": "Go",
+    "stars": "5,245",
+    "forks": "502",
+    "link": "https://github.com/masterking32/MasterDnsVPN"
+  },
+  {
+    "rank": 9,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "85,117",
+    "forks": "12,157",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 10,
+    "name": "maziyarpanahi/openmed",
+    "description": "",
+    "language": "Python",
+    "stars": "2,323",
+    "forks": "246",
+    "link": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "rank": 11,
+    "name": "luongnv89/claude-howto",
+    "description": "",
+    "language": "Python",
+    "stars": "36,566",
+    "forks": "4,417",
+    "link": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "rank": 12,
+    "name": "activeloopai/hivemind",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "862",
+    "forks": "49",
+    "link": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "rank": 13,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "72,920",
+    "forks": "9,727",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 14,
+    "name": "roboflow/supervision",
+    "description": "",
+    "language": "Python",
+    "stars": "43,609",
+    "forks": "3,873",
+    "link": "https://github.com/roboflow/supervision"
+  },
+  {
+    "rank": 15,
+    "name": "google/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "13,321",
+    "forks": "1,008",
+    "link": "https://github.com/google/skills"
+  },
+  {
+    "rank": 16,
+    "name": "FareedKhan-dev/train-llm-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "5,284",
+    "forks": "716",
+    "link": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
+  },
+  {
+    "rank": 17,
+    "name": "apple/container",
+    "description": "",
+    "language": "Swift",
+    "stars": "29,930",
+    "forks": "833",
+    "link": "https://github.com/apple/container"
+  }
+]
