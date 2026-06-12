@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "apple/container",
+    "description": "",
+    "language": "Swift",
+    "stars": "32,675",
+    "forks": "913",
+    "link": "https://github.com/apple/container"
+  },
+  {
+    "rank": 2,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "54,892",
+    "forks": "5,958",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "maziyarpanahi/openmed",
+    "description": "",
+    "language": "Python",
+    "stars": "2,795",
+    "forks": "275",
+    "link": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "rank": 4,
+    "name": "phuryn/pm-skills",
+    "description": "",
+    "language": "",
+    "stars": "16,266",
+    "forks": "1,693",
+    "link": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "rank": 5,
+    "name": "NVIDIA/SkillSpector",
+    "description": "",
+    "language": "Python",
+    "stars": "2,713",
+    "forks": "215",
+    "link": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "rank": 6,
+    "name": "soxoj/maigret",
+    "description": "",
+    "language": "Python",
+    "stars": "32,640",
+    "forks": "2,391",
+    "link": "https://github.com/soxoj/maigret"
+  },
+  {
+    "rank": 7,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "",
+    "language": "",
+    "stars": "139,888",
+    "forks": "34,620",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "rank": 8,
+    "name": "refactoringhq/tolaria",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,426",
+    "forks": "1,062",
+    "link": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "rank": 9,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "224,912",
+    "forks": "19,996",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 10,
+    "name": "restic/restic",
+    "description": "",
+    "language": "Go",
+    "stars": "34,181",
+    "forks": "1,786",
+    "link": "https://github.com/restic/restic"
+  },
+  {
+    "rank": 11,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "111,639",
+    "forks": "18,256",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 12,
+    "name": "masterking32/MasterDnsVPN",
+    "description": "",
+    "language": "Go",
+    "stars": "5,719",
+    "forks": "520",
+    "link": "https://github.com/masterking32/MasterDnsVPN"
+  },
+  {
+    "rank": 13,
+    "name": "chatwoot/chatwoot",
+    "description": "",
+    "language": "Ruby",
+    "stars": "30,385",
+    "forks": "7,506",
+    "link": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "rank": 14,
+    "name": "kenn-io/agentsview",
+    "description": "",
+    "language": "Go",
+    "stars": "1,678",
+    "forks": "174",
+    "link": "https://github.com/kenn-io/agentsview"
+  },
+  {
+    "rank": 15,
+    "name": "alchaincyf/zhangxuefeng-skill",
+    "description": "",
+    "language": "",
+    "stars": "7,974",
+    "forks": "2,414",
+    "link": "https://github.com/alchaincyf/zhangxuefeng-skill"
+  },
+  {
+    "rank": 16,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "",
+    "language": "Roff",
+    "stars": "73,952",
+    "forks": "16,543",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "rank": 17,
+    "name": "hexo-ai/sia",
+    "description": "",
+    "language": "Python",
+    "stars": "1,327",
+    "forks": "161",
+    "link": "https://github.com/hexo-ai/sia"
+  },
+  {
+    "rank": 18,
+    "name": "mattermost/mattermost",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "37,335",
+    "forks": "8,697",
+    "link": "https://github.com/mattermost/mattermost"
+  },
+  {
+    "rank": 19,
+    "name": "bannedbook/fanqiang",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "46,842",
+    "forks": "8,014",
+    "link": "https://github.com/bannedbook/fanqiang"
+  }
+]
