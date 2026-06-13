@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "56,856",
+    "forks": "6,129",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 2,
+    "name": "music-assistant/server",
+    "description": "",
+    "language": "Python",
+    "stars": "1,789",
+    "forks": "422",
+    "link": "https://github.com/music-assistant/server"
+  },
+  {
+    "rank": 3,
+    "name": "mattermost/mattermost",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "37,638",
+    "forks": "8,713",
+    "link": "https://github.com/mattermost/mattermost"
+  },
+  {
+    "rank": 4,
+    "name": "apple/container",
+    "description": "",
+    "language": "Swift",
+    "stars": "35,152",
+    "forks": "980",
+    "link": "https://github.com/apple/container"
+  },
+  {
+    "rank": 5,
+    "name": "iptv-org/iptv",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "118,054",
+    "forks": "6,303",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "226,036",
+    "forks": "20,090",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 7,
+    "name": "refactoringhq/tolaria",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,786",
+    "forks": "1,077",
+    "link": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "rank": 8,
+    "name": "maziyarpanahi/openmed",
+    "description": "",
+    "language": "Python",
+    "stars": "3,198",
+    "forks": "306",
+    "link": "https://github.com/maziyarpanahi/openmed"
+  },
+  {
+    "rank": 9,
+    "name": "LMCache/LMCache",
+    "description": "",
+    "language": "Python",
+    "stars": "8,644",
+    "forks": "1,288",
+    "link": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "rank": 10,
+    "name": "phuryn/pm-skills",
+    "description": "",
+    "language": "",
+    "stars": "17,010",
+    "forks": "1,742",
+    "link": "https://github.com/phuryn/pm-skills"
+  },
+  {
+    "rank": 11,
+    "name": "masterking32/MasterDnsVPN",
+    "description": "",
+    "language": "Go",
+    "stars": "6,019",
+    "forks": "542",
+    "link": "https://github.com/masterking32/MasterDnsVPN"
+  },
+  {
+    "rank": 12,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "112,439",
+    "forks": "18,334",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 13,
+    "name": "microsoft/PowerToys",
+    "description": "",
+    "language": "C",
+    "stars": "134,346",
+    "forks": "8,063",
+    "link": "https://github.com/microsoft/PowerToys"
+  }
+]
