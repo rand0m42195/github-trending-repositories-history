@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "iptv-org/iptv",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "119,178",
+    "forks": "6,370",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 2,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "58,450",
+    "forks": "6,310",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "chatwoot/chatwoot",
+    "description": "",
+    "language": "Ruby",
+    "stars": "30,876",
+    "forks": "7,555",
+    "link": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "226,977",
+    "forks": "20,185",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "apple/container",
+    "description": "",
+    "language": "Swift",
+    "stars": "36,339",
+    "forks": "1,035",
+    "link": "https://github.com/apple/container"
+  },
+  {
+    "rank": 6,
+    "name": "music-assistant/server",
+    "description": "",
+    "language": "Python",
+    "stars": "2,010",
+    "forks": "430",
+    "link": "https://github.com/music-assistant/server"
+  },
+  {
+    "rank": 7,
+    "name": "kenn-io/agentsview",
+    "description": "",
+    "language": "Go",
+    "stars": "2,376",
+    "forks": "217",
+    "link": "https://github.com/kenn-io/agentsview"
+  },
+  {
+    "rank": 8,
+    "name": "LMCache/LMCache",
+    "description": "",
+    "language": "Python",
+    "stars": "8,902",
+    "forks": "1,305",
+    "link": "https://github.com/LMCache/LMCache"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/PowerToys",
+    "description": "",
+    "language": "C",
+    "stars": "134,682",
+    "forks": "8,079",
+    "link": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "rank": 10,
+    "name": "andrewyng/aisuite",
+    "description": "",
+    "language": "Python",
+    "stars": "14,133",
+    "forks": "1,487",
+    "link": "https://github.com/andrewyng/aisuite"
+  },
+  {
+    "rank": 11,
+    "name": "NVIDIA/SkillSpector",
+    "description": "",
+    "language": "Python",
+    "stars": "4,491",
+    "forks": "341",
+    "link": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "rank": 12,
+    "name": "bannedbook/fanqiang",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "47,502",
+    "forks": "8,083",
+    "link": "https://github.com/bannedbook/fanqiang"
+  },
+  {
+    "rank": 13,
+    "name": "swc-project/swc",
+    "description": "",
+    "language": "Rust",
+    "stars": "33,644",
+    "forks": "1,398",
+    "link": "https://github.com/swc-project/swc"
+  },
+  {
+    "rank": 14,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "",
+    "language": "",
+    "stars": "140,309",
+    "forks": "34,659",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  }
+]
