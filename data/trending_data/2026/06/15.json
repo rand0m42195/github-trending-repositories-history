@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "iptv-org/iptv",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "121,138",
+    "forks": "6,485",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 2,
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "447,252",
+    "forks": "44,956",
+    "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "rank": 3,
+    "name": "pytest-dev/pytest",
+    "description": "",
+    "language": "Python",
+    "stars": "14,057",
+    "forks": "3,179",
+    "link": "https://github.com/pytest-dev/pytest"
+  },
+  {
+    "rank": 4,
+    "name": "swc-project/swc",
+    "description": "",
+    "language": "Rust",
+    "stars": "33,792",
+    "forks": "1,402",
+    "link": "https://github.com/swc-project/swc"
+  },
+  {
+    "rank": 5,
+    "name": "chatwoot/chatwoot",
+    "description": "",
+    "language": "Ruby",
+    "stars": "31,266",
+    "forks": "7,592",
+    "link": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "rank": 6,
+    "name": "NVIDIA/SkillSpector",
+    "description": "",
+    "language": "Python",
+    "stars": "5,380",
+    "forks": "413",
+    "link": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "rank": 7,
+    "name": "meshery/meshery",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,416",
+    "forks": "3,422",
+    "link": "https://github.com/meshery/meshery"
+  },
+  {
+    "rank": 8,
+    "name": "cypress-io/cypress",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "49,964",
+    "forks": "3,415",
+    "link": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "rank": 9,
+    "name": "GorvGoyl/Clone-Wars",
+    "description": "",
+    "language": "",
+    "stars": "35,504",
+    "forks": "3,189",
+    "link": "https://github.com/GorvGoyl/Clone-Wars"
+  },
+  {
+    "rank": 10,
+    "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "description": "",
+    "language": "TeX",
+    "stars": "2,752",
+    "forks": "616",
+    "link": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
+  },
+  {
+    "rank": 11,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "29,944",
+    "forks": "5,157",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 12,
+    "name": "music-assistant/server",
+    "description": "",
+    "language": "Python",
+    "stars": "2,203",
+    "forks": "437",
+    "link": "https://github.com/music-assistant/server"
+  },
+  {
+    "rank": 13,
+    "name": "Free-TV/IPTV",
+    "description": "",
+    "language": "Python",
+    "stars": "16,963",
+    "forks": "2,544",
+    "link": "https://github.com/Free-TV/IPTV"
+  },
+  {
+    "rank": 14,
+    "name": "puppeteer/puppeteer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "94,660",
+    "forks": "9,439",
+    "link": "https://github.com/puppeteer/puppeteer"
+  },
+  {
+    "rank": 15,
+    "name": "andrewyng/aisuite",
+    "description": "",
+    "language": "Python",
+    "stars": "14,410",
+    "forks": "1,504",
+    "link": "https://github.com/andrewyng/aisuite"
+  }
+]
