@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "iptv-org/iptv",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "122,990",
+    "forks": "6,607",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 2,
+    "name": "teslamate-org/teslamate",
+    "description": "",
+    "language": "Elixir",
+    "stars": "8,257",
+    "forks": "947",
+    "link": "https://github.com/teslamate-org/teslamate"
+  },
+  {
+    "rank": 3,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "30,383",
+    "forks": "2,463",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 4,
+    "name": "meshery/meshery",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,646",
+    "forks": "3,435",
+    "link": "https://github.com/meshery/meshery"
+  },
+  {
+    "rank": 5,
+    "name": "chatwoot/chatwoot",
+    "description": "",
+    "language": "Ruby",
+    "stars": "31,720",
+    "forks": "7,633",
+    "link": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "rank": 6,
+    "name": "krahets/hello-algo",
+    "description": "",
+    "language": "Java",
+    "stars": "126,974",
+    "forks": "15,147",
+    "link": "https://github.com/krahets/hello-algo"
+  },
+  {
+    "rank": 7,
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "447,949",
+    "forks": "44,996",
+    "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "rank": 8,
+    "name": "trycua/cua",
+    "description": "",
+    "language": "HTML",
+    "stars": "18,184",
+    "forks": "1,172",
+    "link": "https://github.com/trycua/cua"
+  },
+  {
+    "rank": 9,
+    "name": "jwasham/coding-interview-university",
+    "description": "",
+    "language": "",
+    "stars": "352,345",
+    "forks": "83,570",
+    "link": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "rank": 10,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "33,137",
+    "forks": "5,418",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 11,
+    "name": "music-assistant/server",
+    "description": "",
+    "language": "Python",
+    "stars": "2,392",
+    "forks": "444",
+    "link": "https://github.com/music-assistant/server"
+  },
+  {
+    "rank": 12,
+    "name": "Free-TV/IPTV",
+    "description": "",
+    "language": "Python",
+    "stars": "17,312",
+    "forks": "2,565",
+    "link": "https://github.com/Free-TV/IPTV"
+  },
+  {
+    "rank": 13,
+    "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "description": "",
+    "language": "TeX",
+    "stars": "3,086",
+    "forks": "658",
+    "link": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
+  },
+  {
+    "rank": 14,
+    "name": "Raphire/Win11Debloat",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "48,062",
+    "forks": "1,939",
+    "link": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "rank": 15,
+    "name": "mikeroyal/Self-Hosting-Guide",
+    "description": "",
+    "language": "Dockerfile",
+    "stars": "21,077",
+    "forks": "1,067",
+    "link": "https://github.com/mikeroyal/Self-Hosting-Guide"
+  },
+  {
+    "rank": 16,
+    "name": "itsfatduck/optimizerDuck",
+    "description": "",
+    "language": "C#",
+    "stars": "3,728",
+    "forks": "162",
+    "link": "https://github.com/itsfatduck/optimizerDuck"
+  },
+  {
+    "rank": 17,
+    "name": "NVIDIA/SkillSpector",
+    "description": "",
+    "language": "Python",
+    "stars": "6,431",
+    "forks": "470",
+    "link": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "rank": 18,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "30,306",
+    "forks": "5,197",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  }
+]
