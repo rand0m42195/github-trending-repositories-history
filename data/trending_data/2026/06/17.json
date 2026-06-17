@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "448,606",
+    "forks": "45,045",
+    "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "rank": 2,
+    "name": "swc-project/swc",
+    "description": "",
+    "language": "Rust",
+    "stars": "33,979",
+    "forks": "1,418",
+    "link": "https://github.com/swc-project/swc"
+  },
+  {
+    "rank": 3,
+    "name": "teslamate-org/teslamate",
+    "description": "",
+    "language": "Elixir",
+    "stars": "8,421",
+    "forks": "956",
+    "link": "https://github.com/teslamate-org/teslamate"
+  },
+  {
+    "rank": 4,
+    "name": "iptv-org/iptv",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "124,167",
+    "forks": "6,707",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 5,
+    "name": "puppeteer/puppeteer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "94,908",
+    "forks": "9,451",
+    "link": "https://github.com/puppeteer/puppeteer"
+  },
+  {
+    "rank": 6,
+    "name": "meshery/meshery",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,863",
+    "forks": "3,448",
+    "link": "https://github.com/meshery/meshery"
+  },
+  {
+    "rank": 7,
+    "name": "cypress-io/cypress",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "50,226",
+    "forks": "3,426",
+    "link": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "rank": 8,
+    "name": "music-assistant/server",
+    "description": "",
+    "language": "Python",
+    "stars": "2,577",
+    "forks": "450",
+    "link": "https://github.com/music-assistant/server"
+  },
+  {
+    "rank": 9,
+    "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,338",
+    "forks": "315",
+    "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+  },
+  {
+    "rank": 10,
+    "name": "OpenBMB/VoxCPM",
+    "description": "",
+    "language": "Python",
+    "stars": "30,158",
+    "forks": "3,407",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 11,
+    "name": "alibaba/zvec",
+    "description": "",
+    "language": "C++",
+    "stars": "10,498",
+    "forks": "607",
+    "link": "https://github.com/alibaba/zvec"
+  },
+  {
+    "rank": 12,
+    "name": "rmyndharis/OpenWA",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,109",
+    "forks": "1,999",
+    "link": "https://github.com/rmyndharis/OpenWA"
+  },
+  {
+    "rank": 13,
+    "name": "n0-computer/iroh",
+    "description": "",
+    "language": "Rust",
+    "stars": "9,311",
+    "forks": "437",
+    "link": "https://github.com/n0-computer/iroh"
+  }
+]
