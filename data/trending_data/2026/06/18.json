@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "",
+    "language": "C",
+    "stars": "5,425",
+    "forks": "492",
+    "link": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "rank": 2,
+    "name": "n0-computer/iroh",
+    "description": "",
+    "language": "Rust",
+    "stars": "9,679",
+    "forks": "452",
+    "link": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "rank": 3,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "33,287",
+    "forks": "2,673",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 4,
+    "name": "meshery/meshery",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,031",
+    "forks": "3,458",
+    "link": "https://github.com/meshery/meshery"
+  },
+  {
+    "rank": 5,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "231,148",
+    "forks": "20,544",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 6,
+    "name": "google-research/timesfm",
+    "description": "",
+    "language": "Python",
+    "stars": "21,935",
+    "forks": "2,131",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 7,
+    "name": "RocketChat/Rocket.Chat",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "45,600",
+    "forks": "13,657",
+    "link": "https://github.com/RocketChat/Rocket.Chat"
+  },
+  {
+    "rank": 8,
+    "name": "continuedev/continue",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "33,919",
+    "forks": "4,699",
+    "link": "https://github.com/continuedev/continue"
+  },
+  {
+    "rank": 9,
+    "name": "penpot/penpot",
+    "description": "",
+    "language": "Clojure",
+    "stars": "50,113",
+    "forks": "3,234",
+    "link": "https://github.com/penpot/penpot"
+  },
+  {
+    "rank": 10,
+    "name": "krahets/hello-algo",
+    "description": "",
+    "language": "Java",
+    "stars": "127,484",
+    "forks": "15,175",
+    "link": "https://github.com/krahets/hello-algo"
+  },
+  {
+    "rank": 11,
+    "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,657",
+    "forks": "328",
+    "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+  },
+  {
+    "rank": 12,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "133,697",
+    "forks": "11,613",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 13,
+    "name": "yairm210/Unciv",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "10,677",
+    "forks": "1,844",
+    "link": "https://github.com/yairm210/Unciv"
+  },
+  {
+    "rank": 14,
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "449,160",
+    "forks": "45,090",
+    "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "rank": 15,
+    "name": "bytedance/UI-TARS-desktop",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "36,712",
+    "forks": "3,701",
+    "link": "https://github.com/bytedance/UI-TARS-desktop"
+  },
+  {
+    "rank": 16,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "",
+    "language": "Rust",
+    "stars": "23,823",
+    "forks": "3,019",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 17,
+    "name": "chatwoot/chatwoot",
+    "description": "",
+    "language": "Ruby",
+    "stars": "32,389",
+    "forks": "7,714",
+    "link": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "rank": 18,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "5,369",
+    "forks": "1,010",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 19,
+    "name": "alexzhang13/rlm",
+    "description": "",
+    "language": "Python",
+    "stars": "4,937",
+    "forks": "824",
+    "link": "https://github.com/alexzhang13/rlm"
+  },
+  {
+    "rank": 20,
+    "name": "makeplane/plane",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "51,324",
+    "forks": "4,564",
+    "link": "https://github.com/makeplane/plane"
+  }
+]
