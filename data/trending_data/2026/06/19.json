@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "google-research/timesfm",
+    "description": "",
+    "language": "Python",
+    "stars": "23,255",
+    "forks": "2,225",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 2,
+    "name": "n0-computer/iroh",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,020",
+    "forks": "463",
+    "link": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "rank": 3,
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "449,565",
+    "forks": "45,131",
+    "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "232,480",
+    "forks": "20,649",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "zai-org/GLM-5",
+    "description": "",
+    "language": "",
+    "stars": "4,157",
+    "forks": "434",
+    "link": "https://github.com/zai-org/GLM-5"
+  },
+  {
+    "rank": 6,
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "",
+    "language": "C",
+    "stars": "7,119",
+    "forks": "570",
+    "link": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "rank": 7,
+    "name": "yifanfeng97/Hyper-Extract",
+    "description": "",
+    "language": "Python",
+    "stars": "1,812",
+    "forks": "206",
+    "link": "https://github.com/yifanfeng97/Hyper-Extract"
+  },
+  {
+    "rank": 8,
+    "name": "alibaba/zvec",
+    "description": "",
+    "language": "C++",
+    "stars": "11,248",
+    "forks": "654",
+    "link": "https://github.com/alibaba/zvec"
+  },
+  {
+    "rank": 9,
+    "name": "withastro/flue",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,527",
+    "forks": "302",
+    "link": "https://github.com/withastro/flue"
+  },
+  {
+    "rank": 10,
+    "name": "Kilo-Org/kilocode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,199",
+    "forks": "2,708",
+    "link": "https://github.com/Kilo-Org/kilocode"
+  },
+  {
+    "rank": 11,
+    "name": "makeplane/plane",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "51,857",
+    "forks": "4,603",
+    "link": "https://github.com/makeplane/plane"
+  },
+  {
+    "rank": 12,
+    "name": "Kong/insomnia",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "38,697",
+    "forks": "2,293",
+    "link": "https://github.com/Kong/insomnia"
+  },
+  {
+    "rank": 13,
+    "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,933",
+    "forks": "342",
+    "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+  },
+  {
+    "rank": 14,
+    "name": "dotnet/aspnetcore",
+    "description": "",
+    "language": "C#",
+    "stars": "38,098",
+    "forks": "10,710",
+    "link": "https://github.com/dotnet/aspnetcore"
+  },
+  {
+    "rank": 15,
+    "name": "owainlewis/awesome-artificial-intelligence",
+    "description": "",
+    "language": "",
+    "stars": "14,422",
+    "forks": "2,336",
+    "link": "https://github.com/owainlewis/awesome-artificial-intelligence"
+  },
+  {
+    "rank": 16,
+    "name": "Lightricks/LTX-2",
+    "description": "",
+    "language": "Python",
+    "stars": "7,507",
+    "forks": "1,209",
+    "link": "https://github.com/Lightricks/LTX-2"
+  },
+  {
+    "rank": 17,
+    "name": "LibreTranslate/LibreTranslate",
+    "description": "",
+    "language": "Python",
+    "stars": "14,994",
+    "forks": "1,534",
+    "link": "https://github.com/LibreTranslate/LibreTranslate"
+  }
+]
