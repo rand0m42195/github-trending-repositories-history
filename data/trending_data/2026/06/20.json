@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "",
+    "language": "C",
+    "stars": "8,278",
+    "forks": "630",
+    "link": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "rank": 2,
+    "name": "google-research/timesfm",
+    "description": "",
+    "language": "Python",
+    "stars": "24,100",
+    "forks": "2,274",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 3,
+    "name": "palmier-io/palmier-pro",
+    "description": "",
+    "language": "Swift",
+    "stars": "1,957",
+    "forks": "192",
+    "link": "https://github.com/palmier-io/palmier-pro"
+  },
+  {
+    "rank": 4,
+    "name": "koala73/worldmonitor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "57,279",
+    "forks": "9,141",
+    "link": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "rank": 5,
+    "name": "aishwaryanr/awesome-generative-ai-guide",
+    "description": "",
+    "language": "HTML",
+    "stars": "27,644",
+    "forks": "5,740",
+    "link": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+  },
+  {
+    "rank": 6,
+    "name": "BuilderIO/agent-native",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,061",
+    "forks": "119",
+    "link": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "rank": 7,
+    "name": "chopratejas/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "38,810",
+    "forks": "2,648",
+    "link": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "rank": 8,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "6,317",
+    "forks": "1,084",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 9,
+    "name": "zai-org/GLM-5",
+    "description": "",
+    "language": "",
+    "stars": "4,593",
+    "forks": "463",
+    "link": "https://github.com/zai-org/GLM-5"
+  },
+  {
+    "rank": 10,
+    "name": "withastro/flue",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,849",
+    "forks": "324",
+    "link": "https://github.com/withastro/flue"
+  },
+  {
+    "rank": 11,
+    "name": "n0-computer/iroh",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,254",
+    "forks": "466",
+    "link": "https://github.com/n0-computer/iroh"
+  },
+  {
+    "rank": 12,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "233,396",
+    "forks": "20,725",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 13,
+    "name": "penpot/penpot",
+    "description": "",
+    "language": "Clojure",
+    "stars": "50,610",
+    "forks": "3,268",
+    "link": "https://github.com/penpot/penpot"
+  },
+  {
+    "rank": 14,
+    "name": "Kong/insomnia",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "38,988",
+    "forks": "2,300",
+    "link": "https://github.com/Kong/insomnia"
+  },
+  {
+    "rank": 15,
+    "name": "Lightricks/LTX-2",
+    "description": "",
+    "language": "Python",
+    "stars": "7,678",
+    "forks": "1,220",
+    "link": "https://github.com/Lightricks/LTX-2"
+  }
+]
