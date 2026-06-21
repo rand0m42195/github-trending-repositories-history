@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "palmier-io/palmier-pro",
+    "description": "",
+    "language": "Swift",
+    "stars": "3,431",
+    "forks": "284",
+    "link": "https://github.com/palmier-io/palmier-pro"
+  },
+  {
+    "rank": 2,
+    "name": "penpot/penpot",
+    "description": "",
+    "language": "Clojure",
+    "stars": "51,469",
+    "forks": "3,305",
+    "link": "https://github.com/penpot/penpot"
+  },
+  {
+    "rank": 3,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "7,102",
+    "forks": "1,155",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 4,
+    "name": "tursodatabase/turso",
+    "description": "",
+    "language": "Rust",
+    "stars": "20,353",
+    "forks": "1,042",
+    "link": "https://github.com/tursodatabase/turso"
+  },
+  {
+    "rank": 5,
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "",
+    "language": "C",
+    "stars": "9,396",
+    "forks": "713",
+    "link": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "rank": 6,
+    "name": "google-research/timesfm",
+    "description": "",
+    "language": "Python",
+    "stars": "24,567",
+    "forks": "2,329",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 7,
+    "name": "twentyhq/twenty",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "50,877",
+    "forks": "7,412",
+    "link": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "rank": 8,
+    "name": "Kong/insomnia",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "39,340",
+    "forks": "2,324",
+    "link": "https://github.com/Kong/insomnia"
+  },
+  {
+    "rank": 9,
+    "name": "tw93/Pake",
+    "description": "",
+    "language": "Rust",
+    "stars": "54,867",
+    "forks": "10,889",
+    "link": "https://github.com/tw93/Pake"
+  },
+  {
+    "rank": 10,
+    "name": "chopratejas/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "41,977",
+    "forks": "2,890",
+    "link": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "rank": 11,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "31,037",
+    "forks": "3,838",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 12,
+    "name": "Kilo-Org/kilocode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,377",
+    "forks": "2,743",
+    "link": "https://github.com/Kilo-Org/kilocode"
+  },
+  {
+    "rank": 13,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "138,291",
+    "forks": "11,994",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 14,
+    "name": "withastro/flue",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,107",
+    "forks": "344",
+    "link": "https://github.com/withastro/flue"
+  },
+  {
+    "rank": 15,
+    "name": "owainlewis/awesome-artificial-intelligence",
+    "description": "",
+    "language": "",
+    "stars": "14,796",
+    "forks": "2,356",
+    "link": "https://github.com/owainlewis/awesome-artificial-intelligence"
+  },
+  {
+    "rank": 16,
+    "name": "pppscn/SmsForwarder",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "26,499",
+    "forks": "3,274",
+    "link": "https://github.com/pppscn/SmsForwarder"
+  },
+  {
+    "rank": 17,
+    "name": "1jehuang/jcode",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,405",
+    "forks": "828",
+    "link": "https://github.com/1jehuang/jcode"
+  }
+]
