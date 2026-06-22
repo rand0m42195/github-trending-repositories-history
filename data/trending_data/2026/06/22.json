@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "palmier-io/palmier-pro",
+    "description": "",
+    "language": "Swift",
+    "stars": "5,306",
+    "forks": "403",
+    "link": "https://github.com/palmier-io/palmier-pro"
+  },
+  {
+    "rank": 2,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "8,943",
+    "forks": "1,319",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 3,
+    "name": "chopratejas/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "44,599",
+    "forks": "3,111",
+    "link": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "rank": 4,
+    "name": "tursodatabase/turso",
+    "description": "",
+    "language": "Rust",
+    "stars": "20,846",
+    "forks": "1,067",
+    "link": "https://github.com/tursodatabase/turso"
+  },
+  {
+    "rank": 5,
+    "name": "penpot/penpot",
+    "description": "",
+    "language": "Clojure",
+    "stars": "52,292",
+    "forks": "3,347",
+    "link": "https://github.com/penpot/penpot"
+  },
+  {
+    "rank": 6,
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "",
+    "language": "Python",
+    "stars": "44,595",
+    "forks": "41,473",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "rank": 7,
+    "name": "koala73/worldmonitor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "58,139",
+    "forks": "9,211",
+    "link": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "rank": 8,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "72,633",
+    "forks": "9,835",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 9,
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "",
+    "language": "C",
+    "stars": "10,385",
+    "forks": "785",
+    "link": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "rank": 10,
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "",
+    "language": "Python",
+    "stars": "17,751",
+    "forks": "2,132",
+    "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "rank": 11,
+    "name": "mikumifa/biliTickerBuy",
+    "description": "",
+    "language": "Python",
+    "stars": "3,721",
+    "forks": "466",
+    "link": "https://github.com/mikumifa/biliTickerBuy"
+  },
+  {
+    "rank": 12,
+    "name": "smicallef/spiderfoot",
+    "description": "",
+    "language": "Python",
+    "stars": "18,790",
+    "forks": "3,107",
+    "link": "https://github.com/smicallef/spiderfoot"
+  },
+  {
+    "rank": 13,
+    "name": "topoteretes/cognee",
+    "description": "",
+    "language": "Python",
+    "stars": "18,675",
+    "forks": "1,969",
+    "link": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "rank": 14,
+    "name": "byoungd/English-level-up-tips",
+    "description": "",
+    "language": "",
+    "stars": "54,039",
+    "forks": "5,557",
+    "link": "https://github.com/byoungd/English-level-up-tips"
+  },
+  {
+    "rank": 15,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "44,460",
+    "forks": "7,341",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 16,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "139,883",
+    "forks": "12,137",
+    "link": "https://github.com/mattpocock/skills"
+  }
+]
