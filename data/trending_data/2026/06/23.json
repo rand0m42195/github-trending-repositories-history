@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "12,248",
+    "forks": "1,562",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 2,
+    "name": "palmier-io/palmier-pro",
+    "description": "",
+    "language": "Swift",
+    "stars": "7,447",
+    "forks": "507",
+    "link": "https://github.com/palmier-io/palmier-pro"
+  },
+  {
+    "rank": 3,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "32,309",
+    "forks": "3,938",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 4,
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "",
+    "language": "Python",
+    "stars": "18,754",
+    "forks": "2,214",
+    "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "rank": 5,
+    "name": "penpot/penpot",
+    "description": "",
+    "language": "Clojure",
+    "stars": "52,898",
+    "forks": "3,387",
+    "link": "https://github.com/penpot/penpot"
+  },
+  {
+    "rank": 6,
+    "name": "Stirling-Tools/Stirling-PDF",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "82,975",
+    "forks": "7,240",
+    "link": "https://github.com/Stirling-Tools/Stirling-PDF"
+  },
+  {
+    "rank": 7,
+    "name": "garrytan/gstack",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "113,189",
+    "forks": "16,796",
+    "link": "https://github.com/garrytan/gstack"
+  },
+  {
+    "rank": 8,
+    "name": "heygen-com/hyperframes",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "30,043",
+    "forks": "2,825",
+    "link": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "rank": 9,
+    "name": "tursodatabase/turso",
+    "description": "",
+    "language": "Rust",
+    "stars": "21,505",
+    "forks": "1,089",
+    "link": "https://github.com/tursodatabase/turso"
+  },
+  {
+    "rank": 10,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "73,297",
+    "forks": "9,907",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 11,
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "",
+    "language": "C",
+    "stars": "11,651",
+    "forks": "860",
+    "link": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "rank": 12,
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "",
+    "language": "Python",
+    "stars": "45,885",
+    "forks": "41,935",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "rank": 13,
+    "name": "firecrawl/firecrawl",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "137,349",
+    "forks": "7,962",
+    "link": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "rank": 14,
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,789",
+    "forks": "2,747",
+    "link": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "rank": 15,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "21,074",
+    "forks": "2,424",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 16,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "141,751",
+    "forks": "12,261",
+    "link": "https://github.com/mattpocock/skills"
+  }
+]
