@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "simplex-chat/simplex-chat",
+    "description": "",
+    "language": "Haskell",
+    "stars": "12,623",
+    "forks": "714",
+    "link": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "rank": 2,
+    "name": "google-labs-code/design.md",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,307",
+    "forks": "1,727",
+    "link": "https://github.com/google-labs-code/design.md"
+  },
+  {
+    "rank": 3,
+    "name": "commaai/openpilot",
+    "description": "",
+    "language": "Python",
+    "stars": "61,799",
+    "forks": "11,049",
+    "link": "https://github.com/commaai/openpilot"
+  },
+  {
+    "rank": 4,
+    "name": "kunchenguid/no-mistakes",
+    "description": "",
+    "language": "Go",
+    "stars": "3,444",
+    "forks": "206",
+    "link": "https://github.com/kunchenguid/no-mistakes"
+  },
+  {
+    "rank": 5,
+    "name": "grafana/grafana",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "74,919",
+    "forks": "14,127",
+    "link": "https://github.com/grafana/grafana"
+  },
+  {
+    "rank": 6,
+    "name": "ripienaar/free-for-dev",
+    "description": "",
+    "language": "HTML",
+    "stars": "123,752",
+    "forks": "13,051",
+    "link": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "rank": 7,
+    "name": "opendatalab/MinerU",
+    "description": "",
+    "language": "Python",
+    "stars": "70,448",
+    "forks": "5,939",
+    "link": "https://github.com/opendatalab/MinerU"
+  },
+  {
+    "rank": 8,
+    "name": "alchaincyf/zhangxuefeng-skill",
+    "description": "",
+    "language": "",
+    "stars": "9,266",
+    "forks": "2,564",
+    "link": "https://github.com/alchaincyf/zhangxuefeng-skill"
+  },
+  {
+    "rank": 9,
+    "name": "mauriceboe/TREK",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,681",
+    "forks": "650",
+    "link": "https://github.com/mauriceboe/TREK"
+  },
+  {
+    "rank": 10,
+    "name": "xbtlin/ai-berkshire",
+    "description": "",
+    "language": "Python",
+    "stars": "3,142",
+    "forks": "464",
+    "link": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "rank": 11,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "23,666",
+    "forks": "2,632",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 12,
+    "name": "aws/agent-toolkit-for-aws",
+    "description": "",
+    "language": "Python",
+    "stars": "1,362",
+    "forks": "123",
+    "link": "https://github.com/aws/agent-toolkit-for-aws"
+  },
+  {
+    "rank": 13,
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "",
+    "language": "Python",
+    "stars": "53,374",
+    "forks": "10,978",
+    "link": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "rank": 14,
+    "name": "garrytan/gstack",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "116,651",
+    "forks": "17,313",
+    "link": "https://github.com/garrytan/gstack"
+  },
+  {
+    "rank": 15,
+    "name": "IceWhaleTech/CasaOS",
+    "description": "",
+    "language": "Go",
+    "stars": "35,393",
+    "forks": "2,027",
+    "link": "https://github.com/IceWhaleTech/CasaOS"
+  },
+  {
+    "rank": 16,
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,386",
+    "forks": "3,101",
+    "link": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "rank": 17,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "42,383",
+    "forks": "3,369",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  }
+]
