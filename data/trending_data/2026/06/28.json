@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "simplex-chat/simplex-chat",
+    "description": "",
+    "language": "Haskell",
+    "stars": "13,890",
+    "forks": "793",
+    "link": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "rank": 2,
+    "name": "xbtlin/ai-berkshire",
+    "description": "",
+    "language": "Python",
+    "stars": "4,180",
+    "forks": "581",
+    "link": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "rank": 3,
+    "name": "commaai/openpilot",
+    "description": "",
+    "language": "Python",
+    "stars": "62,082",
+    "forks": "11,066",
+    "link": "https://github.com/commaai/openpilot"
+  },
+  {
+    "rank": 4,
+    "name": "IceWhaleTech/CasaOS",
+    "description": "",
+    "language": "Go",
+    "stars": "35,806",
+    "forks": "2,044",
+    "link": "https://github.com/IceWhaleTech/CasaOS"
+  },
+  {
+    "rank": 5,
+    "name": "ripienaar/free-for-dev",
+    "description": "",
+    "language": "HTML",
+    "stars": "124,191",
+    "forks": "13,083",
+    "link": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "rank": 6,
+    "name": "google-labs-code/design.md",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,369",
+    "forks": "1,786",
+    "link": "https://github.com/google-labs-code/design.md"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/PowerToys",
+    "description": "",
+    "language": "C",
+    "stars": "135,714",
+    "forks": "8,168",
+    "link": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "rank": 8,
+    "name": "hugohe3/ppt-master",
+    "description": "",
+    "language": "Python",
+    "stars": "33,106",
+    "forks": "2,816",
+    "link": "https://github.com/hugohe3/ppt-master"
+  },
+  {
+    "rank": 9,
+    "name": "JCodesMore/ai-website-cloner-template",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,153",
+    "forks": "3,173",
+    "link": "https://github.com/JCodesMore/ai-website-cloner-template"
+  },
+  {
+    "rank": 10,
+    "name": "garrytan/gstack",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "117,273",
+    "forks": "17,420",
+    "link": "https://github.com/garrytan/gstack"
+  },
+  {
+    "rank": 11,
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "",
+    "language": "Python",
+    "stars": "53,787",
+    "forks": "11,011",
+    "link": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "rank": 12,
+    "name": "Anil-matcha/Open-Generative-AI",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "21,402",
+    "forks": "3,643",
+    "link": "https://github.com/Anil-matcha/Open-Generative-AI"
+  },
+  {
+    "rank": 13,
+    "name": "topoteretes/cognee",
+    "description": "",
+    "language": "Python",
+    "stars": "24,032",
+    "forks": "2,255",
+    "link": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "rank": 14,
+    "name": "dbt-labs/dbt-core",
+    "description": "",
+    "language": "Rust",
+    "stars": "13,228",
+    "forks": "2,440",
+    "link": "https://github.com/dbt-labs/dbt-core"
+  },
+  {
+    "rank": 15,
+    "name": "luongnv89/claude-howto",
+    "description": "",
+    "language": "Python",
+    "stars": "38,643",
+    "forks": "4,652",
+    "link": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "rank": 16,
+    "name": "anomalyco/opencode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "179,782",
+    "forks": "22,102",
+    "link": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "rank": 17,
+    "name": "Fission-AI/OpenSpec",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "57,148",
+    "forks": "3,985",
+    "link": "https://github.com/Fission-AI/OpenSpec"
+  },
+  {
+    "rank": 18,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "13,728",
+    "forks": "2,592",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "rank": 19,
+    "name": "keycloak/keycloak",
+    "description": "",
+    "language": "Java",
+    "stars": "35,292",
+    "forks": "8,555",
+    "link": "https://github.com/keycloak/keycloak"
+  },
+  {
+    "rank": 20,
+    "name": "every-app/open-seo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,428",
+    "forks": "374",
+    "link": "https://github.com/every-app/open-seo"
+  }
+]
