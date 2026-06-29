@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "simplex-chat/simplex-chat",
+    "description": "",
+    "language": "Haskell",
+    "stars": "15,113",
+    "forks": "867",
+    "link": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "rank": 2,
+    "name": "ripienaar/free-for-dev",
+    "description": "",
+    "language": "HTML",
+    "stars": "125,322",
+    "forks": "13,173",
+    "link": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "rank": 3,
+    "name": "commaai/openpilot",
+    "description": "",
+    "language": "Python",
+    "stars": "62,419",
+    "forks": "11,095",
+    "link": "https://github.com/commaai/openpilot"
+  },
+  {
+    "rank": 4,
+    "name": "xbtlin/ai-berkshire",
+    "description": "",
+    "language": "Python",
+    "stars": "5,422",
+    "forks": "728",
+    "link": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "rank": 5,
+    "name": "Robbyant/lingbot-map",
+    "description": "",
+    "language": "Python",
+    "stars": "8,255",
+    "forks": "805",
+    "link": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "rank": 6,
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "",
+    "language": "C",
+    "stars": "19,794",
+    "forks": "1,433",
+    "link": "https://github.com/DeusData/codebase-memory-mcp"
+  },
+  {
+    "rank": 7,
+    "name": "cupy/cupy",
+    "description": "",
+    "language": "Python",
+    "stars": "11,536",
+    "forks": "1,068",
+    "link": "https://github.com/cupy/cupy"
+  },
+  {
+    "rank": 8,
+    "name": "altic-dev/FluidVoice",
+    "description": "",
+    "language": "Swift",
+    "stars": "3,776",
+    "forks": "240",
+    "link": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "rank": 9,
+    "name": "opendatalab/MinerU",
+    "description": "",
+    "language": "Python",
+    "stars": "71,653",
+    "forks": "6,018",
+    "link": "https://github.com/opendatalab/MinerU"
+  },
+  {
+    "rank": 10,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "14,376",
+    "forks": "2,635",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "rank": 11,
+    "name": "ByteByteGoHq/system-design-101",
+    "description": "",
+    "language": "",
+    "stars": "84,499",
+    "forks": "9,351",
+    "link": "https://github.com/ByteByteGoHq/system-design-101"
+  },
+  {
+    "rank": 12,
+    "name": "usestrix/strix",
+    "description": "",
+    "language": "Python",
+    "stars": "26,772",
+    "forks": "2,988",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 13,
+    "name": "browser-use/video-use",
+    "description": "",
+    "language": "Python",
+    "stars": "11,114",
+    "forks": "1,526",
+    "link": "https://github.com/browser-use/video-use"
+  }
+]
