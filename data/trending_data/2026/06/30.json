@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "simplex-chat/simplex-chat",
+    "description": "",
+    "language": "Haskell",
+    "stars": "16,645",
+    "forks": "963",
+    "link": "https://github.com/simplex-chat/simplex-chat"
+  },
+  {
+    "rank": 2,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "118,957",
+    "forks": "19,479",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 3,
+    "name": "cupy/cupy",
+    "description": "",
+    "language": "Python",
+    "stars": "11,832",
+    "forks": "1,083",
+    "link": "https://github.com/cupy/cupy"
+  },
+  {
+    "rank": 4,
+    "name": "altic-dev/FluidVoice",
+    "description": "",
+    "language": "Swift",
+    "stars": "4,420",
+    "forks": "278",
+    "link": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "rank": 5,
+    "name": "soxoj/maigret",
+    "description": "",
+    "language": "Python",
+    "stars": "34,404",
+    "forks": "2,602",
+    "link": "https://github.com/soxoj/maigret"
+  },
+  {
+    "rank": 6,
+    "name": "commaai/openpilot",
+    "description": "",
+    "language": "Python",
+    "stars": "62,783",
+    "forks": "11,111",
+    "link": "https://github.com/commaai/openpilot"
+  },
+  {
+    "rank": 7,
+    "name": "ripienaar/free-for-dev",
+    "description": "",
+    "language": "HTML",
+    "stars": "126,754",
+    "forks": "13,263",
+    "link": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "rank": 8,
+    "name": "logto-io/logto",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,694",
+    "forks": "867",
+    "link": "https://github.com/logto-io/logto"
+  },
+  {
+    "rank": 9,
+    "name": "xbtlin/ai-berkshire",
+    "description": "",
+    "language": "Python",
+    "stars": "6,676",
+    "forks": "869",
+    "link": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "rank": 10,
+    "name": "browser-use/video-use",
+    "description": "",
+    "language": "Python",
+    "stars": "11,964",
+    "forks": "1,573",
+    "link": "https://github.com/browser-use/video-use"
+  },
+  {
+    "rank": 11,
+    "name": "Unclecheng-li/VulnClaw",
+    "description": "",
+    "language": "Python",
+    "stars": "1,165",
+    "forks": "173",
+    "link": "https://github.com/Unclecheng-li/VulnClaw"
+  },
+  {
+    "rank": 12,
+    "name": "0xNyk/council-of-high-intelligence",
+    "description": "",
+    "language": "Shell",
+    "stars": "1,928",
+    "forks": "202",
+    "link": "https://github.com/0xNyk/council-of-high-intelligence"
+  },
+  {
+    "rank": 13,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "15,123",
+    "forks": "2,688",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "rank": 14,
+    "name": "refactoringhq/tolaria",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,535",
+    "forks": "1,206",
+    "link": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "rank": 15,
+    "name": "veracrypt/VeraCrypt",
+    "description": "",
+    "language": "C",
+    "stars": "10,490",
+    "forks": "1,231",
+    "link": "https://github.com/veracrypt/VeraCrypt"
+  }
+]
