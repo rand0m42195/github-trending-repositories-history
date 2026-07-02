@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "123,542",
+    "forks": "20,102",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 2,
+    "name": "usestrix/strix",
+    "description": "",
+    "language": "Python",
+    "stars": "29,788",
+    "forks": "3,227",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 3,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "16,581",
+    "forks": "2,811",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "rank": 4,
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "",
+    "language": "HTML",
+    "stars": "8,460",
+    "forks": "954",
+    "link": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "rank": 5,
+    "name": "facebook/astryx",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,691",
+    "forks": "140",
+    "link": "https://github.com/facebook/astryx"
+  },
+  {
+    "rank": 6,
+    "name": "diegosouzapw/OmniRoute",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,570",
+    "forks": "1,472",
+    "link": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "rank": 7,
+    "name": "allenai/olmocr",
+    "description": "",
+    "language": "Python",
+    "stars": "18,293",
+    "forks": "1,506",
+    "link": "https://github.com/allenai/olmocr"
+  },
+  {
+    "rank": 8,
+    "name": "logto-io/logto",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,282",
+    "forks": "906",
+    "link": "https://github.com/logto-io/logto"
+  },
+  {
+    "rank": 9,
+    "name": "togatoga/karukan",
+    "description": "",
+    "language": "Rust",
+    "stars": "588",
+    "forks": "35",
+    "link": "https://github.com/togatoga/karukan"
+  },
+  {
+    "rank": 10,
+    "name": "Mebus/cupp",
+    "description": "",
+    "language": "Python",
+    "stars": "6,251",
+    "forks": "2,065",
+    "link": "https://github.com/Mebus/cupp"
+  },
+  {
+    "rank": 11,
+    "name": "Unclecheng-li/VulnClaw",
+    "description": "",
+    "language": "Python",
+    "stars": "1,589",
+    "forks": "219",
+    "link": "https://github.com/Unclecheng-li/VulnClaw"
+  },
+  {
+    "rank": 12,
+    "name": "microsoft/AI-For-Beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "50,485",
+    "forks": "10,257",
+    "link": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "rank": 13,
+    "name": "refactoringhq/tolaria",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,033",
+    "forks": "1,223",
+    "link": "https://github.com/refactoringhq/tolaria"
+  },
+  {
+    "rank": 14,
+    "name": "ogulcancelik/herdr",
+    "description": "",
+    "language": "Rust",
+    "stars": "9,633",
+    "forks": "567",
+    "link": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "rank": 15,
+    "name": "0xNyk/council-of-high-intelligence",
+    "description": "",
+    "language": "Shell",
+    "stars": "2,650",
+    "forks": "245",
+    "link": "https://github.com/0xNyk/council-of-high-intelligence"
+  },
+  {
+    "rank": 16,
+    "name": "altic-dev/FluidVoice",
+    "description": "",
+    "language": "Swift",
+    "stars": "5,514",
+    "forks": "332",
+    "link": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "rank": 17,
+    "name": "CoreBunch/Instatic",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,026",
+    "forks": "167",
+    "link": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "rank": 18,
+    "name": "TencentCloud/CubeSandbox",
+    "description": "",
+    "language": "Rust",
+    "stars": "6,812",
+    "forks": "569",
+    "link": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "rank": 19,
+    "name": "browser-use/video-use",
+    "description": "",
+    "language": "Python",
+    "stars": "13,241",
+    "forks": "1,658",
+    "link": "https://github.com/browser-use/video-use"
+  },
+  {
+    "rank": 20,
+    "name": "yikart/AiToEarn",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,567",
+    "forks": "3,405",
+    "link": "https://github.com/yikart/AiToEarn"
+  }
+]
