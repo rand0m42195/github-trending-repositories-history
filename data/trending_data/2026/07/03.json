@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "usestrix/strix",
+    "description": "",
+    "language": "Python",
+    "stars": "32,273",
+    "forks": "3,380",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 2,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "80,991",
+    "forks": "4,531",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 3,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "125,520",
+    "forks": "20,368",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 4,
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "",
+    "language": "HTML",
+    "stars": "9,276",
+    "forks": "1,037",
+    "link": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "rank": 5,
+    "name": "santifer/career-ops",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "57,850",
+    "forks": "11,391",
+    "link": "https://github.com/santifer/career-ops"
+  },
+  {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "244,458",
+    "forks": "21,684",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 7,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "45,093",
+    "forks": "2,934",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 8,
+    "name": "browser-use/video-use",
+    "description": "",
+    "language": "Python",
+    "stars": "13,804",
+    "forks": "1,695",
+    "link": "https://github.com/browser-use/video-use"
+  },
+  {
+    "rank": 9,
+    "name": "actions/checkout",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,166",
+    "forks": "2,527",
+    "link": "https://github.com/actions/checkout"
+  },
+  {
+    "rank": 10,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "225,196",
+    "forks": "34,459",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 11,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "17,355",
+    "forks": "2,886",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "rank": 12,
+    "name": "agentskills/agentskills",
+    "description": "",
+    "language": "Python",
+    "stars": "21,625",
+    "forks": "1,375",
+    "link": "https://github.com/agentskills/agentskills"
+  },
+  {
+    "rank": 13,
+    "name": "openai/codex-plugin-cc",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "22,642",
+    "forks": "1,377",
+    "link": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "rank": 14,
+    "name": "langflow-ai/langflow",
+    "description": "",
+    "language": "Python",
+    "stars": "150,748",
+    "forks": "9,397",
+    "link": "https://github.com/langflow-ai/langflow"
+  },
+  {
+    "rank": 15,
+    "name": "pytorch/pytorch",
+    "description": "",
+    "language": "Python",
+    "stars": "101,236",
+    "forks": "28,227",
+    "link": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "rank": 16,
+    "name": "harvard-edge/cs249r_book",
+    "description": "",
+    "language": "Python",
+    "stars": "25,594",
+    "forks": "3,068",
+    "link": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "rank": 17,
+    "name": "ryanmcdermott/clean-code-javascript",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "94,570",
+    "forks": "12,473",
+    "link": "https://github.com/ryanmcdermott/clean-code-javascript"
+  }
+]
