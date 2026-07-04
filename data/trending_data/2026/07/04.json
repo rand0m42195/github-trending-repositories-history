@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "usestrix/strix",
+    "description": "",
+    "language": "Python",
+    "stars": "34,665",
+    "forks": "3,552",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 2,
+    "name": "openai/codex-plugin-cc",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "23,232",
+    "forks": "1,404",
+    "link": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "rank": 3,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "82,950",
+    "forks": "4,629",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 4,
+    "name": "elastic/elasticsearch",
+    "description": "",
+    "language": "Java",
+    "stars": "77,340",
+    "forks": "25,929",
+    "link": "https://github.com/elastic/elasticsearch"
+  },
+  {
+    "rank": 5,
+    "name": "actions/checkout",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,266",
+    "forks": "2,535",
+    "link": "https://github.com/actions/checkout"
+  },
+  {
+    "rank": 6,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "45,501",
+    "forks": "2,957",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 7,
+    "name": "ansible/ansible",
+    "description": "",
+    "language": "Python",
+    "stars": "69,208",
+    "forks": "24,109",
+    "link": "https://github.com/ansible/ansible"
+  },
+  {
+    "rank": 8,
+    "name": "facebook/astryx",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,665",
+    "forks": "272",
+    "link": "https://github.com/facebook/astryx"
+  },
+  {
+    "rank": 9,
+    "name": "rommapp/romm",
+    "description": "",
+    "language": "Python",
+    "stars": "9,816",
+    "forks": "476",
+    "link": "https://github.com/rommapp/romm"
+  },
+  {
+    "rank": 10,
+    "name": "harvard-edge/cs249r_book",
+    "description": "",
+    "language": "Python",
+    "stars": "26,174",
+    "forks": "3,126",
+    "link": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "rank": 11,
+    "name": "pytorch/pytorch",
+    "description": "",
+    "language": "Python",
+    "stars": "101,435",
+    "forks": "28,249",
+    "link": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "rank": 12,
+    "name": "apache/maven",
+    "description": "",
+    "language": "Java",
+    "stars": "5,229",
+    "forks": "2,901",
+    "link": "https://github.com/apache/maven"
+  },
+  {
+    "rank": 13,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "135,847",
+    "forks": "21,856",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 14,
+    "name": "ogulcancelik/herdr",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,802",
+    "forks": "639",
+    "link": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "rank": 15,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "245,538",
+    "forks": "21,765",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 16,
+    "name": "agentskills/agentskills",
+    "description": "",
+    "language": "Python",
+    "stars": "22,003",
+    "forks": "1,395",
+    "link": "https://github.com/agentskills/agentskills"
+  },
+  {
+    "rank": 17,
+    "name": "supabase/supabase",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "105,484",
+    "forks": "12,970",
+    "link": "https://github.com/supabase/supabase"
+  },
+  {
+    "rank": 18,
+    "name": "TencentCloud/CubeSandbox",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,176",
+    "forks": "592",
+    "link": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "rank": 19,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "126,507",
+    "forks": "20,534",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  }
+]
