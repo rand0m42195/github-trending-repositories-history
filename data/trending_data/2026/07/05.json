@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "openai/codex-plugin-cc",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "24,477",
+    "forks": "1,485",
+    "link": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "rank": 2,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "84,003",
+    "forks": "4,679",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 3,
+    "name": "alibaba/page-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,134",
+    "forks": "2,008",
+    "link": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "rank": 4,
+    "name": "usestrix/strix",
+    "description": "",
+    "language": "Python",
+    "stars": "36,077",
+    "forks": "3,656",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 5,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "45,786",
+    "forks": "2,981",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 6,
+    "name": "Zackriya-Solutions/meetily",
+    "description": "",
+    "language": "Rust",
+    "stars": "15,310",
+    "forks": "1,674",
+    "link": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "rank": 7,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "48,954",
+    "forks": "7,986",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 8,
+    "name": "harvard-edge/cs249r_book",
+    "description": "",
+    "language": "Python",
+    "stars": "26,578",
+    "forks": "3,164",
+    "link": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "rank": 9,
+    "name": "rommapp/romm",
+    "description": "",
+    "language": "Python",
+    "stars": "10,217",
+    "forks": "493",
+    "link": "https://github.com/rommapp/romm"
+  },
+  {
+    "rank": 10,
+    "name": "ogulcancelik/herdr",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,466",
+    "forks": "669",
+    "link": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "rank": 11,
+    "name": "dotnet/skills",
+    "description": "",
+    "language": "C#",
+    "stars": "3,812",
+    "forks": "289",
+    "link": "https://github.com/dotnet/skills"
+  },
+  {
+    "rank": 12,
+    "name": "agentskills/agentskills",
+    "description": "",
+    "language": "Python",
+    "stars": "22,346",
+    "forks": "1,411",
+    "link": "https://github.com/agentskills/agentskills"
+  },
+  {
+    "rank": 13,
+    "name": "immich-app/immich",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "105,639",
+    "forks": "6,029",
+    "link": "https://github.com/immich-app/immich"
+  },
+  {
+    "rank": 14,
+    "name": "chthollyphile/folia-major",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "989",
+    "forks": "63",
+    "link": "https://github.com/chthollyphile/folia-major"
+  },
+  {
+    "rank": 15,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "156,586",
+    "forks": "13,472",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 16,
+    "name": "CoplayDev/unity-mcp",
+    "description": "",
+    "language": "C#",
+    "stars": "11,610",
+    "forks": "1,262",
+    "link": "https://github.com/CoplayDev/unity-mcp"
+  },
+  {
+    "rank": 17,
+    "name": "alirezarezvani/claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "20,170",
+    "forks": "2,759",
+    "link": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "rank": 18,
+    "name": "crynta/terax-ai",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,062",
+    "forks": "861",
+    "link": "https://github.com/crynta/terax-ai"
+  }
+]
