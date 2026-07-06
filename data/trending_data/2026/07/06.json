@@ -1,0 +1,200 @@
+[
+  {
+    "rank": 1,
+    "name": "Zackriya-Solutions/meetily",
+    "description": "",
+    "language": "Rust",
+    "stars": "17,116",
+    "forks": "1,807",
+    "link": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "rank": 2,
+    "name": "openai/codex-plugin-cc",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "25,508",
+    "forks": "1,539",
+    "link": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "rank": 3,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "50,018",
+    "forks": "8,183",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 4,
+    "name": "Leonxlnx/taste-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "57,562",
+    "forks": "3,936",
+    "link": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "rank": 5,
+    "name": "alirezarezvani/claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "20,596",
+    "forks": "2,794",
+    "link": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "rank": 6,
+    "name": "rommapp/romm",
+    "description": "",
+    "language": "Python",
+    "stars": "10,555",
+    "forks": "505",
+    "link": "https://github.com/rommapp/romm"
+  },
+  {
+    "rank": 7,
+    "name": "ogulcancelik/herdr",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,096",
+    "forks": "704",
+    "link": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "rank": 8,
+    "name": "alibaba/page-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,926",
+    "forks": "2,061",
+    "link": "https://github.com/alibaba/page-agent"
+  },
+  {
+    "rank": 9,
+    "name": "harvard-edge/cs249r_book",
+    "description": "",
+    "language": "Python",
+    "stars": "26,860",
+    "forks": "3,194",
+    "link": "https://github.com/harvard-edge/cs249r_book"
+  },
+  {
+    "rank": 10,
+    "name": "usestrix/strix",
+    "description": "",
+    "language": "Python",
+    "stars": "37,159",
+    "forks": "3,770",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 11,
+    "name": "hesreallyhim/awesome-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "48,388",
+    "forks": "4,232",
+    "link": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "rank": 12,
+    "name": "coreyhaines31/marketingskills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "36,452",
+    "forks": "5,896",
+    "link": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "rank": 13,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "84,902",
+    "forks": "4,721",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 14,
+    "name": "CoplayDev/unity-mcp",
+    "description": "",
+    "language": "C#",
+    "stars": "11,938",
+    "forks": "1,278",
+    "link": "https://github.com/CoplayDev/unity-mcp"
+  },
+  {
+    "rank": 15,
+    "name": "facebook/astryx",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,917",
+    "forks": "374",
+    "link": "https://github.com/facebook/astryx"
+  },
+  {
+    "rank": 16,
+    "name": "immich-app/immich",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "106,135",
+    "forks": "6,059",
+    "link": "https://github.com/immich-app/immich"
+  },
+  {
+    "rank": 17,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "76,733",
+    "forks": "10,284",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 18,
+    "name": "gastownhall/gastown",
+    "description": "",
+    "language": "Go",
+    "stars": "16,396",
+    "forks": "1,520",
+    "link": "https://github.com/gastownhall/gastown"
+  },
+  {
+    "rank": 19,
+    "name": "dotnet/skills",
+    "description": "",
+    "language": "C#",
+    "stars": "4,047",
+    "forks": "302",
+    "link": "https://github.com/dotnet/skills"
+  },
+  {
+    "rank": 20,
+    "name": "OthmanAdi/planning-with-files",
+    "description": "",
+    "language": "Python",
+    "stars": "24,732",
+    "forks": "2,106",
+    "link": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
+    "rank": 21,
+    "name": "steipete/CodexBar",
+    "description": "",
+    "language": "Swift",
+    "stars": "16,249",
+    "forks": "1,352",
+    "link": "https://github.com/steipete/CodexBar"
+  },
+  {
+    "rank": 22,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "136,313",
+    "forks": "21,907",
+    "link": "https://github.com/anthropics/claude-code"
+  }
+]
