@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "51,591",
+    "forks": "8,406",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 2,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "70,870",
+    "forks": "7,677",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "Zackriya-Solutions/meetily",
+    "description": "",
+    "language": "Rust",
+    "stars": "19,442",
+    "forks": "1,970",
+    "link": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "rank": 4,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "77,546",
+    "forks": "10,414",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 5,
+    "name": "Leonxlnx/taste-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "58,984",
+    "forks": "4,017",
+    "link": "https://github.com/Leonxlnx/taste-skill"
+  },
+  {
+    "rank": 6,
+    "name": "alirezarezvani/claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "21,174",
+    "forks": "2,843",
+    "link": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "rank": 7,
+    "name": "openai/codex-plugin-cc",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "26,299",
+    "forks": "1,576",
+    "link": "https://github.com/openai/codex-plugin-cc"
+  },
+  {
+    "rank": 8,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "49,784",
+    "forks": "4,146",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 9,
+    "name": "ogulcancelik/herdr",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,898",
+    "forks": "748",
+    "link": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "rank": 10,
+    "name": "bradautomates/claude-video",
+    "description": "",
+    "language": "Python",
+    "stars": "4,273",
+    "forks": "605",
+    "link": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "rank": 11,
+    "name": "karakeep-app/karakeep",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "26,914",
+    "forks": "1,319",
+    "link": "https://github.com/karakeep-app/karakeep"
+  },
+  {
+    "rank": 12,
+    "name": "firecrawl/firecrawl",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "146,302",
+    "forks": "8,413",
+    "link": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "rank": 13,
+    "name": "steipete/CodexBar",
+    "description": "",
+    "language": "Swift",
+    "stars": "16,742",
+    "forks": "1,375",
+    "link": "https://github.com/steipete/CodexBar"
+  },
+  {
+    "rank": 14,
+    "name": "alibaba/zvec",
+    "description": "",
+    "language": "C++",
+    "stars": "13,523",
+    "forks": "825",
+    "link": "https://github.com/alibaba/zvec"
+  },
+  {
+    "rank": 15,
+    "name": "sindresorhus/awesome",
+    "description": "",
+    "language": "",
+    "stars": "482,309",
+    "forks": "35,737",
+    "link": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "rank": 16,
+    "name": "gastownhall/gastown",
+    "description": "",
+    "language": "Go",
+    "stars": "16,704",
+    "forks": "1,539",
+    "link": "https://github.com/gastownhall/gastown"
+  }
+]
