@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,957",
+    "forks": "3,676",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 2,
+    "name": "Zackriya-Solutions/meetily",
+    "description": "",
+    "language": "Rust",
+    "stars": "20,745",
+    "forks": "2,078",
+    "link": "https://github.com/Zackriya-Solutions/meetily"
+  },
+  {
+    "rank": 3,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "72,162",
+    "forks": "7,815",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "78,519",
+    "forks": "10,563",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 5,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "53,015",
+    "forks": "8,642",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 6,
+    "name": "TencentCloud/CubeSandbox",
+    "description": "",
+    "language": "Rust",
+    "stars": "8,466",
+    "forks": "711",
+    "link": "https://github.com/TencentCloud/CubeSandbox"
+  },
+  {
+    "rank": 7,
+    "name": "AhmadIbrahiim/Website-downloader",
+    "description": "",
+    "language": "HTML",
+    "stars": "4,011",
+    "forks": "987",
+    "link": "https://github.com/AhmadIbrahiim/Website-downloader"
+  },
+  {
+    "rank": 8,
+    "name": "steipete/CodexBar",
+    "description": "",
+    "language": "Swift",
+    "stars": "17,036",
+    "forks": "1,388",
+    "link": "https://github.com/steipete/CodexBar"
+  },
+  {
+    "rank": 9,
+    "name": "dotnet/skills",
+    "description": "",
+    "language": "C#",
+    "stars": "4,308",
+    "forks": "324",
+    "link": "https://github.com/dotnet/skills"
+  },
+  {
+    "rank": 10,
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "",
+    "language": "C#",
+    "stars": "9,985",
+    "forks": "680",
+    "link": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "rank": 11,
+    "name": "bradautomates/claude-video",
+    "description": "",
+    "language": "Python",
+    "stars": "5,176",
+    "forks": "663",
+    "link": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "rank": 12,
+    "name": "kyutai-labs/pocket-tts",
+    "description": "",
+    "language": "Python",
+    "stars": "6,181",
+    "forks": "646",
+    "link": "https://github.com/kyutai-labs/pocket-tts"
+  },
+  {
+    "rank": 13,
+    "name": "hesreallyhim/awesome-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "49,133",
+    "forks": "4,281",
+    "link": "https://github.com/hesreallyhim/awesome-claude-code"
+  }
+]
