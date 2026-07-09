@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "74,132",
+    "forks": "7,992",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 2,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "79,153",
+    "forks": "10,649",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 3,
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,664",
+    "forks": "708",
+    "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "rank": 4,
+    "name": "prisma/prisma",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "46,560",
+    "forks": "2,281",
+    "link": "https://github.com/prisma/prisma"
+  },
+  {
+    "rank": 5,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "50,764",
+    "forks": "4,237",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 6,
+    "name": "argoproj/argo-cd",
+    "description": "",
+    "language": "Go",
+    "stars": "23,434",
+    "forks": "7,425",
+    "link": "https://github.com/argoproj/argo-cd"
+  },
+  {
+    "rank": 7,
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "",
+    "language": "C#",
+    "stars": "11,876",
+    "forks": "807",
+    "link": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "rank": 8,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "54,224",
+    "forks": "8,825",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 9,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "249,836",
+    "forks": "22,166",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 10,
+    "name": "alibaba/zvec",
+    "description": "",
+    "language": "C++",
+    "stars": "14,419",
+    "forks": "888",
+    "link": "https://github.com/alibaba/zvec"
+  },
+  {
+    "rank": 11,
+    "name": "Diolinux/PhotoGIMP",
+    "description": "",
+    "language": "CSS",
+    "stars": "15,043",
+    "forks": "595",
+    "link": "https://github.com/Diolinux/PhotoGIMP"
+  },
+  {
+    "rank": 12,
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,385",
+    "forks": "749",
+    "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "rank": 13,
+    "name": "huxingyi/autoremesher",
+    "description": "",
+    "language": "C++",
+    "stars": "2,019",
+    "forks": "153",
+    "link": "https://github.com/huxingyi/autoremesher"
+  },
+  {
+    "rank": 14,
+    "name": "bradautomates/claude-video",
+    "description": "",
+    "language": "Python",
+    "stars": "6,068",
+    "forks": "723",
+    "link": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "rank": 15,
+    "name": "TencentCloud/CubeSandbox",
+    "description": "",
+    "language": "Rust",
+    "stars": "8,935",
+    "forks": "737",
+    "link": "https://github.com/TencentCloud/CubeSandbox"
+  }
+]
