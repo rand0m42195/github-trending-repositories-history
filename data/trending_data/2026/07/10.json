@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,062",
+    "forks": "5,506",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 2,
+    "name": "SmartlyDressedGames/U3-SDK",
+    "description": "",
+    "language": "C#",
+    "stars": "2,041",
+    "forks": "259",
+    "link": "https://github.com/SmartlyDressedGames/U3-SDK"
+  },
+  {
+    "rank": 3,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "75,889",
+    "forks": "8,163",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "VoltAgent/awesome-design-md",
+    "description": "",
+    "language": "",
+    "stars": "99,717",
+    "forks": "11,575",
+    "link": "https://github.com/VoltAgent/awesome-design-md"
+  },
+  {
+    "rank": 5,
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "",
+    "language": "C#",
+    "stars": "13,455",
+    "forks": "915",
+    "link": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "rank": 6,
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,580",
+    "forks": "781",
+    "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "rank": 7,
+    "name": "anthropics/claude-cookbooks",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "47,167",
+    "forks": "5,555",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 8,
+    "name": "vxcontrol/pentagi",
+    "description": "",
+    "language": "Go",
+    "stars": "19,412",
+    "forks": "2,621",
+    "link": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "rank": 9,
+    "name": "unclecode/crawl4ai",
+    "description": "",
+    "language": "Python",
+    "stars": "71,836",
+    "forks": "7,378",
+    "link": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+    "rank": 10,
+    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "description": "",
+    "language": "",
+    "stars": "29,094",
+    "forks": "1,938",
+    "link": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
+  },
+  {
+    "rank": 11,
+    "name": "huxingyi/autoremesher",
+    "description": "",
+    "language": "C++",
+    "stars": "2,373",
+    "forks": "172",
+    "link": "https://github.com/huxingyi/autoremesher"
+  },
+  {
+    "rank": 12,
+    "name": "bradautomates/claude-video",
+    "description": "",
+    "language": "Python",
+    "stars": "6,713",
+    "forks": "770",
+    "link": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "rank": 13,
+    "name": "prisma/prisma",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "46,910",
+    "forks": "2,329",
+    "link": "https://github.com/prisma/prisma"
+  },
+  {
+    "rank": 14,
+    "name": "kyutai-labs/pocket-tts",
+    "description": "",
+    "language": "Python",
+    "stars": "6,989",
+    "forks": "702",
+    "link": "https://github.com/kyutai-labs/pocket-tts"
+  },
+  {
+    "rank": 15,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "55,170",
+    "forks": "9,013",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  }
+]
