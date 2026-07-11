@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,302",
+    "forks": "929",
+    "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "rank": 2,
+    "name": "oven-sh/bun",
+    "description": "",
+    "language": "Rust",
+    "stars": "94,233",
+    "forks": "4,940",
+    "link": "https://github.com/oven-sh/bun"
+  },
+  {
+    "rank": 3,
+    "name": "abseil/abseil-cpp",
+    "description": "",
+    "language": "C++",
+    "stars": "17,522",
+    "forks": "3,194",
+    "link": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+    "rank": 4,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "76,827",
+    "forks": "8,252",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 5,
+    "name": "jbeder/yaml-cpp",
+    "description": "",
+    "language": "C++",
+    "stars": "6,082",
+    "forks": "2,257",
+    "link": "https://github.com/jbeder/yaml-cpp"
+  },
+  {
+    "rank": 6,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "164,641",
+    "forks": "14,164",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "251,783",
+    "forks": "22,467",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "microsoft/TypeScript",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "109,778",
+    "forks": "13,632",
+    "link": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "rank": 9,
+    "name": "catchorg/Catch2",
+    "description": "",
+    "language": "C++",
+    "stars": "20,615",
+    "forks": "3,409",
+    "link": "https://github.com/catchorg/Catch2"
+  },
+  {
+    "rank": 10,
+    "name": "chriskohlhoff/asio",
+    "description": "",
+    "language": "C++",
+    "stars": "6,073",
+    "forks": "1,500",
+    "link": "https://github.com/chriskohlhoff/asio"
+  },
+  {
+    "rank": 11,
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,237",
+    "forks": "758",
+    "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "rank": 12,
+    "name": "davila7/claude-code-templates",
+    "description": "",
+    "language": "Python",
+    "stars": "28,770",
+    "forks": "3,163",
+    "link": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "rank": 13,
+    "name": "zeux/meshoptimizer",
+    "description": "",
+    "language": "C++",
+    "stars": "8,025",
+    "forks": "784",
+    "link": "https://github.com/zeux/meshoptimizer"
+  },
+  {
+    "rank": 14,
+    "name": "tailscale/tailscale",
+    "description": "",
+    "language": "Go",
+    "stars": "33,653",
+    "forks": "2,913",
+    "link": "https://github.com/tailscale/tailscale"
+  },
+  {
+    "rank": 15,
+    "name": "google-labs-code/stitch-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,748",
+    "forks": "929",
+    "link": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "rank": 16,
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "",
+    "language": "C#",
+    "stars": "14,440",
+    "forks": "983",
+    "link": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "rank": 17,
+    "name": "hashicorp/terraform",
+    "description": "",
+    "language": "Go",
+    "stars": "49,168",
+    "forks": "10,673",
+    "link": "https://github.com/hashicorp/terraform"
+  },
+  {
+    "rank": 18,
+    "name": "grpc/grpc",
+    "description": "",
+    "language": "C++",
+    "stars": "45,137",
+    "forks": "11,322",
+    "link": "https://github.com/grpc/grpc"
+  },
+  {
+    "rank": 19,
+    "name": "vercel/next.js",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "140,709",
+    "forks": "31,525",
+    "link": "https://github.com/vercel/next.js"
+  }
+]
