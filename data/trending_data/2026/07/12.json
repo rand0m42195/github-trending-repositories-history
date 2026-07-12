@@ -1,0 +1,218 @@
+[
+  {
+    "rank": 1,
+    "name": "catchorg/Catch2",
+    "description": "",
+    "language": "C++",
+    "stars": "21,044",
+    "forks": "3,429",
+    "link": "https://github.com/catchorg/Catch2"
+  },
+  {
+    "rank": 2,
+    "name": "abseil/abseil-cpp",
+    "description": "",
+    "language": "C++",
+    "stars": "17,804",
+    "forks": "3,210",
+    "link": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+    "rank": 3,
+    "name": "davila7/claude-code-templates",
+    "description": "",
+    "language": "Python",
+    "stars": "29,019",
+    "forks": "3,184",
+    "link": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "rank": 4,
+    "name": "google-labs-code/stitch-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,065",
+    "forks": "945",
+    "link": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "rank": 5,
+    "name": "hashicorp/terraform",
+    "description": "",
+    "language": "Go",
+    "stars": "49,371",
+    "forks": "10,681",
+    "link": "https://github.com/hashicorp/terraform"
+  },
+  {
+    "rank": 6,
+    "name": "zeux/meshoptimizer",
+    "description": "",
+    "language": "C++",
+    "stars": "8,141",
+    "forks": "787",
+    "link": "https://github.com/zeux/meshoptimizer"
+  },
+  {
+    "rank": 7,
+    "name": "openai/plugins",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "4,412",
+    "forks": "655",
+    "link": "https://github.com/openai/plugins"
+  },
+  {
+    "rank": 8,
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,778",
+    "forks": "966",
+    "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "rank": 9,
+    "name": "chriskohlhoff/asio",
+    "description": "",
+    "language": "C++",
+    "stars": "6,138",
+    "forks": "1,508",
+    "link": "https://github.com/chriskohlhoff/asio"
+  },
+  {
+    "rank": 10,
+    "name": "oven-sh/bun",
+    "description": "",
+    "language": "Rust",
+    "stars": "94,568",
+    "forks": "4,959",
+    "link": "https://github.com/oven-sh/bun"
+  },
+  {
+    "rank": 11,
+    "name": "actions/checkout",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,467",
+    "forks": "2,713",
+    "link": "https://github.com/actions/checkout"
+  },
+  {
+    "rank": 12,
+    "name": "home-assistant/core",
+    "description": "",
+    "language": "Python",
+    "stars": "88,702",
+    "forks": "38,047",
+    "link": "https://github.com/home-assistant/core"
+  },
+  {
+    "rank": 13,
+    "name": "microsoft/PowerToys",
+    "description": "",
+    "language": "C",
+    "stars": "136,434",
+    "forks": "8,365",
+    "link": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "rank": 14,
+    "name": "cypress-io/cypress",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "50,625",
+    "forks": "3,590",
+    "link": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "rank": 15,
+    "name": "vercel/next.js",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "140,958",
+    "forks": "31,546",
+    "link": "https://github.com/vercel/next.js"
+  },
+  {
+    "rank": 16,
+    "name": "DayuanJiang/next-ai-draw-io",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "33,293",
+    "forks": "3,603",
+    "link": "https://github.com/DayuanJiang/next-ai-draw-io"
+  },
+  {
+    "rank": 17,
+    "name": "malisper/pgrust",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,067",
+    "forks": "50",
+    "link": "https://github.com/malisper/pgrust"
+  },
+  {
+    "rank": 18,
+    "name": "dotnet/aspnetcore",
+    "description": "",
+    "language": "C#",
+    "stars": "38,306",
+    "forks": "10,885",
+    "link": "https://github.com/dotnet/aspnetcore"
+  },
+  {
+    "rank": 19,
+    "name": "prisma/prisma",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "47,260",
+    "forks": "2,473",
+    "link": "https://github.com/prisma/prisma"
+  },
+  {
+    "rank": 20,
+    "name": "anthropics/claude-cookbooks",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "47,938",
+    "forks": "5,673",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 21,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "252,462",
+    "forks": "22,532",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 22,
+    "name": "nasa/fprime",
+    "description": "",
+    "language": "C++",
+    "stars": "11,486",
+    "forks": "1,730",
+    "link": "https://github.com/nasa/fprime"
+  },
+  {
+    "rank": 23,
+    "name": "ansible/ansible",
+    "description": "",
+    "language": "Python",
+    "stars": "69,593",
+    "forks": "24,276",
+    "link": "https://github.com/ansible/ansible"
+  },
+  {
+    "rank": 24,
+    "name": "nuxt/nuxt",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "60,733",
+    "forks": "5,841",
+    "link": "https://github.com/nuxt/nuxt"
+  }
+]
