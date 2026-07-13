@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "Dicklesworthstone/destructive_command_guard",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,919",
+    "forks": "108",
+    "link": "https://github.com/Dicklesworthstone/destructive_command_guard"
+  },
+  {
+    "rank": 2,
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,992",
+    "forks": "985",
+    "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+  },
+  {
+    "rank": 3,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "20,572",
+    "forks": "3,601",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "rank": 4,
+    "name": "PrefectHQ/prefect",
+    "description": "",
+    "language": "Python",
+    "stars": "23,147",
+    "forks": "2,391",
+    "link": "https://github.com/PrefectHQ/prefect"
+  },
+  {
+    "rank": 5,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "",
+    "language": "Python",
+    "stars": "118,562",
+    "forks": "17,632",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 6,
+    "name": "anthropics/claude-cookbooks",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "48,417",
+    "forks": "5,732",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 7,
+    "name": "home-assistant/core",
+    "description": "",
+    "language": "Python",
+    "stars": "89,070",
+    "forks": "38,084",
+    "link": "https://github.com/home-assistant/core"
+  },
+  {
+    "rank": 8,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "33,808",
+    "forks": "3,391",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 9,
+    "name": "ColeMurray/background-agents",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,262",
+    "forks": "342",
+    "link": "https://github.com/ColeMurray/background-agents"
+  },
+  {
+    "rank": 10,
+    "name": "k1tbyte/Wand-Enhancer",
+    "description": "",
+    "language": "C#",
+    "stars": "6,958",
+    "forks": "19,513",
+    "link": "https://github.com/k1tbyte/Wand-Enhancer"
+  },
+  {
+    "rank": 11,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,748",
+    "forks": "2,891",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 12,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "61,407",
+    "forks": "10,858",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 13,
+    "name": "chen08209/FlClash",
+    "description": "",
+    "language": "Dart",
+    "stars": "45,225",
+    "forks": "2,854",
+    "link": "https://github.com/chen08209/FlClash"
+  },
+  {
+    "rank": 14,
+    "name": "davila7/claude-code-templates",
+    "description": "",
+    "language": "Python",
+    "stars": "29,240",
+    "forks": "3,204",
+    "link": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "rank": 15,
+    "name": "par274/sharpemu",
+    "description": "",
+    "language": "C#",
+    "stars": "1,266",
+    "forks": "76",
+    "link": "https://github.com/par274/sharpemu"
+  },
+  {
+    "rank": 16,
+    "name": "malisper/pgrust",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,473",
+    "forks": "67",
+    "link": "https://github.com/malisper/pgrust"
+  },
+  {
+    "rank": 17,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "4,285",
+    "forks": "253",
+    "link": "https://github.com/Nutlope/hallmark"
+  }
+]
