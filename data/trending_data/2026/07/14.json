@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "66,372",
+    "forks": "6,989",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "rank": 2,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "21,754",
+    "forks": "3,755",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "rank": 3,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "41,875",
+    "forks": "4,194",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 4,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "",
+    "language": "Python",
+    "stars": "119,615",
+    "forks": "17,739",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 5,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "5,153",
+    "forks": "271",
+    "link": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "rank": 6,
+    "name": "Raphire/Win11Debloat",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "50,872",
+    "forks": "2,048",
+    "link": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "rank": 7,
+    "name": "Graphify-Labs/graphify",
+    "description": "",
+    "language": "Python",
+    "stars": "84,726",
+    "forks": "8,344",
+    "link": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "rank": 8,
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "",
+    "language": "HTML",
+    "stars": "12,618",
+    "forks": "1,481",
+    "link": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "rank": 9,
+    "name": "github/spec-kit",
+    "description": "",
+    "language": "Python",
+    "stars": "120,593",
+    "forks": "10,694",
+    "link": "https://github.com/github/spec-kit"
+  },
+  {
+    "rank": 10,
+    "name": "coreyhaines31/marketingskills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "38,570",
+    "forks": "6,162",
+    "link": "https://github.com/coreyhaines31/marketingskills"
+  }
+]
