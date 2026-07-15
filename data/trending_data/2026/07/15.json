@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "",
+    "language": "Python",
+    "stars": "120,799",
+    "forks": "17,876",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "170,243",
+    "forks": "14,646",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "Dicklesworthstone/destructive_command_guard",
+    "description": "",
+    "language": "Rust",
+    "stars": "4,406",
+    "forks": "165",
+    "link": "https://github.com/Dicklesworthstone/destructive_command_guard"
+  },
+  {
+    "rank": 4,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "69,199",
+    "forks": "7,211",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "rank": 5,
+    "name": "virattt/ai-hedge-fund",
+    "description": "",
+    "language": "Python",
+    "stars": "61,877",
+    "forks": "10,914",
+    "link": "https://github.com/virattt/ai-hedge-fund"
+  },
+  {
+    "rank": 6,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "6,150",
+    "forks": "353",
+    "link": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "rank": 7,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "22,863",
+    "forks": "3,923",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "rank": 8,
+    "name": "Raphire/Win11Debloat",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "51,697",
+    "forks": "2,130",
+    "link": "https://github.com/Raphire/Win11Debloat"
+  },
+  {
+    "rank": 9,
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "",
+    "language": "HTML",
+    "stars": "13,519",
+    "forks": "1,616",
+    "link": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "rank": 10,
+    "name": "penpot/penpot",
+    "description": "",
+    "language": "Clojure",
+    "stars": "56,159",
+    "forks": "3,694",
+    "link": "https://github.com/penpot/penpot"
+  },
+  {
+    "rank": 11,
+    "name": "AIEraDev/Clypra",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,619",
+    "forks": "279",
+    "link": "https://github.com/AIEraDev/Clypra"
+  },
+  {
+    "rank": 12,
+    "name": "par274/sharpemu",
+    "description": "",
+    "language": "C#",
+    "stars": "2,129",
+    "forks": "137",
+    "link": "https://github.com/par274/sharpemu"
+  },
+  {
+    "rank": 13,
+    "name": "chenyme/grok2api",
+    "description": "",
+    "language": "Go",
+    "stars": "5,854",
+    "forks": "1,926",
+    "link": "https://github.com/chenyme/grok2api"
+  },
+  {
+    "rank": 14,
+    "name": "Graphify-Labs/graphify",
+    "description": "",
+    "language": "Python",
+    "stars": "86,383",
+    "forks": "8,498",
+    "link": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "rank": 15,
+    "name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,239",
+    "forks": "701",
+    "link": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+  }
+]
