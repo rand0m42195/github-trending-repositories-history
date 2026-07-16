@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "71,775",
+    "forks": "7,354",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "rank": 2,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "8,541",
+    "forks": "443",
+    "link": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "rank": 3,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "172,293",
+    "forks": "14,795",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 4,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "42,506",
+    "forks": "4,252",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 5,
+    "name": "Dicklesworthstone/destructive_command_guard",
+    "description": "",
+    "language": "Rust",
+    "stars": "4,767",
+    "forks": "178",
+    "link": "https://github.com/Dicklesworthstone/destructive_command_guard"
+  },
+  {
+    "rank": 6,
+    "name": "HKUDS/Vibe-Trading",
+    "description": "",
+    "language": "Python",
+    "stars": "23,708",
+    "forks": "4,038",
+    "link": "https://github.com/HKUDS/Vibe-Trading"
+  },
+  {
+    "rank": 7,
+    "name": "openinterpreter/openinterpreter",
+    "description": "",
+    "language": "Rust",
+    "stars": "65,490",
+    "forks": "5,654",
+    "link": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "rank": 8,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "26,268",
+    "forks": "3,565",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 9,
+    "name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,902",
+    "forks": "742",
+    "link": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+  },
+  {
+    "rank": 10,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "",
+    "language": "Python",
+    "stars": "121,918",
+    "forks": "17,994",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 11,
+    "name": "coreyhaines31/marketingskills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "39,767",
+    "forks": "6,315",
+    "link": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "rank": 12,
+    "name": "YimMenu/YimMenuV2",
+    "description": "",
+    "language": "C++",
+    "stars": "1,426",
+    "forks": "355",
+    "link": "https://github.com/YimMenu/YimMenuV2"
+  },
+  {
+    "rank": 13,
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "",
+    "language": "HTML",
+    "stars": "14,378",
+    "forks": "1,725",
+    "link": "https://github.com/hasaneyldrm/exercises-dataset"
+  }
+]
