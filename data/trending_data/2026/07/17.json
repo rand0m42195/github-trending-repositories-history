@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "apache/ossie",
+    "description": "",
+    "language": "Python",
+    "stars": "902",
+    "forks": "134",
+    "link": "https://github.com/apache/ossie"
+  },
+  {
+    "rank": 2,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "10,907",
+    "forks": "538",
+    "link": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "rank": 3,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "74,024",
+    "forks": "7,483",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "rank": 4,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "35,842",
+    "forks": "2,992",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 5,
+    "name": "openinterpreter/openinterpreter",
+    "description": "",
+    "language": "Rust",
+    "stars": "65,979",
+    "forks": "5,673",
+    "link": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "rank": 6,
+    "name": "PrismML-Eng/Bonsai-demo",
+    "description": "",
+    "language": "Shell",
+    "stars": "1,516",
+    "forks": "153",
+    "link": "https://github.com/PrismML-Eng/Bonsai-demo"
+  },
+  {
+    "rank": 7,
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "",
+    "language": "HTML",
+    "stars": "15,040",
+    "forks": "1,803",
+    "link": "https://github.com/hasaneyldrm/exercises-dataset"
+  },
+  {
+    "rank": 8,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "",
+    "language": "Python",
+    "stars": "122,884",
+    "forks": "18,123",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 9,
+    "name": "lobehub/lobehub",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "80,159",
+    "forks": "15,613",
+    "link": "https://github.com/lobehub/lobehub"
+  },
+  {
+    "rank": 10,
+    "name": "YimMenu/YimMenuV2",
+    "description": "",
+    "language": "C++",
+    "stars": "1,505",
+    "forks": "360",
+    "link": "https://github.com/YimMenu/YimMenuV2"
+  },
+  {
+    "rank": 11,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "26,865",
+    "forks": "3,613",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 12,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "174,268",
+    "forks": "14,955",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 13,
+    "name": "github/copilot-sdk",
+    "description": "",
+    "language": "Java",
+    "stars": "9,644",
+    "forks": "1,318",
+    "link": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "rank": 14,
+    "name": "ibelick/ui-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,267",
+    "forks": "179",
+    "link": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "rank": 15,
+    "name": "Graphify-Labs/graphify",
+    "description": "",
+    "language": "Python",
+    "stars": "89,071",
+    "forks": "8,705",
+    "link": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "rank": 16,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "526,305",
+    "forks": "49,799",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 17,
+    "name": "ossu/computer-science",
+    "description": "",
+    "language": "HTML",
+    "stars": "206,519",
+    "forks": "25,630",
+    "link": "https://github.com/ossu/computer-science"
+  }
+]
