@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "527,372",
+    "forks": "49,904",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 2,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "36,192",
+    "forks": "3,010",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 3,
+    "name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,621",
+    "forks": "811",
+    "link": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+  },
+  {
+    "rank": 4,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "12,035",
+    "forks": "601",
+    "link": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "rank": 5,
+    "name": "github/copilot-sdk",
+    "description": "",
+    "language": "Java",
+    "stars": "9,795",
+    "forks": "1,331",
+    "link": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "rank": 6,
+    "name": "anthropics/cwc-workshops",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,587",
+    "forks": "489",
+    "link": "https://github.com/anthropics/cwc-workshops"
+  },
+  {
+    "rank": 7,
+    "name": "PrismML-Eng/Bonsai-demo",
+    "description": "",
+    "language": "Shell",
+    "stars": "1,713",
+    "forks": "167",
+    "link": "https://github.com/PrismML-Eng/Bonsai-demo"
+  },
+  {
+    "rank": 8,
+    "name": "protocolbuffers/protobuf",
+    "description": "",
+    "language": "C++",
+    "stars": "71,540",
+    "forks": "16,192",
+    "link": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "rank": 9,
+    "name": "tirth8205/code-review-graph",
+    "description": "",
+    "language": "Python",
+    "stars": "19,757",
+    "forks": "2,107",
+    "link": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "rank": 10,
+    "name": "docusealco/docuseal",
+    "description": "",
+    "language": "Ruby",
+    "stars": "17,844",
+    "forks": "1,769",
+    "link": "https://github.com/docusealco/docuseal"
+  },
+  {
+    "rank": 11,
+    "name": "openinterpreter/openinterpreter",
+    "description": "",
+    "language": "Rust",
+    "stars": "66,375",
+    "forks": "5,706",
+    "link": "https://github.com/openinterpreter/openinterpreter"
+  },
+  {
+    "rank": 12,
+    "name": "RyanCodrai/turbovec",
+    "description": "",
+    "language": "Python",
+    "stars": "13,312",
+    "forks": "1,179",
+    "link": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "rank": 13,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "27,365",
+    "forks": "3,645",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 14,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "74,879",
+    "forks": "7,551",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  }
+]
