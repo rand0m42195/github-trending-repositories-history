@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "Robbyant/lingbot-map",
+    "description": "",
+    "language": "Python",
+    "stars": "12,959",
+    "forks": "1,344",
+    "link": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "rank": 2,
+    "name": "apache/ossie",
+    "description": "",
+    "language": "Python",
+    "stars": "1,277",
+    "forks": "154",
+    "link": "https://github.com/apache/ossie"
+  },
+  {
+    "rank": 3,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "36,598",
+    "forks": "3,029",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 4,
+    "name": "ibelick/ui-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,027",
+    "forks": "212",
+    "link": "https://github.com/ibelick/ui-skills"
+  },
+  {
+    "rank": 5,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "39,104",
+    "forks": "6,553",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 6,
+    "name": "tirth8205/code-review-graph",
+    "description": "",
+    "language": "Python",
+    "stars": "20,175",
+    "forks": "2,125",
+    "link": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "rank": 7,
+    "name": "elder-plinius/G0DM0D3",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,512",
+    "forks": "2,254",
+    "link": "https://github.com/elder-plinius/G0DM0D3"
+  },
+  {
+    "rank": 8,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "23,337",
+    "forks": "2,655",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 9,
+    "name": "KnockOutEZ/wigolo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,246",
+    "forks": "84",
+    "link": "https://github.com/KnockOutEZ/wigolo"
+  },
+  {
+    "rank": 10,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "528,277",
+    "forks": "49,985",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 11,
+    "name": "MoonshotAI/kimi-cli",
+    "description": "",
+    "language": "Python",
+    "stars": "9,493",
+    "forks": "1,165",
+    "link": "https://github.com/MoonshotAI/kimi-cli"
+  }
+]
