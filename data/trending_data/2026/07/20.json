@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "tirth8205/code-review-graph",
+    "description": "",
+    "language": "Python",
+    "stars": "21,219",
+    "forks": "2,181",
+    "link": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "rank": 2,
+    "name": "kvcache-ai/ktransformers",
+    "description": "",
+    "language": "Python",
+    "stars": "18,370",
+    "forks": "1,452",
+    "link": "https://github.com/kvcache-ai/ktransformers"
+  },
+  {
+    "rank": 3,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "39,668",
+    "forks": "6,627",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 4,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "43,355",
+    "forks": "5,296",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 5,
+    "name": "KnockOutEZ/wigolo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,834",
+    "forks": "113",
+    "link": "https://github.com/KnockOutEZ/wigolo"
+  },
+  {
+    "rank": 6,
+    "name": "andrewrabert/jellium-desktop",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,289",
+    "forks": "107",
+    "link": "https://github.com/andrewrabert/jellium-desktop"
+  },
+  {
+    "rank": 7,
+    "name": "github/copilot-sdk",
+    "description": "",
+    "language": "Java",
+    "stars": "9,962",
+    "forks": "1,349",
+    "link": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "rank": 8,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "36,936",
+    "forks": "3,054",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/terminal",
+    "description": "",
+    "language": "C++",
+    "stars": "104,175",
+    "forks": "9,436",
+    "link": "https://github.com/microsoft/terminal"
+  },
+  {
+    "rank": 10,
+    "name": "AstrBotDevs/AstrBot",
+    "description": "",
+    "language": "Python",
+    "stars": "36,707",
+    "forks": "2,547",
+    "link": "https://github.com/AstrBotDevs/AstrBot"
+  },
+  {
+    "rank": 11,
+    "name": "1jehuang/jcode",
+    "description": "",
+    "language": "Rust",
+    "stars": "8,916",
+    "forks": "1,034",
+    "link": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "rank": 12,
+    "name": "trycua/cua",
+    "description": "",
+    "language": "HTML",
+    "stars": "20,241",
+    "forks": "1,341",
+    "link": "https://github.com/trycua/cua"
+  },
+  {
+    "rank": 13,
+    "name": "MoonshotAI/kimi-cli",
+    "description": "",
+    "language": "Python",
+    "stars": "9,890",
+    "forks": "1,194",
+    "link": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "rank": 14,
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": "31,036",
+    "forks": "2,374",
+    "link": "https://github.com/Flowseal/zapret-discord-youtube"
+  },
+  {
+    "rank": 15,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "528,934",
+    "forks": "50,038",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 16,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "23,634",
+    "forks": "2,681",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 17,
+    "name": "Canner/WrenAI",
+    "description": "",
+    "language": "Python",
+    "stars": "16,205",
+    "forks": "1,840",
+    "link": "https://github.com/Canner/WrenAI"
+  },
+  {
+    "rank": 18,
+    "name": "PKUFlyingPig/cs-self-learning",
+    "description": "",
+    "language": "HTML",
+    "stars": "74,169",
+    "forks": "7,939",
+    "link": "https://github.com/PKUFlyingPig/cs-self-learning"
+  }
+]
