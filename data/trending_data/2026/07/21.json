@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "tirth8205/code-review-graph",
+    "description": "",
+    "language": "Python",
+    "stars": "23,203",
+    "forks": "2,277",
+    "link": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "rank": 2,
+    "name": "1jehuang/jcode",
+    "description": "",
+    "language": "Rust",
+    "stars": "9,639",
+    "forks": "1,084",
+    "link": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "rank": 3,
+    "name": "diegosouzapw/OmniRoute",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,857",
+    "forks": "2,965",
+    "link": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "rank": 4,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "40,549",
+    "forks": "6,722",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 5,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "134,720",
+    "forks": "21,968",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 6,
+    "name": "kvcache-ai/ktransformers",
+    "description": "",
+    "language": "Python",
+    "stars": "18,739",
+    "forks": "1,463",
+    "link": "https://github.com/kvcache-ai/ktransformers"
+  },
+  {
+    "rank": 7,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "44,181",
+    "forks": "5,370",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 8,
+    "name": "topoteretes/cognee",
+    "description": "",
+    "language": "Python",
+    "stars": "28,799",
+    "forks": "2,743",
+    "link": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "rank": 9,
+    "name": "Robbyant/lingbot-map",
+    "description": "",
+    "language": "Python",
+    "stars": "14,242",
+    "forks": "1,483",
+    "link": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "rank": 10,
+    "name": "every-app/open-seo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,862",
+    "forks": "649",
+    "link": "https://github.com/every-app/open-seo"
+  },
+  {
+    "rank": 11,
+    "name": "MoonshotAI/kimi-cli",
+    "description": "",
+    "language": "Python",
+    "stars": "10,246",
+    "forks": "1,219",
+    "link": "https://github.com/MoonshotAI/kimi-cli"
+  },
+  {
+    "rank": 12,
+    "name": "AstrBotDevs/AstrBot",
+    "description": "",
+    "language": "Python",
+    "stars": "37,102",
+    "forks": "2,581",
+    "link": "https://github.com/AstrBotDevs/AstrBot"
+  },
+  {
+    "rank": 13,
+    "name": "PrefectHQ/fastmcp",
+    "description": "",
+    "language": "Python",
+    "stars": "26,536",
+    "forks": "2,164",
+    "link": "https://github.com/PrefectHQ/fastmcp"
+  },
+  {
+    "rank": 14,
+    "name": "KnockOutEZ/wigolo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,557",
+    "forks": "152",
+    "link": "https://github.com/KnockOutEZ/wigolo"
+  },
+  {
+    "rank": 15,
+    "name": "tokio-rs/topcoat",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,552",
+    "forks": "40",
+    "link": "https://github.com/tokio-rs/topcoat"
+  },
+  {
+    "rank": 16,
+    "name": "iptv-org/iptv",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "133,781",
+    "forks": "7,562",
+    "link": "https://github.com/iptv-org/iptv"
+  },
+  {
+    "rank": 17,
+    "name": "oblien/openship",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,821",
+    "forks": "334",
+    "link": "https://github.com/oblien/openship"
+  },
+  {
+    "rank": 18,
+    "name": "microsoft/Ontology-Playground",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,735",
+    "forks": "233",
+    "link": "https://github.com/microsoft/Ontology-Playground"
+  },
+  {
+    "rank": 19,
+    "name": "handy-computer/transcribe.cpp",
+    "description": "",
+    "language": "C++",
+    "stars": "1,262",
+    "forks": "31",
+    "link": "https://github.com/handy-computer/transcribe.cpp"
+  },
+  {
+    "rank": 20,
+    "name": "moonshine-ai/moonshine",
+    "description": "",
+    "language": "C++",
+    "stars": "9,850",
+    "forks": "518",
+    "link": "https://github.com/moonshine-ai/moonshine"
+  }
+]
