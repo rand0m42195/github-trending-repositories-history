@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "block/buzz",
+    "description": "",
+    "language": "Rust",
+    "stars": "6,958",
+    "forks": "559",
+    "link": "https://github.com/block/buzz"
+  },
+  {
+    "rank": 2,
+    "name": "koala73/worldmonitor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "71,634",
+    "forks": "10,802",
+    "link": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "rank": 3,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "33,063",
+    "forks": "5,650",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 4,
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "",
+    "language": "Rust",
+    "stars": "8,929",
+    "forks": "615",
+    "link": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "rank": 5,
+    "name": "citrolabs/ego-lite",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "1,665",
+    "forks": "92",
+    "link": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "rank": 6,
+    "name": "chrislgarry/Apollo-11",
+    "description": "",
+    "language": "Assembly",
+    "stars": "71,108",
+    "forks": "7,919",
+    "link": "https://github.com/chrislgarry/Apollo-11"
+  },
+  {
+    "rank": 7,
+    "name": "diegosouzapw/OmniRoute",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "27,211",
+    "forks": "3,569",
+    "link": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "rank": 8,
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "69,438",
+    "forks": "7,853",
+    "link": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "rank": 9,
+    "name": "earthtojake/text-to-cad",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "9,990",
+    "forks": "1,097",
+    "link": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "rank": 10,
+    "name": "agegr/pi-web",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,371",
+    "forks": "327",
+    "link": "https://github.com/agegr/pi-web"
+  },
+  {
+    "rank": 11,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "11,543",
+    "forks": "797",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 12,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "85,218",
+    "forks": "11,372",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 13,
+    "name": "likec4/likec4",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,701",
+    "forks": "319",
+    "link": "https://github.com/likec4/likec4"
+  },
+  {
+    "rank": 14,
+    "name": "Automattic/harper",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,323",
+    "forks": "457",
+    "link": "https://github.com/Automattic/harper"
+  },
+  {
+    "rank": 15,
+    "name": "jellyfin/jellyfin",
+    "description": "",
+    "language": "C#",
+    "stars": "54,737",
+    "forks": "5,164",
+    "link": "https://github.com/jellyfin/jellyfin"
+  }
+]
