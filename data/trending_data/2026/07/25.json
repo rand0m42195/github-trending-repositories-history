@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "block/buzz",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,014",
+    "forks": "776",
+    "link": "https://github.com/block/buzz"
+  },
+  {
+    "rank": 2,
+    "name": "koala73/worldmonitor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "73,287",
+    "forks": "10,990",
+    "link": "https://github.com/koala73/worldmonitor"
+  },
+  {
+    "rank": 3,
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "70,068",
+    "forks": "7,901",
+    "link": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "rank": 4,
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "",
+    "language": "Rust",
+    "stars": "9,341",
+    "forks": "633",
+    "link": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "rank": 5,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "33,497",
+    "forks": "5,680",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 6,
+    "name": "Automattic/harper",
+    "description": "",
+    "language": "Rust",
+    "stars": "13,047",
+    "forks": "481",
+    "link": "https://github.com/Automattic/harper"
+  },
+  {
+    "rank": 7,
+    "name": "likec4/likec4",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,025",
+    "forks": "334",
+    "link": "https://github.com/likec4/likec4"
+  },
+  {
+    "rank": 8,
+    "name": "citrolabs/ego-lite",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "2,588",
+    "forks": "122",
+    "link": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "rank": 9,
+    "name": "yorukot/superfile",
+    "description": "",
+    "language": "Go",
+    "stars": "19,584",
+    "forks": "597",
+    "link": "https://github.com/yorukot/superfile"
+  },
+  {
+    "rank": 10,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "85,952",
+    "forks": "11,448",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 11,
+    "name": "CoreBunch/Instatic",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,293",
+    "forks": "409",
+    "link": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "rank": 12,
+    "name": "chrislgarry/Apollo-11",
+    "description": "",
+    "language": "Assembly",
+    "stars": "71,409",
+    "forks": "7,932",
+    "link": "https://github.com/chrislgarry/Apollo-11"
+  },
+  {
+    "rank": 13,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "186,767",
+    "forks": "16,027",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 14,
+    "name": "Lordog/dive-into-llms",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "45,004",
+    "forks": "5,387",
+    "link": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "rank": 15,
+    "name": "diegosouzapw/OmniRoute",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "28,852",
+    "forks": "3,783",
+    "link": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
+    "rank": 16,
+    "name": "OtterMind/Chat2DB",
+    "description": "",
+    "language": "Java",
+    "stars": "26,331",
+    "forks": "2,880",
+    "link": "https://github.com/OtterMind/Chat2DB"
+  }
+]
