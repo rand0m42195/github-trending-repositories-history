@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "block/buzz",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,949",
+    "forks": "953",
+    "link": "https://github.com/block/buzz"
+  },
+  {
+    "rank": 2,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "12,973",
+    "forks": "887",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 3,
+    "name": "citrolabs/ego-lite",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "3,597",
+    "forks": "175",
+    "link": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "rank": 4,
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "70,589",
+    "forks": "7,940",
+    "link": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/claude-cookbooks",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "49,895",
+    "forks": "5,897",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 6,
+    "name": "Automattic/harper",
+    "description": "",
+    "language": "Rust",
+    "stars": "13,424",
+    "forks": "509",
+    "link": "https://github.com/Automattic/harper"
+  },
+  {
+    "rank": 7,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "33,795",
+    "forks": "5,706",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 8,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "261,108",
+    "forks": "23,299",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 9,
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "",
+    "language": "Rust",
+    "stars": "9,716",
+    "forks": "656",
+    "link": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "rank": 10,
+    "name": "permissionlesstech/bitchat",
+    "description": "",
+    "language": "Swift",
+    "stars": "28,728",
+    "forks": "4,295",
+    "link": "https://github.com/permissionlesstech/bitchat"
+  },
+  {
+    "rank": 11,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "188,281",
+    "forks": "16,178",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 12,
+    "name": "palmier-io/palmier-pro",
+    "description": "",
+    "language": "Swift",
+    "stars": "12,222",
+    "forks": "893",
+    "link": "https://github.com/palmier-io/palmier-pro"
+  },
+  {
+    "rank": 13,
+    "name": "CoreBunch/Instatic",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,088",
+    "forks": "479",
+    "link": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "rank": 14,
+    "name": "Lordog/dive-into-llms",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "45,351",
+    "forks": "5,416",
+    "link": "https://github.com/Lordog/dive-into-llms"
+  },
+  {
+    "rank": 15,
+    "name": "RyanCodrai/turbovec",
+    "description": "",
+    "language": "Python",
+    "stars": "14,292",
+    "forks": "1,269",
+    "link": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "rank": 16,
+    "name": "OtterMind/Chat2DB",
+    "description": "",
+    "language": "Java",
+    "stars": "26,680",
+    "forks": "2,907",
+    "link": "https://github.com/OtterMind/Chat2DB"
+  },
+  {
+    "rank": 17,
+    "name": "andrewyng/aisuite",
+    "description": "",
+    "language": "Python",
+    "stars": "15,222",
+    "forks": "1,614",
+    "link": "https://github.com/andrewyng/aisuite"
+  },
+  {
+    "rank": 18,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "233,312",
+    "forks": "35,570",
+    "link": "https://github.com/affaan-m/ECC"
+  }
+]
