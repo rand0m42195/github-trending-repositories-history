@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "permissionlesstech/bitchat",
+    "description": "",
+    "language": "Swift",
+    "stars": "30,385",
+    "forks": "4,718",
+    "link": "https://github.com/permissionlesstech/bitchat"
+  },
+  {
+    "rank": 2,
+    "name": "citrolabs/ego-lite",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "4,551",
+    "forks": "225",
+    "link": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "rank": 3,
+    "name": "block/buzz",
+    "description": "",
+    "language": "Rust",
+    "stars": "13,318",
+    "forks": "1,092",
+    "link": "https://github.com/block/buzz"
+  },
+  {
+    "rank": 4,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,052",
+    "forks": "3,309",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 5,
+    "name": "CoreBunch/Instatic",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,683",
+    "forks": "521",
+    "link": "https://github.com/CoreBunch/Instatic"
+  },
+  {
+    "rank": 6,
+    "name": "yorukot/superfile",
+    "description": "",
+    "language": "Go",
+    "stars": "20,246",
+    "forks": "639",
+    "link": "https://github.com/yorukot/superfile"
+  },
+  {
+    "rank": 7,
+    "name": "nodejs/node",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "118,470",
+    "forks": "36,176",
+    "link": "https://github.com/nodejs/node"
+  },
+  {
+    "rank": 8,
+    "name": "OtterMind/Chat2DB",
+    "description": "",
+    "language": "Java",
+    "stars": "27,124",
+    "forks": "2,941",
+    "link": "https://github.com/OtterMind/Chat2DB"
+  },
+  {
+    "rank": 9,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "50,690",
+    "forks": "2,987",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 10,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "34,176",
+    "forks": "5,757",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 11,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "13,839",
+    "forks": "940",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 12,
+    "name": "andrewyng/aisuite",
+    "description": "",
+    "language": "Python",
+    "stars": "15,403",
+    "forks": "1,629",
+    "link": "https://github.com/andrewyng/aisuite"
+  },
+  {
+    "rank": 13,
+    "name": "anthropics/claude-cookbooks",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "50,233",
+    "forks": "5,919",
+    "link": "https://github.com/anthropics/claude-cookbooks"
+  },
+  {
+    "rank": 14,
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,015",
+    "forks": "672",
+    "link": "https://github.com/Pumpkin-MC/Pumpkin"
+  },
+  {
+    "rank": 15,
+    "name": "permissionlesstech/bitchat-android",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "6,716",
+    "forks": "1,593",
+    "link": "https://github.com/permissionlesstech/bitchat-android"
+  },
+  {
+    "rank": 16,
+    "name": "jenkinsci/jenkins",
+    "description": "",
+    "language": "Java",
+    "stars": "25,707",
+    "forks": "9,655",
+    "link": "https://github.com/jenkinsci/jenkins"
+  },
+  {
+    "rank": 17,
+    "name": "amnezia-vpn/amnezia-client",
+    "description": "",
+    "language": "C++",
+    "stars": "13,325",
+    "forks": "1,010",
+    "link": "https://github.com/amnezia-vpn/amnezia-client"
+  }
+]
