@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "permissionlesstech/bitchat",
+    "description": "",
+    "language": "Swift",
+    "stars": "32,276",
+    "forks": "5,062",
+    "link": "https://github.com/permissionlesstech/bitchat"
+  },
+  {
+    "rank": 2,
+    "name": "amnezia-vpn/amnezia-client",
+    "description": "",
+    "language": "C++",
+    "stars": "13,821",
+    "forks": "1,031",
+    "link": "https://github.com/amnezia-vpn/amnezia-client"
+  },
+  {
+    "rank": 3,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "44,040",
+    "forks": "4,396",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 4,
+    "name": "opengeos/GeoLibre",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,695",
+    "forks": "353",
+    "link": "https://github.com/opengeos/GeoLibre"
+  },
+  {
+    "rank": 5,
+    "name": "yorukot/superfile",
+    "description": "",
+    "language": "Go",
+    "stars": "20,897",
+    "forks": "677",
+    "link": "https://github.com/yorukot/superfile"
+  },
+  {
+    "rank": 6,
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "",
+    "language": "Python",
+    "stars": "58,192",
+    "forks": "11,586",
+    "link": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "rank": 7,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "51,556",
+    "forks": "3,041",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 8,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "34,565",
+    "forks": "5,797",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 9,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "14,817",
+    "forks": "999",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 10,
+    "name": "jenkinsci/jenkins",
+    "description": "",
+    "language": "Java",
+    "stars": "25,887",
+    "forks": "9,680",
+    "link": "https://github.com/jenkinsci/jenkins"
+  },
+  {
+    "rank": 11,
+    "name": "bradautomates/claude-video",
+    "description": "",
+    "language": "Python",
+    "stars": "11,093",
+    "forks": "1,144",
+    "link": "https://github.com/bradautomates/claude-video"
+  },
+  {
+    "rank": 12,
+    "name": "vudovn/ag-kit",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,963",
+    "forks": "1,510",
+    "link": "https://github.com/vudovn/ag-kit"
+  },
+  {
+    "rank": 13,
+    "name": "apache/cassandra",
+    "description": "",
+    "language": "Java",
+    "stars": "9,961",
+    "forks": "4,007",
+    "link": "https://github.com/apache/cassandra"
+  },
+  {
+    "rank": 14,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "54,181",
+    "forks": "4,701",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 15,
+    "name": "ocornut/imgui",
+    "description": "",
+    "language": "C++",
+    "stars": "75,211",
+    "forks": "11,970",
+    "link": "https://github.com/ocornut/imgui"
+  }
+]
