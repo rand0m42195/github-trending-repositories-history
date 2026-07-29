@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,715",
+    "forks": "2,526",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 2,
+    "name": "jenkinsci/jenkins",
+    "description": "",
+    "language": "Java",
+    "stars": "26,073",
+    "forks": "9,687",
+    "link": "https://github.com/jenkinsci/jenkins"
+  },
+  {
+    "rank": 3,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "44,769",
+    "forks": "4,449",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 4,
+    "name": "andrewyng/aisuite",
+    "description": "",
+    "language": "Python",
+    "stars": "15,688",
+    "forks": "1,656",
+    "link": "https://github.com/andrewyng/aisuite"
+  },
+  {
+    "rank": 5,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "234,818",
+    "forks": "35,780",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 6,
+    "name": "hello245m/free-stockdb",
+    "description": "",
+    "language": "HTML",
+    "stars": "1,283",
+    "forks": "211",
+    "link": "https://github.com/hello245m/free-stockdb"
+  },
+  {
+    "rank": 7,
+    "name": "huggingface/speech-to-speech",
+    "description": "",
+    "language": "Python",
+    "stars": "7,247",
+    "forks": "956",
+    "link": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "rank": 8,
+    "name": "virgiliojr94/book-to-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "11,401",
+    "forks": "1,341",
+    "link": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "rank": 9,
+    "name": "opengeos/GeoLibre",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,403",
+    "forks": "391",
+    "link": "https://github.com/opengeos/GeoLibre"
+  },
+  {
+    "rank": 10,
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "",
+    "language": "Python",
+    "stars": "9,618",
+    "forks": "1,293",
+    "link": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+  },
+  {
+    "rank": 11,
+    "name": "microsoft/agent-governance-toolkit",
+    "description": "",
+    "language": "Python",
+    "stars": "5,203",
+    "forks": "833",
+    "link": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "rank": 12,
+    "name": "yorukot/superfile",
+    "description": "",
+    "language": "Go",
+    "stars": "21,488",
+    "forks": "696",
+    "link": "https://github.com/yorukot/superfile"
+  },
+  {
+    "rank": 13,
+    "name": "bradautomates/claude-video",
+    "description": "",
+    "language": "Python",
+    "stars": "12,112",
+    "forks": "1,216",
+    "link": "https://github.com/bradautomates/claude-video"
+  }
+]
