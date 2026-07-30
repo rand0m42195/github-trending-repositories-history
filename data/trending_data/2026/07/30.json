@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "opengeos/GeoLibre",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,048",
+    "forks": "431",
+    "link": "https://github.com/opengeos/GeoLibre"
+  },
+  {
+    "rank": 2,
+    "name": "moeru-ai/airi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "45,381",
+    "forks": "4,488",
+    "link": "https://github.com/moeru-ai/airi"
+  },
+  {
+    "rank": 3,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "235,582",
+    "forks": "35,875",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 4,
+    "name": "huggingface/speech-to-speech",
+    "description": "",
+    "language": "Python",
+    "stars": "7,864",
+    "forks": "1,001",
+    "link": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "rank": 5,
+    "name": "1jehuang/jcode",
+    "description": "",
+    "language": "Rust",
+    "stars": "13,461",
+    "forks": "1,477",
+    "link": "https://github.com/1jehuang/jcode"
+  },
+  {
+    "rank": 6,
+    "name": "grokability/snipe-it",
+    "description": "",
+    "language": "PHP",
+    "stars": "14,445",
+    "forks": "3,904",
+    "link": "https://github.com/grokability/snipe-it"
+  },
+  {
+    "rank": 7,
+    "name": "deepfakes/faceswap",
+    "description": "",
+    "language": "Python",
+    "stars": "56,275",
+    "forks": "13,430",
+    "link": "https://github.com/deepfakes/faceswap"
+  },
+  {
+    "rank": 8,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "51,285",
+    "forks": "5,708",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 9,
+    "name": "different-ai/openwork",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,914",
+    "forks": "1,856",
+    "link": "https://github.com/different-ai/openwork"
+  },
+  {
+    "rank": 10,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "263,282",
+    "forks": "23,511",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 11,
+    "name": "MoonshotAI/FlashKDA",
+    "description": "",
+    "language": "Cuda",
+    "stars": "984",
+    "forks": "97",
+    "link": "https://github.com/MoonshotAI/FlashKDA"
+  },
+  {
+    "rank": 12,
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "",
+    "language": "Python",
+    "stars": "59,076",
+    "forks": "11,675",
+    "link": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "rank": 13,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "16,011",
+    "forks": "1,080",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 14,
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "",
+    "language": "Python",
+    "stars": "10,395",
+    "forks": "1,346",
+    "link": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+  },
+  {
+    "rank": 15,
+    "name": "maderix/ANE",
+    "description": "",
+    "language": "Objective-C",
+    "stars": "7,143",
+    "forks": "959",
+    "link": "https://github.com/maderix/ANE"
+  },
+  {
+    "rank": 16,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,574",
+    "forks": "2,592",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 17,
+    "name": "virgiliojr94/book-to-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "12,749",
+    "forks": "1,416",
+    "link": "https://github.com/virgiliojr94/book-to-skill"
+  }
+]
