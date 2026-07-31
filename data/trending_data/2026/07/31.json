@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "huggingface/speech-to-speech",
+    "description": "",
+    "language": "Python",
+    "stars": "8,866",
+    "forks": "1,093",
+    "link": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/AI-For-Beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "53,985",
+    "forks": "10,955",
+    "link": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "rank": 3,
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "",
+    "language": "Python",
+    "stars": "11,064",
+    "forks": "1,415",
+    "link": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+  },
+  {
+    "rank": 4,
+    "name": "different-ai/openwork",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,750",
+    "forks": "1,906",
+    "link": "https://github.com/different-ai/openwork"
+  },
+  {
+    "rank": 5,
+    "name": "WhiskeySockets/Baileys",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "10,439",
+    "forks": "3,254",
+    "link": "https://github.com/WhiskeySockets/Baileys"
+  },
+  {
+    "rank": 6,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,125",
+    "forks": "2,621",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 7,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "55,565",
+    "forks": "4,786",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 8,
+    "name": "dotnet/aspnetcore",
+    "description": "",
+    "language": "C#",
+    "stars": "38,292",
+    "forks": "10,859",
+    "link": "https://github.com/dotnet/aspnetcore"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/PowerToys",
+    "description": "",
+    "language": "C",
+    "stars": "137,132",
+    "forks": "8,364",
+    "link": "https://github.com/microsoft/PowerToys"
+  },
+  {
+    "rank": 10,
+    "name": "ansible/ansible",
+    "description": "",
+    "language": "Python",
+    "stars": "69,886",
+    "forks": "24,251",
+    "link": "https://github.com/ansible/ansible"
+  },
+  {
+    "rank": 11,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "48,060",
+    "forks": "3,260",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 12,
+    "name": "jenkinsci/jenkins",
+    "description": "",
+    "language": "Java",
+    "stars": "26,298",
+    "forks": "9,718",
+    "link": "https://github.com/jenkinsci/jenkins"
+  },
+  {
+    "rank": 13,
+    "name": "agavra/tuicr",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,869",
+    "forks": "161",
+    "link": "https://github.com/agavra/tuicr"
+  },
+  {
+    "rank": 14,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "236,233",
+    "forks": "35,927",
+    "link": "https://github.com/affaan-m/ECC"
+  }
+]
