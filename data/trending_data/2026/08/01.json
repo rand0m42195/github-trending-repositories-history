@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "10,744",
+    "forks": "1,656",
+    "link": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "rank": 2,
+    "name": "different-ai/openwork",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,520",
+    "forks": "2,005",
+    "link": "https://github.com/different-ai/openwork"
+  },
+  {
+    "rank": 3,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "56,238",
+    "forks": "4,892",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 4,
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "",
+    "language": "Python",
+    "stars": "11,771",
+    "forks": "1,468",
+    "link": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/AI-For-Beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "55,336",
+    "forks": "11,148",
+    "link": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "rank": 6,
+    "name": "github/copilot-sdk",
+    "description": "",
+    "language": "Java",
+    "stars": "10,137",
+    "forks": "1,372",
+    "link": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "rank": 7,
+    "name": "chatwoot/chatwoot",
+    "description": "",
+    "language": "Ruby",
+    "stars": "35,130",
+    "forks": "8,441",
+    "link": "https://github.com/chatwoot/chatwoot"
+  },
+  {
+    "rank": 8,
+    "name": "agavra/tuicr",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,160",
+    "forks": "172",
+    "link": "https://github.com/agavra/tuicr"
+  },
+  {
+    "rank": 9,
+    "name": "usekaneo/kaneo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,100",
+    "forks": "451",
+    "link": "https://github.com/usekaneo/kaneo"
+  },
+  {
+    "rank": 10,
+    "name": "geo-tp/ESP32-Bit-Pirate",
+    "description": "",
+    "language": "C++",
+    "stars": "5,017",
+    "forks": "408",
+    "link": "https://github.com/geo-tp/ESP32-Bit-Pirate"
+  },
+  {
+    "rank": 11,
+    "name": "deepfakes/faceswap",
+    "description": "",
+    "language": "Python",
+    "stars": "56,994",
+    "forks": "13,478",
+    "link": "https://github.com/deepfakes/faceswap"
+  },
+  {
+    "rank": 12,
+    "name": "1jehuang/jcode",
+    "description": "",
+    "language": "Rust",
+    "stars": "14,627",
+    "forks": "1,612",
+    "link": "https://github.com/1jehuang/jcode"
+  }
+]
