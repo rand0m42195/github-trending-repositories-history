@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/AI-For-Beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "57,245",
+    "forks": "11,344",
+    "link": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "rank": 2,
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "",
+    "language": "Python",
+    "stars": "12,248",
+    "forks": "1,514",
+    "link": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+  },
+  {
+    "rank": 3,
+    "name": "usekaneo/kaneo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,694",
+    "forks": "485",
+    "link": "https://github.com/usekaneo/kaneo"
+  },
+  {
+    "rank": 4,
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "11,925",
+    "forks": "1,807",
+    "link": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "rank": 5,
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "114,217",
+    "forks": "61,221",
+    "link": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "rank": 6,
+    "name": "github/copilot-sdk",
+    "description": "",
+    "language": "Java",
+    "stars": "10,278",
+    "forks": "1,386",
+    "link": "https://github.com/github/copilot-sdk"
+  },
+  {
+    "rank": 7,
+    "name": "github/gh-stack",
+    "description": "",
+    "language": "Go",
+    "stars": "818",
+    "forks": "37",
+    "link": "https://github.com/github/gh-stack"
+  },
+  {
+    "rank": 8,
+    "name": "huggingface/speech-to-speech",
+    "description": "",
+    "language": "Python",
+    "stars": "10,214",
+    "forks": "1,249",
+    "link": "https://github.com/huggingface/speech-to-speech"
+  },
+  {
+    "rank": 9,
+    "name": "abus-aikorea/voice-pro",
+    "description": "",
+    "language": "Python",
+    "stars": "11,758",
+    "forks": "1,720",
+    "link": "https://github.com/abus-aikorea/voice-pro"
+  },
+  {
+    "rank": 10,
+    "name": "iv-org/invidious",
+    "description": "",
+    "language": "Crystal",
+    "stars": "21,623",
+    "forks": "2,431",
+    "link": "https://github.com/iv-org/invidious"
+  },
+  {
+    "rank": 11,
+    "name": "ansible/ansible",
+    "description": "",
+    "language": "Python",
+    "stars": "70,099",
+    "forks": "24,270",
+    "link": "https://github.com/ansible/ansible"
+  },
+  {
+    "rank": 12,
+    "name": "microsoft/TRELLIS.2",
+    "description": "",
+    "language": "Python",
+    "stars": "9,931",
+    "forks": "1,198",
+    "link": "https://github.com/microsoft/TRELLIS.2"
+  },
+  {
+    "rank": 13,
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,298",
+    "forks": "989",
+    "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "rank": 14,
+    "name": "NomaDamas/k-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "6,738",
+    "forks": "795",
+    "link": "https://github.com/NomaDamas/k-skill"
+  },
+  {
+    "rank": 15,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "78,728",
+    "forks": "10,742",
+    "link": "https://github.com/bytedance/deer-flow"
+  }
+]
