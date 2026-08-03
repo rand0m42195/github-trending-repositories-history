@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "microsoft/AI-For-Beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "59,075",
+    "forks": "11,612",
+    "link": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "rank": 2,
+    "name": "usekaneo/kaneo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,165",
+    "forks": "517",
+    "link": "https://github.com/usekaneo/kaneo"
+  },
+  {
+    "rank": 3,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "25,683",
+    "forks": "2,887",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 4,
+    "name": "iv-org/invidious",
+    "description": "",
+    "language": "Crystal",
+    "stars": "21,984",
+    "forks": "2,456",
+    "link": "https://github.com/iv-org/invidious"
+  },
+  {
+    "rank": 5,
+    "name": "codecrafters-io/build-your-own-x",
+    "description": "",
+    "language": "Markdown",
+    "stars": "534,877",
+    "forks": "50,560",
+    "link": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "rank": 6,
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "13,505",
+    "forks": "2,011",
+    "link": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "rank": 7,
+    "name": "different-ai/openwork",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,326",
+    "forks": "2,090",
+    "link": "https://github.com/different-ai/openwork"
+  },
+  {
+    "rank": 8,
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "114,788",
+    "forks": "61,294",
+    "link": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "rank": 9,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "64,715",
+    "forks": "5,348",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 10,
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,067",
+    "forks": "1,056",
+    "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "rank": 11,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "56,883",
+    "forks": "4,978",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 12,
+    "name": "NomaDamas/k-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "6,894",
+    "forks": "809",
+    "link": "https://github.com/NomaDamas/k-skill"
+  },
+  {
+    "rank": 13,
+    "name": "HarbourMasters/Lighthouse",
+    "description": "",
+    "language": "C",
+    "stars": "222",
+    "forks": "18",
+    "link": "https://github.com/HarbourMasters/Lighthouse"
+  },
+  {
+    "rank": 14,
+    "name": "antirez/ds4",
+    "description": "",
+    "language": "C",
+    "stars": "20,002",
+    "forks": "1,776",
+    "link": "https://github.com/antirez/ds4"
+  },
+  {
+    "rank": 15,
+    "name": "esengine/DeepSeek-Reasonix",
+    "description": "",
+    "language": "Go",
+    "stars": "29,075",
+    "forks": "1,870",
+    "link": "https://github.com/esengine/DeepSeek-Reasonix"
+  }
+]
