@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "27,131",
+    "forks": "2,975",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 2,
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "15,809",
+    "forks": "2,232",
+    "link": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "rank": 3,
+    "name": "firecrawl/pdf-inspector",
+    "description": "",
+    "language": "Rust",
+    "stars": "8,270",
+    "forks": "547",
+    "link": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "rank": 4,
+    "name": "esengine/DeepSeek-Reasonix",
+    "description": "",
+    "language": "Go",
+    "stars": "29,943",
+    "forks": "1,920",
+    "link": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "rank": 5,
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,104",
+    "forks": "1,144",
+    "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "rank": 6,
+    "name": "microsoft/AI-For-Beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "60,754",
+    "forks": "11,835",
+    "link": "https://github.com/microsoft/AI-For-Beginners"
+  },
+  {
+    "rank": 7,
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "115,560",
+    "forks": "61,440",
+    "link": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "rank": 8,
+    "name": "donnemartin/system-design-primer",
+    "description": "",
+    "language": "Python",
+    "stars": "360,534",
+    "forks": "57,527",
+    "link": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "rank": 9,
+    "name": "antirez/ds4",
+    "description": "",
+    "language": "C",
+    "stars": "20,366",
+    "forks": "1,802",
+    "link": "https://github.com/antirez/ds4"
+  },
+  {
+    "rank": 10,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "35,826",
+    "forks": "5,962",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 11,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "65,727",
+    "forks": "5,457",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 12,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "44,049",
+    "forks": "7,268",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 13,
+    "name": "iv-org/invidious",
+    "description": "",
+    "language": "Crystal",
+    "stars": "22,276",
+    "forks": "2,480",
+    "link": "https://github.com/iv-org/invidious"
+  },
+  {
+    "rank": 14,
+    "name": "livekit/agents",
+    "description": "",
+    "language": "Python",
+    "stars": "11,992",
+    "forks": "3,458",
+    "link": "https://github.com/livekit/agents"
+  },
+  {
+    "rank": 15,
+    "name": "usekaneo/kaneo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,869",
+    "forks": "553",
+    "link": "https://github.com/usekaneo/kaneo"
+  },
+  {
+    "rank": 16,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "48,684",
+    "forks": "5,993",
+    "link": "https://github.com/jamiepine/voicebox"
+  }
+]
