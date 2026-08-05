@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,620",
+    "forks": "1,277",
+    "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "rank": 2,
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "17,894",
+    "forks": "2,453",
+    "link": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "rank": 3,
+    "name": "firecrawl/pdf-inspector",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,035",
+    "forks": "660",
+    "link": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "rank": 4,
+    "name": "uber/ADR",
+    "description": "",
+    "language": "Python",
+    "stars": "684",
+    "forks": "68",
+    "link": "https://github.com/uber/ADR"
+  },
+  {
+    "rank": 5,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "266,491",
+    "forks": "23,829",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 6,
+    "name": "microsoft/generative-ai-for-beginners",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "116,263",
+    "forks": "61,550",
+    "link": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "rank": 7,
+    "name": "cypress-io/cypress",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "50,792",
+    "forks": "3,628",
+    "link": "https://github.com/cypress-io/cypress"
+  },
+  {
+    "rank": 8,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "28,389",
+    "forks": "3,063",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 9,
+    "name": "webpack/webpack",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "65,933",
+    "forks": "9,528",
+    "link": "https://github.com/webpack/webpack"
+  },
+  {
+    "rank": 10,
+    "name": "gabime/spdlog",
+    "description": "",
+    "language": "C++",
+    "stars": "29,376",
+    "forks": "5,372",
+    "link": "https://github.com/gabime/spdlog"
+  },
+  {
+    "rank": 11,
+    "name": "denoland/deno",
+    "description": "",
+    "language": "Rust",
+    "stars": "108,062",
+    "forks": "6,306",
+    "link": "https://github.com/denoland/deno"
+  },
+  {
+    "rank": 12,
+    "name": "usekaneo/kaneo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,301",
+    "forks": "579",
+    "link": "https://github.com/usekaneo/kaneo"
+  },
+  {
+    "rank": 13,
+    "name": "livekit/agents",
+    "description": "",
+    "language": "Python",
+    "stars": "12,415",
+    "forks": "3,480",
+    "link": "https://github.com/livekit/agents"
+  },
+  {
+    "rank": 14,
+    "name": "angular/angular",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "100,830",
+    "forks": "27,401",
+    "link": "https://github.com/angular/angular"
+  },
+  {
+    "rank": 15,
+    "name": "tailwindlabs/tailwindcss",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "96,478",
+    "forks": "5,533",
+    "link": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "rank": 16,
+    "name": "browser-use/video-use",
+    "description": "",
+    "language": "Python",
+    "stars": "19,339",
+    "forks": "2,407",
+    "link": "https://github.com/browser-use/video-use"
+  },
+  {
+    "rank": 17,
+    "name": "esengine/DeepSeek-Reasonix",
+    "description": "",
+    "language": "Go",
+    "stars": "30,785",
+    "forks": "1,982",
+    "link": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "rank": 18,
+    "name": "EveryInc/compound-engineering-plugin",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,872",
+    "forks": "1,957",
+    "link": "https://github.com/EveryInc/compound-engineering-plugin"
+  }
+]
