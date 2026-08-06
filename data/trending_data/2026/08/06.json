@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "cloudflare/computer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,979",
+    "forks": "137",
+    "link": "https://github.com/cloudflare/computer"
+  },
+  {
+    "rank": 2,
+    "name": "huangruiteng/loopx",
+    "description": "",
+    "language": "Python",
+    "stars": "2,131",
+    "forks": "162",
+    "link": "https://github.com/huangruiteng/loopx"
+  },
+  {
+    "rank": 3,
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,077",
+    "forks": "1,373",
+    "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "rank": 4,
+    "name": "donnemartin/system-design-primer",
+    "description": "",
+    "language": "Python",
+    "stars": "361,544",
+    "forks": "57,650",
+    "link": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "rank": 5,
+    "name": "firecrawl/pdf-inspector",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,472",
+    "forks": "764",
+    "link": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "rank": 6,
+    "name": "esengine/DeepSeek-Reasonix",
+    "description": "",
+    "language": "Go",
+    "stars": "31,622",
+    "forks": "2,032",
+    "link": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "rank": 7,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "81,989",
+    "forks": "8,823",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 8,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "267,316",
+    "forks": "23,883",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 9,
+    "name": "roboflow/supervision",
+    "description": "",
+    "language": "Python",
+    "stars": "48,927",
+    "forks": "4,618",
+    "link": "https://github.com/roboflow/supervision"
+  },
+  {
+    "rank": 10,
+    "name": "vercel/next.js",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "141,553",
+    "forks": "31,680",
+    "link": "https://github.com/vercel/next.js"
+  },
+  {
+    "rank": 11,
+    "name": "tailwindlabs/tailwindcss",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "96,861",
+    "forks": "5,548",
+    "link": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "rank": 12,
+    "name": "uber/ADR",
+    "description": "",
+    "language": "Python",
+    "stars": "1,046",
+    "forks": "85",
+    "link": "https://github.com/uber/ADR"
+  },
+  {
+    "rank": 13,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "29,099",
+    "forks": "3,123",
+    "link": "https://github.com/lyogavin/airllm"
+  }
+]
