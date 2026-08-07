@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,448",
+    "forks": "1,481",
+    "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+  },
+  {
+    "rank": 2,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "82,975",
+    "forks": "8,897",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "cloudflare/computer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,841",
+    "forks": "243",
+    "link": "https://github.com/cloudflare/computer"
+  },
+  {
+    "rank": 4,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "207,133",
+    "forks": "17,888",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 5,
+    "name": "goauthentik/authentik",
+    "description": "",
+    "language": "Python",
+    "stars": "23,141",
+    "forks": "1,775",
+    "link": "https://github.com/goauthentik/authentik"
+  },
+  {
+    "rank": 6,
+    "name": "huangruiteng/loopx",
+    "description": "",
+    "language": "Python",
+    "stars": "2,896",
+    "forks": "219",
+    "link": "https://github.com/huangruiteng/loopx"
+  },
+  {
+    "rank": 7,
+    "name": "google/guava",
+    "description": "",
+    "language": "Java",
+    "stars": "51,644",
+    "forks": "11,164",
+    "link": "https://github.com/google/guava"
+  },
+  {
+    "rank": 8,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "",
+    "language": "Roff",
+    "stars": "77,143",
+    "forks": "17,425",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "rank": 9,
+    "name": "Significant-Gravitas/AutoGPT",
+    "description": "",
+    "language": "Python",
+    "stars": "186,027",
+    "forks": "46,056",
+    "link": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "rank": 10,
+    "name": "tirth8205/code-review-graph",
+    "description": "",
+    "language": "Python",
+    "stars": "29,044",
+    "forks": "2,686",
+    "link": "https://github.com/tirth8205/code-review-graph"
+  },
+  {
+    "rank": 11,
+    "name": "esengine/DeepSeek-Reasonix",
+    "description": "",
+    "language": "Go",
+    "stars": "32,456",
+    "forks": "2,100",
+    "link": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "rank": 12,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "268,121",
+    "forks": "23,964",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 13,
+    "name": "firecrawl/pdf-inspector",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,486",
+    "forks": "839",
+    "link": "https://github.com/firecrawl/pdf-inspector"
+  }
+]
