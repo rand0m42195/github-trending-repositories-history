@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,509",
+    "forks": "519",
+    "link": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "rank": 2,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "83,893",
+    "forks": "8,966",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "cloudflare/computer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,705",
+    "forks": "288",
+    "link": "https://github.com/cloudflare/computer"
+  },
+  {
+    "rank": 4,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "208,809",
+    "forks": "18,022",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 5,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "268,743",
+    "forks": "23,998",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 6,
+    "name": "goauthentik/authentik",
+    "description": "",
+    "language": "Python",
+    "stars": "23,592",
+    "forks": "1,804",
+    "link": "https://github.com/goauthentik/authentik"
+  },
+  {
+    "rank": 7,
+    "name": "semantica-agi/semantica",
+    "description": "",
+    "language": "Python",
+    "stars": "2,345",
+    "forks": "305",
+    "link": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "rank": 8,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "70,507",
+    "forks": "10,988",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 9,
+    "name": "chenyme/grok2api",
+    "description": "",
+    "language": "Go",
+    "stars": "7,141",
+    "forks": "2,170",
+    "link": "https://github.com/chenyme/grok2api"
+  },
+  {
+    "rank": 10,
+    "name": "jdx/mise",
+    "description": "",
+    "language": "Rust",
+    "stars": "32,069",
+    "forks": "1,332",
+    "link": "https://github.com/jdx/mise"
+  },
+  {
+    "rank": 11,
+    "name": "Significant-Gravitas/AutoGPT",
+    "description": "",
+    "language": "Python",
+    "stars": "186,319",
+    "forks": "46,061",
+    "link": "https://github.com/Significant-Gravitas/AutoGPT"
+  },
+  {
+    "rank": 12,
+    "name": "google/guava",
+    "description": "",
+    "language": "Java",
+    "stars": "51,760",
+    "forks": "11,173",
+    "link": "https://github.com/google/guava"
+  },
+  {
+    "rank": 13,
+    "name": "unclebob/swarm-forge",
+    "description": "",
+    "language": "Clojure",
+    "stars": "1,828",
+    "forks": "201",
+    "link": "https://github.com/unclebob/swarm-forge"
+  },
+  {
+    "rank": 14,
+    "name": "denoland/celld",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,202",
+    "forks": "60",
+    "link": "https://github.com/denoland/celld"
+  },
+  {
+    "rank": 15,
+    "name": "K2SOsint/Legendary_OSINT",
+    "description": "",
+    "language": "",
+    "stars": "1,424",
+    "forks": "189",
+    "link": "https://github.com/K2SOsint/Legendary_OSINT"
+  },
+  {
+    "rank": 16,
+    "name": "pranshuparmar/witr",
+    "description": "",
+    "language": "Go",
+    "stars": "19,740",
+    "forks": "639",
+    "link": "https://github.com/pranshuparmar/witr"
+  },
+  {
+    "rank": 17,
+    "name": "google/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "16,247",
+    "forks": "1,289",
+    "link": "https://github.com/google/skills"
+  }
+]
