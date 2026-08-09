@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,923",
+    "forks": "853",
+    "link": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "rank": 2,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "84,563",
+    "forks": "9,106",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "",
+    "language": "Roff",
+    "stars": "77,933",
+    "forks": "17,654",
+    "link": "https://github.com/TapXWorld/ChinaTextbook"
+  },
+  {
+    "rank": 4,
+    "name": "google/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "16,734",
+    "forks": "1,369",
+    "link": "https://github.com/google/skills"
+  },
+  {
+    "rank": 5,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "210,010",
+    "forks": "18,142",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 6,
+    "name": "goauthentik/authentik",
+    "description": "",
+    "language": "Python",
+    "stars": "23,974",
+    "forks": "1,836",
+    "link": "https://github.com/goauthentik/authentik"
+  },
+  {
+    "rank": 7,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "96,473",
+    "forks": "18,652",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 8,
+    "name": "google/guava",
+    "description": "",
+    "language": "Java",
+    "stars": "51,851",
+    "forks": "11,180",
+    "link": "https://github.com/google/guava"
+  },
+  {
+    "rank": 9,
+    "name": "LadybirdBrowser/ladybird",
+    "description": "",
+    "language": "C++",
+    "stars": "64,987",
+    "forks": "3,104",
+    "link": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "rank": 10,
+    "name": "denoland/celld",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,567",
+    "forks": "72",
+    "link": "https://github.com/denoland/celld"
+  },
+  {
+    "rank": 11,
+    "name": "litu54/DevOps-Interview-Guide",
+    "description": "",
+    "language": "",
+    "stars": "704",
+    "forks": "883",
+    "link": "https://github.com/litu54/DevOps-Interview-Guide"
+  },
+  {
+    "rank": 12,
+    "name": "bannedbook/fanqiang",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "49,880",
+    "forks": "8,254",
+    "link": "https://github.com/bannedbook/fanqiang"
+  }
+]
