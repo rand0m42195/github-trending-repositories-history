@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "semantica-agi/semantica",
+    "description": "",
+    "language": "Python",
+    "stars": "4,090",
+    "forks": "482",
+    "link": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "rank": 2,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "141,813",
+    "forks": "23,133",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 3,
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "",
+    "language": "Python",
+    "stars": "60,999",
+    "forks": "12,009",
+    "link": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "rank": 4,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "85,739",
+    "forks": "9,227",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 5,
+    "name": "paperclipai/paperclip",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "76,476",
+    "forks": "14,209",
+    "link": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "rank": 6,
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,055",
+    "forks": "1,325",
+    "link": "https://github.com/PrimeIntellect-ai/prime-agent"
+  },
+  {
+    "rank": 7,
+    "name": "LadybirdBrowser/ladybird",
+    "description": "",
+    "language": "C++",
+    "stars": "65,252",
+    "forks": "3,119",
+    "link": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  {
+    "rank": 8,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "89,367",
+    "forks": "11,891",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 9,
+    "name": "danielmiessler/LifeOS",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,903",
+    "forks": "2,364",
+    "link": "https://github.com/danielmiessler/LifeOS"
+  },
+  {
+    "rank": 10,
+    "name": "firecrawl/firecrawl",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "165,062",
+    "forks": "9,287",
+    "link": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "rank": 11,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "97,210",
+    "forks": "18,733",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 12,
+    "name": "google-deepmind/weathernext",
+    "description": "",
+    "language": "Python",
+    "stars": "7,350",
+    "forks": "954",
+    "link": "https://github.com/google-deepmind/weathernext"
+  },
+  {
+    "rank": 13,
+    "name": "vitali87/code-graph-rag",
+    "description": "",
+    "language": "Python",
+    "stars": "3,529",
+    "forks": "547",
+    "link": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "rank": 14,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,030",
+    "forks": "4,076",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 15,
+    "name": "Comfy-Org/ComfyUI",
+    "description": "",
+    "language": "Python",
+    "stars": "126,314",
+    "forks": "14,900",
+    "link": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "rank": 16,
+    "name": "opa334/Dopamine",
+    "description": "",
+    "language": "C",
+    "stars": "6,018",
+    "forks": "6,193",
+    "link": "https://github.com/opa334/Dopamine"
+  }
+]
