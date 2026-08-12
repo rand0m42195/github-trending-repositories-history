@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "143,209",
+    "forks": "23,272",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 2,
+    "name": "semantica-agi/semantica",
+    "description": "",
+    "language": "Python",
+    "stars": "4,876",
+    "forks": "528",
+    "link": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "rank": 3,
+    "name": "nvm-sh/nvm",
+    "description": "",
+    "language": "Shell",
+    "stars": "94,486",
+    "forks": "10,354",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 4,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "86,220",
+    "forks": "9,265",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 5,
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "",
+    "language": "Python",
+    "stars": "62,123",
+    "forks": "52,426",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "rank": 6,
+    "name": "vitali87/code-graph-rag",
+    "description": "",
+    "language": "Python",
+    "stars": "3,813",
+    "forks": "561",
+    "link": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "rank": 7,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "168,127",
+    "forks": "20,032",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 8,
+    "name": "3b1b/manim",
+    "description": "",
+    "language": "Python",
+    "stars": "90,171",
+    "forks": "7,479",
+    "link": "https://github.com/3b1b/manim"
+  },
+  {
+    "rank": 9,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "34,702",
+    "forks": "4,419",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 10,
+    "name": "stablyai/orca",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "42,771",
+    "forks": "2,982",
+    "link": "https://github.com/stablyai/orca"
+  },
+  {
+    "rank": 11,
+    "name": "paperclipai/paperclip",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "77,158",
+    "forks": "14,249",
+    "link": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "rank": 12,
+    "name": "huggingface/transformers",
+    "description": "",
+    "language": "Python",
+    "stars": "163,803",
+    "forks": "34,201",
+    "link": "https://github.com/huggingface/transformers"
+  },
+  {
+    "rank": 13,
+    "name": "harveyai/harvey-labs",
+    "description": "",
+    "language": "Python",
+    "stars": "1,078",
+    "forks": "195",
+    "link": "https://github.com/harveyai/harvey-labs"
+  },
+  {
+    "rank": 14,
+    "name": "jaywcjlove/awesome-mac",
+    "description": "",
+    "language": "Swift",
+    "stars": "110,464",
+    "forks": "8,415",
+    "link": "https://github.com/jaywcjlove/awesome-mac"
+  },
+  {
+    "rank": 15,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "47,333",
+    "forks": "5,900",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 16,
+    "name": "practical-tutorials/project-based-learning",
+    "description": "",
+    "language": "Python",
+    "stars": "278,444",
+    "forks": "35,778",
+    "link": "https://github.com/practical-tutorials/project-based-learning"
+  },
+  {
+    "rank": 17,
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,092",
+    "forks": "1,455",
+    "link": "https://github.com/PrimeIntellect-ai/prime-agent"
+  }
+]
