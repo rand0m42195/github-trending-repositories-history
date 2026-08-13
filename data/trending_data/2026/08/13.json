@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "10,379",
+    "forks": "673",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 2,
+    "name": "macro-inc/macro",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,795",
+    "forks": "223",
+    "link": "https://github.com/macro-inc/macro"
+  },
+  {
+    "rank": 3,
+    "name": "semantica-agi/semantica",
+    "description": "",
+    "language": "Python",
+    "stars": "5,712",
+    "forks": "624",
+    "link": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "rank": 4,
+    "name": "stablyai/orca",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "43,875",
+    "forks": "3,056",
+    "link": "https://github.com/stablyai/orca"
+  },
+  {
+    "rank": 5,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "144,562",
+    "forks": "23,418",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 6,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "36,939",
+    "forks": "6,150",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 7,
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "",
+    "language": "Python",
+    "stars": "61,967",
+    "forks": "12,122",
+    "link": "https://github.com/NanmiCoder/MediaCrawler"
+  },
+  {
+    "rank": 8,
+    "name": "hugohe3/ppt-master",
+    "description": "",
+    "language": "Python",
+    "stars": "45,566",
+    "forks": "3,713",
+    "link": "https://github.com/hugohe3/ppt-master"
+  },
+  {
+    "rank": 9,
+    "name": "infiniflow/ragflow",
+    "description": "",
+    "language": "Go",
+    "stars": "87,544",
+    "forks": "10,309",
+    "link": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "rank": 10,
+    "name": "paperclipai/paperclip",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "77,730",
+    "forks": "14,299",
+    "link": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "rank": 11,
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "",
+    "language": "Rust",
+    "stars": "820",
+    "forks": "85",
+    "link": "https://github.com/NVIDIA-NeMo/Switchyard"
+  },
+  {
+    "rank": 12,
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "36,063",
+    "forks": "5,027",
+    "link": "https://github.com/ZuodaoTech/everyone-can-use-english"
+  },
+  {
+    "rank": 13,
+    "name": "smicallef/spiderfoot",
+    "description": "",
+    "language": "Python",
+    "stars": "20,346",
+    "forks": "3,298",
+    "link": "https://github.com/smicallef/spiderfoot"
+  },
+  {
+    "rank": 14,
+    "name": "localsend/localsend",
+    "description": "",
+    "language": "Dart",
+    "stars": "87,807",
+    "forks": "4,871",
+    "link": "https://github.com/localsend/localsend"
+  },
+  {
+    "rank": 15,
+    "name": "Lightricks/LTX-2",
+    "description": "",
+    "language": "Python",
+    "stars": "8,707",
+    "forks": "1,397",
+    "link": "https://github.com/Lightricks/LTX-2"
+  },
+  {
+    "rank": 16,
+    "name": "embabel/embabel-agent",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "4,220",
+    "forks": "411",
+    "link": "https://github.com/embabel/embabel-agent"
+  },
+  {
+    "rank": 17,
+    "name": "cactus-compute/needle",
+    "description": "",
+    "language": "Python",
+    "stars": "4,221",
+    "forks": "304",
+    "link": "https://github.com/cactus-compute/needle"
+  }
+]
