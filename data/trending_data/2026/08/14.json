@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "14,502",
+    "forks": "872",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 2,
+    "name": "semantica-agi/semantica",
+    "description": "",
+    "language": "Python",
+    "stars": "6,654",
+    "forks": "700",
+    "link": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "rank": 3,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "169,019",
+    "forks": "20,126",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 4,
+    "name": "cactus-compute/needle",
+    "description": "",
+    "language": "Python",
+    "stars": "4,949",
+    "forks": "333",
+    "link": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "rank": 5,
+    "name": "altic-dev/FluidVoice",
+    "description": "",
+    "language": "Swift",
+    "stars": "9,850",
+    "forks": "663",
+    "link": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "rank": 6,
+    "name": "unslothai/unsloth",
+    "description": "",
+    "language": "Python",
+    "stars": "71,053",
+    "forks": "6,406",
+    "link": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "rank": 7,
+    "name": "macro-inc/macro",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,596",
+    "forks": "276",
+    "link": "https://github.com/macro-inc/macro"
+  },
+  {
+    "rank": 8,
+    "name": "megadose/holehe",
+    "description": "",
+    "language": "Python",
+    "stars": "12,419",
+    "forks": "1,668",
+    "link": "https://github.com/megadose/holehe"
+  },
+  {
+    "rank": 9,
+    "name": "smicallef/spiderfoot",
+    "description": "",
+    "language": "Python",
+    "stars": "20,671",
+    "forks": "3,315",
+    "link": "https://github.com/smicallef/spiderfoot"
+  },
+  {
+    "rank": 10,
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "",
+    "language": "Rust",
+    "stars": "1,212",
+    "forks": "108",
+    "link": "https://github.com/NVIDIA-NeMo/Switchyard"
+  },
+  {
+    "rank": 11,
+    "name": "holaboss-ai/holaOS",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,590",
+    "forks": "600",
+    "link": "https://github.com/holaboss-ai/holaOS"
+  },
+  {
+    "rank": 12,
+    "name": "kepano/obsidian-skills",
+    "description": "",
+    "language": "",
+    "stars": "45,743",
+    "forks": "3,295",
+    "link": "https://github.com/kepano/obsidian-skills"
+  },
+  {
+    "rank": 13,
+    "name": "3b1b/manim",
+    "description": "",
+    "language": "Python",
+    "stars": "90,852",
+    "forks": "7,530",
+    "link": "https://github.com/3b1b/manim"
+  },
+  {
+    "rank": 14,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "145,184",
+    "forks": "23,483",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 15,
+    "name": "Lightricks/LTX-2",
+    "description": "",
+    "language": "Python",
+    "stars": "8,911",
+    "forks": "1,406",
+    "link": "https://github.com/Lightricks/LTX-2"
+  },
+  {
+    "rank": 16,
+    "name": "lightningpixel/modly",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,405",
+    "forks": "574",
+    "link": "https://github.com/lightningpixel/modly"
+  },
+  {
+    "rank": 17,
+    "name": "infiniflow/ragflow",
+    "description": "",
+    "language": "Go",
+    "stars": "88,012",
+    "forks": "10,351",
+    "link": "https://github.com/infiniflow/ragflow"
+  }
+]
