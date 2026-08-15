@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "17,226",
+    "forks": "1,026",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 2,
+    "name": "cactus-compute/needle",
+    "description": "",
+    "language": "Python",
+    "stars": "5,598",
+    "forks": "373",
+    "link": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "rank": 3,
+    "name": "megadose/holehe",
+    "description": "",
+    "language": "Python",
+    "stars": "12,841",
+    "forks": "1,717",
+    "link": "https://github.com/megadose/holehe"
+  },
+  {
+    "rank": 4,
+    "name": "macro-inc/macro",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,029",
+    "forks": "305",
+    "link": "https://github.com/macro-inc/macro"
+  },
+  {
+    "rank": 5,
+    "name": "smicallef/spiderfoot",
+    "description": "",
+    "language": "Python",
+    "stars": "20,944",
+    "forks": "3,341",
+    "link": "https://github.com/smicallef/spiderfoot"
+  },
+  {
+    "rank": 6,
+    "name": "citrolabs/ego-lite",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "10,356",
+    "forks": "527",
+    "link": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "rank": 7,
+    "name": "holaboss-ai/holaOS",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,281",
+    "forks": "637",
+    "link": "https://github.com/holaboss-ai/holaOS"
+  },
+  {
+    "rank": 8,
+    "name": "github/spec-kit",
+    "description": "",
+    "language": "Python",
+    "stars": "128,508",
+    "forks": "11,489",
+    "link": "https://github.com/github/spec-kit"
+  },
+  {
+    "rank": 9,
+    "name": "lightningpixel/modly",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,930",
+    "forks": "602",
+    "link": "https://github.com/lightningpixel/modly"
+  },
+  {
+    "rank": 10,
+    "name": "infiniflow/ragflow",
+    "description": "",
+    "language": "Go",
+    "stars": "88,379",
+    "forks": "10,377",
+    "link": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "rank": 11,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,807",
+    "forks": "227",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 12,
+    "name": "deepseek-ai/awesome-deepseek-agent",
+    "description": "",
+    "language": "",
+    "stars": "5,700",
+    "forks": "690",
+    "link": "https://github.com/deepseek-ai/awesome-deepseek-agent"
+  },
+  {
+    "rank": 13,
+    "name": "semantica-agi/semantica",
+    "description": "",
+    "language": "Python",
+    "stars": "7,516",
+    "forks": "778",
+    "link": "https://github.com/semantica-agi/semantica"
+  },
+  {
+    "rank": 14,
+    "name": "rustdesk/rustdesk",
+    "description": "",
+    "language": "Rust",
+    "stars": "120,622",
+    "forks": "18,457",
+    "link": "https://github.com/rustdesk/rustdesk"
+  },
+  {
+    "rank": 15,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "83,152",
+    "forks": "8,230",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "rank": 16,
+    "name": "unslothai/unsloth",
+    "description": "",
+    "language": "Python",
+    "stars": "71,499",
+    "forks": "6,448",
+    "link": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "rank": 17,
+    "name": "ToolJet/ToolJet",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "39,071",
+    "forks": "5,263",
+    "link": "https://github.com/ToolJet/ToolJet"
+  }
+]
