@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "cordiverse/cordis",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,063",
+    "forks": "198",
+    "link": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "rank": 2,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "18,600",
+    "forks": "1,120",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 3,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,950",
+    "forks": "233",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 4,
+    "name": "cactus-compute/needle",
+    "description": "",
+    "language": "Python",
+    "stars": "6,061",
+    "forks": "404",
+    "link": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "rank": 5,
+    "name": "unslothai/unsloth",
+    "description": "",
+    "language": "Python",
+    "stars": "72,045",
+    "forks": "6,493",
+    "link": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "rank": 6,
+    "name": "public-apis/public-apis",
+    "description": "",
+    "language": "Python",
+    "stars": "460,165",
+    "forks": "50,853",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 7,
+    "name": "MakazhanAlpamys/Soup",
+    "description": "",
+    "language": "Python",
+    "stars": "1,655",
+    "forks": "263",
+    "link": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "rank": 8,
+    "name": "github/spec-kit",
+    "description": "",
+    "language": "Python",
+    "stars": "129,192",
+    "forks": "11,548",
+    "link": "https://github.com/github/spec-kit"
+  },
+  {
+    "rank": 9,
+    "name": "megadose/holehe",
+    "description": "",
+    "language": "Python",
+    "stars": "13,112",
+    "forks": "1,742",
+    "link": "https://github.com/megadose/holehe"
+  },
+  {
+    "rank": 10,
+    "name": "altic-dev/FluidVoice",
+    "description": "",
+    "language": "Swift",
+    "stars": "10,320",
+    "forks": "699",
+    "link": "https://github.com/altic-dev/FluidVoice"
+  },
+  {
+    "rank": 11,
+    "name": "ToolJet/ToolJet",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "39,534",
+    "forks": "5,295",
+    "link": "https://github.com/ToolJet/ToolJet"
+  },
+  {
+    "rank": 12,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "47,348",
+    "forks": "4,393",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 13,
+    "name": "citrolabs/ego-lite",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "10,955",
+    "forks": "559",
+    "link": "https://github.com/citrolabs/ego-lite"
+  }
+]
