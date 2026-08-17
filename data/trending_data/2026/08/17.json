@@ -1,0 +1,65 @@
+[
+  {
+    "rank": 1,
+    "name": "cordiverse/cordis",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,712",
+    "forks": "248",
+    "link": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "rank": 2,
+    "name": "basecamp/omarchy",
+    "description": "",
+    "language": "Shell",
+    "stars": "25,369",
+    "forks": "2,589",
+    "link": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "rank": 3,
+    "name": "unslothai/unsloth",
+    "description": "",
+    "language": "Python",
+    "stars": "72,563",
+    "forks": "6,544",
+    "link": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "rank": 4,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "83,878",
+    "forks": "8,281",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "rank": 5,
+    "name": "public-apis/public-apis",
+    "description": "",
+    "language": "Python",
+    "stars": "461,729",
+    "forks": "51,004",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 6,
+    "name": "ToolJet/ToolJet",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "40,016",
+    "forks": "5,330",
+    "link": "https://github.com/ToolJet/ToolJet"
+  },
+  {
+    "rank": 7,
+    "name": "cactus-compute/needle",
+    "description": "",
+    "language": "Python",
+    "stars": "6,559",
+    "forks": "432",
+    "link": "https://github.com/cactus-compute/needle"
+  }
+]
