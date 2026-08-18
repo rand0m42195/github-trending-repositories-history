@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "105,986",
+    "forks": "16,108",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 2,
+    "name": "usestrix/strix",
+    "description": "",
+    "language": "Python",
+    "stars": "54,154",
+    "forks": "5,795",
+    "link": "https://github.com/usestrix/strix"
+  },
+  {
+    "rank": 3,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "",
+    "language": "Rust",
+    "stars": "25,907",
+    "forks": "3,371",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 4,
+    "name": "akitaonrails/ai-memory",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,042",
+    "forks": "193",
+    "link": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "rank": 5,
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "",
+    "language": "Python",
+    "stars": "28,411",
+    "forks": "3,446",
+    "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "rank": 6,
+    "name": "AlexsJones/llmfit",
+    "description": "",
+    "language": "Rust",
+    "stars": "32,259",
+    "forks": "2,000",
+    "link": "https://github.com/AlexsJones/llmfit"
+  },
+  {
+    "rank": 7,
+    "name": "santifer/career-ops",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "64,630",
+    "forks": "12,650",
+    "link": "https://github.com/santifer/career-ops"
+  },
+  {
+    "rank": 8,
+    "name": "jundot/omlx",
+    "description": "",
+    "language": "Python",
+    "stars": "18,985",
+    "forks": "1,644",
+    "link": "https://github.com/jundot/omlx"
+  },
+  {
+    "rank": 9,
+    "name": "immich-app/immich",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "111,149",
+    "forks": "6,574",
+    "link": "https://github.com/immich-app/immich"
+  },
+  {
+    "rank": 10,
+    "name": "cordiverse/cordis",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,575",
+    "forks": "296",
+    "link": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "rank": 11,
+    "name": "agalwood/Motrix",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "53,067",
+    "forks": "4,927",
+    "link": "https://github.com/agalwood/Motrix"
+  }
+]
