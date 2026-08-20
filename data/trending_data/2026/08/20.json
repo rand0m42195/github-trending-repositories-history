@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "110,611",
+    "forks": "16,783",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 2,
+    "name": "volcengine/OpenViking",
+    "description": "",
+    "language": "Python",
+    "stars": "30,173",
+    "forks": "2,335",
+    "link": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "rank": 3,
+    "name": "chaitanyagiri/munder-difflin",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,681",
+    "forks": "321",
+    "link": "https://github.com/chaitanyagiri/munder-difflin"
+  },
+  {
+    "rank": 4,
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "",
+    "language": "Python",
+    "stars": "29,833",
+    "forks": "3,536",
+    "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+  },
+  {
+    "rank": 5,
+    "name": "nautechsystems/nautilus_trader",
+    "description": "",
+    "language": "Rust",
+    "stars": "26,439",
+    "forks": "3,419",
+    "link": "https://github.com/nautechsystems/nautilus_trader"
+  },
+  {
+    "rank": 6,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "223,781",
+    "forks": "19,253",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "274,260",
+    "forks": "24,556",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "jundot/omlx",
+    "description": "",
+    "language": "Python",
+    "stars": "19,833",
+    "forks": "1,690",
+    "link": "https://github.com/jundot/omlx"
+  },
+  {
+    "rank": 9,
+    "name": "santifer/career-ops",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "65,779",
+    "forks": "12,739",
+    "link": "https://github.com/santifer/career-ops"
+  },
+  {
+    "rank": 10,
+    "name": "immich-app/immich",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "111,867",
+    "forks": "6,628",
+    "link": "https://github.com/immich-app/immich"
+  },
+  {
+    "rank": 11,
+    "name": "amadeusprotocol/node",
+    "description": "",
+    "language": "Rust",
+    "stars": "4,536",
+    "forks": "85",
+    "link": "https://github.com/amadeusprotocol/node"
+  },
+  {
+    "rank": 12,
+    "name": "marceloprates/prettymaps",
+    "description": "",
+    "language": "Python",
+    "stars": "13,106",
+    "forks": "657",
+    "link": "https://github.com/marceloprates/prettymaps"
+  },
+  {
+    "rank": 13,
+    "name": "genlayerlabs/genlayer-project-boilerplate",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,224",
+    "forks": "809",
+    "link": "https://github.com/genlayerlabs/genlayer-project-boilerplate"
+  }
+]
