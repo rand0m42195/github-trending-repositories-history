@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "modular/modular",
+    "description": "",
+    "language": "Mojo",
+    "stars": "27,925",
+    "forks": "3,001",
+    "link": "https://github.com/modular/modular"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "226,446",
+    "forks": "19,417",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "AprilNEA/OpenLogi",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,849",
+    "forks": "322",
+    "link": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "274,938",
+    "forks": "24,605",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,077",
+    "forks": "340",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 6,
+    "name": "santifer/career-ops",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "66,667",
+    "forks": "12,817",
+    "link": "https://github.com/santifer/career-ops"
+  },
+  {
+    "rank": 7,
+    "name": "akitaonrails/ai-memory",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,590",
+    "forks": "280",
+    "link": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "rank": 8,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "112,923",
+    "forks": "17,116",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 9,
+    "name": "agent-substrate/substrate",
+    "description": "",
+    "language": "Go",
+    "stars": "1,388",
+    "forks": "252",
+    "link": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "rank": 10,
+    "name": "chaitanyagiri/munder-difflin",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,127",
+    "forks": "351",
+    "link": "https://github.com/chaitanyagiri/munder-difflin"
+  },
+  {
+    "rank": 11,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "37,995",
+    "forks": "3,215",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 12,
+    "name": "mahlernim/google-timeline-visualizer",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "1,540",
+    "forks": "173",
+    "link": "https://github.com/mahlernim/google-timeline-visualizer"
+  },
+  {
+    "rank": 13,
+    "name": "volcengine/OpenViking",
+    "description": "",
+    "language": "Python",
+    "stars": "31,016",
+    "forks": "2,393",
+    "link": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "rank": 14,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "Go",
+    "stars": "99,625",
+    "forks": "5,769",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 15,
+    "name": "makeplane/plane",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "56,488",
+    "forks": "5,397",
+    "link": "https://github.com/makeplane/plane"
+  },
+  {
+    "rank": 16,
+    "name": "Tencent/AI-Infra-Guard",
+    "description": "",
+    "language": "Python",
+    "stars": "4,951",
+    "forks": "480",
+    "link": "https://github.com/Tencent/AI-Infra-Guard"
+  },
+  {
+    "rank": 17,
+    "name": "RyanCodrai/turbovec",
+    "description": "",
+    "language": "Rust",
+    "stars": "15,939",
+    "forks": "1,384",
+    "link": "https://github.com/RyanCodrai/turbovec"
+  }
+]
