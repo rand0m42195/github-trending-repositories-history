@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "229,467",
+    "forks": "19,613",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 2,
+    "name": "mahlernim/google-timeline-visualizer",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "2,214",
+    "forks": "254",
+    "link": "https://github.com/mahlernim/google-timeline-visualizer"
+  },
+  {
+    "rank": 3,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "113,897",
+    "forks": "17,283",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 4,
+    "name": "AprilNEA/OpenLogi",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,925",
+    "forks": "351",
+    "link": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "rank": 5,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "38,287",
+    "forks": "3,232",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 6,
+    "name": "microsoft/TypeScript",
+    "description": "",
+    "language": "Go",
+    "stars": "110,374",
+    "forks": "13,741",
+    "link": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "275,653",
+    "forks": "24,644",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "santifer/career-ops",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "67,435",
+    "forks": "12,869",
+    "link": "https://github.com/santifer/career-ops"
+  },
+  {
+    "rank": 9,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,394",
+    "forks": "366",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 10,
+    "name": "modular/modular",
+    "description": "",
+    "language": "Mojo",
+    "stars": "28,681",
+    "forks": "3,053",
+    "link": "https://github.com/modular/modular"
+  },
+  {
+    "rank": 11,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "241,786",
+    "forks": "36,656",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 12,
+    "name": "TryGhost/Ghost",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "54,880",
+    "forks": "11,903",
+    "link": "https://github.com/TryGhost/Ghost"
+  },
+  {
+    "rank": 13,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "68,642",
+    "forks": "8,244",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 14,
+    "name": "apache/maka",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,014",
+    "forks": "240",
+    "link": "https://github.com/apache/maka"
+  },
+  {
+    "rank": 15,
+    "name": "protocolbuffers/protobuf",
+    "description": "",
+    "language": "C++",
+    "stars": "71,769",
+    "forks": "16,236",
+    "link": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "rank": 16,
+    "name": "elder-plinius/OBLITERATUS",
+    "description": "",
+    "language": "Python",
+    "stars": "7,784",
+    "forks": "1,432",
+    "link": "https://github.com/elder-plinius/OBLITERATUS"
+  },
+  {
+    "rank": 17,
+    "name": "microsoft/onnxruntime",
+    "description": "",
+    "language": "C++",
+    "stars": "21,440",
+    "forks": "4,148",
+    "link": "https://github.com/microsoft/onnxruntime"
+  }
+]
