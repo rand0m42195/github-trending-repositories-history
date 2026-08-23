@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "openai/codex",
+    "description": "",
+    "language": "Rust",
+    "stars": "113,351",
+    "forks": "17,363",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "232,027",
+    "forks": "19,807",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "242,171",
+    "forks": "36,701",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "276,185",
+    "forks": "24,699",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "Wei-Shaw/sub2api",
+    "description": "",
+    "language": "Go",
+    "stars": "38,782",
+    "forks": "8,039",
+    "link": "https://github.com/Wei-Shaw/sub2api"
+  },
+  {
+    "rank": 6,
+    "name": "makeplane/plane",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "57,218",
+    "forks": "5,442",
+    "link": "https://github.com/makeplane/plane"
+  },
+  {
+    "rank": 7,
+    "name": "n8n-io/n8n",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "201,811",
+    "forks": "60,302",
+    "link": "https://github.com/n8n-io/n8n"
+  },
+  {
+    "rank": 8,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "142,533",
+    "forks": "22,839",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 9,
+    "name": "AprilNEA/OpenLogi",
+    "description": "",
+    "language": "Rust",
+    "stars": "13,927",
+    "forks": "373",
+    "link": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "rank": 10,
+    "name": "modular/modular",
+    "description": "",
+    "language": "Mojo",
+    "stars": "28,840",
+    "forks": "3,066",
+    "link": "https://github.com/modular/modular"
+  },
+  {
+    "rank": 11,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "205,297",
+    "forks": "21,007",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 12,
+    "name": "mahlernim/google-timeline-visualizer",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "2,563",
+    "forks": "300",
+    "link": "https://github.com/mahlernim/google-timeline-visualizer"
+  },
+  {
+    "rank": 13,
+    "name": "ripienaar/free-for-dev",
+    "description": "",
+    "language": "HTML",
+    "stars": "133,900",
+    "forks": "14,028",
+    "link": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "rank": 14,
+    "name": "microsoft/TypeScript",
+    "description": "",
+    "language": "Go",
+    "stars": "110,537",
+    "forks": "13,746",
+    "link": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "rank": 15,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,660",
+    "forks": "381",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 16,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "38,612",
+    "forks": "3,244",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 17,
+    "name": "Tencent/AI-Infra-Guard",
+    "description": "",
+    "language": "Python",
+    "stars": "5,489",
+    "forks": "518",
+    "link": "https://github.com/Tencent/AI-Infra-Guard"
+  }
+]
