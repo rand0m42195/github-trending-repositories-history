@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "openai/codex",
+    "description": "",
+    "language": "Rust",
+    "stars": "115,141",
+    "forks": "17,559",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 2,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "12,694",
+    "forks": "1,427",
+    "link": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "rank": 3,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "233,836",
+    "forks": "19,944",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 4,
+    "name": "basecamp/omarchy",
+    "description": "",
+    "language": "Shell",
+    "stars": "29,116",
+    "forks": "2,960",
+    "link": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "rank": 5,
+    "name": "AprilNEA/OpenLogi",
+    "description": "",
+    "language": "Rust",
+    "stars": "14,927",
+    "forks": "399",
+    "link": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "rank": 6,
+    "name": "block/buzz",
+    "description": "",
+    "language": "Rust",
+    "stars": "30,099",
+    "forks": "3,826",
+    "link": "https://github.com/block/buzz"
+  },
+  {
+    "rank": 7,
+    "name": "apache/maka",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,346",
+    "forks": "269",
+    "link": "https://github.com/apache/maka"
+  },
+  {
+    "rank": 8,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "47,958",
+    "forks": "7,891",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 9,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "36,736",
+    "forks": "3,670",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 10,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "242,552",
+    "forks": "36,719",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 11,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "69,067",
+    "forks": "8,273",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 12,
+    "name": "VoltAgent/awesome-agent-skills",
+    "description": "",
+    "language": "",
+    "stars": "31,286",
+    "forks": "3,363",
+    "link": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "rank": 13,
+    "name": "virgiliojr94/book-to-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "24,653",
+    "forks": "2,580",
+    "link": "https://github.com/virgiliojr94/book-to-skill"
+  },
+  {
+    "rank": 14,
+    "name": "dani-garcia/vaultwarden",
+    "description": "",
+    "language": "Rust",
+    "stars": "65,956",
+    "forks": "3,126",
+    "link": "https://github.com/dani-garcia/vaultwarden"
+  },
+  {
+    "rank": 15,
+    "name": "anthropics/claude-plugins-community",
+    "description": "",
+    "language": "Python",
+    "stars": "937",
+    "forks": "126",
+    "link": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "rank": 16,
+    "name": "ripienaar/free-for-dev",
+    "description": "",
+    "language": "HTML",
+    "stars": "134,418",
+    "forks": "14,062",
+    "link": "https://github.com/ripienaar/free-for-dev"
+  },
+  {
+    "rank": 17,
+    "name": "Comfy-Org/ComfyUI",
+    "description": "",
+    "language": "Python",
+    "stars": "129,381",
+    "forks": "15,255",
+    "link": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "rank": 18,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "234,981",
+    "forks": "47,341",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  }
+]
