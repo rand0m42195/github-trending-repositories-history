@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "48,950",
+    "forks": "7,996",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 2,
+    "name": "openai/codex",
+    "description": "",
+    "language": "Rust",
+    "stars": "117,025",
+    "forks": "17,843",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 3,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "Python",
+    "stars": "34,058",
+    "forks": "11,893",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 4,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "206,497",
+    "forks": "21,085",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 5,
+    "name": "makeplane/plane",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "57,919",
+    "forks": "5,487",
+    "link": "https://github.com/makeplane/plane"
+  },
+  {
+    "rank": 6,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "235,793",
+    "forks": "47,576",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 7,
+    "name": "anthropics/claude-plugins-community",
+    "description": "",
+    "language": "Python",
+    "stars": "1,346",
+    "forks": "152",
+    "link": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "rank": 8,
+    "name": "AprilNEA/OpenLogi",
+    "description": "",
+    "language": "Rust",
+    "stars": "15,854",
+    "forks": "429",
+    "link": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "rank": 9,
+    "name": "apache/maka",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,898",
+    "forks": "305",
+    "link": "https://github.com/apache/maka"
+  },
+  {
+    "rank": 10,
+    "name": "PostHog/posthog",
+    "description": "",
+    "language": "Python",
+    "stars": "38,991",
+    "forks": "3,273",
+    "link": "https://github.com/PostHog/posthog"
+  },
+  {
+    "rank": 11,
+    "name": "openclaw/openclaw",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "387,436",
+    "forks": "81,348",
+    "link": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "rank": 12,
+    "name": "AgriciDaniel/claude-obsidian",
+    "description": "",
+    "language": "Python",
+    "stars": "11,886",
+    "forks": "1,328",
+    "link": "https://github.com/AgriciDaniel/claude-obsidian"
+  },
+  {
+    "rank": 13,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "48,274",
+    "forks": "8,502",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 14,
+    "name": "basecamp/omarchy",
+    "description": "",
+    "language": "Shell",
+    "stars": "30,105",
+    "forks": "3,058",
+    "link": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "rank": 15,
+    "name": "tashfeenahmed/freellmapi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,770",
+    "forks": "2,877",
+    "link": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "rank": 16,
+    "name": "dani-garcia/vaultwarden",
+    "description": "",
+    "language": "Rust",
+    "stars": "66,126",
+    "forks": "3,139",
+    "link": "https://github.com/dani-garcia/vaultwarden"
+  },
+  {
+    "rank": 17,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "15,489",
+    "forks": "1,643",
+    "link": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "rank": 18,
+    "name": "VoltAgent/awesome-agent-skills",
+    "description": "",
+    "language": "",
+    "stars": "31,866",
+    "forks": "3,396",
+    "link": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "rank": 19,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "37,260",
+    "forks": "3,698",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  }
+]
