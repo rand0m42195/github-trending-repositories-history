@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "17,687",
+    "forks": "1,825",
+    "link": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/claude-plugins-community",
+    "description": "",
+    "language": "Python",
+    "stars": "1,739",
+    "forks": "178",
+    "link": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "rank": 3,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "Python",
+    "stars": "35,254",
+    "forks": "12,133",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 4,
+    "name": "apache/maka",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,324",
+    "forks": "330",
+    "link": "https://github.com/apache/maka"
+  },
+  {
+    "rank": 5,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "100,234",
+    "forks": "19,351",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 6,
+    "name": "AgriciDaniel/claude-obsidian",
+    "description": "",
+    "language": "Python",
+    "stars": "12,709",
+    "forks": "1,380",
+    "link": "https://github.com/AgriciDaniel/claude-obsidian"
+  },
+  {
+    "rank": 7,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "48,952",
+    "forks": "8,562",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 8,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "37,762",
+    "forks": "3,734",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 9,
+    "name": "basecamp/omarchy",
+    "description": "",
+    "language": "Shell",
+    "stars": "31,247",
+    "forks": "3,180",
+    "link": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "rank": 10,
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "",
+    "language": "Python",
+    "stars": "134,219",
+    "forks": "19,741",
+    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "rank": 11,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "207,195",
+    "forks": "21,142",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 12,
+    "name": "openai/codex",
+    "description": "",
+    "language": "Rust",
+    "stars": "118,095",
+    "forks": "17,995",
+    "link": "https://github.com/openai/codex"
+  },
+  {
+    "rank": 13,
+    "name": "marin-community/marin",
+    "description": "",
+    "language": "Python",
+    "stars": "2,096",
+    "forks": "191",
+    "link": "https://github.com/marin-community/marin"
+  },
+  {
+    "rank": 14,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "110,995",
+    "forks": "6,098",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 15,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "34,083",
+    "forks": "3,869",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 16,
+    "name": "asciimoo/hister",
+    "description": "",
+    "language": "Go",
+    "stars": "2,768",
+    "forks": "122",
+    "link": "https://github.com/asciimoo/hister"
+  }
+]
