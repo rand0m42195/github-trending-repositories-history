@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "tt-a1i/archify",
+    "description": "",
+    "language": "HTML",
+    "stars": "18,755",
+    "forks": "1,298",
+    "link": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "rank": 2,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "21,858",
+    "forks": "2,178",
+    "link": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "rank": 3,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "34,419",
+    "forks": "3,891",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 4,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "50,511",
+    "forks": "8,177",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 5,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "Python",
+    "stars": "36,663",
+    "forks": "12,455",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 6,
+    "name": "AgriciDaniel/claude-obsidian",
+    "description": "",
+    "language": "Python",
+    "stars": "13,545",
+    "forks": "1,408",
+    "link": "https://github.com/AgriciDaniel/claude-obsidian"
+  },
+  {
+    "rank": 7,
+    "name": "basecamp/omarchy",
+    "description": "",
+    "language": "Shell",
+    "stars": "32,146",
+    "forks": "3,282",
+    "link": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "rank": 8,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "49,693",
+    "forks": "8,645",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 9,
+    "name": "tinyhumansai/openhuman",
+    "description": "",
+    "language": "Rust",
+    "stars": "38,305",
+    "forks": "3,767",
+    "link": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "rank": 10,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "112,901",
+    "forks": "6,178",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 11,
+    "name": "anthropics/claude-plugins-community",
+    "description": "",
+    "language": "Python",
+    "stars": "2,258",
+    "forks": "194",
+    "link": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "rank": 12,
+    "name": "ConardLi/garden-skills",
+    "description": "",
+    "language": "CSS",
+    "stars": "11,010",
+    "forks": "1,390",
+    "link": "https://github.com/ConardLi/garden-skills"
+  },
+  {
+    "rank": 13,
+    "name": "browser-use/browser-use",
+    "description": "",
+    "language": "Python",
+    "stars": "111,150",
+    "forks": "12,194",
+    "link": "https://github.com/browser-use/browser-use"
+  },
+  {
+    "rank": 14,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "34,839",
+    "forks": "3,367",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 15,
+    "name": "marin-community/marin",
+    "description": "",
+    "language": "Python",
+    "stars": "2,518",
+    "forks": "218",
+    "link": "https://github.com/marin-community/marin"
+  },
+  {
+    "rank": 16,
+    "name": "VoltAgent/awesome-agent-skills",
+    "description": "",
+    "language": "",
+    "stars": "32,736",
+    "forks": "3,463",
+    "link": "https://github.com/VoltAgent/awesome-agent-skills"
+  }
+]
