@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "9,115",
+    "forks": "1,967",
+    "link": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "rank": 2,
+    "name": "zedeus/nitter",
+    "description": "",
+    "language": "Nim",
+    "stars": "13,985",
+    "forks": "1,156",
+    "link": "https://github.com/zedeus/nitter"
+  },
+  {
+    "rank": 3,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "23,559",
+    "forks": "2,342",
+    "link": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "rank": 4,
+    "name": "tt-a1i/archify",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "24,641",
+    "forks": "1,578",
+    "link": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "rank": 5,
+    "name": "JetBrains/go-modern-guidelines",
+    "description": "",
+    "language": "Go",
+    "stars": "2,298",
+    "forks": "69",
+    "link": "https://github.com/JetBrains/go-modern-guidelines"
+  },
+  {
+    "rank": 6,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "34,776",
+    "forks": "3,919",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 7,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "35,520",
+    "forks": "3,416",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 8,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "114,449",
+    "forks": "6,253",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 9,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "52,676",
+    "forks": "6,579",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 10,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "50,336",
+    "forks": "8,742",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 11,
+    "name": "ConardLi/garden-skills",
+    "description": "",
+    "language": "CSS",
+    "stars": "11,424",
+    "forks": "1,418",
+    "link": "https://github.com/ConardLi/garden-skills"
+  },
+  {
+    "rank": 12,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "92,389",
+    "forks": "8,121",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 13,
+    "name": "google/googletest",
+    "description": "",
+    "language": "C++",
+    "stars": "39,084",
+    "forks": "10,866",
+    "link": "https://github.com/google/googletest"
+  },
+  {
+    "rank": 14,
+    "name": "AgriciDaniel/claude-obsidian",
+    "description": "",
+    "language": "Python",
+    "stars": "14,160",
+    "forks": "1,431",
+    "link": "https://github.com/AgriciDaniel/claude-obsidian"
+  },
+  {
+    "rank": 15,
+    "name": "marin-community/marin",
+    "description": "",
+    "language": "Python",
+    "stars": "2,742",
+    "forks": "232",
+    "link": "https://github.com/marin-community/marin"
+  },
+  {
+    "rank": 16,
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "73,710",
+    "forks": "8,447",
+    "link": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "rank": 17,
+    "name": "actions/checkout",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,754",
+    "forks": "2,751",
+    "link": "https://github.com/actions/checkout"
+  },
+  {
+    "rank": 18,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "87,579",
+    "forks": "8,640",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "rank": 19,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "101,394",
+    "forks": "19,489",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  }
+]
