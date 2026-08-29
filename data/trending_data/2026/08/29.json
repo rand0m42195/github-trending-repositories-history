@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "tt-a1i/archify",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "27,999",
+    "forks": "1,772",
+    "link": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "rank": 2,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "36,807",
+    "forks": "3,497",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "35,086",
+    "forks": "3,938",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 4,
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "11,283",
+    "forks": "2,283",
+    "link": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "rank": 5,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "46,192",
+    "forks": "5,104",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "rank": 6,
+    "name": "JetBrains/go-modern-guidelines",
+    "description": "",
+    "language": "Go",
+    "stars": "2,638",
+    "forks": "79",
+    "link": "https://github.com/JetBrains/go-modern-guidelines"
+  },
+  {
+    "rank": 7,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "53,423",
+    "forks": "6,659",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 8,
+    "name": "abi/screenshot-to-code",
+    "description": "",
+    "language": "Python",
+    "stars": "75,635",
+    "forks": "9,223",
+    "link": "https://github.com/abi/screenshot-to-code"
+  },
+  {
+    "rank": 9,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,000",
+    "forks": "478",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 10,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "24,392",
+    "forks": "2,407",
+    "link": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "rank": 11,
+    "name": "tailscale/tailcat",
+    "description": "",
+    "language": "Go",
+    "stars": "2,840",
+    "forks": "77",
+    "link": "https://github.com/tailscale/tailcat"
+  },
+  {
+    "rank": 12,
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "",
+    "language": "Java",
+    "stars": "73,383",
+    "forks": "8,014",
+    "link": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "rank": 13,
+    "name": "swoole/typephp",
+    "description": "",
+    "language": "PHP",
+    "stars": "831",
+    "forks": "40",
+    "link": "https://github.com/swoole/typephp"
+  },
+  {
+    "rank": 14,
+    "name": "marin-community/marin",
+    "description": "",
+    "language": "Python",
+    "stars": "2,918",
+    "forks": "240",
+    "link": "https://github.com/marin-community/marin"
+  },
+  {
+    "rank": 15,
+    "name": "tashfeenahmed/freellmapi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,694",
+    "forks": "3,070",
+    "link": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "rank": 16,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "50,001",
+    "forks": "3,503",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 17,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "50,672",
+    "forks": "8,781",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 18,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "115,514",
+    "forks": "6,318",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 19,
+    "name": "google/googletest",
+    "description": "",
+    "language": "C++",
+    "stars": "39,195",
+    "forks": "10,873",
+    "link": "https://github.com/google/googletest"
+  },
+  {
+    "rank": 20,
+    "name": "livekit/agents",
+    "description": "",
+    "language": "Python",
+    "stars": "13,374",
+    "forks": "3,631",
+    "link": "https://github.com/livekit/agents"
+  }
+]
