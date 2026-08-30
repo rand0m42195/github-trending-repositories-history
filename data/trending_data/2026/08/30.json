@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "tt-a1i/archify",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "31,225",
+    "forks": "1,940",
+    "link": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "rank": 2,
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "12,674",
+    "forks": "2,507",
+    "link": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "rank": 3,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "37,975",
+    "forks": "3,579",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "tailscale/tailcat",
+    "description": "",
+    "language": "Go",
+    "stars": "3,527",
+    "forks": "106",
+    "link": "https://github.com/tailscale/tailcat"
+  },
+  {
+    "rank": 5,
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,319",
+    "forks": "4,319",
+    "link": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "rank": 6,
+    "name": "p-e-w/heretic",
+    "description": "",
+    "language": "Python",
+    "stars": "28,715",
+    "forks": "3,164",
+    "link": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "rank": 7,
+    "name": "bigskysoftware/htmx",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "49,125",
+    "forks": "1,640",
+    "link": "https://github.com/bigskysoftware/htmx"
+  },
+  {
+    "rank": 8,
+    "name": "JetBrains/go-modern-guidelines",
+    "description": "",
+    "language": "Go",
+    "stars": "2,875",
+    "forks": "81",
+    "link": "https://github.com/JetBrains/go-modern-guidelines"
+  },
+  {
+    "rank": 9,
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "73,934",
+    "forks": "8,470",
+    "link": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "rank": 10,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "54,099",
+    "forks": "6,717",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 11,
+    "name": "every-app/open-seo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,669",
+    "forks": "1,758",
+    "link": "https://github.com/every-app/open-seo"
+  },
+  {
+    "rank": 12,
+    "name": "Osmantic/ODS",
+    "description": "",
+    "language": "Python",
+    "stars": "4,940",
+    "forks": "741",
+    "link": "https://github.com/Osmantic/ODS"
+  },
+  {
+    "rank": 13,
+    "name": "abi/screenshot-to-code",
+    "description": "",
+    "language": "Python",
+    "stars": "76,060",
+    "forks": "9,261",
+    "link": "https://github.com/abi/screenshot-to-code"
+  },
+  {
+    "rank": 14,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "35,427",
+    "forks": "3,958",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 15,
+    "name": "google/googletest",
+    "description": "",
+    "language": "C++",
+    "stars": "39,324",
+    "forks": "10,878",
+    "link": "https://github.com/google/googletest"
+  },
+  {
+    "rank": 16,
+    "name": "actions/checkout",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,804",
+    "forks": "2,756",
+    "link": "https://github.com/actions/checkout"
+  },
+  {
+    "rank": 17,
+    "name": "kaifcodec/user-scanner",
+    "description": "",
+    "language": "Python",
+    "stars": "3,578",
+    "forks": "410",
+    "link": "https://github.com/kaifcodec/user-scanner"
+  },
+  {
+    "rank": 18,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "90,729",
+    "forks": "9,710",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 19,
+    "name": "workweave/router",
+    "description": "",
+    "language": "Go",
+    "stars": "2,754",
+    "forks": "77",
+    "link": "https://github.com/workweave/router"
+  }
+]
