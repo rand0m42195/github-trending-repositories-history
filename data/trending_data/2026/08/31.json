@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,161",
+    "forks": "4,490",
+    "link": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "rank": 2,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "39,335",
+    "forks": "3,662",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "language": "Swift",
+    "stars": "9,650",
+    "forks": "1,290",
+    "link": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "rank": 4,
+    "name": "tt-a1i/archify",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "34,801",
+    "forks": "2,217",
+    "link": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "rank": 5,
+    "name": "p-e-w/heretic",
+    "description": "",
+    "language": "Python",
+    "stars": "29,195",
+    "forks": "3,204",
+    "link": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "rank": 6,
+    "name": "unclecode/crawl4ai",
+    "description": "",
+    "language": "Python",
+    "stars": "80,255",
+    "forks": "8,305",
+    "link": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+    "rank": 7,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "60,522",
+    "forks": "5,298",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 8,
+    "name": "majd/ipatool",
+    "description": "",
+    "language": "Go",
+    "stars": "10,226",
+    "forks": "881",
+    "link": "https://github.com/majd/ipatool"
+  },
+  {
+    "rank": 9,
+    "name": "punkpeye/awesome-mcp-servers",
+    "description": "",
+    "language": "",
+    "stars": "93,340",
+    "forks": "15,318",
+    "link": "https://github.com/punkpeye/awesome-mcp-servers"
+  },
+  {
+    "rank": 10,
+    "name": "checkstyle/checkstyle",
+    "description": "",
+    "language": "Java",
+    "stars": "9,212",
+    "forks": "4,195",
+    "link": "https://github.com/checkstyle/checkstyle"
+  },
+  {
+    "rank": 11,
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "",
+    "language": "Java",
+    "stars": "73,911",
+    "forks": "8,064",
+    "link": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "rank": 12,
+    "name": "pollen-robotics/microduck_rl",
+    "description": "",
+    "language": "Python",
+    "stars": "806",
+    "forks": "137",
+    "link": "https://github.com/pollen-robotics/microduck_rl"
+  },
+  {
+    "rank": 13,
+    "name": "handsomestWei/patent-disclosure-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "5,693",
+    "forks": "699",
+    "link": "https://github.com/handsomestWei/patent-disclosure-skill"
+  },
+  {
+    "rank": 14,
+    "name": "corsairdev/corsair",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,964",
+    "forks": "526",
+    "link": "https://github.com/corsairdev/corsair"
+  },
+  {
+    "rank": 15,
+    "name": "every-app/open-seo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,187",
+    "forks": "1,819",
+    "link": "https://github.com/every-app/open-seo"
+  },
+  {
+    "rank": 16,
+    "name": "colinhacks/zod",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "43,655",
+    "forks": "2,157",
+    "link": "https://github.com/colinhacks/zod"
+  },
+  {
+    "rank": 17,
+    "name": "tashfeenahmed/freellmapi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,816",
+    "forks": "3,153",
+    "link": "https://github.com/tashfeenahmed/freellmapi"
+  },
+  {
+    "rank": 18,
+    "name": "livekit/agents",
+    "description": "",
+    "language": "Python",
+    "stars": "13,767",
+    "forks": "3,658",
+    "link": "https://github.com/livekit/agents"
+  },
+  {
+    "rank": 19,
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "46,579",
+    "forks": "5,128",
+    "link": "https://github.com/abhigyanpatwari/GitNexus"
+  }
+]
