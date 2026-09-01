@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "27,284",
+    "forks": "4,774",
+    "link": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "rank": 2,
+    "name": "tt-a1i/archify",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "38,968",
+    "forks": "2,490",
+    "link": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "rank": 3,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "40,784",
+    "forks": "3,777",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "k1tbyte/Wand-Enhancer",
+    "description": "",
+    "language": "C#",
+    "stars": "23,402",
+    "forks": "59,615",
+    "link": "https://github.com/k1tbyte/Wand-Enhancer"
+  },
+  {
+    "rank": 5,
+    "name": "majd/ipatool",
+    "description": "",
+    "language": "Go",
+    "stars": "10,564",
+    "forks": "897",
+    "link": "https://github.com/majd/ipatool"
+  },
+  {
+    "rank": 6,
+    "name": "jingyaogong/minimind",
+    "description": "",
+    "language": "Python",
+    "stars": "56,203",
+    "forks": "7,328",
+    "link": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "rank": 7,
+    "name": "Osmantic/ODS",
+    "description": "",
+    "language": "Python",
+    "stars": "5,535",
+    "forks": "778",
+    "link": "https://github.com/Osmantic/ODS"
+  },
+  {
+    "rank": 8,
+    "name": "checkstyle/checkstyle",
+    "description": "",
+    "language": "Java",
+    "stars": "9,423",
+    "forks": "4,208",
+    "link": "https://github.com/checkstyle/checkstyle"
+  },
+  {
+    "rank": 9,
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "33,204",
+    "forks": "4,510",
+    "link": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "rank": 10,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "245,276",
+    "forks": "37,057",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 11,
+    "name": "kaifcodec/user-scanner",
+    "description": "",
+    "language": "Python",
+    "stars": "4,279",
+    "forks": "450",
+    "link": "https://github.com/kaifcodec/user-scanner"
+  },
+  {
+    "rank": 12,
+    "name": "every-app/open-seo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,789",
+    "forks": "1,901",
+    "link": "https://github.com/every-app/open-seo"
+  },
+  {
+    "rank": 13,
+    "name": "p-e-w/heretic",
+    "description": "",
+    "language": "Python",
+    "stars": "29,685",
+    "forks": "3,254",
+    "link": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "rank": 14,
+    "name": "handsomestWei/patent-disclosure-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "6,277",
+    "forks": "733",
+    "link": "https://github.com/handsomestWei/patent-disclosure-skill"
+  },
+  {
+    "rank": 15,
+    "name": "firecrawl/pdf-inspector",
+    "description": "",
+    "language": "Rust",
+    "stars": "17,399",
+    "forks": "1,201",
+    "link": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "rank": 16,
+    "name": "pollen-robotics/microduck_rl",
+    "description": "",
+    "language": "Python",
+    "stars": "1,164",
+    "forks": "197",
+    "link": "https://github.com/pollen-robotics/microduck_rl"
+  }
+]
