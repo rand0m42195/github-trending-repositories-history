@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "Gitlawb/openclaude",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "31,322",
+    "forks": "8,950",
+    "link": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "rank": 2,
+    "name": "Imbad0202/academic-research-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "44,916",
+    "forks": "3,550",
+    "link": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "rank": 3,
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "29,527",
+    "forks": "4,977",
+    "link": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "rank": 4,
+    "name": "iv-org/invidious",
+    "description": "",
+    "language": "Crystal",
+    "stars": "23,773",
+    "forks": "2,674",
+    "link": "https://github.com/iv-org/invidious"
+  },
+  {
+    "rank": 5,
+    "name": "jingyaogong/minimind",
+    "description": "",
+    "language": "Python",
+    "stars": "57,097",
+    "forks": "7,425",
+    "link": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "rank": 6,
+    "name": "3b1b/manim",
+    "description": "",
+    "language": "Python",
+    "stars": "92,569",
+    "forks": "7,618",
+    "link": "https://github.com/3b1b/manim"
+  },
+  {
+    "rank": 7,
+    "name": "firecrawl/pdf-inspector",
+    "description": "",
+    "language": "Rust",
+    "stars": "17,947",
+    "forks": "1,223",
+    "link": "https://github.com/firecrawl/pdf-inspector"
+  },
+  {
+    "rank": 8,
+    "name": "browser-use/video-use",
+    "description": "",
+    "language": "Python",
+    "stars": "22,964",
+    "forks": "2,815",
+    "link": "https://github.com/browser-use/video-use"
+  },
+  {
+    "rank": 9,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "41,554",
+    "forks": "3,827",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 10,
+    "name": "handsomestWei/patent-disclosure-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "6,727",
+    "forks": "760",
+    "link": "https://github.com/handsomestWei/patent-disclosure-skill"
+  },
+  {
+    "rank": 11,
+    "name": "VoltAgent/awesome-design-md",
+    "description": "",
+    "language": "",
+    "stars": "112,798",
+    "forks": "12,773",
+    "link": "https://github.com/VoltAgent/awesome-design-md"
+  },
+  {
+    "rank": 12,
+    "name": "averygan/reclip",
+    "description": "",
+    "language": "HTML",
+    "stars": "7,679",
+    "forks": "1,317",
+    "link": "https://github.com/averygan/reclip"
+  },
+  {
+    "rank": 13,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "245,777",
+    "forks": "37,088",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 14,
+    "name": "unclecode/crawl4ai",
+    "description": "",
+    "language": "Python",
+    "stars": "80,861",
+    "forks": "8,356",
+    "link": "https://github.com/unclecode/crawl4ai"
+  }
+]
