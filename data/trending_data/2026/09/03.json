@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "fmtlib/fmt",
+    "description": "",
+    "language": "C++",
+    "stars": "24,280",
+    "forks": "2,985",
+    "link": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "rank": 2,
+    "name": "google-research/timesfm",
+    "description": "",
+    "language": "Python",
+    "stars": "29,841",
+    "forks": "2,865",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 3,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "121,618",
+    "forks": "6,575",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 4,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "14,792",
+    "forks": "2,113",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 5,
+    "name": "sngyai/Sequoia-X",
+    "description": "",
+    "language": "Python",
+    "stars": "6,089",
+    "forks": "1,251",
+    "link": "https://github.com/sngyai/Sequoia-X"
+  },
+  {
+    "rank": 6,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "50,650",
+    "forks": "3,554",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 7,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "240,145",
+    "forks": "49,136",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 8,
+    "name": "superlinked/sie",
+    "description": "",
+    "language": "Python",
+    "stars": "3,073",
+    "forks": "299",
+    "link": "https://github.com/superlinked/sie"
+  },
+  {
+    "rank": 9,
+    "name": "pacifio/atlas",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,903",
+    "forks": "190",
+    "link": "https://github.com/pacifio/atlas"
+  },
+  {
+    "rank": 10,
+    "name": "zyronon/TypeWords",
+    "description": "",
+    "language": "Vue",
+    "stars": "9,321",
+    "forks": "1,130",
+    "link": "https://github.com/zyronon/TypeWords"
+  },
+  {
+    "rank": 11,
+    "name": "Imbad0202/academic-research-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "45,568",
+    "forks": "3,583",
+    "link": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "rank": 12,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "246,361",
+    "forks": "37,155",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 13,
+    "name": "protocolbuffers/protobuf",
+    "description": "",
+    "language": "C++",
+    "stars": "71,938",
+    "forks": "16,271",
+    "link": "https://github.com/protocolbuffers/protobuf"
+  },
+  {
+    "rank": 14,
+    "name": "vercel-labs/portless",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,782",
+    "forks": "383",
+    "link": "https://github.com/vercel-labs/portless"
+  },
+  {
+    "rank": 15,
+    "name": "blader/humanizer",
+    "description": "",
+    "language": "Python",
+    "stars": "40,429",
+    "forks": "3,498",
+    "link": "https://github.com/blader/humanizer"
+  },
+  {
+    "rank": 16,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "Go",
+    "stars": "102,643",
+    "forks": "5,970",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 17,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "245,261",
+    "forks": "20,854",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 18,
+    "name": "Gitlawb/openclaude",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "31,999",
+    "forks": "8,997",
+    "link": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "rank": 19,
+    "name": "firecrawl/pdf-inspector",
+    "description": "",
+    "language": "Rust",
+    "stars": "18,523",
+    "forks": "1,245",
+    "link": "https://github.com/firecrawl/pdf-inspector"
+  }
+]
