@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "fmtlib/fmt",
+    "description": "",
+    "language": "C++",
+    "stars": "25,100",
+    "forks": "3,016",
+    "link": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "247,473",
+    "forks": "20,979",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "240,861",
+    "forks": "49,352",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 4,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "123,467",
+    "forks": "6,671",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "173,672",
+    "forks": "20,606",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 6,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "247,223",
+    "forks": "37,254",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 7,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "Go",
+    "stars": "103,120",
+    "forks": "5,994",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 8,
+    "name": "blader/humanizer",
+    "description": "",
+    "language": "Python",
+    "stars": "41,516",
+    "forks": "3,550",
+    "link": "https://github.com/blader/humanizer"
+  },
+  {
+    "rank": 9,
+    "name": "google-research/timesfm",
+    "description": "",
+    "language": "Python",
+    "stars": "30,708",
+    "forks": "2,933",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 10,
+    "name": "averygan/reclip",
+    "description": "",
+    "language": "HTML",
+    "stars": "8,388",
+    "forks": "1,364",
+    "link": "https://github.com/averygan/reclip"
+  },
+  {
+    "rank": 11,
+    "name": "bannedbook/fanqiang",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "52,187",
+    "forks": "8,475",
+    "link": "https://github.com/bannedbook/fanqiang"
+  },
+  {
+    "rank": 12,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "92,040",
+    "forks": "9,812",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 13,
+    "name": "ByteByteGoHq/system-design-101",
+    "description": "",
+    "language": "",
+    "stars": "88,354",
+    "forks": "9,822",
+    "link": "https://github.com/ByteByteGoHq/system-design-101"
+  },
+  {
+    "rank": 14,
+    "name": "magnitudedev/magnitude",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,963",
+    "forks": "142",
+    "link": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "rank": 15,
+    "name": "Imbad0202/academic-research-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "45,997",
+    "forks": "3,603",
+    "link": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "rank": 16,
+    "name": "Gitlawb/openclaude",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "32,355",
+    "forks": "9,018",
+    "link": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "rank": 17,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "16,303",
+    "forks": "2,209",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 18,
+    "name": "f/prompts.chat",
+    "description": "",
+    "language": "HTML",
+    "stars": "169,013",
+    "forks": "21,763",
+    "link": "https://github.com/f/prompts.chat"
+  },
+  {
+    "rank": 19,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "281,350",
+    "forks": "25,203",
+    "link": "https://github.com/obra/superpowers"
+  }
+]
