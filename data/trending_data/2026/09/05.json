@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "250,450",
+    "forks": "21,161",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 2,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "126,074",
+    "forks": "6,768",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 3,
+    "name": "fmtlib/fmt",
+    "description": "",
+    "language": "C++",
+    "stars": "25,473",
+    "forks": "3,035",
+    "link": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "rank": 4,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "248,531",
+    "forks": "37,460",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "174,137",
+    "forks": "20,641",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 6,
+    "name": "blader/humanizer",
+    "description": "",
+    "language": "Python",
+    "stars": "42,728",
+    "forks": "3,608",
+    "link": "https://github.com/blader/humanizer"
+  },
+  {
+    "rank": 7,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "241,500",
+    "forks": "49,565",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 8,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "Go",
+    "stars": "103,581",
+    "forks": "6,007",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 9,
+    "name": "magnitudedev/magnitude",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,495",
+    "forks": "180",
+    "link": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "rank": 10,
+    "name": "bikini/exploitarium",
+    "description": "",
+    "language": "Python",
+    "stars": "4,517",
+    "forks": "1,242",
+    "link": "https://github.com/bikini/exploitarium"
+  },
+  {
+    "rank": 11,
+    "name": "bannedbook/fanqiang",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "52,783",
+    "forks": "8,527",
+    "link": "https://github.com/bannedbook/fanqiang"
+  },
+  {
+    "rank": 12,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "18,012",
+    "forks": "2,359",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 13,
+    "name": "google-research/timesfm",
+    "description": "",
+    "language": "Python",
+    "stars": "31,059",
+    "forks": "2,958",
+    "link": "https://github.com/google-research/timesfm"
+  },
+  {
+    "rank": 14,
+    "name": "radixark/miles",
+    "description": "",
+    "language": "Python",
+    "stars": "2,555",
+    "forks": "445",
+    "link": "https://github.com/radixark/miles"
+  },
+  {
+    "rank": 15,
+    "name": "anomalyco/opencode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "204,141",
+    "forks": "26,634",
+    "link": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "rank": 16,
+    "name": "clshortfuse/renodx",
+    "description": "",
+    "language": "HLSL",
+    "stars": "3,532",
+    "forks": "139",
+    "link": "https://github.com/clshortfuse/renodx"
+  },
+  {
+    "rank": 17,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "30,951",
+    "forks": "1,986",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  }
+]
