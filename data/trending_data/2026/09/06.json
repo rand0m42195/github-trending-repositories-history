@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "252,670",
+    "forks": "21,324",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 2,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "249,922",
+    "forks": "37,615",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 3,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "127,973",
+    "forks": "6,847",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 4,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "242,022",
+    "forks": "49,722",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 5,
+    "name": "fmtlib/fmt",
+    "description": "",
+    "language": "C++",
+    "stars": "25,572",
+    "forks": "3,043",
+    "link": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "rank": 6,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "174,570",
+    "forks": "20,675",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 7,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "31,701",
+    "forks": "2,042",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 8,
+    "name": "anomalyco/opencode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "204,686",
+    "forks": "26,705",
+    "link": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "rank": 9,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "70,701",
+    "forks": "8,417",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 10,
+    "name": "humanlayer/skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,715",
+    "forks": "75",
+    "link": "https://github.com/humanlayer/skills"
+  },
+  {
+    "rank": 11,
+    "name": "blader/humanizer",
+    "description": "",
+    "language": "Python",
+    "stars": "43,494",
+    "forks": "3,646",
+    "link": "https://github.com/blader/humanizer"
+  },
+  {
+    "rank": 12,
+    "name": "BraveOPotato/FckSignups",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,899",
+    "forks": "198",
+    "link": "https://github.com/BraveOPotato/FckSignups"
+  },
+  {
+    "rank": 13,
+    "name": "WorldFlowAI/everything-claude-code",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "2,364",
+    "forks": "363",
+    "link": "https://github.com/WorldFlowAI/everything-claude-code"
+  },
+  {
+    "rank": 14,
+    "name": "magnitudedev/magnitude",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,219",
+    "forks": "231",
+    "link": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "rank": 15,
+    "name": "bikini/exploitarium",
+    "description": "",
+    "language": "Python",
+    "stars": "4,710",
+    "forks": "1,253",
+    "link": "https://github.com/bikini/exploitarium"
+  },
+  {
+    "rank": 16,
+    "name": "nvm-sh/nvm",
+    "description": "",
+    "language": "Shell",
+    "stars": "94,921",
+    "forks": "10,424",
+    "link": "https://github.com/nvm-sh/nvm"
+  }
+]
