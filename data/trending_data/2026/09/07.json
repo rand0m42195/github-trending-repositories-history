@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "251,376",
+    "forks": "37,786",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "254,602",
+    "forks": "21,467",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "32,395",
+    "forks": "2,078",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 4,
+    "name": "NousResearch/hermes-agent",
+    "description": "",
+    "language": "Python",
+    "stars": "242,562",
+    "forks": "49,887",
+    "link": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "rank": 5,
+    "name": "openai/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "25,627",
+    "forks": "1,731",
+    "link": "https://github.com/openai/skills"
+  },
+  {
+    "rank": 6,
+    "name": "anomalyco/opencode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "205,273",
+    "forks": "26,775",
+    "link": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "rank": 7,
+    "name": "blader/humanizer",
+    "description": "",
+    "language": "Python",
+    "stars": "44,268",
+    "forks": "3,681",
+    "link": "https://github.com/blader/humanizer"
+  },
+  {
+    "rank": 8,
+    "name": "llvm/llvm-project",
+    "description": "",
+    "language": "LLVM",
+    "stars": "40,217",
+    "forks": "18,561",
+    "link": "https://github.com/llvm/llvm-project"
+  },
+  {
+    "rank": 9,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "129,403",
+    "forks": "6,931",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 10,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "70,990",
+    "forks": "8,436",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 11,
+    "name": "magnitudedev/magnitude",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,682",
+    "forks": "260",
+    "link": "https://github.com/magnitudedev/magnitude"
+  },
+  {
+    "rank": 12,
+    "name": "BraveOPotato/FckSignups",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,321",
+    "forks": "210",
+    "link": "https://github.com/BraveOPotato/FckSignups"
+  },
+  {
+    "rank": 13,
+    "name": "coreyhaines31/marketingskills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "47,529",
+    "forks": "7,389",
+    "link": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "rank": 14,
+    "name": "aipoch/open-science",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,864",
+    "forks": "238",
+    "link": "https://github.com/aipoch/open-science"
+  },
+  {
+    "rank": 15,
+    "name": "OpenWhispr/openwhispr",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "7,383",
+    "forks": "931",
+    "link": "https://github.com/OpenWhispr/openwhispr"
+  },
+  {
+    "rank": 16,
+    "name": "humanlayer/skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,153",
+    "forks": "91",
+    "link": "https://github.com/humanlayer/skills"
+  },
+  {
+    "rank": 17,
+    "name": "The-Swarm-Corporation/AutoHedge",
+    "description": "",
+    "language": "Python",
+    "stars": "4,736",
+    "forks": "776",
+    "link": "https://github.com/The-Swarm-Corporation/AutoHedge"
+  },
+  {
+    "rank": 18,
+    "name": "Stremio/stremio-web",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "13,481",
+    "forks": "1,547",
+    "link": "https://github.com/Stremio/stremio-web"
+  }
+]
