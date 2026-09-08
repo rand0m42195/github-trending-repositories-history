@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "heygen-com/hyperframes",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "46,009",
+    "forks": "4,316",
+    "link": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "rank": 2,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "180,295",
+    "forks": "13,263",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 3,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,856",
+    "forks": "1,520",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 4,
+    "name": "jo-inc/camofox-browser",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "9,738",
+    "forks": "1,020",
+    "link": "https://github.com/jo-inc/camofox-browser"
+  },
+  {
+    "rank": 5,
+    "name": "MoonTechLab/LunaTV",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,742",
+    "forks": "8,988",
+    "link": "https://github.com/MoonTechLab/LunaTV"
+  },
+  {
+    "rank": 6,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "252,875",
+    "forks": "37,933",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 7,
+    "name": "coreyhaines31/marketingskills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "48,155",
+    "forks": "7,440",
+    "link": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "rank": 8,
+    "name": "The-Swarm-Corporation/AutoHedge",
+    "description": "",
+    "language": "Python",
+    "stars": "5,274",
+    "forks": "804",
+    "link": "https://github.com/The-Swarm-Corporation/AutoHedge"
+  },
+  {
+    "rank": 9,
+    "name": "BraveOPotato/FckSignups",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,836",
+    "forks": "228",
+    "link": "https://github.com/BraveOPotato/FckSignups"
+  },
+  {
+    "rank": 10,
+    "name": "bytedance/deer-flow",
+    "description": "",
+    "language": "Python",
+    "stars": "81,861",
+    "forks": "11,293",
+    "link": "https://github.com/bytedance/deer-flow"
+  },
+  {
+    "rank": 11,
+    "name": "openai/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "26,045",
+    "forks": "1,747",
+    "link": "https://github.com/openai/skills"
+  },
+  {
+    "rank": 12,
+    "name": "lightpanda-io/browser",
+    "description": "",
+    "language": "Zig",
+    "stars": "34,871",
+    "forks": "1,649",
+    "link": "https://github.com/lightpanda-io/browser"
+  },
+  {
+    "rank": 13,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,343",
+    "forks": "2,859",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 14,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "71,408",
+    "forks": "8,460",
+    "link": "https://github.com/ruvnet/ruflo"
+  }
+]
