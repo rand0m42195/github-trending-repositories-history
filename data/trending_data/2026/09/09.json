@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "ayghri/i-have-adhd",
+    "description": "",
+    "language": "Python",
+    "stars": "30,594",
+    "forks": "1,860",
+    "link": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "rank": 2,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "34,892",
+    "forks": "2,207",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 3,
+    "name": "openai/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "26,528",
+    "forks": "1,776",
+    "link": "https://github.com/openai/skills"
+  },
+  {
+    "rank": 4,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "254,329",
+    "forks": "38,112",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 5,
+    "name": "heygen-com/hyperframes",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "47,785",
+    "forks": "4,394",
+    "link": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "rank": 6,
+    "name": "coreyhaines31/marketingskills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "48,839",
+    "forks": "7,496",
+    "link": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "283,387",
+    "forks": "25,369",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "211,476",
+    "forks": "21,473",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/markitdown",
+    "description": "",
+    "language": "Python",
+    "stars": "181,707",
+    "forks": "13,349",
+    "link": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "rank": 10,
+    "name": "jo-inc/camofox-browser",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "10,518",
+    "forks": "1,053",
+    "link": "https://github.com/jo-inc/camofox-browser"
+  },
+  {
+    "rank": 11,
+    "name": "MoonTechLab/LunaTV",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,188",
+    "forks": "9,047",
+    "link": "https://github.com/MoonTechLab/LunaTV"
+  },
+  {
+    "rank": 12,
+    "name": "browser-use/browser-use",
+    "description": "",
+    "language": "Python",
+    "stars": "113,533",
+    "forks": "12,491",
+    "link": "https://github.com/browser-use/browser-use"
+  },
+  {
+    "rank": 13,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,411",
+    "forks": "1,545",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 14,
+    "name": "The-Swarm-Corporation/AutoHedge",
+    "description": "",
+    "language": "Python",
+    "stars": "5,719",
+    "forks": "840",
+    "link": "https://github.com/The-Swarm-Corporation/AutoHedge"
+  },
+  {
+    "rank": 15,
+    "name": "viarotel-org/escrcpy",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "11,411",
+    "forks": "795",
+    "link": "https://github.com/viarotel-org/escrcpy"
+  },
+  {
+    "rank": 16,
+    "name": "openai/plugins",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "5,812",
+    "forks": "800",
+    "link": "https://github.com/openai/plugins"
+  }
+]
