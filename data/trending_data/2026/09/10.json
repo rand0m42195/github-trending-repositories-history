@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "ayghri/i-have-adhd",
+    "description": "",
+    "language": "Python",
+    "stars": "34,710",
+    "forks": "2,034",
+    "link": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "rank": 2,
+    "name": "Tencent/teamai-cli",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,008",
+    "forks": "190",
+    "link": "https://github.com/Tencent/teamai-cli"
+  },
+  {
+    "rank": 3,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "284,046",
+    "forks": "25,413",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 4,
+    "name": "pascalorg/editor",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "22,945",
+    "forks": "2,896",
+    "link": "https://github.com/pascalorg/editor"
+  },
+  {
+    "rank": 5,
+    "name": "earthtojake/text-to-cad",
+    "description": "",
+    "language": "Python",
+    "stars": "15,043",
+    "forks": "1,561",
+    "link": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "rank": 6,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "36,627",
+    "forks": "2,324",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 7,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "103,975",
+    "forks": "19,975",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 8,
+    "name": "liquidslr/system-design-notes",
+    "description": "",
+    "language": "",
+    "stars": "18,019",
+    "forks": "3,407",
+    "link": "https://github.com/liquidslr/system-design-notes"
+  },
+  {
+    "rank": 9,
+    "name": "openai/plugins",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "6,205",
+    "forks": "826",
+    "link": "https://github.com/openai/plugins"
+  },
+  {
+    "rank": 10,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "30,079",
+    "forks": "2,906",
+    "link": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "rank": 11,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "53,712",
+    "forks": "9,372",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 12,
+    "name": "vastsa/PI-Desktop",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,680",
+    "forks": "155",
+    "link": "https://github.com/vastsa/PI-Desktop"
+  },
+  {
+    "rank": 13,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "255,194",
+    "forks": "38,228",
+    "link": "https://github.com/affaan-m/ECC"
+  }
+]
