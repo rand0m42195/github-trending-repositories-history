@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "JustVugg/colibri",
+    "description": "",
+    "language": "C",
+    "stars": "29,919",
+    "forks": "3,253",
+    "link": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "rank": 2,
+    "name": "ever-co/ever-gauzy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,130",
+    "forks": "948",
+    "link": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "rank": 3,
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "31,979",
+    "forks": "6,420",
+    "link": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "rank": 4,
+    "name": "tech-leads-club/agent-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,677",
+    "forks": "500",
+    "link": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "rank": 5,
+    "name": "melgarafael/DeskcommCRM",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,213",
+    "forks": "599",
+    "link": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "rank": 6,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "58,481",
+    "forks": "7,361",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 7,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "66,076",
+    "forks": "10,803",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 8,
+    "name": "vxcontrol/pentagi",
+    "description": "",
+    "language": "Go",
+    "stars": "24,000",
+    "forks": "3,096",
+    "link": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "rank": 9,
+    "name": "multimodal-art-projection/YuE",
+    "description": "",
+    "language": "Python",
+    "stars": "7,781",
+    "forks": "866",
+    "link": "https://github.com/multimodal-art-projection/YuE"
+  },
+  {
+    "rank": 10,
+    "name": "yuliskov/SmartTube",
+    "description": "",
+    "language": "Java",
+    "stars": "33,464",
+    "forks": "2,034",
+    "link": "https://github.com/yuliskov/SmartTube"
+  },
+  {
+    "rank": 11,
+    "name": "alphaXiv/OpenResearch",
+    "description": "",
+    "language": "Rust",
+    "stars": "2,093",
+    "forks": "144",
+    "link": "https://github.com/alphaXiv/OpenResearch"
+  },
+  {
+    "rank": 12,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "26,937",
+    "forks": "3,323",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 13,
+    "name": "SnailSploit/Claude-Red",
+    "description": "",
+    "language": "Python",
+    "stars": "4,169",
+    "forks": "592",
+    "link": "https://github.com/SnailSploit/Claude-Red"
+  },
+  {
+    "rank": 14,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "23,566",
+    "forks": "1,747",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 15,
+    "name": "jihe520/MathModelAgent",
+    "description": "",
+    "language": "Python",
+    "stars": "5,371",
+    "forks": "411",
+    "link": "https://github.com/jihe520/MathModelAgent"
+  },
+  {
+    "rank": 16,
+    "name": "tonhowtf/omniget",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,703",
+    "forks": "1,025",
+    "link": "https://github.com/tonhowtf/omniget"
+  },
+  {
+    "rank": 17,
+    "name": "jiji262/douyin-downloader",
+    "description": "",
+    "language": "Python",
+    "stars": "11,387",
+    "forks": "1,754",
+    "link": "https://github.com/jiji262/douyin-downloader"
+  },
+  {
+    "rank": 18,
+    "name": "Swordfish90/cool-retro-term",
+    "description": "",
+    "language": "QML",
+    "stars": "26,235",
+    "forks": "1,017",
+    "link": "https://github.com/Swordfish90/cool-retro-term"
+  },
+  {
+    "rank": 19,
+    "name": "huggingface/transformers",
+    "description": "",
+    "language": "Python",
+    "stars": "165,547",
+    "forks": "34,559",
+    "link": "https://github.com/huggingface/transformers"
+  }
+]
