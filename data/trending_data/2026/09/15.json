@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "JustVugg/colibri",
+    "description": "",
+    "language": "C",
+    "stars": "32,157",
+    "forks": "3,391",
+    "link": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "rank": 2,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "25,878",
+    "forks": "1,870",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 3,
+    "name": "multimodal-art-projection/YuE",
+    "description": "",
+    "language": "Python",
+    "stars": "8,374",
+    "forks": "909",
+    "link": "https://github.com/multimodal-art-projection/YuE"
+  },
+  {
+    "rank": 4,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "29,283",
+    "forks": "3,561",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 5,
+    "name": "666ghj/MiroFish",
+    "description": "",
+    "language": "Python",
+    "stars": "73,190",
+    "forks": "11,290",
+    "link": "https://github.com/666ghj/MiroFish"
+  },
+  {
+    "rank": 6,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "81,314",
+    "forks": "7,080",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 7,
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "66,790",
+    "forks": "10,873",
+    "link": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "rank": 8,
+    "name": "rlaope/oh-my-hermes",
+    "description": "",
+    "language": "Python",
+    "stars": "2,071",
+    "forks": "163",
+    "link": "https://github.com/rlaope/oh-my-hermes"
+  },
+  {
+    "rank": 9,
+    "name": "localsend/localsend",
+    "description": "",
+    "language": "Dart",
+    "stars": "91,352",
+    "forks": "5,096",
+    "link": "https://github.com/localsend/localsend"
+  },
+  {
+    "rank": 10,
+    "name": "dani-garcia/vaultwarden",
+    "description": "",
+    "language": "Rust",
+    "stars": "67,535",
+    "forks": "3,212",
+    "link": "https://github.com/dani-garcia/vaultwarden"
+  },
+  {
+    "rank": 11,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "106,167",
+    "forks": "20,310",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 12,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "93,865",
+    "forks": "12,434",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 13,
+    "name": "tech-leads-club/agent-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,074",
+    "forks": "517",
+    "link": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "rank": 14,
+    "name": "OpenBMB/VoxCPM",
+    "description": "",
+    "language": "Python",
+    "stars": "37,380",
+    "forks": "4,247",
+    "link": "https://github.com/OpenBMB/VoxCPM"
+  },
+  {
+    "rank": 15,
+    "name": "huggingface/transformers",
+    "description": "",
+    "language": "Python",
+    "stars": "165,984",
+    "forks": "34,578",
+    "link": "https://github.com/huggingface/transformers"
+  },
+  {
+    "rank": 16,
+    "name": "ever-co/ever-gauzy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,005",
+    "forks": "987",
+    "link": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "rank": 17,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "36,921",
+    "forks": "3,686",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 18,
+    "name": "reconurge/flowsint",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,359",
+    "forks": "1,028",
+    "link": "https://github.com/reconurge/flowsint"
+  },
+  {
+    "rank": 19,
+    "name": "peetzweg/opendisplay",
+    "description": "",
+    "language": "Swift",
+    "stars": "3,605",
+    "forks": "251",
+    "link": "https://github.com/peetzweg/opendisplay"
+  },
+  {
+    "rank": 20,
+    "name": "SnailSploit/Claude-Red",
+    "description": "",
+    "language": "Python",
+    "stars": "4,759",
+    "forks": "631",
+    "link": "https://github.com/SnailSploit/Claude-Red"
+  }
+]
