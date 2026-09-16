@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "28,716",
+    "forks": "2,058",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 2,
+    "name": "JustVugg/colibri",
+    "description": "",
+    "language": "C",
+    "stars": "33,897",
+    "forks": "3,550",
+    "link": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "rank": 3,
+    "name": "ever-co/ever-gauzy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,691",
+    "forks": "1,031",
+    "link": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "rank": 4,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "31,041",
+    "forks": "3,706",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 5,
+    "name": "Homebrew/BrewUI",
+    "description": "",
+    "language": "Swift",
+    "stars": "1,391",
+    "forks": "31",
+    "link": "https://github.com/Homebrew/BrewUI"
+  },
+  {
+    "rank": 6,
+    "name": "melgarafael/DeskcommCRM",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,859",
+    "forks": "685",
+    "link": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "rank": 7,
+    "name": "alphaXiv/OpenResearch",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,394",
+    "forks": "223",
+    "link": "https://github.com/alphaXiv/OpenResearch"
+  },
+  {
+    "rank": 8,
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "",
+    "language": "Java",
+    "stars": "76,738",
+    "forks": "8,466",
+    "link": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "rank": 9,
+    "name": "danny-avila/LibreChat",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "43,860",
+    "forks": "9,025",
+    "link": "https://github.com/danny-avila/LibreChat"
+  },
+  {
+    "rank": 10,
+    "name": "pacifio/atlas",
+    "description": "",
+    "language": "Rust",
+    "stars": "4,644",
+    "forks": "281",
+    "link": "https://github.com/pacifio/atlas"
+  },
+  {
+    "rank": 11,
+    "name": "MG1937/ASC",
+    "description": "",
+    "language": "Python",
+    "stars": "1,199",
+    "forks": "197",
+    "link": "https://github.com/MG1937/ASC"
+  },
+  {
+    "rank": 12,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "94,830",
+    "forks": "10,064",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 13,
+    "name": "tonhowtf/omniget",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,972",
+    "forks": "1,102",
+    "link": "https://github.com/tonhowtf/omniget"
+  },
+  {
+    "rank": 14,
+    "name": "earendil-works/pi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "105,755",
+    "forks": "13,291",
+    "link": "https://github.com/earendil-works/pi"
+  }
+]
