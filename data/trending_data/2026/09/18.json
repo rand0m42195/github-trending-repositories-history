@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "34,842",
+    "forks": "2,475",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 2,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "10,727",
+    "forks": "572",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 3,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "95,869",
+    "forks": "10,146",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "Tencent/BrowserSkill",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,217",
+    "forks": "298",
+    "link": "https://github.com/Tencent/BrowserSkill"
+  },
+  {
+    "rank": 5,
+    "name": "alphaXiv/OpenResearch",
+    "description": "",
+    "language": "Rust",
+    "stars": "4,971",
+    "forks": "306",
+    "link": "https://github.com/alphaXiv/OpenResearch"
+  },
+  {
+    "rank": 6,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "145,889",
+    "forks": "23,642",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 7,
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "",
+    "language": "Java",
+    "stars": "78,512",
+    "forks": "8,685",
+    "link": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "rank": 8,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "",
+    "language": "Python",
+    "stars": "24,580",
+    "forks": "2,944",
+    "link": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "rank": 9,
+    "name": "Tencent/WeKnora",
+    "description": "",
+    "language": "Go",
+    "stars": "26,280",
+    "forks": "3,560",
+    "link": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "rank": 10,
+    "name": "abue-ammar/tinycast",
+    "description": "",
+    "language": "Swift",
+    "stars": "6,159",
+    "forks": "286",
+    "link": "https://github.com/abue-ammar/tinycast"
+  },
+  {
+    "rank": 11,
+    "name": "cilium/cilium",
+    "description": "",
+    "language": "Go",
+    "stars": "25,274",
+    "forks": "4,074",
+    "link": "https://github.com/cilium/cilium"
+  },
+  {
+    "rank": 12,
+    "name": "jamiepine/voicebox",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "54,865",
+    "forks": "6,827",
+    "link": "https://github.com/jamiepine/voicebox"
+  },
+  {
+    "rank": 13,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "261,197",
+    "forks": "39,100",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 14,
+    "name": "roboflow/supervision",
+    "description": "",
+    "language": "Python",
+    "stars": "50,811",
+    "forks": "4,828",
+    "link": "https://github.com/roboflow/supervision"
+  },
+  {
+    "rank": 15,
+    "name": "JustVugg/colibri",
+    "description": "",
+    "language": "C",
+    "stars": "35,758",
+    "forks": "3,757",
+    "link": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "rank": 16,
+    "name": "TencentCloud/Octop",
+    "description": "",
+    "language": "Python",
+    "stars": "3,480",
+    "forks": "361",
+    "link": "https://github.com/TencentCloud/Octop"
+  },
+  {
+    "rank": 17,
+    "name": "ever-co/ever-gauzy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,554",
+    "forks": "1,122",
+    "link": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "rank": 18,
+    "name": "cline/cline",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "68,565",
+    "forks": "7,415",
+    "link": "https://github.com/cline/cline"
+  },
+  {
+    "rank": 19,
+    "name": "coder/coder",
+    "description": "",
+    "language": "Go",
+    "stars": "14,850",
+    "forks": "1,486",
+    "link": "https://github.com/coder/coder"
+  },
+  {
+    "rank": 20,
+    "name": "n8n-io/n8n",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "205,016",
+    "forks": "60,746",
+    "link": "https://github.com/n8n-io/n8n"
+  }
+]
