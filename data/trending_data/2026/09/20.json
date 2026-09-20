@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "16,429",
+    "forks": "899",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 2,
+    "name": "trycua/cua",
+    "description": "",
+    "language": "HTML",
+    "stars": "24,449",
+    "forks": "1,682",
+    "link": "https://github.com/trycua/cua"
+  },
+  {
+    "rank": 3,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "97,062",
+    "forks": "10,242",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "coder/coder",
+    "description": "",
+    "language": "Go",
+    "stars": "15,632",
+    "forks": "1,523",
+    "link": "https://github.com/coder/coder"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "146,727",
+    "forks": "23,936",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 6,
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,079",
+    "forks": "2,090",
+    "link": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "rank": 7,
+    "name": "higgsfield-ai/higgsfield",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "4,971",
+    "forks": "913",
+    "link": "https://github.com/higgsfield-ai/higgsfield"
+  },
+  {
+    "rank": 8,
+    "name": "docling-project/docling",
+    "description": "",
+    "language": "Python",
+    "stars": "67,081",
+    "forks": "4,833",
+    "link": "https://github.com/docling-project/docling"
+  },
+  {
+    "rank": 9,
+    "name": "cloudflare/quiche",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,025",
+    "forks": "1,117",
+    "link": "https://github.com/cloudflare/quiche"
+  },
+  {
+    "rank": 10,
+    "name": "asciimoo/hister",
+    "description": "",
+    "language": "Go",
+    "stars": "5,239",
+    "forks": "219",
+    "link": "https://github.com/asciimoo/hister"
+  },
+  {
+    "rank": 11,
+    "name": "ruanyf/weekly",
+    "description": "",
+    "language": "",
+    "stars": "103,180",
+    "forks": "4,427",
+    "link": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "rank": 12,
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "37,827",
+    "forks": "5,210",
+    "link": "https://github.com/ZuodaoTech/everyone-can-use-english"
+  },
+  {
+    "rank": 13,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "",
+    "language": "Python",
+    "stars": "25,135",
+    "forks": "2,995",
+    "link": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "rank": 14,
+    "name": "cactus-compute/needle",
+    "description": "",
+    "language": "Python",
+    "stars": "11,619",
+    "forks": "743",
+    "link": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "rank": 15,
+    "name": "yynxxxxx/Codex-X",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,407",
+    "forks": "448",
+    "link": "https://github.com/yynxxxxx/Codex-X"
+  }
+]
