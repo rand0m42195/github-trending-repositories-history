@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "263,780",
+    "forks": "39,459",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 2,
+    "name": "BuilderIO/agent-native",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,246",
+    "forks": "487",
+    "link": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "rank": 3,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "18,072",
+    "forks": "1,002",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 4,
+    "name": "trycua/cua",
+    "description": "",
+    "language": "HTML",
+    "stars": "25,172",
+    "forks": "1,730",
+    "link": "https://github.com/trycua/cua"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": "35,392",
+    "forks": "5,250",
+    "link": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "rank": 6,
+    "name": "paperless-ngx/paperless-ngx",
+    "description": "",
+    "language": "Python",
+    "stars": "45,590",
+    "forks": "3,148",
+    "link": "https://github.com/paperless-ngx/paperless-ngx"
+  },
+  {
+    "rank": 7,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "147,148",
+    "forks": "24,069",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 8,
+    "name": "mihail911/modern-software-dev-assignments",
+    "description": "",
+    "language": "Python",
+    "stars": "4,572",
+    "forks": "1,011",
+    "link": "https://github.com/mihail911/modern-software-dev-assignments"
+  },
+  {
+    "rank": 9,
+    "name": "higgsfield-ai/higgsfield",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "5,401",
+    "forks": "957",
+    "link": "https://github.com/higgsfield-ai/higgsfield"
+  },
+  {
+    "rank": 10,
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,867",
+    "forks": "2,136",
+    "link": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "rank": 11,
+    "name": "coder/coder",
+    "description": "",
+    "language": "Go",
+    "stars": "16,075",
+    "forks": "1,543",
+    "link": "https://github.com/coder/coder"
+  },
+  {
+    "rank": 12,
+    "name": "vercel-labs/json-render",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,354",
+    "forks": "922",
+    "link": "https://github.com/vercel-labs/json-render"
+  },
+  {
+    "rank": 13,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "97,719",
+    "forks": "10,296",
+    "link": "https://github.com/addyosmani/agent-skills"
+  }
+]
