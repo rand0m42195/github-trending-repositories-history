@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "BuilderIO/agent-native",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,945",
+    "forks": "541",
+    "link": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "rank": 2,
+    "name": "trycua/cua",
+    "description": "",
+    "language": "HTML",
+    "stars": "25,723",
+    "forks": "1,769",
+    "link": "https://github.com/trycua/cua"
+  },
+  {
+    "rank": 3,
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,793",
+    "forks": "2,201",
+    "link": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "rank": 4,
+    "name": "akitaonrails/ai-memory",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,718",
+    "forks": "523",
+    "link": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "rank": 5,
+    "name": "coder/coder",
+    "description": "",
+    "language": "Go",
+    "stars": "16,444",
+    "forks": "1,565",
+    "link": "https://github.com/coder/coder"
+  },
+  {
+    "rank": 6,
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": "35,854",
+    "forks": "5,269",
+    "link": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "rank": 7,
+    "name": "cloudflare/quiche",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,370",
+    "forks": "1,135",
+    "link": "https://github.com/cloudflare/quiche"
+  },
+  {
+    "rank": 8,
+    "name": "mvt-project/mvt",
+    "description": "",
+    "language": "Python",
+    "stars": "13,618",
+    "forks": "1,328",
+    "link": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "rank": 9,
+    "name": "zhouxiaoka/autoclip",
+    "description": "",
+    "language": "Python",
+    "stars": "8,290",
+    "forks": "1,575",
+    "link": "https://github.com/zhouxiaoka/autoclip"
+  },
+  {
+    "rank": 10,
+    "name": "ruanyf/weekly",
+    "description": "",
+    "language": "",
+    "stars": "104,000",
+    "forks": "4,452",
+    "link": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "rank": 11,
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "37,887",
+    "forks": "3,769",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+  },
+  {
+    "rank": 12,
+    "name": "yynxxxxx/Codex-X",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,707",
+    "forks": "463",
+    "link": "https://github.com/yynxxxxx/Codex-X"
+  }
+]
