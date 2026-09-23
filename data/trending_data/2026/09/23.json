@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": "36,367",
+    "forks": "5,319",
+    "link": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "rank": 2,
+    "name": "agent-substrate/substrate",
+    "description": "",
+    "language": "Go",
+    "stars": "2,995",
+    "forks": "386",
+    "link": "https://github.com/agent-substrate/substrate"
+  },
+  {
+    "rank": 3,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "15,481",
+    "forks": "1,382",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 4,
+    "name": "davila7/claude-code-templates",
+    "description": "",
+    "language": "Python",
+    "stars": "31,144",
+    "forks": "3,541",
+    "link": "https://github.com/davila7/claude-code-templates"
+  },
+  {
+    "rank": 5,
+    "name": "google/ax",
+    "description": "",
+    "language": "Go",
+    "stars": "7,670",
+    "forks": "359",
+    "link": "https://github.com/google/ax"
+  },
+  {
+    "rank": 6,
+    "name": "mvt-project/mvt",
+    "description": "",
+    "language": "Python",
+    "stars": "14,130",
+    "forks": "1,359",
+    "link": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "rank": 7,
+    "name": "superdesigndev/treg",
+    "description": "",
+    "language": "Python",
+    "stars": "2,246",
+    "forks": "219",
+    "link": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "rank": 8,
+    "name": "browser-use/video-use",
+    "description": "",
+    "language": "Python",
+    "stars": "25,871",
+    "forks": "3,119",
+    "link": "https://github.com/browser-use/video-use"
+  }
+]
