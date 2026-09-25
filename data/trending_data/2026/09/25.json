@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "56,604",
+    "forks": "9,934",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 2,
+    "name": "vectorize-io/hindsight",
+    "description": "",
+    "language": "Python",
+    "stars": "27,825",
+    "forks": "2,686",
+    "link": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "rank": 3,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,786",
+    "forks": "1,539",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 4,
+    "name": "google/ax",
+    "description": "",
+    "language": "Go",
+    "stars": "10,505",
+    "forks": "508",
+    "link": "https://github.com/google/ax"
+  },
+  {
+    "rank": 5,
+    "name": "NVIDIA/Model-Optimizer",
+    "description": "",
+    "language": "Python",
+    "stars": "4,093",
+    "forks": "629",
+    "link": "https://github.com/NVIDIA/Model-Optimizer"
+  },
+  {
+    "rank": 6,
+    "name": "FxEmbed/FxEmbed",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,372",
+    "forks": "250",
+    "link": "https://github.com/FxEmbed/FxEmbed"
+  },
+  {
+    "rank": 7,
+    "name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": "37,364",
+    "forks": "5,419",
+    "link": "https://github.com/anthropics/financial-services"
+  },
+  {
+    "rank": 8,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "50,342",
+    "forks": "4,616",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 9,
+    "name": "mvt-project/mvt",
+    "description": "",
+    "language": "Python",
+    "stars": "14,732",
+    "forks": "1,392",
+    "link": "https://github.com/mvt-project/mvt"
+  },
+  {
+    "rank": 10,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "291,243",
+    "forks": "26,055",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 11,
+    "name": "strands-agents/harness-sdk",
+    "description": "",
+    "language": "Python",
+    "stars": "8,264",
+    "forks": "1,237",
+    "link": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "rank": 12,
+    "name": "julyx10/lap",
+    "description": "",
+    "language": "Vue",
+    "stars": "2,886",
+    "forks": "171",
+    "link": "https://github.com/julyx10/lap"
+  },
+  {
+    "rank": 13,
+    "name": "superdesigndev/treg",
+    "description": "",
+    "language": "Python",
+    "stars": "3,169",
+    "forks": "263",
+    "link": "https://github.com/superdesigndev/treg"
+  },
+  {
+    "rank": 14,
+    "name": "leejet/stable-diffusion.cpp",
+    "description": "",
+    "language": "C++",
+    "stars": "7,256",
+    "forks": "811",
+    "link": "https://github.com/leejet/stable-diffusion.cpp"
+  }
+]
