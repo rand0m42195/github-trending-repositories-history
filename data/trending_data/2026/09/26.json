@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "paperclipai/paperclip",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "85,041",
+    "forks": "15,239",
+    "link": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "36,950",
+    "forks": "4,152",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 3,
+    "name": "vectorize-io/hindsight",
+    "description": "",
+    "language": "Python",
+    "stars": "29,851",
+    "forks": "3,153",
+    "link": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "291,681",
+    "forks": "26,109",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "269,753",
+    "forks": "22,732",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 6,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,462",
+    "forks": "1,566",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 7,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "178,333",
+    "forks": "21,112",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 8,
+    "name": "androoAGI/starnet",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "493",
+    "forks": "95",
+    "link": "https://github.com/androoAGI/starnet"
+  },
+  {
+    "rank": 9,
+    "name": "derv82/wifit3",
+    "description": "",
+    "language": "Python",
+    "stars": "943",
+    "forks": "87",
+    "link": "https://github.com/derv82/wifit3"
+  },
+  {
+    "rank": 10,
+    "name": "kelseyhightower/kubernetes-the-hard-way",
+    "description": "",
+    "language": "",
+    "stars": "50,129",
+    "forks": "15,919",
+    "link": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+  },
+  {
+    "rank": 11,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "57,544",
+    "forks": "10,029",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 12,
+    "name": "shy3130/tick-stock-panel",
+    "description": "",
+    "language": "Python",
+    "stars": "5,139",
+    "forks": "1,256",
+    "link": "https://github.com/shy3130/tick-stock-panel"
+  },
+  {
+    "rank": 13,
+    "name": "google/ax",
+    "description": "",
+    "language": "Go",
+    "stars": "11,523",
+    "forks": "554",
+    "link": "https://github.com/google/ax"
+  },
+  {
+    "rank": 14,
+    "name": "NVIDIA/Model-Optimizer",
+    "description": "",
+    "language": "Python",
+    "stars": "4,487",
+    "forks": "650",
+    "link": "https://github.com/NVIDIA/Model-Optimizer"
+  },
+  {
+    "rank": 15,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "71,219",
+    "forks": "4,310",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 16,
+    "name": "openbao/openbao",
+    "description": "",
+    "language": "Go",
+    "stars": "7,741",
+    "forks": "585",
+    "link": "https://github.com/openbao/openbao"
+  }
+]
