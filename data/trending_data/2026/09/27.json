@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "paperclipai/paperclip",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "87,441",
+    "forks": "15,437",
+    "link": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "rank": 2,
+    "name": "vectorize-io/hindsight",
+    "description": "",
+    "language": "Python",
+    "stars": "32,282",
+    "forks": "3,582",
+    "link": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "rank": 3,
+    "name": "NVIDIA/Model-Optimizer",
+    "description": "",
+    "language": "Python",
+    "stars": "4,767",
+    "forks": "669",
+    "link": "https://github.com/NVIDIA/Model-Optimizer"
+  },
+  {
+    "rank": 4,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,251",
+    "forks": "1,636",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 5,
+    "name": "tensorflow/tensorflow",
+    "description": "",
+    "language": "C++",
+    "stars": "200,466",
+    "forks": "77,626",
+    "link": "https://github.com/tensorflow/tensorflow"
+  },
+  {
+    "rank": 6,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "58,410",
+    "forks": "10,129",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 7,
+    "name": "openbao/openbao",
+    "description": "",
+    "language": "Go",
+    "stars": "8,017",
+    "forks": "590",
+    "link": "https://github.com/openbao/openbao"
+  },
+  {
+    "rank": 8,
+    "name": "block/buzz",
+    "description": "",
+    "language": "Rust",
+    "stars": "34,838",
+    "forks": "4,595",
+    "link": "https://github.com/block/buzz"
+  },
+  {
+    "rank": 9,
+    "name": "microsoft/vscode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "193,079",
+    "forks": "43,565",
+    "link": "https://github.com/microsoft/vscode"
+  },
+  {
+    "rank": 10,
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "38,031",
+    "forks": "5,276",
+    "link": "https://github.com/zhaoxuya520/reverse-skill"
+  },
+  {
+    "rank": 11,
+    "name": "llvm/llvm-project",
+    "description": "",
+    "language": "LLVM",
+    "stars": "40,755",
+    "forks": "18,823",
+    "link": "https://github.com/llvm/llvm-project"
+  },
+  {
+    "rank": 12,
+    "name": "anthropics/claude-code-action",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,103",
+    "forks": "2,164",
+    "link": "https://github.com/anthropics/claude-code-action"
+  },
+  {
+    "rank": 13,
+    "name": "actions/runner-images",
+    "description": "",
+    "language": "PowerShell",
+    "stars": "13,306",
+    "forks": "3,868",
+    "link": "https://github.com/actions/runner-images"
+  },
+  {
+    "rank": 14,
+    "name": "mobile-next/mobile-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,374",
+    "forks": "642",
+    "link": "https://github.com/mobile-next/mobile-mcp"
+  },
+  {
+    "rank": 15,
+    "name": "vercel/next.js",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "142,651",
+    "forks": "33,172",
+    "link": "https://github.com/vercel/next.js"
+  }
+]
