@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "paperclipai/paperclip",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "90,063",
+    "forks": "15,681",
+    "link": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "rank": 2,
+    "name": "vectorize-io/hindsight",
+    "description": "",
+    "language": "Python",
+    "stars": "37,457",
+    "forks": "4,850",
+    "link": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "rank": 3,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "40,290",
+    "forks": "4,786",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 4,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "59,380",
+    "forks": "10,243",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 5,
+    "name": "InfinityLoop1308/PipePipe",
+    "description": "",
+    "language": "Shell",
+    "stars": "6,600",
+    "forks": "223",
+    "link": "https://github.com/InfinityLoop1308/PipePipe"
+  },
+  {
+    "rank": 6,
+    "name": "vercel-labs/scriptc",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,424",
+    "forks": "142",
+    "link": "https://github.com/vercel-labs/scriptc"
+  },
+  {
+    "rank": 7,
+    "name": "mvschwarz/openrig",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,022",
+    "forks": "105",
+    "link": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "rank": 8,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,396",
+    "forks": "1,721",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 9,
+    "name": "willfaust/Madeira",
+    "description": "",
+    "language": "C",
+    "stars": "829",
+    "forks": "152",
+    "link": "https://github.com/willfaust/Madeira"
+  }
+]
