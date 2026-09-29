@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "44,452",
+    "forks": "5,120",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 2,
+    "name": "paperclipai/paperclip",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "93,021",
+    "forks": "15,911",
+    "link": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "rank": 3,
+    "name": "vectorize-io/hindsight",
+    "description": "",
+    "language": "Python",
+    "stars": "41,157",
+    "forks": "5,552",
+    "link": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "rank": 4,
+    "name": "NawfalMotii79/PLFM_RADAR",
+    "description": "",
+    "language": "PLSQL",
+    "stars": "25,803",
+    "forks": "5,887",
+    "link": "https://github.com/NawfalMotii79/PLFM_RADAR"
+  },
+  {
+    "rank": 5,
+    "name": "cs341-illinois/coursebook",
+    "description": "",
+    "language": "TeX",
+    "stars": "2,562",
+    "forks": "241",
+    "link": "https://github.com/cs341-illinois/coursebook"
+  },
+  {
+    "rank": 6,
+    "name": "byoungd/up",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "64,805",
+    "forks": "6,520",
+    "link": "https://github.com/byoungd/up"
+  },
+  {
+    "rank": 7,
+    "name": "mvschwarz/openrig",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,792",
+    "forks": "141",
+    "link": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "rank": 8,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,326",
+    "forks": "1,806",
+    "link": "https://github.com/dream-num/univer"
+  }
+]
