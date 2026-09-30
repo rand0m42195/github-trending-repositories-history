@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "48,342",
+    "forks": "5,416",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 2,
+    "name": "NVIDIA/OpenShell",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,706",
+    "forks": "1,428",
+    "link": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "rank": 3,
+    "name": "vectorize-io/hindsight",
+    "description": "",
+    "language": "Python",
+    "stars": "42,939",
+    "forks": "5,784",
+    "link": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "rank": 4,
+    "name": "paperclipai/paperclip",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "94,547",
+    "forks": "16,058",
+    "link": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "rank": 5,
+    "name": "t8y2/dbx",
+    "description": "",
+    "language": "Rust",
+    "stars": "22,171",
+    "forks": "2,092",
+    "link": "https://github.com/t8y2/dbx"
+  },
+  {
+    "rank": 6,
+    "name": "mvschwarz/openrig",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,478",
+    "forks": "178",
+    "link": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "rank": 7,
+    "name": "oblien/openship",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,880",
+    "forks": "1,242",
+    "link": "https://github.com/oblien/openship"
+  },
+  {
+    "rank": 8,
+    "name": "averygan/reclip",
+    "description": "",
+    "language": "HTML",
+    "stars": "10,185",
+    "forks": "1,540",
+    "link": "https://github.com/averygan/reclip"
+  },
+  {
+    "rank": 9,
+    "name": "cs341-illinois/coursebook",
+    "description": "",
+    "language": "TeX",
+    "stars": "3,142",
+    "forks": "277",
+    "link": "https://github.com/cs341-illinois/coursebook"
+  },
+  {
+    "rank": 10,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "",
+    "language": "Python",
+    "stars": "61,495",
+    "forks": "10,538",
+    "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "rank": 11,
+    "name": "VectifyAI/PageIndex",
+    "description": "",
+    "language": "Python",
+    "stars": "37,454",
+    "forks": "3,267",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "rank": 12,
+    "name": "willfaust/Madeira",
+    "description": "",
+    "language": "C",
+    "stars": "1,106",
+    "forks": "189",
+    "link": "https://github.com/willfaust/Madeira"
+  },
+  {
+    "rank": 13,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "21,894",
+    "forks": "1,850",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 14,
+    "name": "rakyll/hey",
+    "description": "",
+    "language": "Go",
+    "stars": "20,502",
+    "forks": "1,313",
+    "link": "https://github.com/rakyll/hey"
+  }
+]
