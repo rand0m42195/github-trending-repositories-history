@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "NVIDIA/OpenShell",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,807",
+    "forks": "1,553",
+    "link": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "rank": 2,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "50,538",
+    "forks": "5,607",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 3,
+    "name": "mvschwarz/openrig",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,061",
+    "forks": "214",
+    "link": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "rank": 4,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,515",
+    "forks": "1,769",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 5,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "149,252",
+    "forks": "8,022",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 6,
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "",
+    "language": "Python",
+    "stars": "127,605",
+    "forks": "19,959",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "rank": 7,
+    "name": "openclaw/openclaw",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "391,002",
+    "forks": "82,221",
+    "link": "https://github.com/openclaw/openclaw"
+  },
+  {
+    "rank": 8,
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "76,158",
+    "forks": "8,880",
+    "link": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "rank": 9,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "273,051",
+    "forks": "22,962",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 10,
+    "name": "heygen-com/hyperframes",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "54,770",
+    "forks": "4,977",
+    "link": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "rank": 11,
+    "name": "firebase/firebase-ios-sdk",
+    "description": "",
+    "language": "C++",
+    "stars": "6,774",
+    "forks": "1,800",
+    "link": "https://github.com/firebase/firebase-ios-sdk"
+  },
+  {
+    "rank": 12,
+    "name": "modelcontextprotocol/servers",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "90,830",
+    "forks": "11,728",
+    "link": "https://github.com/modelcontextprotocol/servers"
+  },
+  {
+    "rank": 13,
+    "name": "byoungd/up",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "66,423",
+    "forks": "6,639",
+    "link": "https://github.com/byoungd/up"
+  },
+  {
+    "rank": 14,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "C",
+    "stars": "72,617",
+    "forks": "4,664",
+    "link": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "rank": 15,
+    "name": "t8y2/dbx",
+    "description": "",
+    "language": "Rust",
+    "stars": "23,247",
+    "forks": "2,153",
+    "link": "https://github.com/t8y2/dbx"
+  },
+  {
+    "rank": 16,
+    "name": "NawfalMotii79/PLFM_RADAR",
+    "description": "",
+    "language": "PLSQL",
+    "stars": "26,433",
+    "forks": "5,973",
+    "link": "https://github.com/NawfalMotii79/PLFM_RADAR"
+  },
+  {
+    "rank": 17,
+    "name": "VectifyAI/PageIndex",
+    "description": "",
+    "language": "Python",
+    "stars": "38,162",
+    "forks": "3,310",
+    "link": "https://github.com/VectifyAI/PageIndex"
+  }
+]
