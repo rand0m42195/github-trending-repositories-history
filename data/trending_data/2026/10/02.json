@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "150,604",
+    "forks": "8,086",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "273,961",
+    "forks": "23,000",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "NVIDIA/OpenShell",
+    "description": "",
+    "language": "Rust",
+    "stars": "14,056",
+    "forks": "1,630",
+    "link": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "rank": 4,
+    "name": "firebase/firebase-ios-sdk",
+    "description": "",
+    "language": "C++",
+    "stars": "6,868",
+    "forks": "1,807",
+    "link": "https://github.com/firebase/firebase-ios-sdk"
+  },
+  {
+    "rank": 5,
+    "name": "mvschwarz/openrig",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,767",
+    "forks": "250",
+    "link": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "rank": 6,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,333",
+    "forks": "883",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 7,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "294,011",
+    "forks": "26,296",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 8,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,800",
+    "forks": "1,785",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 9,
+    "name": "heygen-com/hyperframes",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "55,377",
+    "forks": "5,022",
+    "link": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "rank": 10,
+    "name": "earendil-works/pi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "111,270",
+    "forks": "14,135",
+    "link": "https://github.com/earendil-works/pi"
+  },
+  {
+    "rank": 11,
+    "name": "tile-ai/tilelang",
+    "description": "",
+    "language": "Python",
+    "stars": "8,128",
+    "forks": "818",
+    "link": "https://github.com/tile-ai/tilelang"
+  },
+  {
+    "rank": 12,
+    "name": "pablostanley/yoinks",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,982",
+    "forks": "280",
+    "link": "https://github.com/pablostanley/yoinks"
+  },
+  {
+    "rank": 13,
+    "name": "HunxByts/GhostTrack",
+    "description": "",
+    "language": "Python",
+    "stars": "16,440",
+    "forks": "2,257",
+    "link": "https://github.com/HunxByts/GhostTrack"
+  },
+  {
+    "rank": 14,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "73,727",
+    "forks": "4,441",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 15,
+    "name": "Friedrich-M/UniMate",
+    "description": "",
+    "language": "Python",
+    "stars": "1,092",
+    "forks": "102",
+    "link": "https://github.com/Friedrich-M/UniMate"
+  }
+]
