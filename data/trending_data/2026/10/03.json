@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "88,730",
+    "forks": "7,814",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 2,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "Go",
+    "stars": "109,125",
+    "forks": "6,316",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 3,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "294,492",
+    "forks": "26,322",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 4,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "151,874",
+    "forks": "8,145",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 5,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "74,362",
+    "forks": "4,484",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 6,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "274,753",
+    "forks": "23,062",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 7,
+    "name": "NVIDIA/OpenShell",
+    "description": "",
+    "language": "Rust",
+    "stars": "14,452",
+    "forks": "1,660",
+    "link": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "rank": 8,
+    "name": "coreyhaines31/marketingskills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "52,433",
+    "forks": "7,880",
+    "link": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "rank": 9,
+    "name": "heygen-com/hyperframes",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "55,928",
+    "forks": "5,037",
+    "link": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "rank": 10,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,054",
+    "forks": "1,799",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 11,
+    "name": "google/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "20,763",
+    "forks": "1,723",
+    "link": "https://github.com/google/skills"
+  },
+  {
+    "rank": 12,
+    "name": "getsentry/sentry",
+    "description": "",
+    "language": "Python",
+    "stars": "45,042",
+    "forks": "4,893",
+    "link": "https://github.com/getsentry/sentry"
+  },
+  {
+    "rank": 13,
+    "name": "colbymchenry/codegraph",
+    "description": "",
+    "language": "C",
+    "stars": "72,985",
+    "forks": "4,684",
+    "link": "https://github.com/colbymchenry/codegraph"
+  },
+  {
+    "rank": 14,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,512",
+    "forks": "898",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 15,
+    "name": "mvschwarz/openrig",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,348",
+    "forks": "297",
+    "link": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "rank": 16,
+    "name": "Effect-TS/effect",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,568",
+    "forks": "804",
+    "link": "https://github.com/Effect-TS/effect"
+  },
+  {
+    "rank": 17,
+    "name": "pablostanley/yoinks",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,534",
+    "forks": "312",
+    "link": "https://github.com/pablostanley/yoinks"
+  }
+]
