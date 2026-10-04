@@ -1,0 +1,173 @@
+[
+  {
+    "rank": 1,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "153,527",
+    "forks": "8,245",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 2,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "75,386",
+    "forks": "4,519",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 3,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "272,309",
+    "forks": "40,662",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 4,
+    "name": "Effect-TS/effect",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,843",
+    "forks": "814",
+    "link": "https://github.com/Effect-TS/effect"
+  },
+  {
+    "rank": 5,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "Go",
+    "stars": "109,559",
+    "forks": "6,337",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 6,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "89,894",
+    "forks": "7,907",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 7,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,724",
+    "forks": "6,447",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 8,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "95,630",
+    "forks": "8,462",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 9,
+    "name": "cloudflare/cloudflare-os",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,591",
+    "forks": "1,284",
+    "link": "https://github.com/cloudflare/cloudflare-os"
+  },
+  {
+    "rank": 10,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "100,872",
+    "forks": "10,598",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 11,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "294,938",
+    "forks": "26,357",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 12,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "275,408",
+    "forks": "23,110",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 13,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,260",
+    "forks": "1,807",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 14,
+    "name": "earendil-works/pi",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "112,182",
+    "forks": "14,232",
+    "link": "https://github.com/earendil-works/pi"
+  },
+  {
+    "rank": 15,
+    "name": "getsentry/sentry",
+    "description": "",
+    "language": "Python",
+    "stars": "45,216",
+    "forks": "4,898",
+    "link": "https://github.com/getsentry/sentry"
+  },
+  {
+    "rank": 16,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "149,243",
+    "forks": "25,381",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 17,
+    "name": "jamwithai/production-agentic-rag-course",
+    "description": "",
+    "language": "Python",
+    "stars": "9,416",
+    "forks": "2,071",
+    "link": "https://github.com/jamwithai/production-agentic-rag-course"
+  },
+  {
+    "rank": 18,
+    "name": "meituan-longcat/LongCat-Video",
+    "description": "",
+    "language": "Python",
+    "stars": "8,775",
+    "forks": "1,527",
+    "link": "https://github.com/meituan-longcat/LongCat-Video"
+  },
+  {
+    "rank": 19,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "91,652",
+    "forks": "9,059",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  }
+]
