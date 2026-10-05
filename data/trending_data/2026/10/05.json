@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "tester-army/e2e",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,214",
+    "forks": "121",
+    "link": "https://github.com/tester-army/e2e"
+  },
+  {
+    "rank": 2,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "76,357",
+    "forks": "4,555",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 3,
+    "name": "coreyhaines31/marketingskills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "53,119",
+    "forks": "7,920",
+    "link": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "rank": 4,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "154,954",
+    "forks": "8,329",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 5,
+    "name": "earthtojake/text-to-cad",
+    "description": "",
+    "language": "Python",
+    "stars": "16,900",
+    "forks": "1,745",
+    "link": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "rank": 6,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "90,972",
+    "forks": "7,990",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 7,
+    "name": "getsentry/sentry",
+    "description": "",
+    "language": "Python",
+    "stars": "45,400",
+    "forks": "4,904",
+    "link": "https://github.com/getsentry/sentry"
+  },
+  {
+    "rank": 8,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "63,263",
+    "forks": "8,063",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 9,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,203",
+    "forks": "6,518",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 10,
+    "name": "caddyserver/caddy",
+    "description": "",
+    "language": "Go",
+    "stars": "76,597",
+    "forks": "5,048",
+    "link": "https://github.com/caddyserver/caddy"
+  },
+  {
+    "rank": 11,
+    "name": "michael-denyer/pstack-claude",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "1,165",
+    "forks": "129",
+    "link": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "rank": 12,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "101,238",
+    "forks": "10,621",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 13,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "96,165",
+    "forks": "8,492",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 14,
+    "name": "garrytan/gstack",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "135,182",
+    "forks": "20,092",
+    "link": "https://github.com/garrytan/gstack"
+  },
+  {
+    "rank": 15,
+    "name": "OpenCut-app/OpenCut",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "92,188",
+    "forks": "9,084",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "rank": 16,
+    "name": "antirez/ds4",
+    "description": "",
+    "language": "C",
+    "stars": "23,462",
+    "forks": "2,254",
+    "link": "https://github.com/antirez/ds4"
+  }
+]
