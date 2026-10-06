@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "tester-army/e2e",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,940",
+    "forks": "206",
+    "link": "https://github.com/tester-army/e2e"
+  },
+  {
+    "rank": 2,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "96,679",
+    "forks": "8,531",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 3,
+    "name": "michael-denyer/pstack-claude",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "1,437",
+    "forks": "154",
+    "link": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "rank": 4,
+    "name": "earthtojake/text-to-cad",
+    "description": "",
+    "language": "Python",
+    "stars": "17,491",
+    "forks": "1,770",
+    "link": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "rank": 5,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,651",
+    "forks": "6,608",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 6,
+    "name": "boykopovar/AnyPS5",
+    "description": "",
+    "language": "C++",
+    "stars": "5,028",
+    "forks": "371",
+    "link": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "rank": 7,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "91,990",
+    "forks": "8,075",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 8,
+    "name": "calesthio/OpenMontage",
+    "description": "",
+    "language": "Python",
+    "stars": "64,139",
+    "forks": "8,135",
+    "link": "https://github.com/calesthio/OpenMontage"
+  },
+  {
+    "rank": 9,
+    "name": "caddyserver/caddy",
+    "description": "",
+    "language": "Go",
+    "stars": "77,182",
+    "forks": "5,078",
+    "link": "https://github.com/caddyserver/caddy"
+  },
+  {
+    "rank": 10,
+    "name": "DuarteSantos8/openGym",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "4,336",
+    "forks": "661",
+    "link": "https://github.com/DuarteSantos8/openGym"
+  },
+  {
+    "rank": 11,
+    "name": "cloudflare/cloudflare-os",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,050",
+    "forks": "1,311",
+    "link": "https://github.com/cloudflare/cloudflare-os"
+  },
+  {
+    "rank": 12,
+    "name": "Stremio/stremio-web",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "14,327",
+    "forks": "1,632",
+    "link": "https://github.com/Stremio/stremio-web"
+  },
+  {
+    "rank": 13,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "157,332",
+    "forks": "25,375",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 14,
+    "name": "M-Abozaid/esp32-c3-adblock",
+    "description": "",
+    "language": "C++",
+    "stars": "1,406",
+    "forks": "124",
+    "link": "https://github.com/M-Abozaid/esp32-c3-adblock"
+  }
+]
