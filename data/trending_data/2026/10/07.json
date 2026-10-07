@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "tester-army/e2e",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,437",
+    "forks": "289",
+    "link": "https://github.com/tester-army/e2e"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "278,231",
+    "forks": "23,298",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "earthtojake/text-to-cad",
+    "description": "",
+    "language": "Python",
+    "stars": "18,029",
+    "forks": "1,805",
+    "link": "https://github.com/earthtojake/text-to-cad"
+  },
+  {
+    "rank": 4,
+    "name": "boykopovar/AnyPS5",
+    "description": "",
+    "language": "C++",
+    "stars": "6,718",
+    "forks": "500",
+    "link": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "rank": 5,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "77,747",
+    "forks": "4,630",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 6,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "97,216",
+    "forks": "8,567",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 7,
+    "name": "ayghri/i-have-adhd",
+    "description": "",
+    "language": "Python",
+    "stars": "54,461",
+    "forks": "3,128",
+    "link": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "rank": 8,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,777",
+    "forks": "1,091",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 9,
+    "name": "deepseek-ai/DeepGEMM",
+    "description": "",
+    "language": "Cuda",
+    "stars": "8,735",
+    "forks": "1,376",
+    "link": "https://github.com/deepseek-ai/DeepGEMM"
+  },
+  {
+    "rank": 10,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "157,871",
+    "forks": "25,451",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 11,
+    "name": "DuarteSantos8/openGym",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "5,797",
+    "forks": "794",
+    "link": "https://github.com/DuarteSantos8/openGym"
+  },
+  {
+    "rank": 12,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "44,095",
+    "forks": "2,843",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  }
+]
