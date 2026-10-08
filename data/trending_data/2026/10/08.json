@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,030",
+    "forks": "1,669",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "279,782",
+    "forks": "23,453",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "boykopovar/AnyPS5",
+    "description": "",
+    "language": "C++",
+    "stars": "10,932",
+    "forks": "830",
+    "link": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "rank": 4,
+    "name": "ayghri/i-have-adhd",
+    "description": "",
+    "language": "Python",
+    "stars": "55,226",
+    "forks": "3,164",
+    "link": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "rank": 5,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "45,099",
+    "forks": "2,898",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 6,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "102,894",
+    "forks": "10,776",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 7,
+    "name": "EpicGames/raddebugger",
+    "description": "",
+    "language": "C",
+    "stars": "7,897",
+    "forks": "384",
+    "link": "https://github.com/EpicGames/raddebugger"
+  },
+  {
+    "rank": 8,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "97,805",
+    "forks": "8,607",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 9,
+    "name": "manaflow-ai/cmux",
+    "description": "",
+    "language": "Swift",
+    "stars": "27,885",
+    "forks": "2,463",
+    "link": "https://github.com/manaflow-ai/cmux"
+  },
+  {
+    "rank": 10,
+    "name": "trycua/cua",
+    "description": "",
+    "language": "Rust",
+    "stars": "28,805",
+    "forks": "2,041",
+    "link": "https://github.com/trycua/cua"
+  },
+  {
+    "rank": 11,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "26,125",
+    "forks": "1,570",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 12,
+    "name": "tester-army/e2e",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,596",
+    "forks": "346",
+    "link": "https://github.com/tester-army/e2e"
+  },
+  {
+    "rank": 13,
+    "name": "DuarteSantos8/openGym",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "7,077",
+    "forks": "924",
+    "link": "https://github.com/DuarteSantos8/openGym"
+  }
+]
