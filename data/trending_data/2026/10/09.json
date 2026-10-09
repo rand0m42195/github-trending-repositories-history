@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "boykopovar/AnyPS5",
+    "description": "",
+    "language": "C++",
+    "stars": "16,250",
+    "forks": "1,282",
+    "link": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "rank": 2,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "46,568",
+    "forks": "2,959",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 3,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "28,483",
+    "forks": "3,329",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 4,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "281,263",
+    "forks": "23,569",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 5,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "98,578",
+    "forks": "8,644",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 6,
+    "name": "EpicGames/raddebugger",
+    "description": "",
+    "language": "C",
+    "stars": "8,147",
+    "forks": "391",
+    "link": "https://github.com/EpicGames/raddebugger"
+  },
+  {
+    "rank": 7,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "",
+    "language": "Python",
+    "stars": "27,689",
+    "forks": "3,211",
+    "link": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "rank": 8,
+    "name": "storytold/artcraft",
+    "description": "",
+    "language": "Rust",
+    "stars": "8,307",
+    "forks": "1,187",
+    "link": "https://github.com/storytold/artcraft"
+  },
+  {
+    "rank": 9,
+    "name": "liquidslr/system-design-notes",
+    "description": "",
+    "language": "",
+    "stars": "24,750",
+    "forks": "4,613",
+    "link": "https://github.com/liquidslr/system-design-notes"
+  }
+]
