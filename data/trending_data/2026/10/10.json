@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "48,982",
+    "forks": "8,303",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 2,
+    "name": "boykopovar/AnyPS5",
+    "description": "",
+    "language": "C++",
+    "stars": "22,707",
+    "forks": "1,858",
+    "link": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "rank": 3,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "282,870",
+    "forks": "23,700",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 4,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "47,997",
+    "forks": "3,040",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 5,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "45,330",
+    "forks": "3,270",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 6,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "",
+    "language": "Python",
+    "stars": "28,318",
+    "forks": "3,250",
+    "link": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "rank": 7,
+    "name": "BerriAI/litellm",
+    "description": "",
+    "language": "Python",
+    "stars": "60,703",
+    "forks": "12,194",
+    "link": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "rank": 8,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "104,053",
+    "forks": "10,870",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 9,
+    "name": "storytold/artcraft",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,748",
+    "forks": "1,776",
+    "link": "https://github.com/storytold/artcraft"
+  },
+  {
+    "rank": 10,
+    "name": "Robbyant/lingbot-map",
+    "description": "",
+    "language": "Python",
+    "stars": "17,744",
+    "forks": "1,954",
+    "link": "https://github.com/Robbyant/lingbot-map"
+  },
+  {
+    "rank": 11,
+    "name": "twostraws/SwiftUI-Agent-Skill",
+    "description": "",
+    "language": "",
+    "stars": "5,489",
+    "forks": "196",
+    "link": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+  }
+]
