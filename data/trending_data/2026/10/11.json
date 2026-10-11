@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "74,321",
+    "forks": "15,732",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 2,
+    "name": "boykopovar/AnyPS5",
+    "description": "",
+    "language": "C++",
+    "stars": "27,041",
+    "forks": "2,268",
+    "link": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "rank": 3,
+    "name": "storytold/artcraft",
+    "description": "",
+    "language": "Rust",
+    "stars": "14,643",
+    "forks": "2,313",
+    "link": "https://github.com/storytold/artcraft"
+  },
+  {
+    "rank": 4,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "49,024",
+    "forks": "3,097",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 5,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "26,345",
+    "forks": "1,897",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 6,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "284,592",
+    "forks": "23,816",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 7,
+    "name": "flutter/flutter",
+    "description": "",
+    "language": "Dart",
+    "stars": "179,547",
+    "forks": "33,605",
+    "link": "https://github.com/flutter/flutter"
+  },
+  {
+    "rank": 8,
+    "name": "tensorflow/tensorflow",
+    "description": "",
+    "language": "C++",
+    "stars": "200,739",
+    "forks": "78,968",
+    "link": "https://github.com/tensorflow/tensorflow"
+  },
+  {
+    "rank": 9,
+    "name": "hugohe3/ppt-master",
+    "description": "",
+    "language": "Python",
+    "stars": "59,531",
+    "forks": "4,693",
+    "link": "https://github.com/hugohe3/ppt-master"
+  },
+  {
+    "rank": 10,
+    "name": "pytorch/pytorch",
+    "description": "",
+    "language": "Python",
+    "stars": "104,154",
+    "forks": "31,959",
+    "link": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "rank": 11,
+    "name": "huggingface/transformers",
+    "description": "",
+    "language": "Python",
+    "stars": "167,287",
+    "forks": "34,799",
+    "link": "https://github.com/huggingface/transformers"
+  },
+  {
+    "rank": 12,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "",
+    "language": "Python",
+    "stars": "28,844",
+    "forks": "3,279",
+    "link": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "rank": 13,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "218,325",
+    "forks": "21,985",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  }
+]
