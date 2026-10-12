@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "109,951",
+    "forks": "24,427",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 2,
+    "name": "boykopovar/AnyPS5",
+    "description": "",
+    "language": "C++",
+    "stars": "30,373",
+    "forks": "2,612",
+    "link": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "rank": 3,
+    "name": "storytold/artcraft",
+    "description": "",
+    "language": "Rust",
+    "stars": "18,276",
+    "forks": "2,988",
+    "link": "https://github.com/storytold/artcraft"
+  },
+  {
+    "rank": 4,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "50,548",
+    "forks": "3,208",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 5,
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "51,849",
+    "forks": "10,397",
+    "link": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "rank": 6,
+    "name": "pytorch/pytorch",
+    "description": "",
+    "language": "Python",
+    "stars": "104,547",
+    "forks": "32,145",
+    "link": "https://github.com/pytorch/pytorch"
+  },
+  {
+    "rank": 7,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "36,579",
+    "forks": "3,821",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 8,
+    "name": "chrislgarry/Apollo-11",
+    "description": "",
+    "language": "Assembly",
+    "stars": "74,299",
+    "forks": "8,109",
+    "link": "https://github.com/chrislgarry/Apollo-11"
+  }
+]
