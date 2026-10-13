@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "166,817",
+    "forks": "39,549",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 2,
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "53,947",
+    "forks": "10,636",
+    "link": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "rank": 3,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "27,432",
+    "forks": "1,952",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 4,
+    "name": "storytold/artcraft",
+    "description": "",
+    "language": "Rust",
+    "stars": "22,611",
+    "forks": "3,630",
+    "link": "https://github.com/storytold/artcraft"
+  },
+  {
+    "rank": 5,
+    "name": "open-webui/open-webui",
+    "description": "",
+    "language": "Python",
+    "stars": "155,185",
+    "forks": "22,654",
+    "link": "https://github.com/open-webui/open-webui"
+  },
+  {
+    "rank": 6,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "52,891",
+    "forks": "3,343",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 7,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "37,657",
+    "forks": "3,879",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 8,
+    "name": "microsoft/BitNet",
+    "description": "",
+    "language": "C++",
+    "stars": "40,963",
+    "forks": "3,815",
+    "link": "https://github.com/microsoft/BitNet"
+  },
+  {
+    "rank": 9,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "59,326",
+    "forks": "9,341",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  }
+]
