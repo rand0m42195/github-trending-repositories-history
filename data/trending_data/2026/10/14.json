@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "210,257",
+    "forks": "51,541",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 2,
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "55,516",
+    "forks": "10,844",
+    "link": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "rank": 3,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "63,531",
+    "forks": "7,061",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 4,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "28,303",
+    "forks": "1,997",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 5,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "54,248",
+    "forks": "3,441",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 6,
+    "name": "vercel-labs/skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "34,560",
+    "forks": "2,953",
+    "link": "https://github.com/vercel-labs/skills"
+  },
+  {
+    "rank": 7,
+    "name": "lyogavin/airllm",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "38,373",
+    "forks": "3,924",
+    "link": "https://github.com/lyogavin/airllm"
+  },
+  {
+    "rank": 8,
+    "name": "storytold/artcraft",
+    "description": "",
+    "language": "Rust",
+    "stars": "25,837",
+    "forks": "4,051",
+    "link": "https://github.com/storytold/artcraft"
+  },
+  {
+    "rank": 9,
+    "name": "xtool-org/xtool",
+    "description": "",
+    "language": "Swift",
+    "stars": "9,477",
+    "forks": "404",
+    "link": "https://github.com/xtool-org/xtool"
+  }
+]
