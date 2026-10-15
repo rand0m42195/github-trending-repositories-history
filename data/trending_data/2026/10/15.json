@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "243,985",
+    "forks": "60,939",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 2,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "66,506",
+    "forks": "7,324",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 3,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "29,176",
+    "forks": "2,047",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 4,
+    "name": "nvm-sh/nvm",
+    "description": "",
+    "language": "Shell",
+    "stars": "95,467",
+    "forks": "10,518",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 5,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "49,405",
+    "forks": "4,424",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 6,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "52,549",
+    "forks": "4,774",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 7,
+    "name": "ifixai-ai/iFixAi",
+    "description": "",
+    "language": "Python",
+    "stars": "27,496",
+    "forks": "1,506",
+    "link": "https://github.com/ifixai-ai/iFixAi"
+  },
+  {
+    "rank": 8,
+    "name": "vxcontrol/pentagi",
+    "description": "",
+    "language": "Go",
+    "stars": "29,562",
+    "forks": "4,437",
+    "link": "https://github.com/vxcontrol/pentagi"
+  },
+  {
+    "rank": 9,
+    "name": "rust-lang/rust",
+    "description": "",
+    "language": "Rust",
+    "stars": "120,064",
+    "forks": "18,701",
+    "link": "https://github.com/rust-lang/rust"
+  },
+  {
+    "rank": 10,
+    "name": "xtool-org/xtool",
+    "description": "",
+    "language": "Swift",
+    "stars": "10,891",
+    "forks": "494",
+    "link": "https://github.com/xtool-org/xtool"
+  },
+  {
+    "rank": 11,
+    "name": "ntdevlabs/tiny11builder",
+    "description": "",
+    "language": "C#",
+    "stars": "20,253",
+    "forks": "1,556",
+    "link": "https://github.com/ntdevlabs/tiny11builder"
+  },
+  {
+    "rank": 12,
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "",
+    "language": "Java",
+    "stars": "87,576",
+    "forks": "9,773",
+    "link": "https://github.com/NationalSecurityAgency/ghidra"
+  }
+]
