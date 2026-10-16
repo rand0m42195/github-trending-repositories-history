@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "morluto/rea",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "271,486",
+    "forks": "68,218",
+    "link": "https://github.com/morluto/rea"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "39,149",
+    "forks": "4,328",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 3,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "50,524",
+    "forks": "4,490",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "Go",
+    "stars": "112,591",
+    "forks": "6,523",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 5,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "69,177",
+    "forks": "7,570",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 6,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "299,933",
+    "forks": "26,785",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 7,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "75,149",
+    "forks": "8,929",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 8,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "29,809",
+    "forks": "2,083",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 9,
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "",
+    "language": "Java",
+    "stars": "88,811",
+    "forks": "9,913",
+    "link": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  {
+    "rank": 10,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "280,432",
+    "forks": "41,708",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 11,
+    "name": "lightseekorg/tokenspeed",
+    "description": "",
+    "language": "Python",
+    "stars": "2,507",
+    "forks": "336",
+    "link": "https://github.com/lightseekorg/tokenspeed"
+  },
+  {
+    "rank": 12,
+    "name": "xerj-org/xerj",
+    "description": "",
+    "language": "Rust",
+    "stars": "5,708",
+    "forks": "310",
+    "link": "https://github.com/xerj-org/xerj"
+  }
+]
