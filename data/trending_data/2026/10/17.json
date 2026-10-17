@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "40,617",
+    "forks": "4,402",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 2,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "51,535",
+    "forks": "4,564",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 3,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "281,542",
+    "forks": "41,859",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 4,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "53,521",
+    "forks": "4,851",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 5,
+    "name": "mksglu/context-mode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "30,246",
+    "forks": "2,128",
+    "link": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "rank": 6,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "75,650",
+    "forks": "8,968",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 7,
+    "name": "android/skills",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "8,089",
+    "forks": "536",
+    "link": "https://github.com/android/skills"
+  },
+  {
+    "rank": 8,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "300,691",
+    "forks": "26,843",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 9,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,973",
+    "forks": "1,163",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 10,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "71,283",
+    "forks": "7,797",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 11,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "Python",
+    "stars": "48,556",
+    "forks": "16,642",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 12,
+    "name": "hmjz100/LinkSwift",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "23,734",
+    "forks": "1,437",
+    "link": "https://github.com/hmjz100/LinkSwift"
+  },
+  {
+    "rank": 13,
+    "name": "xerj-org/xerj",
+    "description": "",
+    "language": "Rust",
+    "stars": "6,967",
+    "forks": "353",
+    "link": "https://github.com/xerj-org/xerj"
+  }
+]
