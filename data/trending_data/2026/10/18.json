@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "41,796",
+    "forks": "4,465",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 2,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "Python",
+    "stars": "50,461",
+    "forks": "16,942",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 3,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "282,539",
+    "forks": "41,988",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 4,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "54,078",
+    "forks": "4,907",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 5,
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "52,269",
+    "forks": "4,631",
+    "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "rank": 6,
+    "name": "akitaonrails/ai-memory",
+    "description": "",
+    "language": "Rust",
+    "stars": "9,928",
+    "forks": "719",
+    "link": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "rank": 7,
+    "name": "android/skills",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "8,436",
+    "forks": "555",
+    "link": "https://github.com/android/skills"
+  },
+  {
+    "rank": 8,
+    "name": "stablyai/orca",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "95,446",
+    "forks": "6,114",
+    "link": "https://github.com/stablyai/orca"
+  },
+  {
+    "rank": 9,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "151,775",
+    "forks": "26,878",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 10,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "73,430",
+    "forks": "8,035",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 11,
+    "name": "anomalyco/opencode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "215,378",
+    "forks": "28,867",
+    "link": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "rank": 12,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "76,089",
+    "forks": "9,002",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 13,
+    "name": "xerj-org/xerj",
+    "description": "",
+    "language": "Rust",
+    "stars": "7,825",
+    "forks": "417",
+    "link": "https://github.com/xerj-org/xerj"
+  }
+]
