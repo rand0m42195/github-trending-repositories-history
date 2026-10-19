@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "Python",
+    "stars": "53,394",
+    "forks": "17,415",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/claude-plugins-official",
+    "description": "",
+    "language": "Python",
+    "stars": "42,736",
+    "forks": "4,535",
+    "link": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "rank": 3,
+    "name": "anomalyco/opencode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "216,655",
+    "forks": "29,005",
+    "link": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "rank": 4,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,766",
+    "forks": "1,258",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 5,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "76,554",
+    "forks": "9,050",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 6,
+    "name": "akitaonrails/ai-memory",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,531",
+    "forks": "753",
+    "link": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "rank": 7,
+    "name": "stablyai/orca",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "96,735",
+    "forks": "6,177",
+    "link": "https://github.com/stablyai/orca"
+  },
+  {
+    "rank": 8,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "54,624",
+    "forks": "4,949",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 9,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "75,505",
+    "forks": "8,270",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 10,
+    "name": "android/skills",
+    "description": "",
+    "language": "Kotlin",
+    "stars": "8,797",
+    "forks": "568",
+    "link": "https://github.com/android/skills"
+  },
+  {
+    "rank": 11,
+    "name": "mlabonne/llm-course",
+    "description": "",
+    "language": "",
+    "stars": "84,062",
+    "forks": "9,784",
+    "link": "https://github.com/mlabonne/llm-course"
+  },
+  {
+    "rank": 12,
+    "name": "Kruk2/jasna",
+    "description": "",
+    "language": "Python",
+    "stars": "2,439",
+    "forks": "188",
+    "link": "https://github.com/Kruk2/jasna"
+  },
+  {
+    "rank": 13,
+    "name": "Comfy-Org/ComfyUI",
+    "description": "",
+    "language": "Python",
+    "stars": "138,659",
+    "forks": "16,505",
+    "link": "https://github.com/Comfy-Org/ComfyUI"
+  }
+]
