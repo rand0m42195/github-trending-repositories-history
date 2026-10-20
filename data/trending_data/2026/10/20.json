@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "Python",
+    "stars": "57,494",
+    "forks": "18,245",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 2,
+    "name": "anomalyco/opencode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "217,882",
+    "forks": "29,118",
+    "link": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "rank": 3,
+    "name": "akitaonrails/ai-memory",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,405",
+    "forks": "811",
+    "link": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "rank": 4,
+    "name": "Comfy-Org/ComfyUI",
+    "description": "",
+    "language": "Python",
+    "stars": "139,799",
+    "forks": "16,587",
+    "link": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "rank": 5,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "77,226",
+    "forks": "9,104",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 6,
+    "name": "stablyai/orca",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "98,370",
+    "forks": "6,273",
+    "link": "https://github.com/stablyai/orca"
+  },
+  {
+    "rank": 7,
+    "name": "headroomlabs-ai/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "76,280",
+    "forks": "5,923",
+    "link": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "rank": 8,
+    "name": "withmarbleapp/os-taxonomy",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "6,173",
+    "forks": "1,010",
+    "link": "https://github.com/withmarbleapp/os-taxonomy"
+  },
+  {
+    "rank": 9,
+    "name": "Kruk2/jasna",
+    "description": "",
+    "language": "Python",
+    "stars": "2,939",
+    "forks": "213",
+    "link": "https://github.com/Kruk2/jasna"
+  },
+  {
+    "rank": 10,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "55,282",
+    "forks": "4,986",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 11,
+    "name": "anthropics/claude-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "152,678",
+    "forks": "27,144",
+    "link": "https://github.com/anthropics/claude-code"
+  },
+  {
+    "rank": 12,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "41,716",
+    "forks": "6,932",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  }
+]
