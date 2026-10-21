@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "",
+    "language": "Python",
+    "stars": "60,770",
+    "forks": "18,927",
+    "link": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "rank": 2,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "34,348",
+    "forks": "2,149",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 3,
+    "name": "stablyai/orca",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "99,824",
+    "forks": "6,327",
+    "link": "https://github.com/stablyai/orca"
+  },
+  {
+    "rank": 4,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "169,807",
+    "forks": "9,233",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 5,
+    "name": "Comfy-Org/ComfyUI",
+    "description": "",
+    "language": "Python",
+    "stars": "140,829",
+    "forks": "16,667",
+    "link": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "rank": 6,
+    "name": "ruvnet/ruflo",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "77,877",
+    "forks": "9,160",
+    "link": "https://github.com/ruvnet/ruflo"
+  },
+  {
+    "rank": 7,
+    "name": "Graphify-Labs/graphify",
+    "description": "",
+    "language": "Python",
+    "stars": "130,329",
+    "forks": "12,545",
+    "link": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "rank": 8,
+    "name": "anomalyco/opencode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "218,992",
+    "forks": "29,214",
+    "link": "https://github.com/anomalyco/opencode"
+  },
+  {
+    "rank": 9,
+    "name": "msitarzewski/agency-agents",
+    "description": "",
+    "language": "Shell",
+    "stars": "162,400",
+    "forks": "26,231",
+    "link": "https://github.com/msitarzewski/agency-agents"
+  },
+  {
+    "rank": 10,
+    "name": "headroomlabs-ai/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "76,792",
+    "forks": "5,960",
+    "link": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "rank": 11,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "",
+    "language": "Python",
+    "stars": "30,815",
+    "forks": "3,464",
+    "link": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "rank": 12,
+    "name": "wshobson/agents",
+    "description": "",
+    "language": "Python",
+    "stars": "41,273",
+    "forks": "4,393",
+    "link": "https://github.com/wshobson/agents"
+  },
+  {
+    "rank": 13,
+    "name": "sickn33/agentic-awesome-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "48,122",
+    "forks": "7,022",
+    "link": "https://github.com/sickn33/agentic-awesome-skills"
+  },
+  {
+    "rank": 14,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "42,378",
+    "forks": "7,014",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 15,
+    "name": "vllm-project/vllm",
+    "description": "",
+    "language": "Python",
+    "stars": "94,459",
+    "forks": "23,675",
+    "link": "https://github.com/vllm-project/vllm"
+  }
+]
