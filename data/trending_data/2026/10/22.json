@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "36,628",
+    "forks": "2,287",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 2,
+    "name": "vllm-project/vllm",
+    "description": "",
+    "language": "Python",
+    "stars": "94,908",
+    "forks": "23,750",
+    "link": "https://github.com/vllm-project/vllm"
+  },
+  {
+    "rank": 3,
+    "name": "stablyai/orca",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "101,365",
+    "forks": "6,411",
+    "link": "https://github.com/stablyai/orca"
+  },
+  {
+    "rank": 4,
+    "name": "headroomlabs-ai/headroom",
+    "description": "",
+    "language": "Python",
+    "stars": "77,289",
+    "forks": "5,996",
+    "link": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "rank": 5,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "171,750",
+    "forks": "9,345",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 6,
+    "name": "Comfy-Org/ComfyUI",
+    "description": "",
+    "language": "Python",
+    "stars": "141,565",
+    "forks": "16,731",
+    "link": "https://github.com/Comfy-Org/ComfyUI"
+  },
+  {
+    "rank": 7,
+    "name": "supabase/supabase",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "113,040",
+    "forks": "16,941",
+    "link": "https://github.com/supabase/supabase"
+  },
+  {
+    "rank": 8,
+    "name": "twentyhq/twenty",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "59,209",
+    "forks": "9,665",
+    "link": "https://github.com/twentyhq/twenty"
+  },
+  {
+    "rank": 9,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "42,857",
+    "forks": "7,071",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 10,
+    "name": "strelov1/freehire",
+    "description": "",
+    "language": "Go",
+    "stars": "2,439",
+    "forks": "248",
+    "link": "https://github.com/strelov1/freehire"
+  },
+  {
+    "rank": 11,
+    "name": "akitaonrails/ai-memory",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,366",
+    "forks": "873",
+    "link": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "rank": 12,
+    "name": "Graphify-Labs/graphify",
+    "description": "",
+    "language": "Python",
+    "stars": "131,710",
+    "forks": "12,641",
+    "link": "https://github.com/Graphify-Labs/graphify"
+  }
+]
