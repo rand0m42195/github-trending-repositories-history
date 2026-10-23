@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "php/php-src",
+    "description": "",
+    "language": "C",
+    "stars": "41,200",
+    "forks": "8,316",
+    "link": "https://github.com/php/php-src"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "",
+    "language": "Python",
+    "stars": "31,655",
+    "forks": "3,536",
+    "link": "https://github.com/anthropics/knowledge-work-plugins"
+  },
+  {
+    "rank": 3,
+    "name": "DietrichGebert/ponytail",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "173,587",
+    "forks": "9,447",
+    "link": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "rank": 4,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "39,680",
+    "forks": "2,477",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 5,
+    "name": "Graphify-Labs/graphify",
+    "description": "",
+    "language": "Python",
+    "stars": "133,025",
+    "forks": "12,728",
+    "link": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "rank": 6,
+    "name": "supabase/supabase",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "113,514",
+    "forks": "17,004",
+    "link": "https://github.com/supabase/supabase"
+  },
+  {
+    "rank": 7,
+    "name": "fastapi/fastapi",
+    "description": "",
+    "language": "Python",
+    "stars": "103,782",
+    "forks": "10,091",
+    "link": "https://github.com/fastapi/fastapi"
+  },
+  {
+    "rank": 8,
+    "name": "luongnv89/claude-howto",
+    "description": "",
+    "language": "Python",
+    "stars": "43,281",
+    "forks": "5,396",
+    "link": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "rank": 9,
+    "name": "Meloong-Git/PCL",
+    "description": "",
+    "language": "Visual Basic .NET",
+    "stars": "8,718",
+    "forks": "1,204",
+    "link": "https://github.com/Meloong-Git/PCL"
+  }
+]
