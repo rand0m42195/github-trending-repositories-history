@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "44,658",
+    "forks": "2,769",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 2,
+    "name": "NVIDIA/OpenShell",
+    "description": "",
+    "language": "Rust",
+    "stars": "19,495",
+    "forks": "1,932",
+    "link": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "rank": 3,
+    "name": "aws/agent-toolkit-for-aws",
+    "description": "",
+    "language": "Python",
+    "stars": "3,142",
+    "forks": "400",
+    "link": "https://github.com/aws/agent-toolkit-for-aws"
+  },
+  {
+    "rank": 4,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "32,192",
+    "forks": "1,653",
+    "link": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "rank": 5,
+    "name": "luongnv89/claude-howto",
+    "description": "",
+    "language": "Python",
+    "stars": "44,587",
+    "forks": "5,495",
+    "link": "https://github.com/luongnv89/claude-howto"
+  },
+  {
+    "rank": 6,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "Rust",
+    "stars": "86,451",
+    "forks": "5,155",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 7,
+    "name": "pollen-robotics/microduck",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,019",
+    "forks": "1,415",
+    "link": "https://github.com/pollen-robotics/microduck"
+  },
+  {
+    "rank": 8,
+    "name": "google-gemini/gemini-cli",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "108,078",
+    "forks": "14,810",
+    "link": "https://github.com/google-gemini/gemini-cli"
+  },
+  {
+    "rank": 9,
+    "name": "jbiaojerry/ebook-treasure-chest",
+    "description": "",
+    "language": "Python",
+    "stars": "22,643",
+    "forks": "3,192",
+    "link": "https://github.com/jbiaojerry/ebook-treasure-chest"
+  },
+  {
+    "rank": 10,
+    "name": "makecindy/cindy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,122",
+    "forks": "596",
+    "link": "https://github.com/makecindy/cindy"
+  }
+]
