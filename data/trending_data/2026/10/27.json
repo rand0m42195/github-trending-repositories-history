@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "36,567",
+    "forks": "1,906",
+    "link": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "rank": 2,
+    "name": "TauricResearch/TradingAgents",
+    "description": "",
+    "language": "Python",
+    "stars": "116,236",
+    "forks": "22,297",
+    "link": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "rank": 3,
+    "name": "JetBrains/thinkrail",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,010",
+    "forks": "164",
+    "link": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "rank": 4,
+    "name": "makecindy/cindy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,593",
+    "forks": "801",
+    "link": "https://github.com/makecindy/cindy"
+  },
+  {
+    "rank": 5,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "289,919",
+    "forks": "42,963",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 6,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "Rust",
+    "stars": "89,293",
+    "forks": "5,313",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 7,
+    "name": "NVIDIA/SkillSpector",
+    "description": "",
+    "language": "Python",
+    "stars": "22,282",
+    "forks": "1,942",
+    "link": "https://github.com/NVIDIA/SkillSpector"
+  },
+  {
+    "rank": 8,
+    "name": "pollen-robotics/microduck",
+    "description": "",
+    "language": "Rust",
+    "stars": "12,465",
+    "forks": "1,552",
+    "link": "https://github.com/pollen-robotics/microduck"
+  },
+  {
+    "rank": 9,
+    "name": "nightly-labs/openbot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,537",
+    "forks": "192",
+    "link": "https://github.com/nightly-labs/openbot"
+  },
+  {
+    "rank": 10,
+    "name": "Panniantong/Agent-Reach",
+    "description": "",
+    "language": "Python",
+    "stars": "103,740",
+    "forks": "9,200",
+    "link": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "rank": 11,
+    "name": "debpalash/VoiceStudio",
+    "description": "",
+    "language": "Python",
+    "stars": "89,435",
+    "forks": "9,863",
+    "link": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "rank": 12,
+    "name": "gitroomhq/postiz-app",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "38,515",
+    "forks": "7,460",
+    "link": "https://github.com/gitroomhq/postiz-app"
+  },
+  {
+    "rank": 13,
+    "name": "alchaincyf/huashu-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "26,932",
+    "forks": "2,973",
+    "link": "https://github.com/alchaincyf/huashu-design"
+  },
+  {
+    "rank": 14,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "",
+    "language": "",
+    "stars": "224,723",
+    "forks": "22,478",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+  }
+]
