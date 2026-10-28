@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "elayadesign/ai-design-skills",
+    "description": "",
+    "language": "",
+    "stars": "9,567",
+    "forks": "681",
+    "link": "https://github.com/elayadesign/ai-design-skills"
+  },
+  {
+    "rank": 2,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "39,162",
+    "forks": "2,042",
+    "link": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "rank": 3,
+    "name": "nightly-labs/openbot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "2,535",
+    "forks": "258",
+    "link": "https://github.com/nightly-labs/openbot"
+  },
+  {
+    "rank": 4,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "306,512",
+    "forks": "27,283",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 5,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "Rust",
+    "stars": "90,696",
+    "forks": "5,379",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 6,
+    "name": "makecindy/cindy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,544",
+    "forks": "892",
+    "link": "https://github.com/makecindy/cindy"
+  },
+  {
+    "rank": 7,
+    "name": "gitroomhq/postiz-app",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "39,460",
+    "forks": "7,524",
+    "link": "https://github.com/gitroomhq/postiz-app"
+  },
+  {
+    "rank": 8,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "290,959",
+    "forks": "43,083",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 9,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "46,101",
+    "forks": "5,775",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 10,
+    "name": "JetBrains/thinkrail",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,124",
+    "forks": "219",
+    "link": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "rank": 11,
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "",
+    "language": "",
+    "stars": "5,691",
+    "forks": "843",
+    "link": "https://github.com/togg53192-cmd/jailbreaks"
+  }
+]
