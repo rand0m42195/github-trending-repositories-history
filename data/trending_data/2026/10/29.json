@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "JetBrains/thinkrail",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,189",
+    "forks": "268",
+    "link": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "rank": 2,
+    "name": "elayadesign/ai-design-skills",
+    "description": "",
+    "language": "",
+    "stars": "11,262",
+    "forks": "813",
+    "link": "https://github.com/elayadesign/ai-design-skills"
+  },
+  {
+    "rank": 3,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "307,531",
+    "forks": "27,352",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 4,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "48,204",
+    "forks": "5,974",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 5,
+    "name": "macro-inc/macro",
+    "description": "",
+    "language": "Rust",
+    "stars": "5,467",
+    "forks": "521",
+    "link": "https://github.com/macro-inc/macro"
+  },
+  {
+    "rank": 6,
+    "name": "Nutlope/hallmark",
+    "description": "",
+    "language": "CSS",
+    "stars": "40,853",
+    "forks": "2,117",
+    "link": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "rank": 7,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "Rust",
+    "stars": "92,972",
+    "forks": "5,489",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 8,
+    "name": "makecindy/cindy",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,177",
+    "forks": "958",
+    "link": "https://github.com/makecindy/cindy"
+  },
+  {
+    "rank": 9,
+    "name": "nightly-labs/openbot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,322",
+    "forks": "318",
+    "link": "https://github.com/nightly-labs/openbot"
+  },
+  {
+    "rank": 10,
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "",
+    "language": "",
+    "stars": "7,281",
+    "forks": "1,044",
+    "link": "https://github.com/togg53192-cmd/jailbreaks"
+  },
+  {
+    "rank": 11,
+    "name": "hmjz100/LinkSwift",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "35,068",
+    "forks": "2,492",
+    "link": "https://github.com/hmjz100/LinkSwift"
+  },
+  {
+    "rank": 12,
+    "name": "expo/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "3,622",
+    "forks": "230",
+    "link": "https://github.com/expo/skills"
+  },
+  {
+    "rank": 13,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "101,129",
+    "forks": "13,165",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 14,
+    "name": "xiaolai/the-craft-of-selfteaching",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "18,580",
+    "forks": "17,894",
+    "link": "https://github.com/xiaolai/the-craft-of-selfteaching"
+  }
+]
