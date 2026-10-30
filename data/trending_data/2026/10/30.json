@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "50,347",
+    "forks": "6,200",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 2,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "308,672",
+    "forks": "27,453",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 3,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "Rust",
+    "stars": "95,575",
+    "forks": "5,634",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 4,
+    "name": "JetBrains/thinkrail",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,081",
+    "forks": "328",
+    "link": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "rank": 5,
+    "name": "milind-soni/OpenMausBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,571",
+    "forks": "1,121",
+    "link": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "rank": 6,
+    "name": "nightly-labs/openbot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,939",
+    "forks": "362",
+    "link": "https://github.com/nightly-labs/openbot"
+  },
+  {
+    "rank": 7,
+    "name": "elayadesign/ai-design-skills",
+    "description": "",
+    "language": "",
+    "stars": "12,287",
+    "forks": "890",
+    "link": "https://github.com/elayadesign/ai-design-skills"
+  },
+  {
+    "rank": 8,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "104,908",
+    "forks": "9,250",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 9,
+    "name": "CopilotKit/OpenBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,218",
+    "forks": "1,049",
+    "link": "https://github.com/CopilotKit/OpenBot"
+  },
+  {
+    "rank": 10,
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "",
+    "language": "",
+    "stars": "9,215",
+    "forks": "1,287",
+    "link": "https://github.com/togg53192-cmd/jailbreaks"
+  },
+  {
+    "rank": 11,
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "description": "",
+    "language": "Shell",
+    "stars": "29,350",
+    "forks": "4,059",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+  }
+]
