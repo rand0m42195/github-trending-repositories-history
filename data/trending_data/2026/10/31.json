@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "106,383",
+    "forks": "9,365",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 2,
+    "name": "milind-soni/OpenMausBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,748",
+    "forks": "1,205",
+    "link": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "rank": 3,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "Rust",
+    "stars": "97,172",
+    "forks": "5,722",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 4,
+    "name": "CopilotKit/OpenBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "8,844",
+    "forks": "1,110",
+    "link": "https://github.com/CopilotKit/OpenBot"
+  },
+  {
+    "rank": 5,
+    "name": "Renhuai123/ziwei-doushu",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,316",
+    "forks": "2,249",
+    "link": "https://github.com/Renhuai123/ziwei-doushu"
+  },
+  {
+    "rank": 6,
+    "name": "expo/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "3,911",
+    "forks": "247",
+    "link": "https://github.com/expo/skills"
+  },
+  {
+    "rank": 7,
+    "name": "macro-inc/macro",
+    "description": "",
+    "language": "Rust",
+    "stars": "5,893",
+    "forks": "539",
+    "link": "https://github.com/macro-inc/macro"
+  },
+  {
+    "rank": 8,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "307,543",
+    "forks": "25,890",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 9,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "32,826",
+    "forks": "8,662",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 10,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "51,844",
+    "forks": "6,355",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 11,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "185,380",
+    "forks": "21,903",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 12,
+    "name": "JetBrains/thinkrail",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,616",
+    "forks": "358",
+    "link": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "rank": 13,
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "",
+    "language": "",
+    "stars": "11,193",
+    "forks": "1,625",
+    "link": "https://github.com/togg53192-cmd/jailbreaks"
+  },
+  {
+    "rank": 14,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "309,481",
+    "forks": "27,537",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 15,
+    "name": "lightpanda-io/browser",
+    "description": "",
+    "language": "Zig",
+    "stars": "38,469",
+    "forks": "1,876",
+    "link": "https://github.com/lightpanda-io/browser"
+  }
+]
