@@ -1,0 +1,128 @@
+[
+  {
+    "rank": 1,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "107,963",
+    "forks": "9,477",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "308,483",
+    "forks": "25,962",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "description": "",
+    "language": "Shell",
+    "stars": "31,233",
+    "forks": "4,280",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+  },
+  {
+    "rank": 4,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "35,737",
+    "forks": "8,799",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 5,
+    "name": "Renhuai123/ziwei-doushu",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,338",
+    "forks": "2,422",
+    "link": "https://github.com/Renhuai123/ziwei-doushu"
+  },
+  {
+    "rank": 6,
+    "name": "milind-soni/OpenMausBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,705",
+    "forks": "1,347",
+    "link": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "rank": 7,
+    "name": "pbakaus/impeccable",
+    "description": "",
+    "language": "Rust",
+    "stars": "98,368",
+    "forks": "5,804",
+    "link": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "rank": 8,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "310,104",
+    "forks": "27,592",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 9,
+    "name": "lightpanda-io/browser",
+    "description": "",
+    "language": "Zig",
+    "stars": "39,295",
+    "forks": "1,911",
+    "link": "https://github.com/lightpanda-io/browser"
+  },
+  {
+    "rank": 10,
+    "name": "HKUDS/DeepTutor",
+    "description": "",
+    "language": "Python",
+    "stars": "52,905",
+    "forks": "6,475",
+    "link": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "rank": 11,
+    "name": "Orkas-AI/Orkas",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "6,439",
+    "forks": "390",
+    "link": "https://github.com/Orkas-AI/Orkas"
+  },
+  {
+    "rank": 12,
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "42,215",
+    "forks": "6,515",
+    "link": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "rank": 13,
+    "name": "bregman-arie/devops-exercises",
+    "description": "",
+    "language": "Python",
+    "stars": "86,032",
+    "forks": "20,550",
+    "link": "https://github.com/bregman-arie/devops-exercises"
+  },
+  {
+    "rank": 14,
+    "name": "vorssaint/vorssaint-utils",
+    "description": "",
+    "language": "Swift",
+    "stars": "31,946",
+    "forks": "1,541",
+    "link": "https://github.com/vorssaint/vorssaint-utils"
+  }
+]
