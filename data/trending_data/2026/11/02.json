@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "109,467",
+    "forks": "9,574",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 2,
+    "name": "lightpanda-io/browser",
+    "description": "",
+    "language": "Zig",
+    "stars": "40,279",
+    "forks": "1,971",
+    "link": "https://github.com/lightpanda-io/browser"
+  },
+  {
+    "rank": 3,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "45,466",
+    "forks": "7,508",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 4,
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "38,303",
+    "forks": "8,927",
+    "link": "https://github.com/pingdotgg/t3code"
+  },
+  {
+    "rank": 5,
+    "name": "milind-soni/OpenMausBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,650",
+    "forks": "1,468",
+    "link": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "rank": 6,
+    "name": "public-apis/public-apis",
+    "description": "",
+    "language": "Python",
+    "stars": "494,740",
+    "forks": "55,214",
+    "link": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "rank": 7,
+    "name": "cjpais/Handy",
+    "description": "",
+    "language": "Rust",
+    "stars": "36,650",
+    "forks": "3,457",
+    "link": "https://github.com/cjpais/Handy"
+  },
+  {
+    "rank": 8,
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "description": "",
+    "language": "Shell",
+    "stars": "32,426",
+    "forks": "4,416",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+  },
+  {
+    "rank": 9,
+    "name": "kornia/kornia",
+    "description": "",
+    "language": "Python",
+    "stars": "11,840",
+    "forks": "1,469",
+    "link": "https://github.com/kornia/kornia"
+  },
+  {
+    "rank": 10,
+    "name": "beenuar/AiSOC",
+    "description": "",
+    "language": "Python",
+    "stars": "6,287",
+    "forks": "650",
+    "link": "https://github.com/beenuar/AiSOC"
+  },
+  {
+    "rank": 11,
+    "name": "Renhuai123/ziwei-doushu",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,276",
+    "forks": "2,583",
+    "link": "https://github.com/Renhuai123/ziwei-doushu"
+  },
+  {
+    "rank": 12,
+    "name": "anomalyco/hex",
+    "description": "",
+    "language": "Rust",
+    "stars": "3,405",
+    "forks": "196",
+    "link": "https://github.com/anomalyco/hex"
+  },
+  {
+    "rank": 13,
+    "name": "CopilotKit/OpenBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,588",
+    "forks": "1,191",
+    "link": "https://github.com/CopilotKit/OpenBot"
+  },
+  {
+    "rank": 14,
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "",
+    "language": "",
+    "stars": "13,040",
+    "forks": "1,955",
+    "link": "https://github.com/togg53192-cmd/jailbreaks"
+  },
+  {
+    "rank": 15,
+    "name": "patchy631/ai-engineering-hub",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "stars": "40,365",
+    "forks": "6,494",
+    "link": "https://github.com/patchy631/ai-engineering-hub"
+  },
+  {
+    "rank": 16,
+    "name": "FlashML-org/FreeToken",
+    "description": "",
+    "language": "Python",
+    "stars": "15,476",
+    "forks": "1,551",
+    "link": "https://github.com/FlashML-org/FreeToken"
+  },
+  {
+    "rank": 17,
+    "name": "hyprwm/Hyprland",
+    "description": "",
+    "language": "C++",
+    "stars": "39,423",
+    "forks": "2,132",
+    "link": "https://github.com/hyprwm/Hyprland"
+  }
+]
