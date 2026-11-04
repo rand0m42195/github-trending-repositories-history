@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "thedotmack/claude-mem",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "112,057",
+    "forks": "9,748",
+    "link": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "rank": 2,
+    "name": "vercel-labs/agent-desktop",
+    "description": "",
+    "language": "Rust",
+    "stars": "13,092",
+    "forks": "897",
+    "link": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+    "rank": 3,
+    "name": "max-sixty/worktrunk",
+    "description": "",
+    "language": "Rust",
+    "stars": "10,575",
+    "forks": "383",
+    "link": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "rank": 4,
+    "name": "JustVugg/colibri",
+    "description": "",
+    "language": "C",
+    "stars": "47,319",
+    "forks": "5,469",
+    "link": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "rank": 5,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "311,618",
+    "forks": "26,183",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 6,
+    "name": "p-e-w/heretic",
+    "description": "",
+    "language": "Python",
+    "stars": "38,887",
+    "forks": "4,391",
+    "link": "https://github.com/p-e-w/heretic"
+  },
+  {
+    "rank": 7,
+    "name": "spotify/portal-ai-plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,075",
+    "forks": "239",
+    "link": "https://github.com/spotify/portal-ai-plugins"
+  },
+  {
+    "rank": 8,
+    "name": "floci-io/floci",
+    "description": "",
+    "language": "Java",
+    "stars": "28,905",
+    "forks": "3,220",
+    "link": "https://github.com/floci-io/floci"
+  },
+  {
+    "rank": 9,
+    "name": "Usagi-org/ai-goofish-monitor",
+    "description": "",
+    "language": "Python",
+    "stars": "16,619",
+    "forks": "2,860",
+    "link": "https://github.com/Usagi-org/ai-goofish-monitor"
+  },
+  {
+    "rank": 10,
+    "name": "anomalyco/hex",
+    "description": "",
+    "language": "Rust",
+    "stars": "4,671",
+    "forks": "261",
+    "link": "https://github.com/anomalyco/hex"
+  },
+  {
+    "rank": 11,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "95,076",
+    "forks": "9,966",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "rank": 12,
+    "name": "shiyu-coder/Kronos",
+    "description": "",
+    "language": "Python",
+    "stars": "46,573",
+    "forks": "7,668",
+    "link": "https://github.com/shiyu-coder/Kronos"
+  },
+  {
+    "rank": 13,
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "description": "",
+    "language": "Shell",
+    "stars": "34,771",
+    "forks": "4,606",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+  }
+]
