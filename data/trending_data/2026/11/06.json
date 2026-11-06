@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "NVIDIA/auto-ontology",
+    "description": "",
+    "language": "Python",
+    "stars": "7,605",
+    "forks": "607",
+    "link": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+    "rank": 2,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "315,484",
+    "forks": "26,412",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 3,
+    "name": "garrytan/gstack",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "140,036",
+    "forks": "20,700",
+    "link": "https://github.com/garrytan/gstack"
+  },
+  {
+    "rank": 4,
+    "name": "Usagi-org/ai-goofish-monitor",
+    "description": "",
+    "language": "Python",
+    "stars": "17,759",
+    "forks": "2,965",
+    "link": "https://github.com/Usagi-org/ai-goofish-monitor"
+  },
+  {
+    "rank": 5,
+    "name": "D4Vinci/Scrapling",
+    "description": "",
+    "language": "Python",
+    "stars": "98,159",
+    "forks": "10,282",
+    "link": "https://github.com/D4Vinci/Scrapling"
+  },
+  {
+    "rank": 6,
+    "name": "vercel-labs/agent-desktop",
+    "description": "",
+    "language": "Rust",
+    "stars": "17,091",
+    "forks": "1,208",
+    "link": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+    "rank": 7,
+    "name": "max-sixty/worktrunk",
+    "description": "",
+    "language": "Rust",
+    "stars": "11,578",
+    "forks": "440",
+    "link": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "rank": 8,
+    "name": "lz4/lz4",
+    "description": "",
+    "language": "C",
+    "stars": "12,413",
+    "forks": "1,636",
+    "link": "https://github.com/lz4/lz4"
+  },
+  {
+    "rank": 9,
+    "name": "google/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "22,443",
+    "forks": "1,895",
+    "link": "https://github.com/google/skills"
+  },
+  {
+    "rank": 10,
+    "name": "vercel-labs/agent-browser",
+    "description": "",
+    "language": "Rust",
+    "stars": "45,992",
+    "forks": "3,151",
+    "link": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "rank": 11,
+    "name": "scenario-labs/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "3,148",
+    "forks": "275",
+    "link": "https://github.com/scenario-labs/skills"
+  },
+  {
+    "rank": 12,
+    "name": "ConardLi/garden-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "14,219",
+    "forks": "1,653",
+    "link": "https://github.com/ConardLi/garden-skills"
+  },
+  {
+    "rank": 13,
+    "name": "microsoft/VibeVoice",
+    "description": "",
+    "language": "Python",
+    "stars": "56,077",
+    "forks": "6,310",
+    "link": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+    "rank": 14,
+    "name": "floci-io/floci",
+    "description": "",
+    "language": "Java",
+    "stars": "30,500",
+    "forks": "3,334",
+    "link": "https://github.com/floci-io/floci"
+  },
+  {
+    "rank": 15,
+    "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+    "description": "",
+    "language": "C#",
+    "stars": "7,373",
+    "forks": "263",
+    "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+  }
+]
