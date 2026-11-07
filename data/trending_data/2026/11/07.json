@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "name": "zed-industries/zed",
+    "description": "",
+    "language": "Rust",
+    "stars": "93,713",
+    "forks": "11,506",
+    "link": "https://github.com/zed-industries/zed"
+  },
+  {
+    "rank": 2,
+    "name": "NVIDIA/auto-ontology",
+    "description": "",
+    "language": "Python",
+    "stars": "9,170",
+    "forks": "730",
+    "link": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+    "rank": 3,
+    "name": "rails/rails",
+    "description": "",
+    "language": "Ruby",
+    "stars": "59,040",
+    "forks": "23,833",
+    "link": "https://github.com/rails/rails"
+  },
+  {
+    "rank": 4,
+    "name": "mpv-player/mpv",
+    "description": "",
+    "language": "C",
+    "stars": "37,899",
+    "forks": "3,633",
+    "link": "https://github.com/mpv-player/mpv"
+  },
+  {
+    "rank": 5,
+    "name": "rust-lang/rust",
+    "description": "",
+    "language": "Rust",
+    "stars": "121,484",
+    "forks": "17,368",
+    "link": "https://github.com/rust-lang/rust"
+  },
+  {
+    "rank": 6,
+    "name": "react/react",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "252,277",
+    "forks": "51,814",
+    "link": "https://github.com/react/react"
+  },
+  {
+    "rank": 7,
+    "name": "angular/angular",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "101,387",
+    "forks": "28,912",
+    "link": "https://github.com/angular/angular"
+  },
+  {
+    "rank": 8,
+    "name": "symfony/symfony",
+    "description": "",
+    "language": "PHP",
+    "stars": "31,448",
+    "forks": "9,949",
+    "link": "https://github.com/symfony/symfony"
+  },
+  {
+    "rank": 9,
+    "name": "prometheus/prometheus",
+    "description": "",
+    "language": "Go",
+    "stars": "67,210",
+    "forks": "10,989",
+    "link": "https://github.com/prometheus/prometheus"
+  },
+  {
+    "rank": 10,
+    "name": "google/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "22,878",
+    "forks": "1,925",
+    "link": "https://github.com/google/skills"
+  },
+  {
+    "rank": 11,
+    "name": "microsoft/vscode",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "195,049",
+    "forks": "44,428",
+    "link": "https://github.com/microsoft/vscode"
+  },
+  {
+    "rank": 12,
+    "name": "nushell/nushell",
+    "description": "",
+    "language": "Rust",
+    "stars": "40,997",
+    "forks": "2,343",
+    "link": "https://github.com/nushell/nushell"
+  },
+  {
+    "rank": 13,
+    "name": "etcd-io/etcd",
+    "description": "",
+    "language": "Go",
+    "stars": "52,625",
+    "forks": "10,590",
+    "link": "https://github.com/etcd-io/etcd"
+  },
+  {
+    "rank": 14,
+    "name": "openssl/openssl",
+    "description": "",
+    "language": "C",
+    "stars": "31,306",
+    "forks": "11,580",
+    "link": "https://github.com/openssl/openssl"
+  },
+  {
+    "rank": 15,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "316,821",
+    "forks": "26,506",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 16,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "64,207",
+    "forks": "4,161",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 17,
+    "name": "astral-sh/ruff",
+    "description": "",
+    "language": "Rust",
+    "stars": "50,720",
+    "forks": "2,613",
+    "link": "https://github.com/astral-sh/ruff"
+  }
+]
