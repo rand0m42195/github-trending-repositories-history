@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "vercel-labs/agent-browser",
+    "description": "",
+    "language": "Rust",
+    "stars": "46,896",
+    "forks": "3,214",
+    "link": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "rank": 2,
+    "name": "cloudflare/security-audit-skill",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "65,836",
+    "forks": "4,277",
+    "link": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "rank": 3,
+    "name": "google/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "23,450",
+    "forks": "1,960",
+    "link": "https://github.com/google/skills"
+  },
+  {
+    "rank": 4,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "317,786",
+    "forks": "26,586",
+    "link": "https://github.com/mattpocock/skills"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "188,851",
+    "forks": "22,261",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 6,
+    "name": "meta/astryx",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "14,615",
+    "forks": "1,196",
+    "link": "https://github.com/meta/astryx"
+  },
+  {
+    "rank": 7,
+    "name": "prometheus/prometheus",
+    "description": "",
+    "language": "Go",
+    "stars": "67,458",
+    "forks": "11,006",
+    "link": "https://github.com/prometheus/prometheus"
+  },
+  {
+    "rank": 8,
+    "name": "sherlock-project/sherlock",
+    "description": "",
+    "language": "Python",
+    "stars": "100,659",
+    "forks": "11,890",
+    "link": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "rank": 9,
+    "name": "milind-soni/OpenMausBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,095",
+    "forks": "2,416",
+    "link": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "rank": 10,
+    "name": "astral-sh/ruff",
+    "description": "",
+    "language": "Rust",
+    "stars": "50,992",
+    "forks": "2,633",
+    "link": "https://github.com/astral-sh/ruff"
+  },
+  {
+    "rank": 11,
+    "name": "tailwindlabs/tailwindcss",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "98,507",
+    "forks": "7,111",
+    "link": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "rank": 12,
+    "name": "mbillow/localthings",
+    "description": "",
+    "language": "Python",
+    "stars": "1,075",
+    "forks": "113",
+    "link": "https://github.com/mbillow/localthings"
+  },
+  {
+    "rank": 13,
+    "name": "zed-industries/zed",
+    "description": "",
+    "language": "Rust",
+    "stars": "94,307",
+    "forks": "11,557",
+    "link": "https://github.com/zed-industries/zed"
+  },
+  {
+    "rank": 14,
+    "name": "ranxianglei/billion-context",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,657",
+    "forks": "372",
+    "link": "https://github.com/ranxianglei/billion-context"
+  },
+  {
+    "rank": 15,
+    "name": "dsx-ai-factory/nvke",
+    "description": "",
+    "language": "Go",
+    "stars": "577",
+    "forks": "90",
+    "link": "https://github.com/dsx-ai-factory/nvke"
+  }
+]
