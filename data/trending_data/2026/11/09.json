@@ -1,0 +1,83 @@
+[
+  {
+    "rank": 1,
+    "name": "sherlock-project/sherlock",
+    "description": "",
+    "language": "Python",
+    "stars": "104,080",
+    "forks": "12,160",
+    "link": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "rank": 2,
+    "name": "dsx-ai-factory/nvke",
+    "description": "",
+    "language": "Go",
+    "stars": "894",
+    "forks": "111",
+    "link": "https://github.com/dsx-ai-factory/nvke"
+  },
+  {
+    "rank": 3,
+    "name": "milind-soni/OpenMausBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,478",
+    "forks": "2,553",
+    "link": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "rank": 4,
+    "name": "anthropics/claude-quickstarts",
+    "description": "",
+    "language": "Python",
+    "stars": "19,500",
+    "forks": "3,282",
+    "link": "https://github.com/anthropics/claude-quickstarts"
+  },
+  {
+    "rank": 5,
+    "name": "vercel-labs/agent-browser",
+    "description": "",
+    "language": "Rust",
+    "stars": "47,740",
+    "forks": "3,266",
+    "link": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "rank": 6,
+    "name": "meta/astryx",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,138",
+    "forks": "1,355",
+    "link": "https://github.com/meta/astryx"
+  },
+  {
+    "rank": 7,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "189,764",
+    "forks": "22,355",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 8,
+    "name": "google-deepmind/mujoco",
+    "description": "",
+    "language": "C++",
+    "stars": "16,480",
+    "forks": "1,954",
+    "link": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+    "rank": 9,
+    "name": "ranxianglei/billion-context",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "5,257",
+    "forks": "410",
+    "link": "https://github.com/ranxianglei/billion-context"
+  }
+]
