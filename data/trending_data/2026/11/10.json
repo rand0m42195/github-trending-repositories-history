@@ -1,0 +1,101 @@
+[
+  {
+    "rank": 1,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "191,271",
+    "forks": "22,463",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 2,
+    "name": "meta/astryx",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,610",
+    "forks": "1,561",
+    "link": "https://github.com/meta/astryx"
+  },
+  {
+    "rank": 3,
+    "name": "sherlock-project/sherlock",
+    "description": "",
+    "language": "Python",
+    "stars": "107,519",
+    "forks": "12,439",
+    "link": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "rank": 4,
+    "name": "google-deepmind/mujoco",
+    "description": "",
+    "language": "C++",
+    "stars": "17,013",
+    "forks": "2,003",
+    "link": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+    "rank": 5,
+    "name": "anthropics/claude-quickstarts",
+    "description": "",
+    "language": "Python",
+    "stars": "20,120",
+    "forks": "3,322",
+    "link": "https://github.com/anthropics/claude-quickstarts"
+  },
+  {
+    "rank": 6,
+    "name": "garrytan/gbrain",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "32,262",
+    "forks": "4,775",
+    "link": "https://github.com/garrytan/gbrain"
+  },
+  {
+    "rank": 7,
+    "name": "vercel-labs/agent-browser",
+    "description": "",
+    "language": "Rust",
+    "stars": "48,633",
+    "forks": "3,311",
+    "link": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "rank": 8,
+    "name": "ruvnet/RuView",
+    "description": "",
+    "language": "Rust",
+    "stars": "103,594",
+    "forks": "13,419",
+    "link": "https://github.com/ruvnet/RuView"
+  },
+  {
+    "rank": 9,
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "",
+    "language": "Python",
+    "stars": "69,108",
+    "forks": "56,445",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "rank": 10,
+    "name": "homeassistant-ai/ha-mcp",
+    "description": "",
+    "language": "Python",
+    "stars": "6,112",
+    "forks": "298",
+    "link": "https://github.com/homeassistant-ai/ha-mcp"
+  },
+  {
+    "rank": 11,
+    "name": "milind-soni/OpenMausBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "19,957",
+    "forks": "2,724",
+    "link": "https://github.com/milind-soni/OpenMausBot"
+  }
+]
