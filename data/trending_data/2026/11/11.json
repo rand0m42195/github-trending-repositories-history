@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "meta/astryx",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "23,177",
+    "forks": "1,835",
+    "link": "https://github.com/meta/astryx"
+  },
+  {
+    "rank": 2,
+    "name": "anthropics/skills",
+    "description": "",
+    "language": "Python",
+    "stars": "192,441",
+    "forks": "22,656",
+    "link": "https://github.com/anthropics/skills"
+  },
+  {
+    "rank": 3,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "115,254",
+    "forks": "12,102",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 4,
+    "name": "anthropics/claude-quickstarts",
+    "description": "",
+    "language": "Python",
+    "stars": "20,546",
+    "forks": "3,471",
+    "link": "https://github.com/anthropics/claude-quickstarts"
+  },
+  {
+    "rank": 5,
+    "name": "google-deepmind/mujoco",
+    "description": "",
+    "language": "C++",
+    "stars": "17,422",
+    "forks": "2,148",
+    "link": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+    "rank": 6,
+    "name": "we-promise/sure",
+    "description": "",
+    "language": "Ruby",
+    "stars": "12,084",
+    "forks": "897",
+    "link": "https://github.com/we-promise/sure"
+  },
+  {
+    "rank": 7,
+    "name": "homeassistant-ai/ha-mcp",
+    "description": "",
+    "language": "Python",
+    "stars": "6,737",
+    "forks": "433",
+    "link": "https://github.com/homeassistant-ai/ha-mcp"
+  },
+  {
+    "rank": 8,
+    "name": "vercel-labs/agent-browser",
+    "description": "",
+    "language": "Rust",
+    "stars": "49,316",
+    "forks": "3,452",
+    "link": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "rank": 9,
+    "name": "sherlock-project/sherlock",
+    "description": "",
+    "language": "Python",
+    "stars": "109,152",
+    "forks": "12,676",
+    "link": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "rank": 10,
+    "name": "tokio-rs/topcoat",
+    "description": "",
+    "language": "Rust",
+    "stars": "6,883",
+    "forks": "304",
+    "link": "https://github.com/tokio-rs/topcoat"
+  },
+  {
+    "rank": 11,
+    "name": "ranxianglei/billion-context",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,403",
+    "forks": "534",
+    "link": "https://github.com/ranxianglei/billion-context"
+  },
+  {
+    "rank": 12,
+    "name": "mattpocock/skills",
+    "description": "",
+    "language": "Shell",
+    "stars": "321,049",
+    "forks": "26,918",
+    "link": "https://github.com/mattpocock/skills"
+  }
+]
