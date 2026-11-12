@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "name": "meta/astryx",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "25,315",
+    "forks": "1,973",
+    "link": "https://github.com/meta/astryx"
+  },
+  {
+    "rank": 2,
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "",
+    "language": "Python",
+    "stars": "70,503",
+    "forks": "56,937",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "rank": 3,
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "1,912",
+    "forks": "148",
+    "link": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "rank": 4,
+    "name": "shadcn/improve",
+    "description": "",
+    "language": "",
+    "stars": "11,052",
+    "forks": "449",
+    "link": "https://github.com/shadcn/improve"
+  },
+  {
+    "rank": 5,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "116,065",
+    "forks": "12,171",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 6,
+    "name": "vercel-labs/agent-browser",
+    "description": "",
+    "language": "Rust",
+    "stars": "49,983",
+    "forks": "3,492",
+    "link": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+    "rank": 7,
+    "name": "we-promise/sure",
+    "description": "",
+    "language": "Ruby",
+    "stars": "13,100",
+    "forks": "963",
+    "link": "https://github.com/we-promise/sure"
+  },
+  {
+    "rank": 8,
+    "name": "homeassistant-ai/ha-mcp",
+    "description": "",
+    "language": "Python",
+    "stars": "7,465",
+    "forks": "455",
+    "link": "https://github.com/homeassistant-ai/ha-mcp"
+  },
+  {
+    "rank": 9,
+    "name": "openai/codex-security",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,856",
+    "forks": "945",
+    "link": "https://github.com/openai/codex-security"
+  },
+  {
+    "rank": 10,
+    "name": "TheAlgorithms/Java",
+    "description": "",
+    "language": "Java",
+    "stars": "67,096",
+    "forks": "21,515",
+    "link": "https://github.com/TheAlgorithms/Java"
+  }
+]
