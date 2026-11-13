@@ -1,0 +1,119 @@
+[
+  {
+    "rank": 1,
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "3,311",
+    "forks": "211",
+    "link": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "rank": 2,
+    "name": "openai/codex-security",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "12,553",
+    "forks": "981",
+    "link": "https://github.com/openai/codex-security"
+  },
+  {
+    "rank": 3,
+    "name": "nvm-sh/nvm",
+    "description": "",
+    "language": "Shell",
+    "stars": "96,034",
+    "forks": "10,760",
+    "link": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "rank": 4,
+    "name": "pookjw/HermesEnabler",
+    "description": "",
+    "language": "Objective-C",
+    "stars": "1,594",
+    "forks": "143",
+    "link": "https://github.com/pookjw/HermesEnabler"
+  },
+  {
+    "rank": 5,
+    "name": "we-promise/sure",
+    "description": "",
+    "language": "Ruby",
+    "stars": "14,044",
+    "forks": "1,055",
+    "link": "https://github.com/we-promise/sure"
+  },
+  {
+    "rank": 6,
+    "name": "QwenLM/qwen-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "29,888",
+    "forks": "3,403",
+    "link": "https://github.com/QwenLM/qwen-code"
+  },
+  {
+    "rank": 7,
+    "name": "ashhart/TensorFold",
+    "description": "",
+    "language": "Zig",
+    "stars": "1,980",
+    "forks": "394",
+    "link": "https://github.com/ashhart/TensorFold"
+  },
+  {
+    "rank": 8,
+    "name": "nodejs/node",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "123,619",
+    "forks": "38,058",
+    "link": "https://github.com/nodejs/node"
+  },
+  {
+    "rank": 9,
+    "name": "addyosmani/agent-skills",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "116,768",
+    "forks": "12,213",
+    "link": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+    "rank": 10,
+    "name": "meta/astryx",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "26,724",
+    "forks": "2,072",
+    "link": "https://github.com/meta/astryx"
+  },
+  {
+    "rank": 11,
+    "name": "CopilotKit/OpenBot",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,711",
+    "forks": "1,449",
+    "link": "https://github.com/CopilotKit/OpenBot"
+  },
+  {
+    "rank": 12,
+    "name": "Alishahryar1/free-claude-code",
+    "description": "",
+    "language": "Python",
+    "stars": "69,425",
+    "forks": "10,773",
+    "link": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "rank": 13,
+    "name": "ggml-org/llama.cpp",
+    "description": "",
+    "language": "C++",
+    "stars": "134,626",
+    "forks": "25,514",
+    "link": "https://github.com/ggml-org/llama.cpp"
+  }
+]
