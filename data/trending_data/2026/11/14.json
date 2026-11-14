@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "50,736",
+    "forks": "3,774",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 2,
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "4,977",
+    "forks": "274",
+    "link": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "rank": 3,
+    "name": "openai/codex-security",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,193",
+    "forks": "1,027",
+    "link": "https://github.com/openai/codex-security"
+  },
+  {
+    "rank": 4,
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "",
+    "language": "Python",
+    "stars": "71,740",
+    "forks": "57,333",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+    "rank": 5,
+    "name": "we-promise/sure",
+    "description": "",
+    "language": "Ruby",
+    "stars": "14,816",
+    "forks": "1,128",
+    "link": "https://github.com/we-promise/sure"
+  },
+  {
+    "rank": 6,
+    "name": "backnotprop/plannotator",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,518",
+    "forks": "790",
+    "link": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "rank": 7,
+    "name": "louislam/uptime-kuma",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "93,905",
+    "forks": "8,724",
+    "link": "https://github.com/louislam/uptime-kuma"
+  },
+  {
+    "rank": 8,
+    "name": "block/buzz",
+    "description": "",
+    "language": "Rust",
+    "stars": "37,324",
+    "forks": "4,942",
+    "link": "https://github.com/block/buzz"
+  },
+  {
+    "rank": 9,
+    "name": "tradermonty/claude-trading-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "4,236",
+    "forks": "873",
+    "link": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  {
+    "rank": 10,
+    "name": "tailscale/tailcat",
+    "description": "",
+    "language": "Go",
+    "stars": "9,510",
+    "forks": "433",
+    "link": "https://github.com/tailscale/tailcat"
+  },
+  {
+    "rank": 11,
+    "name": "Likely7/Veyra-NRVideo",
+    "description": "",
+    "language": "C++",
+    "stars": "1,664",
+    "forks": "73",
+    "link": "https://github.com/Likely7/Veyra-NRVideo"
+  },
+  {
+    "rank": 12,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "55,543",
+    "forks": "4,608",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  }
+]
