@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "backnotprop/plannotator",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,217",
+    "forks": "938",
+    "link": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "rank": 2,
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "6,161",
+    "forks": "425",
+    "link": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "rank": 3,
+    "name": "tradermonty/claude-trading-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "4,893",
+    "forks": "1,007",
+    "link": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  {
+    "rank": 4,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "56,361",
+    "forks": "4,772",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 5,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "51,493",
+    "forks": "3,926",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 6,
+    "name": "QwenLM/qwen-code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "30,382",
+    "forks": "3,512",
+    "link": "https://github.com/QwenLM/qwen-code"
+  },
+  {
+    "rank": 7,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "24,811",
+    "forks": "2,253",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 8,
+    "name": "ag-ui-protocol/ag-ui",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,406",
+    "forks": "1,682",
+    "link": "https://github.com/ag-ui-protocol/ag-ui"
+  },
+  {
+    "rank": 9,
+    "name": "ashhart/TensorFold",
+    "description": "",
+    "language": "Zig",
+    "stars": "2,176",
+    "forks": "513",
+    "link": "https://github.com/ashhart/TensorFold"
+  },
+  {
+    "rank": 10,
+    "name": "JuliusBrussee/caveman",
+    "description": "",
+    "language": "Go",
+    "stars": "120,115",
+    "forks": "7,002",
+    "link": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "rank": 11,
+    "name": "louislam/uptime-kuma",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "94,280",
+    "forks": "8,827",
+    "link": "https://github.com/louislam/uptime-kuma"
+  },
+  {
+    "rank": 12,
+    "name": "we-promise/sure",
+    "description": "",
+    "language": "Ruby",
+    "stars": "15,367",
+    "forks": "1,280",
+    "link": "https://github.com/we-promise/sure"
+  },
+  {
+    "rank": 13,
+    "name": "Tencent/LoopForge",
+    "description": "",
+    "language": "Go",
+    "stars": "955",
+    "forks": "224",
+    "link": "https://github.com/Tencent/LoopForge"
+  },
+  {
+    "rank": 14,
+    "name": "Likely7/Veyra-NRVideo",
+    "description": "",
+    "language": "C++",
+    "stars": "2,329",
+    "forks": "193",
+    "link": "https://github.com/Likely7/Veyra-NRVideo"
+  },
+  {
+    "rank": 15,
+    "name": "martin-olivier/airgorah",
+    "description": "",
+    "language": "Rust",
+    "stars": "5,932",
+    "forks": "1,035",
+    "link": "https://github.com/martin-olivier/airgorah"
+  }
+]
