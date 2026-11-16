@@ -1,0 +1,110 @@
+[
+  {
+    "rank": 1,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "26,391",
+    "forks": "2,377",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 2,
+    "name": "ag-ui-protocol/ag-ui",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "18,013",
+    "forks": "1,825",
+    "link": "https://github.com/ag-ui-protocol/ag-ui"
+  },
+  {
+    "rank": 3,
+    "name": "google-labs-code/stitch-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "9,381",
+    "forks": "1,131",
+    "link": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "rank": 4,
+    "name": "backnotprop/plannotator",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,950",
+    "forks": "1,088",
+    "link": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "rank": 5,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "57,081",
+    "forks": "4,815",
+    "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "rank": 6,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "52,237",
+    "forks": "4,126",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 7,
+    "name": "Tencent/LoopForge",
+    "description": "",
+    "language": "Go",
+    "stars": "1,677",
+    "forks": "286",
+    "link": "https://github.com/Tencent/LoopForge"
+  },
+  {
+    "rank": 8,
+    "name": "ggml-org/ggml",
+    "description": "",
+    "language": "C++",
+    "stars": "15,949",
+    "forks": "2,021",
+    "link": "https://github.com/ggml-org/ggml"
+  },
+  {
+    "rank": 9,
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "",
+    "language": "Python",
+    "stars": "6,566",
+    "forks": "982",
+    "link": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "rank": 10,
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "7,312",
+    "forks": "606",
+    "link": "https://github.com/GoogleChrome/modern-web-guidance-src"
+  },
+  {
+    "rank": 11,
+    "name": "tradermonty/claude-trading-skills",
+    "description": "",
+    "language": "Python",
+    "stars": "5,654",
+    "forks": "1,177",
+    "link": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  {
+    "rank": 12,
+    "name": "NVIDIA/SkillEvaluator",
+    "description": "",
+    "language": "Python",
+    "stars": "1,796",
+    "forks": "236",
+    "link": "https://github.com/NVIDIA/SkillEvaluator"
+  }
+]
