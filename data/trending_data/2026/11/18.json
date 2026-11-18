@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "",
+    "language": "Python",
+    "stars": "9,656",
+    "forks": "1,386",
+    "link": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "rank": 2,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "69,266",
+    "forks": "6,158",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 3,
+    "name": "alibaba/open-code-review",
+    "description": "",
+    "language": "Go",
+    "stars": "53,874",
+    "forks": "4,438",
+    "link": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "rank": 4,
+    "name": "Tencent/LoopForge",
+    "description": "",
+    "language": "Go",
+    "stars": "3,414",
+    "forks": "462",
+    "link": "https://github.com/Tencent/LoopForge"
+  },
+  {
+    "rank": 5,
+    "name": "dream-num/univer",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "29,109",
+    "forks": "2,626",
+    "link": "https://github.com/dream-num/univer"
+  },
+  {
+    "rank": 6,
+    "name": "getarcaneapp/arcane",
+    "description": "",
+    "language": "Go",
+    "stars": "9,416",
+    "forks": "517",
+    "link": "https://github.com/getarcaneapp/arcane"
+  },
+  {
+    "rank": 7,
+    "name": "google-labs-code/stitch-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "10,169",
+    "forks": "1,335",
+    "link": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "rank": 8,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "16,958",
+    "forks": "1,836",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 9,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "319,474",
+    "forks": "28,484",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 10,
+    "name": "ag-ui-protocol/ag-ui",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "20,101",
+    "forks": "2,071",
+    "link": "https://github.com/ag-ui-protocol/ag-ui"
+  },
+  {
+    "rank": 11,
+    "name": "backnotprop/plannotator",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "13,138",
+    "forks": "1,316",
+    "link": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "rank": 12,
+    "name": "sveltejs/svelte",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "89,647",
+    "forks": "6,241",
+    "link": "https://github.com/sveltejs/svelte"
+  },
+  {
+    "rank": 13,
+    "name": "affaan-m/ECC",
+    "description": "",
+    "language": "JavaScript",
+    "stars": "305,693",
+    "forks": "44,990",
+    "link": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "rank": 14,
+    "name": "jingyaogong/minimind",
+    "description": "",
+    "language": "Python",
+    "stars": "66,148",
+    "forks": "8,682",
+    "link": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "rank": 15,
+    "name": "google-research/paper-orchestra",
+    "description": "",
+    "language": "Python",
+    "stars": "3,256",
+    "forks": "431",
+    "link": "https://github.com/google-research/paper-orchestra"
+  }
+]
