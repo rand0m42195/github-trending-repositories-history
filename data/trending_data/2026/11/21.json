@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "",
+    "language": "Python",
+    "stars": "14,523",
+    "forks": "1,711",
+    "link": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "rank": 2,
+    "name": "obra/superpowers",
+    "description": "",
+    "language": "Shell",
+    "stars": "322,940",
+    "forks": "28,675",
+    "link": "https://github.com/obra/superpowers"
+  },
+  {
+    "rank": 3,
+    "name": "HKUDS/CLI-Anything",
+    "description": "",
+    "language": "Python",
+    "stars": "61,485",
+    "forks": "5,578",
+    "link": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "rank": 4,
+    "name": "jingyaogong/minimind",
+    "description": "",
+    "language": "Python",
+    "stars": "67,759",
+    "forks": "8,859",
+    "link": "https://github.com/jingyaogong/minimind"
+  },
+  {
+    "rank": 5,
+    "name": "cursor/plugins",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "17,887",
+    "forks": "1,960",
+    "link": "https://github.com/cursor/plugins"
+  },
+  {
+    "rank": 6,
+    "name": "firecrawl/firecrawl",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "205,414",
+    "forks": "10,742",
+    "link": "https://github.com/firecrawl/firecrawl"
+  },
+  {
+    "rank": 7,
+    "name": "nginx/nginx",
+    "description": "",
+    "language": "C",
+    "stars": "32,600",
+    "forks": "8,367",
+    "link": "https://github.com/nginx/nginx"
+  },
+  {
+    "rank": 8,
+    "name": "openvinotoolkit/openvino",
+    "description": "",
+    "language": "C++",
+    "stars": "11,815",
+    "forks": "3,639",
+    "link": "https://github.com/openvinotoolkit/openvino"
+  },
+  {
+    "rank": 9,
+    "name": "cathrynlavery/diagram-design",
+    "description": "",
+    "language": "HTML",
+    "stars": "69,365",
+    "forks": "4,653",
+    "link": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "rank": 10,
+    "name": "mvanhorn/last30days-skill",
+    "description": "",
+    "language": "Python",
+    "stars": "71,524",
+    "forks": "6,342",
+    "link": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "rank": 11,
+    "name": "google-labs-code/stitch-skills",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "11,094",
+    "forks": "1,413",
+    "link": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "rank": 12,
+    "name": "mjmirza/app-store-compliance",
+    "description": "",
+    "language": "Shell",
+    "stars": "2,835",
+    "forks": "179",
+    "link": "https://github.com/mjmirza/app-store-compliance"
+  },
+  {
+    "rank": 13,
+    "name": "Tracer-Cloud/opensre",
+    "description": "",
+    "language": "Python",
+    "stars": "13,680",
+    "forks": "1,927",
+    "link": "https://github.com/Tracer-Cloud/opensre"
+  },
+  {
+    "rank": 14,
+    "name": "toeverything/AFFiNE",
+    "description": "",
+    "language": "TypeScript",
+    "stars": "75,882",
+    "forks": "5,582",
+    "link": "https://github.com/toeverything/AFFiNE"
+  },
+  {
+    "rank": 15,
+    "name": "XiaoYouChR/Ghost-Downloader-3",
+    "description": "",
+    "language": "Python",
+    "stars": "13,845",
+    "forks": "843",
+    "link": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+  },
+  {
+    "rank": 16,
+    "name": "zhouxiaoka/autoclip",
+    "description": "",
+    "language": "Python",
+    "stars": "12,290",
+    "forks": "2,023",
+    "link": "https://github.com/zhouxiaoka/autoclip"
+  }
+]
